@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../master/assets/NGS-spider-logo.pn" width="350" title="I'm Nextgenstats-Spider, nice to meet you!">
+  <img src="../master/assets/NGS-spider-logo.png" width="350" title="I'm Nextgenstats-Spider, nice to meet you!">
 </p>
 
 # nextgenstats-spider
