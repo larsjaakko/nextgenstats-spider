@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="../master/assets/NGS-spider-logo.png" width="350" title="I'm Nextgenstats-Spider, nice to meet you!">
 </p>
 
