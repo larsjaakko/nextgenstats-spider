@@ -132,7 +132,8 @@ class NextgenstatsSpiderPipeline(object):
 
         self.df = self.clean_data(spider)
 
-        self.df.to_csv('data/ngs_{}_{}_{}.csv'.format(
+        self.df.to_csv('data/{}/ngs_{}_{}_{}.csv'.format(
+            spider.type,
             spider.type,
             spider.year,
             spider.weeks,

@@ -9,19 +9,23 @@ A Scrapy spider using Selenium to scrape NFL's Next Gen Stats website, inspired 
 
 ## Installation
 Nextgenstats-spider is built using Python 3.7 and requires the following Python libraries:
-* scrapy
-* scrapy-selenium
-* pandas
+* [scrapy](https://github.com/scrapy/scrapy)
+* [scrapy-selenium](https://github.com/clemfromspace/scrapy-selenium)
+* [pandas](https://github.com/pandas-dev/pandas)
 
 To install them to your system, follow instructions provided by their maintainers.
 
-To use Selenium with scrapy, you also need to install a [supported browser](https://www.seleniumhq.org/about/platforms.jsp) as well as the corresponding driver. Nextgenstats-spider is currently written to run with Firefox using geckodriver, although you can modify it to run with your browser and driver of choice. See instructions on installing geckodriver on Mac OS X [here](https://www.kenst.com/2016/12/installing-marionette-firefoxdriver-on-mac-osx/) or Windows [here](https://www.softwaretestinghelp.com/geckodriver-selenium-tutorial/).
+To use Selenium with Scrapy, you also need to install a [supported browser](https://www.seleniumhq.org/about/platforms.jsp) as well as the corresponding driver. Nextgenstats-spider is currently written to run with Firefox using geckodriver, although you can modify it to run with your browser and driver of choice. See instructions on installing geckodriver on Mac OS X [here](https://www.kenst.com/2016/12/installing-marionette-firefoxdriver-on-mac-osx/) or Windows [here](https://www.softwaretestinghelp.com/geckodriver-selenium-tutorial/).
 
 ## Usage Notes
 To run nextgenstats-spider, open a terminal and navigate to the nextgenstat-spider folder.
 
-To get all weeks of passing data in the 2018 regular season:
-```scrapy crawl ngs_spider -a type=passing -a year=2018```
+To get all weeks of passing data in week 8 of the 2018 regular season:
+<br>
+```scrapy crawl ngs_spider -a type=passing -a year=2018 -a week=8```
+
+### Parameters
+Nextgenstats-spider supports a few parameters, to allow for scraping of specific tables. Note that all parameters must be passed with the `-a` option preceding, lest an error be raised.
 
 ### Type
 The `type` parameter is mandatory, and can take the values `passing`, `rushing` or `receiving`.
@@ -31,12 +35,12 @@ The `year` parameter is mandatory, and can currently take values between `2016` 
 
 ### Week
 The 'week' parameter is optional and can take the following values:
-* `reg` for all weekly data from the regular season. This is the default value, and will be used if the `week` paramter is not provided.
+* `reg` for all weekly data from the regular season. This is the default value, and will be used if the `week` parameter is not provided.
 * `post` for all weekly data from the postseason.
-* `overall` for the season totals (i.e. not broken down by week)
+* `all` for the overall season totals (i.e. not broken down by week)
 * A single week number, like `5` for data pertaining to a specific week.
-* Multiple week numbers separated by comma, like `1, 5, 10`, to fetch data for a set of specific weeks.
-* A range of weeks expressed by the first and last weeks, separated by a colon, like `5:10`.
+* Multiple week numbers separated by comma, like `1, 5, 10`, to fetch data for a set of weeks.
+* A range of weeks expressed by the first and last weeks, separated by a colon, e.g. `5:10`.
 
 ## Data
 Once executed, Nextgenstats-spider will fetch your data and store it in an aptly named .csv file in the `data` folder.

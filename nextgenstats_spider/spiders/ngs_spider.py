@@ -40,10 +40,7 @@ class NGSSpider(scrapy.Spider):
 
     def parse(self, response):
 
-        # with open('dump.html', 'w') as html_file:
-        #     html_file.write(response.text)
-
-        # First, we get the column headers and set up a DataFrame.
+        # First, we get the column headers
         # For some reason the entire table seems to be repeated,
         # so we'll only grab the first instance.
         HEAD_CAT_SELECTOR = '(.//thead)[1]//div[@class="cell"]//text()'
@@ -78,7 +75,7 @@ class NGSSpider(scrapy.Spider):
     def parse_weeks(self):
 
         if self.week == 'all':
-            return ['all'], 'all'
+            return ['all'], 'overall'
         elif self.week == 'post':
             return list(range(18,23)), 'post'
         elif self.week == 'reg' or self.week is None:
@@ -88,6 +85,8 @@ class NGSSpider(scrapy.Spider):
         elif ':' in self.week:
             interval = self.week.split(':')
             interval = list(map(int, interval))
+            if interval[0] > interval[1]:
+                raise Exception('For a week range, make sure the first week happens before the last...')
             interval[1] += 1
             return list(range(*interval)), self.week.replace(':', '_to_')
         elif ',' in self.week:
