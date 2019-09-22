@@ -8,10 +8,12 @@ A Scrapy spider using Selenium to scrape NFL's Next Gen Stats website, inspired 
 (Please note! Some columns in Deryck97's data are not included here and some numbers don't have the same number of decimals — I suspect this is because not all the data from the JSON is used in the Next Gen Stats frontend.)
 
 ## Installation
-Nextgenstats-spider is built using Python 3.7 and relies on the following Python libraries:
+Nextgenstats-spider is built using Python 3.7 and requires the following Python libraries:
 * scrapy
 * scrapy-selenium
 * pandas
+
+To install them to your system, follow instructions provided by their maintainers.
 
 To use Selenium with scrapy, you also need to install a [supported browser](https://www.seleniumhq.org/about/platforms.jsp) as well as the corresponding driver. Nextgenstats-spider is currently written to run with Firefox using geckodriver, although you can modify it to run with your browser and driver of choice. See instructions on installing geckodriver on Mac OS X [here](https://www.kenst.com/2016/12/installing-marionette-firefoxdriver-on-mac-osx/) or Windows [here](https://www.softwaretestinghelp.com/geckodriver-selenium-tutorial/).
 
