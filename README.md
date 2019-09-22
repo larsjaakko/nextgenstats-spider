@@ -17,7 +17,7 @@ To use Selenium with scrapy, you also need to install a [supported browser](http
 To run nextgenstats-spider, open a terminal and navigate to the nextgenstat-spider folder.
 
 To get all weeks of passing data in the 2018 regular season:
-`scrapy crawl ngs_spider -a type=passing -a year=2018`
+```scrapy crawl ngs_spider -a type=passing -a year=2018```
 
 ### Type
 The `type` parameter is mandatory, and can take the values `passing`, `rushing` or `receiving`.
