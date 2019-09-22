@@ -66,9 +66,9 @@ ROBOTSTXT_OBEY = False
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'nextgenstats_scrapy.pipelines.NextgenstatsScrapyPipeline': 300,
-#}
+ITEM_PIPELINES = {
+    'nextgenstats_spider.pipelines.NextgenstatsSpiderPipeline': 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
@@ -94,6 +94,8 @@ ROBOTSTXT_OBEY = False
 DOWNLOADER_MIDDLEWARES = {
     'scrapy_selenium.SeleniumMiddleware': 800,
 }
+
+#LOG_LEVEL = 'INFO'
 
 SELENIUM_DRIVER_NAME = 'firefox'
 SELENIUM_DRIVER_EXECUTABLE_PATH = which('geckodriver')

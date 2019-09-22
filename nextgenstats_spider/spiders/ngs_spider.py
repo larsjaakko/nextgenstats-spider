@@ -1,28 +1,43 @@
 import scrapy
-from scrapy_splash import SplashRequest
 from scrapy_selenium import SeleniumRequest
 
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
-import pandas as pd
+import re
 
 class NGSSpider(scrapy.Spider):
     name = "ngs_spider"
+
+    def __init__(self, week='all', year='', type='', **kwargs):
+        super().__init__(**kwargs)
+        self.week = week
+        self.year = year
+        self.type = type
+
 
     def start_requests(self):
 
         #TODO add logic to handle any table, year and set of week numbers
 
-        urls = ['https://nextgenstats.nfl.com/stats/{}/{}/{}'.format(self.type, self.year, self.week)]
+        base = 'https://nextgenstats.nfl.com/stats/{}/{}/{}'
 
-        for url in urls:
+        self.week_list, self.weeks = self.parse_weeks()
+
+        urls = {self.week_list[i]: base.format(self.type, self.year, self.week_list[i]) for i, j in enumerate(self.week_list)}
+
+        print('URLS: ', urls)
+
+        for week, url in urls.items():
             yield SeleniumRequest(
-            url=url,
-            callback=self.parse,
-            wait_time=10,
-            wait_until=EC.presence_of_element_located((By.CLASS_NAME, "el-table__row"))
+                url=url,
+                callback=self.parse,
+                wait_time=10,
+                wait_until=EC.presence_of_element_located((By.CLASS_NAME, "el-table__row")),
+                meta={'week': week}
             )
+
+
 
 
     def parse(self, response):
@@ -39,7 +54,13 @@ class NGSSpider(scrapy.Spider):
         head_cat = response.xpath(HEAD_CAT_SELECTOR).getall()
         head_num = response.xpath(HEAD_NUM_SELECTOR).getall()
 
-        output = pd.DataFrame(columns=head_cat+head_num)
+        columns = head_cat + head_num
+
+        yield{
+            'type' : 'columns',
+            'cells' :  columns,
+            'week' : response.meta['week']
+        }
 
         # Next we'll grab the rows of data
 
@@ -50,14 +71,28 @@ class NGSSpider(scrapy.Spider):
             CELL_SELECTOR = './/div[@class="cell"]//text()'
             cells = row.xpath(CELL_SELECTOR).getall()
 
-            print(cells)
+            yield{
+                'type' : 'rows',
+                'cells' :  cells,
+                'week' : response.meta['week'],
+            }
 
-            output.loc[len(output)] = cells
+    def parse_weeks(self):
 
-        #print("Column headers:", columns)
-
-
-    def clean(self, output):
-            filename = 'ngs_{}_{}_week_{}'.format(self.type, self.year, self.week)
-
-            output.to_csv('data/{}.csv'.format(filename))
+        if self.week == 'all' or self.week is None:
+            return ['all'], 'all'
+        elif self.week == 'post':
+            return list(range(18,23)), 'post'
+        elif self.week == 'reg':
+            return list(range(1,18)), 'reg'
+        elif self.week.isdigit() and (int(self.week) <= 1 and int(self.week) <= 17):
+            return [self.week], self.week
+        elif ':' in self.week:
+            interval = self.week.split(':')
+            interval = list(map(int, interval))
+            interval[1] += 1
+            return list(range(*interval)), self.week.replace(':', '_to_')
+        elif ',' in self.week:
+            return self.week.split(','), self.week.replace(',', '_')
+        else:
+            raise Exception('Week parameter was incorrectly given.')
