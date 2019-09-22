@@ -39,8 +39,8 @@ The 'week' parameter is optional and can take the following values:
 * `post` for all weekly data from the postseason.
 * `all` for the overall season totals (i.e. not broken down by week)
 * A single week number, like `5` for data pertaining to a specific week.
-* Multiple week numbers separated by comma, like `1, 5, 10`, to fetch data for a set of weeks.
-* A range of weeks expressed by the first and last weeks, separated by a colon, e.g. `5:10`.
+* Multiple week numbers separated by comma, like `1,5,10`, to fetch data for a set of weeks. Do not include any spaces.
+* A range of weeks expressed by the first and last weeks, separated by a colon, e.g. `5:10`. Do not include any spaces.
 
 ## Data
 Once executed, Nextgenstats-spider will fetch your data and store it in an aptly named .csv file in the `data` folder.
