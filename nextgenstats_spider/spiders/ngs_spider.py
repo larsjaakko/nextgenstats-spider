@@ -4,12 +4,10 @@ from scrapy_selenium import SeleniumRequest
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 
-import re
-
 class NGSSpider(scrapy.Spider):
     name = "ngs_spider"
 
-    def __init__(self, week='all', year='', type='', **kwargs):
+    def __init__(self, week='reg', year='', type='', **kwargs):
         super().__init__(**kwargs)
         self.week = week
         self.year = year
@@ -79,13 +77,13 @@ class NGSSpider(scrapy.Spider):
 
     def parse_weeks(self):
 
-        if self.week == 'all' or self.week is None:
+        if self.week == 'all':
             return ['all'], 'all'
         elif self.week == 'post':
             return list(range(18,23)), 'post'
-        elif self.week == 'reg':
+        elif self.week == 'reg' or self.week is None:
             return list(range(1,18)), 'reg'
-        elif self.week.isdigit() and (int(self.week) <= 1 and int(self.week) <= 17):
+        elif self.week.isdigit() and (int(self.week) >= 1 and int(self.week) <= 17):
             return [self.week], self.week
         elif ':' in self.week:
             interval = self.week.split(':')
