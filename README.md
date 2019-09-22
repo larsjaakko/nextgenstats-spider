@@ -1,4 +1,4 @@
-![Alt text](assets//NGS-spider-logo)
+![Alt text](assets/NGS-spider-logo)
 
 # nextgenstats-spider
 A Scrapy spider using Selenium to scrape NFL's Next Gen Stats website, inspired by [Deryck97's work](https://github.com/Deryck97/nfl_nextgenstats_data). Nextgenstats-spider currently supports scraping of the passing, receiving and rushing stats. Column names try to follow the standard used by [Deryck97](https://github.com/Deryck97/nfl_nextgenstats_data).
