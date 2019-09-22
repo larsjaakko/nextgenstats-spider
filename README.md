@@ -27,13 +27,13 @@ To get all weeks of passing data in week 8 of the 2018 regular season:
 ## Parameters
 Nextgenstats-spider supports a few parameters, to allow for scraping of specific tables. Note that all parameters must be passed with the `-a` option preceding, lest an error be raised.
 
-**Type**
+**Type**<br>
 The `type` parameter is mandatory, and can take the values `passing`, `rushing` or `receiving`.
 
-**Year**
+**Year**<br>
 The `year` parameter is mandatory, and can currently take values between `2016` and `2019`. The scraper will still run with years outside this interval, but will (obviously) only return data if it exists on the Next Gen Stats website.
 
-**Week**
+**Week**<br>
 The 'week' parameter is optional and can take the following values:
 * `reg` for all weekly data from the regular season. This is the default value, and will be used if the `week` parameter is not provided.
 * `post` for all weekly data from the postseason.
