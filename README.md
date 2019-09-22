@@ -51,4 +51,4 @@ Most of the available data is already stored in this repository as .csv files, a
 * Adding scraping of the Fastest Ball Carrier tables, along with parsing of the play descriptions
 
 ## Feedback
-For any comments, questions or suggestions, either submit an issue or feel free to contact me on [Twitter](https://twitter.com/larsjaakko)
+For any comments, questions or suggestions, either submit an issue or feel free to contact me on [Twitter](https://twitter.com/larsjaakko).
