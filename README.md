@@ -28,7 +28,7 @@ To get all passing data in week 8 of the 2018 regular season:
 Nextgenstats-spider supports a few parameters, to allow for scraping of specific tables. Note that all parameters must be passed with the `-a` option preceding, lest an error be raised.
 
 **Type**<br>
-The `type` parameter is mandatory, and can take the values `passing`, `rushing` or `receiving`.
+The `type` parameter is mandatory, and can take the values `passing`, `rushing`,`receiving` or 'fastest'. The latter scrapes the tables for the fastest ball carriers.
 
 **Year**<br>
 The `year` parameter is mandatory, and can currently take values between `2016` and `2019`. The scraper will still run with years outside this interval, but will (obviously) only return data if it exists on the Next Gen Stats website.

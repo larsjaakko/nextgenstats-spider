@@ -1,0 +1,21 @@
+,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week
+0,T.Taylor,Taywan Taylor,TEN,WR,21.44,42,reception,0,0,2017,REG,2
+1,T.Coleman,Tevin Coleman,ATL,RB,21.05,35,rush,0,0,2017,REG,2
+2,T.Hill,Tyreek Hill,KC,WR,21.17,30,reception,1,0,2017,REG,3
+3,W.Jackson,William Jackson,CIN,CB,21.52,75,int,1,0,2017,REG,3
+4,E.Mcguire,Elijah McGuire,NYJ,RB,21.17,69,rush,1,0,2017,REG,4
+5,C.Thompson,Chris Thompson,HOU,WR,21.19,19,reception,0,0,2017,REG,5
+6,L.Fournette,Leonard Fournette,JAX,RB,22.05,90,rush,1,0,2017,REG,5
+7,J.Mccourty,Jason McCourty,CLE,CB,21.07,56,int,1,0,2017,REG,6
+8,L.Fournette,Leonard Fournette,JAX,RB,21.76,75,rush,1,0,2017,REG,6
+9,T.Hill,Tyreek Hill,KC,WR,21.64,64,reception,1,0,2017,REG,7
+10,J.Jones,Julio Jones,ATL,WR,21.13,53,reception,0,0,2017,REG,8
+11,M.Goodwin,Marquise Goodwin,SF,WR,21.68,55,reception,0,0,2017,REG,9
+12,D.Henry,Derrick Henry,TEN,RB,21.64,75,rush,1,1,2017,REG,13
+13,M.Bryant,Martavis Bryant,PIT,WR,21.72,22,kickoff ret,0,1,2017,REG,13
+14,M.Wallace,Mike Wallace,BAL,WR,21.42,66,reception,0,0,2017,REG,13
+15,T.Gurley,Todd Gurley,LAR,RB,21.09,57,rush,1,0,2017,REG,15
+16,T.Hill,Tyreek Hill,KC,WR,21.19,64,reception,1,0,2017,REG,15
+17,T.Gurley,Todd Gurley,LAR,RB,21.23,80,reception,1,0,2017,REG,16
+18,T.Benjamin,Travis Benjamin,LAC,WR,21.17,14,punt ret,0,1,2017,REG,16
+19,T.Hill,Tyreek Hill,KC,WR,21.35,52,reception,0,0,2017,REG,16

@@ -1,0 +1,21 @@
+,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week
+0,T.Hill,Tyreek Hill,KC,WR,21.95,58,reception,1,0,2018,REG,1
+1,T.Hill,Tyreek Hill,KC,WR,21.78,91,punt ret,1,0,2018,REG,1
+2,A.Callaway,Antonio Callaway,CLE,WR,21.48,47,reception,1,0,2018,REG,2
+3,A.Wilson,Albert Wilson,MIA,WR,21.74,74,reception,1,0,2018,REG,3
+4,D.Jackson,DeSean Jackson,TB,WR,21.48,0,punt ret,0,1,2018,REG,3
+5,J.Grant,Jakeem Grant,MIA,WR,21.58,71,punt ret,1,0,2018,REG,5
+6,R.Anderson,Robby Anderson,NYJ,WR,21.5,76,reception,1,0,2018,REG,5
+7,D.Mccourty,Devin McCourty,NE,FS,22.05,84,int,1,0,2018,REG,8
+8,D.Cook,Dalvin Cook,MIN,RB,22.07,70,rush,0,0,2018,REG,9
+9,T.Coleman,Tevin Coleman,ATL,RB,21.48,3,rush,0,1,2018,REG,9
+10,C.Samuel,Curtis Samuel,CAR,WR,21.56,25,rush,0,0,2018,REG,12
+11,M.Breida,Matt Breida,SF,RB,22.09,33,rush,0,0,2018,REG,12
+12,P.Lindsay,Phillip Lindsay,DEN,RB,21.91,32,rush,0,0,2018,REG,12
+13,D.Henry,Derrick Henry,TEN,RB,21.74,54,rush,1,0,2018,REG,14
+14,R.Foster,Robert Foster,BUF,WR,21.62,12,reception,0,0,2018,REG,14
+15,S.Barkley,Saquon Barkley,NYG,RB,21.91,78,rush,1,0,2018,REG,14
+16,A.Erickson,Alex Erickson,CIN,WR,21.52,77,kickoff ret,0,0,2018,REG,15
+17,D.Westbrook,Dede Westbrook,JAX,WR,21.8,74,punt ret,1,0,2018,REG,15
+18,K.Ballage,Kalen Ballage,MIA,RB,21.87,75,rush,1,0,2018,REG,15
+19,M.Fitzpatrick,Minkah Fitzpatrick,MIA,S,21.85,50,int,1,0,2018,REG,15

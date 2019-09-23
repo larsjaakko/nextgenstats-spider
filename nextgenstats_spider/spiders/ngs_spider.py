@@ -10,21 +10,33 @@ class NGSSpider(scrapy.Spider):
     def __init__(self, week='reg', year='', type='', **kwargs):
         super().__init__(**kwargs)
         self.week = week
-        self.year = year
-        self.type = type
+
+        if year == '':
+            raise Exception('You have to specify the year.')
+        else:
+            self.year = year
+
+        if type == '' or type not in ['passing', 'rushing', 'receiving', 'fastest']:
+            raise Exception('Type missing or incorrect.')
+        elif type == 'fastest':
+            self.type = 'fastest-ball-carriers'
+        else:
+            self.type = type
 
 
     def start_requests(self):
 
-        #TODO add logic to handle any table, year and set of week numbers
-
-        base = 'https://nextgenstats.nfl.com/stats/{}/{}/{}'
+        if self.type != 'fastest-ball-carriers':
+            base = 'https://nextgenstats.nfl.com/stats/{}/{}/{}'
+        else:
+            base = 'https://nextgenstats.nfl.com/stats/top-plays/{}/{}/{}'
 
         self.week_list, self.weeks = self.parse_weeks()
 
-        urls = {self.week_list[i]: base.format(self.type, self.year, self.week_list[i]) for i, j in enumerate(self.week_list)}
-
-        print('URLS: ', urls)
+        urls = {self.week_list[i]: base.format(
+            self.type,
+            self.year,
+            self.week_list[i]) for i, j in enumerate(self.week_list)}
 
         for week, url in urls.items():
             yield SeleniumRequest(
@@ -63,14 +75,16 @@ class NGSSpider(scrapy.Spider):
 
         for row in response.xpath(ROW_SELECTOR):
 
-            CELL_SELECTOR = './/div[@class="cell"]//text()'
+            CELL_SELECTOR = './/div[@class="cell"]//text()[not(ancestor::i)]'
             cells = row.xpath(CELL_SELECTOR).getall()
+            self.logger.info('Parsing: {}'.format(cells))
 
             yield{
                 'type' : 'rows',
                 'cells' :  cells,
                 'week' : response.meta['week'],
             }
+
 
     def parse_weeks(self):
 
