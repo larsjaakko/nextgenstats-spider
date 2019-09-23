@@ -1,0 +1,21 @@
+,PLAYER NAME,TEAM,POS,Speed (MPH),Wk,Play Type,shortName,yards,playType,touchdown,penalty,season
+0,Leonard Fournette,JAX,RB,22.05,5,90 yd rush TD,L.Fournette,90,rush,1,0,2017
+1,Leonard Fournette,JAX,RB,21.76,6,75 yd rush TD,L.Fournette,75,rush,1,0,2017
+2,Martavis Bryant,PIT,WR,21.72,13,22 yd kickoff ret *,M.Bryant,22,kickoff ret,0,1,2017
+3,Marquise Goodwin,SF,WR,21.68,9,55 yd reception,M.Goodwin,55,reception,0,0,2017
+4,Tyreek Hill,KC,WR,21.64,7,64 yd reception TD,T.Hill,64,reception,1,0,2017
+5,Derrick Henry,TEN,RB,21.64,13,75 yd rush TD *,D.Henry,75,rush,1,1,2017
+6,William Jackson,CIN,CB,21.52,3,75 yd int TD,W.Jackson,75,int,1,0,2017
+7,Taywan Taylor,TEN,WR,21.44,2,42 yd reception,T.Taylor,42,reception,0,0,2017
+8,Mike Wallace,BAL,WR,21.42,13,66 yd reception,M.Wallace,66,reception,0,0,2017
+9,Tyreek Hill,KC,WR,21.35,16,52 yd reception,T.Hill,52,reception,0,0,2017
+10,Todd Gurley,LAR,RB,21.23,16,80 yd reception TD,T.Gurley,80,reception,1,0,2017
+11,Chris Thompson,HOU,WR,21.19,5,19 yd reception,C.Thompson,19,reception,0,0,2017
+12,Tyreek Hill,KC,WR,21.19,15,64 yd reception TD,T.Hill,64,reception,1,0,2017
+13,Elijah McGuire,NYJ,RB,21.17,4,69 yd rush TD,E.Mcguire,69,rush,1,0,2017
+14,Tyreek Hill,KC,WR,21.17,3,30 yd reception TD,T.Hill,30,reception,1,0,2017
+15,Travis Benjamin,LAC,WR,21.17,16,14 yd punt ret *,T.Benjamin,14,punt ret,0,1,2017
+16,Julio Jones,ATL,WR,21.13,8,53 yd reception,J.Jones,53,reception,0,0,2017
+17,Todd Gurley,LAR,RB,21.09,15,57 yd rush TD,T.Gurley,57,rush,1,0,2017
+18,Jason McCourty,CLE,CB,21.07,6,56 yd int TD,J.Mccourty,56,int,1,0,2017
+19,Tevin Coleman,ATL,RB,21.05,2,35 yd rush,T.Coleman,35,rush,0,0,2017

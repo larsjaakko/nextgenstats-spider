@@ -142,26 +142,39 @@ class NextgenstatsSpiderPipeline(object):
 
     def process_item(self, item, spider):
 
-        if item['type'] == 'columns' and self.df is None:
-            if spider.week != 'all':
-                item['cells'].append('week')
-                self.df = pd.DataFrame(columns = item['cells'])
-            else:
-                self.df = pd.DataFrame(columns = item['cells'])
-        elif item['type'] == 'rows':
-            if spider.week != 'all':
-                item['cells'].append(item['week'])
-                self.df.loc[len(self.df)] = item['cells']
-            else:
-                self.df.loc[len(self.df)] = item['cells']
+        if spider.type != 'fastest-ball-carriers':
 
+            if item['type'] == 'columns' and self.df is None:
+                if spider.week != 'all':
+                    item['cells'].append('week')
+                    self.df = pd.DataFrame(columns = item['cells'])
+                else:
+                    self.df = pd.DataFrame(columns = item['cells'])
+            elif item['type'] == 'rows':
+                if spider.week != 'all':
+                    item['cells'].append(item['week'])
+                    self.df.loc[len(self.df)] = item['cells']
+                else:
+                    self.df.loc[len(self.df)] = item['cells']
+        else:
 
+            if item['type'] == 'columns' and self.df is None:
+                    self.df = pd.DataFrame(columns = item['cells'])
+            elif item['type'] == 'rows':
+                    self.df.loc[len(self.df)] = item['cells']
 
         return item
 
     def clean_data(self, spider):
 
         self.df['shortName'] = self.df['PLAYER NAME'].apply(self.name_shortener)
+
+        if spider.type == 'fastest-ball-carriers':
+            self.df['Play Type'] = self.df['Play Type'].apply(self.space_remover)
+            self.df['yards'] = self.df['Play Type'].apply(lambda x: x.split()[0])
+            self.df['playType'] = self.df['Play Type'].apply(lambda x: x.split()[2] if 'ret' not in (x.split()) else ' '.join(x.split()[2:4]))
+            self.df['touchdown'] = self.df['Play Type'].apply(lambda x: 1 if "TD" in x.split() else 0)
+            self.df['penalty'] = self.df['Play Type'].apply(lambda x: 1 if "*" in x.split() else 0)
 
         if spider.type == 'passing':
             self.df = self.df.rename(columns=COL_NAMES_PASS)
@@ -223,6 +236,11 @@ class NextgenstatsSpiderPipeline(object):
         short += names[-1].title()
 
         return short
+
+    def space_remover(self, string):
+
+        return " ".join(string.split())
+
 
     def season_type(self, week):
 

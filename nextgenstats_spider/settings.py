@@ -95,7 +95,7 @@ DOWNLOADER_MIDDLEWARES = {
     'scrapy_selenium.SeleniumMiddleware': 800,
 }
 
-LOG_LEVEL = 'INFO'
+#LOG_LEVEL = 'INFO'
 
 SELENIUM_DRIVER_NAME = 'firefox'
 SELENIUM_DRIVER_EXECUTABLE_PATH = which('geckodriver')

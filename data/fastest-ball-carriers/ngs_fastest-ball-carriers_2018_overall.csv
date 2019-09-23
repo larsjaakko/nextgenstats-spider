@@ -1,0 +1,21 @@
+,PLAYER NAME,TEAM,POS,Speed (MPH),Wk,Play Type,shortName,yards,playType,touchdown,penalty,season
+0,Matt Breida,SF,RB,22.09,12,33 yd rush,M.Breida,33,rush,0,0,2018
+1,Dalvin Cook,MIN,RB,22.07,9,70 yd rush,D.Cook,70,rush,0,0,2018
+2,Devin McCourty,NE,FS,22.05,8,84 yd int TD,D.Mccourty,84,int,1,0,2018
+3,Tyreek Hill,KC,WR,21.95,1,58 yd reception TD,T.Hill,58,reception,1,0,2018
+4,Phillip Lindsay,DEN,RB,21.91,12,32 yd rush,P.Lindsay,32,rush,0,0,2018
+5,Saquon Barkley,NYG,RB,21.91,14,78 yd rush TD,S.Barkley,78,rush,1,0,2018
+6,Kalen Ballage,MIA,RB,21.87,15,75 yd rush TD,K.Ballage,75,rush,1,0,2018
+7,Minkah Fitzpatrick,MIA,S,21.85,15,50 yd int TD,M.Fitzpatrick,50,int,1,0,2018
+8,Dede Westbrook,JAX,WR,21.8,15,74 yd punt ret TD,D.Westbrook,74,punt ret,1,0,2018
+9,Tyreek Hill,KC,WR,21.78,1,91 yd punt ret TD,T.Hill,91,punt ret,1,0,2018
+10,Albert Wilson,MIA,WR,21.74,3,74 yd reception TD,A.Wilson,74,reception,1,0,2018
+11,Derrick Henry,TEN,RB,21.74,14,54 yd rush TD,D.Henry,54,rush,1,0,2018
+12,Robert Foster,BUF,WR,21.62,14,12 yd reception,R.Foster,12,reception,0,0,2018
+13,Jakeem Grant,MIA,WR,21.58,5,71 yd punt ret TD,J.Grant,71,punt ret,1,0,2018
+14,Curtis Samuel,CAR,WR,21.56,12,25 yd rush,C.Samuel,25,rush,0,0,2018
+15,Alex Erickson,CIN,WR,21.52,15,77 yd kickoff ret,A.Erickson,77,kickoff ret,0,0,2018
+16,Robby Anderson,NYJ,WR,21.5,5,76 yd reception TD,R.Anderson,76,reception,1,0,2018
+17,Antonio Callaway,CLE,WR,21.48,2,47 yd reception TD,A.Callaway,47,reception,1,0,2018
+18,DeSean Jackson,TB,WR,21.48,3,0 yd punt ret *,D.Jackson,0,punt ret,0,1,2018
+19,Tevin Coleman,ATL,RB,21.48,9,3 yd rush *,T.Coleman,3,rush,0,1,2018
