@@ -48,7 +48,8 @@ Once executed, Nextgenstats-spider will fetch your data and store it in an aptly
 Most of the available data is already stored in this repository as .csv files, and will be updated weekly.
 
 ## TODO
-* Adding scraping of the Fastest Ball Carrier tables, along with parsing of the play descriptions
+* Adding gameID from nflscrapR to make joining easy
+* Adding playID from nflscrapR to fastest ball carriers data
 
 ## Feedback
 For any comments, questions or suggestions, either submit an issue or feel free to contact me on [Twitter](https://twitter.com/larsjaakko).
