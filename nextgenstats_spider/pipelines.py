@@ -6,6 +6,7 @@
 # See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 
 import pandas as pd
+import logging
 
 COL_NAMES_PASS = {
 
@@ -153,6 +154,7 @@ class NextgenstatsSpiderPipeline(object):
                 self.df.loc[len(self.df)] = item['cells']
             else:
                 self.df.loc[len(self.df)] = item['cells']
+
 
 
         return item

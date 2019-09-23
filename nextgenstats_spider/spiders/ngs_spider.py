@@ -10,8 +10,16 @@ class NGSSpider(scrapy.Spider):
     def __init__(self, week='reg', year='', type='', **kwargs):
         super().__init__(**kwargs)
         self.week = week
-        self.year = year
-        self.type = type
+
+        if year == '':
+            raise Exception('You have to specify the year.')
+        else:
+            self.year = year
+
+        if type == '':
+            raise Exception('You have to specify the type.')
+        else:
+            self.type = type
 
 
     def start_requests(self):
@@ -22,9 +30,10 @@ class NGSSpider(scrapy.Spider):
 
         self.week_list, self.weeks = self.parse_weeks()
 
-        urls = {self.week_list[i]: base.format(self.type, self.year, self.week_list[i]) for i, j in enumerate(self.week_list)}
-
-        print('URLS: ', urls)
+        urls = {self.week_list[i]: base.format(
+            self.type,
+            self.year,
+            self.week_list[i]) for i, j in enumerate(self.week_list)}
 
         for week, url in urls.items():
             yield SeleniumRequest(
@@ -65,6 +74,7 @@ class NGSSpider(scrapy.Spider):
 
             CELL_SELECTOR = './/div[@class="cell"]//text()'
             cells = row.xpath(CELL_SELECTOR).getall()
+            self.logger.info('Parsing: {}'.format(cells))
 
             yield{
                 'type' : 'rows',
