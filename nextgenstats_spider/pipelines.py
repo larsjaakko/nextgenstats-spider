@@ -122,6 +122,15 @@ COL_ORDER_RUSH =  [
     'week'
 ]
 
+COL_NAMES_FASTEST = {
+
+    'shortName':'shortName',
+    'PLAYER NAME': 'playerName',
+    'TEAM': 'team',
+    'Wk': 'week',
+    'Speed (MPH)': 'speedMPH'
+    }
+
 class NextgenstatsSpiderPipeline(object):
 
 
@@ -175,6 +184,7 @@ class NextgenstatsSpiderPipeline(object):
             self.df['playType'] = self.df['Play Type'].apply(lambda x: x.split()[2] if 'ret' not in (x.split()) else ' '.join(x.split()[2:4]))
             self.df['touchdown'] = self.df['Play Type'].apply(lambda x: 1 if "TD" in x.split() else 0)
             self.df['penalty'] = self.df['Play Type'].apply(lambda x: 1 if "*" in x.split() else 0)
+            self.df = self.df.drop(['Play Type'], axis=1)
 
         if spider.type == 'passing':
             self.df = self.df.rename(columns=COL_NAMES_PASS)
@@ -182,6 +192,8 @@ class NextgenstatsSpiderPipeline(object):
             self.df = self.df.rename(columns=COL_NAMES_REC)
         elif spider.type == 'rushing':
             self.df = self.df.rename(columns=COL_NAMES_RUSH)
+        elif spider.type == 'fastest-ball-carriers':
+            self.df = self.df.rename(columns=COL_NAMES_FASTEST)
 
         if spider.week != 'all':
             self.df['seasonType'] = self.df['week'].apply(self.season_type)

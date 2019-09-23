@@ -1,0 +1,21 @@
+,playerName,team,POS,speedMPH,week,Play Type,shortName,yards,playType,touchdown,penalty,seasonType,season
+0,Alvin Kamara,NO,RB,20.93,1,41 yd reception,A.Kamara,41,reception,0,0,REG,2019
+1,Anthony Levine,BAL,DB,20.03,1,60 yd rush,A.Levine,60,rush,0,0,REG,2019
+2,Dalvin Cook,MIN,RB,20.5,1,19 yd rush TD,D.Cook,19,rush,1,0,REG,2019
+3,Dalvin Cook,MIN,RB,20.17,1,8 yd rush *,D.Cook,8,rush,0,1,REG,2019
+4,David Johnson,ARI,RB,20.84,1,7 yd rush,D.Johnson,7,rush,0,0,REG,2019
+5,DeSean Jackson,PHI,WR,21.4,1,51 yd reception TD,D.Jackson,51,reception,1,0,REG,2019
+6,DeSean Jackson,PHI,WR,20.86,1,53 yd reception TD,D.Jackson,53,reception,1,0,REG,2019
+7,Derrick Henry,TEN,RB,20.93,1,75 yd reception TD,D.Henry,75,reception,1,0,REG,2019
+8,Ito Smith,ATL,RB,19.96,1,16 yd rush,I.Smith,16,rush,0,0,REG,2019
+9,John Brown,BUF,WR,20.25,1,28 yd reception,J.Brown,28,reception,0,0,REG,2019
+10,Malcolm Butler,TEN,CB,21.5,1,38 yd int TD,M.Butler,38,int,1,0,REG,2019
+11,Marquise Brown,BAL,WR,20.33,1,83 yd reception TD,M.Brown,83,reception,1,0,REG,2019
+12,Raheem Mostert,SF,RB,21.03,1,3 yd rush *,R.Mostert,3,rush,0,1,REG,2019
+13,Richie James,SF,WR,19.96,1,39 yd reception TD,R.James,39,reception,1,0,REG,2019
+14,Sammy Watkins,KC,WR,21.33,1,68 yd reception TD,S.Watkins,68,reception,1,0,REG,2019
+15,Saquon Barkley,NYG,RB,21.76,1,59 yd rush,S.Barkley,59,rush,0,0,REG,2019
+16,Ted Ginn,NO,WR,20.05,1,41 yd reception,T.Ginn,41,reception,0,0,REG,2019
+17,Terry McLaurin,WAS,WR,21.23,1,69 yd reception TD,T.Mclaurin,69,reception,1,0,REG,2019
+18,Tevin Coleman,SF,RB,20.62,1,5 yd rush,T.Coleman,5,rush,0,0,REG,2019
+19,Will Fuller,HOU,WR,21.03,1,54 yd reception,W.Fuller,54,reception,0,0,REG,2019
