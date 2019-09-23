@@ -13,7 +13,7 @@ Nextgenstats-spider is built using Python 3.7 and requires the following Python 
 * [scrapy-selenium](https://github.com/clemfromspace/scrapy-selenium)
 * [pandas](https://github.com/pandas-dev/pandas)
 
-To install them to your system, follow instructions provided by their maintainers.
+To install them to your system, follow instructions provided by their maintainers. I recommend installing Python using [Anaconda](https://www.anaconda.com/distribution/), which will also include Pandas.
 
 To use Selenium with Scrapy, you also need to install a [supported browser](https://www.seleniumhq.org/about/platforms.jsp) as well as the corresponding driver. Nextgenstats-spider is currently written to run with Firefox using geckodriver, although you can modify it to run with your browser and driver of choice. See instructions on installing geckodriver on Mac OS X [here](https://www.kenst.com/2016/12/installing-marionette-firefoxdriver-on-mac-osx/) or Windows [here](https://www.softwaretestinghelp.com/geckodriver-selenium-tutorial/).
 
@@ -34,7 +34,7 @@ The `type` parameter is mandatory, and can take the values `passing`, `rushing` 
 The `year` parameter is mandatory, and can currently take values between `2016` and `2019`. The scraper will still run with years outside this interval, but will (obviously) only return data if it exists on the Next Gen Stats website.
 
 **Week**<br>
-The 'week' parameter is optional and can take the following values:
+The `week` parameter is optional and can take the following values:
 * `reg` for all weekly data from the regular season. This is the default value, and will be used if the `week` parameter is not provided.
 * `post` for all weekly data from the postseason.
 * `all` for the overall season totals (i.e. not broken down by week)
