@@ -127,9 +127,25 @@ COL_NAMES_FASTEST = {
     'shortName':'shortName',
     'PLAYER NAME': 'playerName',
     'TEAM': 'team',
+    'POS': 'position',
     'Wk': 'week',
     'Speed (MPH)': 'speedMPH'
     }
+
+COL_ORDER_FASTEST =  [
+    'shortName',
+    'playerName',
+    'team',
+    'position',
+    'speedMPH',
+    'yards',
+    'playType',
+    'touchdown',
+    'penalty',
+    'season',
+    'seasonType',
+    'week'
+]
 
 class NextgenstatsSpiderPipeline(object):
 
@@ -143,6 +159,13 @@ class NextgenstatsSpiderPipeline(object):
         self.df = self.clean_data(spider)
 
         self.df.to_csv('data/{}/ngs_{}_{}_{}.csv'.format(
+            spider.type,
+            spider.type,
+            spider.year,
+            spider.weeks,
+            ))
+
+        spider.logger.info('Wrote .csv to data/{}/ngs_{}_{}_{}.csv'.format(
             spider.type,
             spider.type,
             spider.year,
@@ -195,7 +218,7 @@ class NextgenstatsSpiderPipeline(object):
         elif spider.type == 'fastest-ball-carriers':
             self.df = self.df.rename(columns=COL_NAMES_FASTEST)
 
-        if spider.week != 'all':
+        if spider.week != 'all' or spider.type == 'fastest-ball-carriers':
             self.df['seasonType'] = self.df['week'].apply(self.season_type)
 
         self.df['season'] = spider.year
@@ -208,6 +231,8 @@ class NextgenstatsSpiderPipeline(object):
                 self.df = self.df[COL_ORDER_REC]
             elif spider.type == 'rushing':
                 self.df = self.df[COL_ORDER_RUSH]
+            elif spider.type == 'fastest-ball-carriers':
+                self.df = self.df[COL_ORDER_FASTEST]
         else:
             if spider.type == 'passing':
                 COL_ORDER_PASS.remove('week')
@@ -221,6 +246,8 @@ class NextgenstatsSpiderPipeline(object):
                 COL_ORDER_RUSH.remove('week')
                 COL_ORDER_RUSH.remove('seasonType')
                 self.df = self.df[COL_ORDER_RUSH]
+            elif spider.type == 'fastest-ball-carriers':
+                self.df = self.df[COL_ORDER_FASTEST]
 
         try:
             self.df['week'] = self.df['week'].astype('int32')

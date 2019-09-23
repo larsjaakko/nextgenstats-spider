@@ -1,21 +1,21 @@
-,PLAYER NAME,TEAM,POS,Speed (MPH),Wk,Play Type,shortName,yards,playType,touchdown,penalty,season
-0,Cordarrelle Patterson,CHI,WR,22.23,2,46 yd rush,C.Patterson,46,rush,0,0,2019
-1,Saquon Barkley,NYG,RB,21.76,1,59 yd rush,S.Barkley,59,rush,0,0,2019
-2,Mecole Hardman,KC,WR,21.74,3,83 yd reception TD,M.Hardman,83,reception,1,0,2019
-3,Odell Beckham,CLE,WR,21.7,2,89 yd reception TD,O.Beckham,89,reception,1,0,2019
-4,Malcolm Butler,TEN,CB,21.5,1,38 yd int TD,M.Butler,38,int,1,0,2019
-5,DeSean Jackson,PHI,WR,21.4,1,51 yd reception TD,D.Jackson,51,reception,1,0,2019
-6,Sammy Watkins,KC,WR,21.33,1,68 yd reception TD,S.Watkins,68,reception,1,0,2019
-7,William Jackson,CIN,CB,21.33,2,19 yd int,W.Jackson,19,int,0,0,2019
-8,Terry McLaurin,WAS,WR,21.23,1,69 yd reception TD,T.Mclaurin,69,reception,1,0,2019
-9,Leonard Fournette,JAX,RB,21.13,3,69 yd rush,L.Fournette,69,rush,0,0,2019
-10,Nelson Agholor,PHI,WR,21.11,2,43 yd reception,N.Agholor,43,reception,0,0,2019
-11,Joe Mixon,CIN,HB,21.07,3,33 yd reception,J.Mixon,33,reception,0,0,2019
-12,Will Fuller,HOU,WR,21.03,1,54 yd reception,W.Fuller,54,reception,0,0,2019
-13,Raheem Mostert,SF,RB,21.03,1,3 yd rush *,R.Mostert,3,rush,0,1,2019
-14,Christian McCaffrey,CAR,RB,21.01,3,76 yd rush TD,C.Mccaffrey,76,rush,1,0,2019
-15,Alvin Kamara,NO,RB,20.93,1,41 yd reception,A.Kamara,41,reception,0,0,2019
-16,Derrick Henry,TEN,RB,20.93,1,75 yd reception TD,D.Henry,75,reception,1,0,2019
-17,Deebo Samuel,SF,WR,20.93,2,5 yd rush *,D.Samuel,5,rush,0,1,2019
-18,Darrel Williams,KC,RB,20.88,3,41 yd rush,D.Williams,41,rush,0,0,2019
-19,DeSean Jackson,PHI,WR,20.86,1,53 yd reception TD,D.Jackson,53,reception,1,0,2019
+,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week
+0,A.Kamara,Alvin Kamara,NO,RB,20.93,41,reception,0,0,2019,REG,1
+1,D.Jackson,DeSean Jackson,PHI,WR,21.4,51,reception,1,0,2019,REG,1
+2,D.Jackson,DeSean Jackson,PHI,WR,20.86,53,reception,1,0,2019,REG,1
+3,D.Henry,Derrick Henry,TEN,RB,20.93,75,reception,1,0,2019,REG,1
+4,M.Butler,Malcolm Butler,TEN,CB,21.5,38,int,1,0,2019,REG,1
+5,R.Mostert,Raheem Mostert,SF,RB,21.03,3,rush,0,1,2019,REG,1
+6,S.Watkins,Sammy Watkins,KC,WR,21.33,68,reception,1,0,2019,REG,1
+7,S.Barkley,Saquon Barkley,NYG,RB,21.76,59,rush,0,0,2019,REG,1
+8,T.Mclaurin,Terry McLaurin,WAS,WR,21.23,69,reception,1,0,2019,REG,1
+9,W.Fuller,Will Fuller,HOU,WR,21.03,54,reception,0,0,2019,REG,1
+10,C.Patterson,Cordarrelle Patterson,CHI,WR,22.23,46,rush,0,0,2019,REG,2
+11,D.Samuel,Deebo Samuel,SF,WR,20.93,5,rush,0,1,2019,REG,2
+12,N.Agholor,Nelson Agholor,PHI,WR,21.11,43,reception,0,0,2019,REG,2
+13,O.Beckham,Odell Beckham,CLE,WR,21.7,89,reception,1,0,2019,REG,2
+14,W.Jackson,William Jackson,CIN,CB,21.33,19,int,0,0,2019,REG,2
+15,C.Mccaffrey,Christian McCaffrey,CAR,RB,21.01,76,rush,1,0,2019,REG,3
+16,D.Williams,Darrel Williams,KC,RB,20.88,41,rush,0,0,2019,REG,3
+17,J.Mixon,Joe Mixon,CIN,HB,21.07,33,reception,0,0,2019,REG,3
+18,L.Fournette,Leonard Fournette,JAX,RB,21.13,69,rush,0,0,2019,REG,3
+19,M.Hardman,Mecole Hardman,KC,WR,21.74,83,reception,1,0,2019,REG,3

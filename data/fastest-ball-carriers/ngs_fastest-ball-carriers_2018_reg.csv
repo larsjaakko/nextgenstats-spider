@@ -1,0 +1,341 @@
+,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week
+0,A.Green,A.J. Green,CIN,WR,20.95,38,reception,1,0,2018,REG,1
+1,D.Jennings,Darius Jennings,TEN,WR,20.64,94,kickoff ret,1,0,2018,REG,1
+2,D.Jackson,DeSean Jackson,TB,WR,20.45,58,reception,1,0,2018,REG,1
+3,D.Jackson,DeSean Jackson,TB,WR,20.41,36,reception,1,1,2018,REG,1
+4,D.Henry,Derrick Henry,TEN,RB,21.46,2,rush,0,1,2018,REG,1
+5,I.Crowell,Isaiah Crowell,NYJ,RB,20.95,62,rush,1,0,2018,REG,1
+6,J.Grant,Jakeem Grant,MIA,WR,20.93,102,kickoff ret,1,0,2018,REG,1
+7,J.Conner,James Conner,PIT,RB,21.03,22,rush,1,0,2018,REG,1
+8,J.Smith-Schuster,JuJu Smith-Schuster,PIT,WR,20.93,67,reception,0,0,2018,REG,1
+9,K.Stills,Kenny Stills,MIA,WR,20.25,75,reception,1,0,2018,REG,1
+10,M.Breida,Matt Breida,SF,RB,20.19,-1,rush,0,0,2018,REG,1
+11,M.Evans,Mike Evans,TB,WR,20.15,50,reception,1,0,2018,REG,1
+12,N.Hines,Nyheim Hines,IND,RB,20.05,4,rush,0,0,2018,REG,1
+13,P.Cooper,Pharoh Cooper,LAR,WR,20.03,12,punt ret,0,0,2018,REG,1
+14,S.Barkley,Saquon Barkley,NYG,RB,19.82,68,rush,1,0,2018,REG,1
+15,T.Cohen,Tarik Cohen,CHI,RB,19.96,42,punt ret,0,0,2018,REG,1
+16,T.Coleman,Tevin Coleman,ATL,RB,19.76,26,reception,0,0,2018,REG,1
+17,T.Lockett,Tyler Lockett,SEA,WR,20.35,51,reception,1,0,2018,REG,1
+18,T.Hill,Tyreek Hill,KC,WR,21.95,58,reception,1,0,2018,REG,1
+19,T.Hill,Tyreek Hill,KC,WR,21.78,91,punt ret,1,0,2018,REG,1
+20,A.Callaway,Antonio Callaway,CLE,WR,21.48,47,reception,1,0,2018,REG,2
+21,B.Cooks,Brandin Cooks,LAR,WR,20.35,57,reception,0,0,2018,REG,2
+22,C.Newton,Cam Newton,CAR,QB,20.07,10,rush,0,0,2018,REG,2
+23,C.Hogan,Chris Hogan,NE,WR,20.29,29,reception,1,0,2018,REG,2
+24,D.Cruikshank,Dane Cruikshank,TEN,DB,20.15,66,reception,1,0,2018,REG,2
+25,D.Jackson,DeSean Jackson,TB,WR,20.5,75,reception,1,0,2018,REG,2
+26,E.Elliott,Ezekiel Elliott,DAL,RB,20.15,19,rush,0,0,2018,REG,2
+27,J.Agnew,Jamal Agnew,DET,CB,19.98,4,punt ret,0,1,2018,REG,2
+28,J.Crowder,Jamison Crowder,WAS,WR,20.68,25,rush,0,0,2018,REG,2
+29,J.Natson,JoJo Natson,LAR,WR,20.93,60,punt ret,0,0,2018,REG,2
+30,J.Natson,JoJo Natson,LAR,WR,20.39,17,punt ret,0,0,2018,REG,2
+31,O.Howard,O.J. Howard,TB,TE,20.31,75,reception,1,0,2018,REG,2
+32,P.Lindsay,Phillip Lindsay,DEN,RB,20.76,53,rush,0,0,2018,REG,2
+33,P.Amukamara,Prince Amukamara,CHI,CB,20.09,49,int,1,0,2018,REG,2
+34,R.Anderson,Robby Anderson,NYJ,WR,20.03,17,reception,0,0,2018,REG,2
+35,S.Diggs,Stefon Diggs,MIN,WR,20.48,75,reception,1,0,2018,REG,2
+36,T.Ginn,Ted Ginn,NO,WR,20.35,42,reception,0,0,2018,REG,2
+37,T.Pryor,Terrelle Pryor,NYJ,WR,20.35,44,reception,0,0,2018,REG,2
+38,T.Coleman,Tevin Coleman,ATL,RB,20.31,36,rush,0,0,2018,REG,2
+39,T.Williams,Tyrell Williams,LAC,WR,20.23,18,reception,0,0,2018,REG,2
+40,A.Green,A.J. Green,CIN,WR,20.88,31,reception,0,0,2018,REG,3
+41,A.Peterson,Adrian Peterson,WAS,RB,20.25,41,rush,0,0,2018,REG,3
+42,A.Wilson,Albert Wilson,MIA,WR,21.74,74,reception,1,0,2018,REG,3
+43,C.Ridley,Calvin Ridley,ATL,WR,20.9,75,reception,1,0,2018,REG,3
+44,C.Mccaffrey,Christian McCaffrey,CAR,RB,20.48,45,rush,0,0,2018,REG,3
+45,D.Jackson,DeSean Jackson,TB,WR,21.48,0,punt ret,0,1,2018,REG,3
+46,D.Rodgers-Cromartie,Dominique Rodgers-Cromartie,OAK,CB,21.07,0,punt ret,0,1,2018,REG,3
+47,J.Nelson,Jordy Nelson,OAK,WR,21.05,61,reception,0,0,2018,REG,3
+48,J.Nelson,Jordy Nelson,OAK,WR,20.97,66,reception,0,0,2018,REG,3
+49,J.Allen,Josh Allen,BUF,QB,20.6,10,rush,1,0,2018,REG,3
+50,J.Jones,Julio Jones,ATL,WR,21.33,58,reception,0,0,2018,REG,3
+51,M.Breida,Matt Breida,SF,RB,20.8,26,rush,0,0,2018,REG,3
+52,M.Williams,Mike Williams,LAC,WR,21.05,42,reception,1,0,2018,REG,3
+53,S.Barkley,Saquon Barkley,NYG,RB,20.66,24,rush,0,0,2018,REG,3
+54,S.Shepard,Sterling Shepard,NYG,WR,20.25,23,reception,0,0,2018,REG,3
+55,T.Hilton,T.Y. Hilton,IND,WR,20.15,2,punt ret,0,1,2018,REG,3
+56,T.Austin,Tavon Austin,DAL,WR,20.25,18,rush,0,0,2018,REG,3
+57,T.Ginn,Ted Ginn,NO,WR,21.27,20,rush,0,0,2018,REG,3
+58,T.Gurley,Todd Gurley,LAR,RB,20.72,25,reception,0,1,2018,REG,3
+59,T.Williams,Tyrell Williams,LAC,WR,20.41,14,rush,0,0,2018,REG,3
+60,A.Thielen,Adam Thielen,MIN,WR,20.09,27,reception,0,0,2018,REG,4
+61,A.Exum,Antone Exum,SF,FS,20.05,32,int,1,0,2018,REG,4
+62,B.Cooks,Brandin Cooks,LAR,WR,21.23,47,reception,1,0,2018,REG,4
+63,C.Kupp,Cooper Kupp,LAR,WR,20.7,70,reception,1,0,2018,REG,4
+64,C.Kupp,Cooper Kupp,LAR,WR,20.58,19,reception,1,0,2018,REG,4
+65,C.Patterson,Cordarrelle Patterson,NE,WR,20.21,11,rush,0,0,2018,REG,4
+66,C.Patterson,Cordarrelle Patterson,NE,WR,20.19,55,reception,1,0,2018,REG,4
+67,C.Davis,Corey Davis,TEN,WR,20.19,51,reception,0,0,2018,REG,4
+68,D.Hopkins,DeAndre Hopkins,HOU,WR,20,30,reception,0,0,2018,REG,4
+69,D.Jackson,DeSean Jackson,TB,WR,20.29,48,reception,0,0,2018,REG,4
+70,D.Jackson,DeSean Jackson,TB,WR,20.09,42,reception,0,0,2018,REG,4
+71,D.Moncrief,Donte Moncrief,JAX,WR,21.23,67,reception,1,0,2018,REG,4
+72,J.White,James White,NE,RB,20.13,4,reception,0,1,2018,REG,4
+73,J.Brown,John Brown,BAL,WR,20.35,33,reception,1,0,2018,REG,4
+74,J.Ross,John Ross,CIN,WR,20.11,39,reception,1,0,2018,REG,4
+75,M.Valdes-Scantling,Marquez Valdes-Scantling,GB,WR,20.39,38,reception,0,0,2018,REG,4
+76,N.Chubb,Nick Chubb,CLE,RB,21.15,63,rush,1,0,2018,REG,4
+77,S.Barkley,Saquon Barkley,NYG,RB,20.86,28,rush,0,0,2018,REG,4
+78,T.Hilton,T.Y. Hilton,IND,WR,20.54,42,reception,0,0,2018,REG,4
+79,T.Gabriel,Taylor Gabriel,CHI,WR,20.33,30,reception,0,0,2018,REG,4
+80,A.Brown,Antonio Brown,PIT,WR,20.33,47,reception,1,0,2018,REG,5
+81,A.Ekeler,Austin Ekeler,LAC,RB,20.8,44,reception,1,0,2018,REG,5
+82,C.Kirk,Christian Kirk,ARI,WR,20.43,75,reception,1,0,2018,REG,5
+83,C.Kirk,Christian Kirk,ARI,WR,20.23,5,rush,0,0,2018,REG,5
+84,D.Adams,Davante Adams,GB,WR,20.23,30,reception,0,0,2018,REG,5
+85,D.Westbrook,Dede Westbrook,JAX,WR,20.5,23,reception,0,0,2018,REG,5
+86,D.Westbrook,Dede Westbrook,JAX,WR,20,30,reception,0,0,2018,REG,5
+87,D.Johnson,Duke Johnson,CLE,RB,20.03,8,rush,0,0,2018,REG,5
+88,I.Crowell,Isaiah Crowell,NYJ,RB,20.43,77,rush,1,0,2018,REG,5
+89,J.Grant,Jakeem Grant,MIA,WR,21.58,71,punt ret,1,0,2018,REG,5
+90,J.Hardee,Justin Hardee,NO,DB,20.13,77,int,0,0,2018,REG,5
+91,M.Bryant,Martavis Bryant,OAK,WR,20.11,47,reception,0,0,2018,REG,5
+92,R.Anderson,Robby Anderson,NYJ,WR,21.5,76,reception,1,0,2018,REG,5
+93,R.Anderson,Robby Anderson,NYJ,WR,20.39,35,reception,1,0,2018,REG,5
+94,R.Shepard,Russell Shepard,NYG,WR,20.37,40,reception,0,0,2018,REG,5
+95,T.Smith,Tre'Quan Smith,NO,WR,20.15,62,reception,1,1,2018,REG,5
+96,T.Lockett,Tyler Lockett,SEA,WR,20,39,reception,1,0,2018,REG,5
+97,T.Hill,Tyreek Hill,KC,WR,21.11,5,rush,0,0,2018,REG,5
+98,T.Hill,Tyreek Hill,KC,WR,20.45,36,reception,0,1,2018,REG,5
+99,T.Hill,Tyreek Hill,KC,WR,20.13,21,rush,0,1,2018,REG,5
+100,A.Humphries,Adam Humphries,TB,WR,20.37,51,reception,0,0,2018,REG,6
+101,A.Brown,Antonio Brown,PIT,WR,21.13,31,reception,1,0,2018,REG,6
+102,A.Brown,Antonio Brown,PIT,WR,20.54,48,reception,0,0,2018,REG,6
+103,D.Adams,Davante Adams,GB,WR,20.19,38,reception,0,0,2018,REG,6
+104,D.Jackson,DeSean Jackson,TB,WR,20.05,7,rush,0,0,2018,REG,6
+105,D.Westbrook,Dede Westbrook,JAX,WR,20.41,34,reception,1,0,2018,REG,6
+106,J.Heath,Jeff Heath,DAL,SS,20.09,49,int,0,0,2018,REG,6
+107,K.Fuller,Kyle Fuller,CHI,CB,21.4,35,int,0,0,2018,REG,6
+108,L.Mccoy,LeSean McCoy,BUF,RB,20.15,6,rush,0,0,2018,REG,6
+109,M.Goodwin,Marquise Goodwin,SF,WR,21.01,67,reception,1,0,2018,REG,6
+110,N.Agholor,Nelson Agholor,PHI,WR,20.13,58,reception,0,0,2018,REG,6
+111,S.Barkley,Saquon Barkley,NYG,RB,21.07,46,rush,0,0,2018,REG,6
+112,S.Barkley,Saquon Barkley,NYG,RB,20.74,50,rush,1,0,2018,REG,6
+113,T.Gabriel,Taylor Gabriel,CHI,WR,21.23,47,reception,0,0,2018,REG,6
+114,T.Gabriel,Taylor Gabriel,CHI,WR,20.33,54,reception,0,0,2018,REG,6
+115,T.Gurley,Todd Gurley,LAR,RB,20.72,26,rush,0,0,2018,REG,6
+116,T.Smith,Tremon Smith,KC,DB,20.37,97,kickoff ret,0,0,2018,REG,6
+117,T.Hill,Tyreek Hill,KC,WR,21.31,75,reception,1,0,2018,REG,6
+118,T.Hill,Tyreek Hill,KC,WR,20.43,14,reception,1,0,2018,REG,6
+119,T.Williams,Tyrell Williams,LAC,WR,20.33,44,reception,0,0,2018,REG,6
+120,A.Thielen,Adam Thielen,MIN,WR,20.03,34,reception,1,0,2018,REG,7
+121,A.Peterson,Adrian Peterson,WAS,RB,20.29,23,rush,0,0,2018,REG,7
+122,A.Roberts,Andre Roberts,NYJ,WR,20.17,53,kickoff ret,0,0,2018,REG,7
+123,C.Patterson,Cordarrelle Patterson,NE,WR,20.82,95,kickoff ret,1,0,2018,REG,7
+124,D.Jennings,Darius Jennings,TEN,WR,20.39,37,kickoff ret,0,1,2018,REG,7
+125,J.Brown,John Brown,BAL,WR,20.7,56,reception,0,0,2018,REG,7
+126,K.Drake,Kenyan Drake,MIA,RB,20.6,54,rush,1,0,2018,REG,7
+127,K.Johnson,Kerryon Johnson,DET,RB,21.21,71,rush,0,0,2018,REG,7
+128,L.Murray,Latavius Murray,MIN,RB,19.84,38,rush,1,0,2018,REG,7
+129,M.Mack,Marlon Mack,IND,RB,19.94,29,reception,1,0,2018,REG,7
+130,M.Hall,Marvin Hall,ATL,WR,20.43,47,reception,1,0,2018,REG,7
+131,M.Breida,Matt Breida,SF,RB,20,7,rush,0,0,2018,REG,7
+132,P.Lindsay,Phillip Lindsay,DEN,RB,19.98,22,rush,0,0,2018,REG,7
+133,R.Mostert,Raheem Mostert,SF,RB,20.66,11,rush,0,0,2018,REG,7
+134,R.Parker,Ron Parker,KC,FS,19.92,33,int,1,0,2018,REG,7
+135,T.Cohen,Tarik Cohen,CHI,RB,20.76,16,reception,0,0,2018,REG,7
+136,T.Coleman,Tevin Coleman,ATL,RB,20.88,30,rush,1,0,2018,REG,7
+137,T.Hill,Tyreek Hill,KC,WR,21.03,2,punt ret,0,1,2018,REG,7
+138,T.Williams,Tyrell Williams,LAC,WR,20.7,75,reception,1,0,2018,REG,7
+139,W.Smallwood,Wendell Smallwood,PHI,RB,20.52,7,reception,0,1,2018,REG,7
+140,A.Peterson,Adrian Peterson,WAS,RB,20.37,64,rush,1,1,2018,REG,8
+141,C.Patterson,Cordarrelle Patterson,NE,WR,20.09,22,rush,0,0,2018,REG,8
+142,D.Jackson,DeSean Jackson,TB,WR,21.19,60,reception,1,0,2018,REG,8
+143,D.Mccourty,Devin McCourty,NE,FS,22.05,84,int,1,0,2018,REG,8
+144,J.Grant,Jakeem Grant,MIA,WR,21.07,21,punt ret,0,0,2018,REG,8
+145,J.Franks,Jordan Franks,CIN,HB,20.76,32,reception,0,0,2018,REG,8
+146,K.Fuller,Kendall Fuller,KC,CB,20.15,0,int,0,0,2018,REG,8
+147,L.Miller,Lamar Miller,HOU,RB,20.35,58,rush,0,0,2018,REG,8
+148,M.Mack,Marlon Mack,IND,RB,21.35,49,rush,0,0,2018,REG,8
+149,M.Valdes-Scantling,Marquez Valdes-Scantling,GB,WR,19.94,40,reception,1,0,2018,REG,8
+150,M.Goodwin,Marquise Goodwin,SF,WR,20.74,55,reception,1,0,2018,REG,8
+151,M.Evans,Mike Evans,TB,WR,19.84,72,reception,1,0,2018,REG,8
+152,O.Beckham,Odell Beckham,NYG,WR,20.31,44,reception,0,0,2018,REG,8
+153,P.Lindsay,Phillip Lindsay,DEN,RB,20.58,14,rush,0,0,2018,REG,8
+154,S.Williams,Shawn Williams,CIN,SS,21.33,29,int,0,0,2018,REG,8
+155,T.Hilton,T.Y. Hilton,IND,WR,19.84,34,reception,0,0,2018,REG,8
+156,T.Cohen,Tarik Cohen,CHI,RB,21.42,70,reception,1,0,2018,REG,8
+157,T.Patrick,Tim Patrick,DEN,WR,19.8,13,rush,0,0,2018,REG,8
+158,W.Fuller,Will Fuller,HOU,WR,21.15,73,reception,1,0,2018,REG,8
+159,W.Fuller,Will Fuller,HOU,WR,20.39,34,reception,0,0,2018,REG,8
+160,C.Ridley,Calvin Ridley,ATL,WR,20.97,40,reception,1,0,2018,REG,9
+161,C.Samuel,Curtis Samuel,CAR,WR,20.45,33,rush,1,0,2018,REG,9
+162,D.Cook,Dalvin Cook,MIN,RB,22.07,70,rush,0,0,2018,REG,9
+163,D.Jennings,Darius Jennings,TEN,WR,20.11,36,reception,0,0,2018,REG,9
+164,D.King,Desmond King,LAC,CB,20.41,42,int,1,0,2018,REG,9
+165,G.Kittle,George Kittle,SF,TE,20,71,reception,0,0,2018,REG,9
+166,M.Mariota,Marcus Mariota,TEN,QB,20.23,6,rush,0,0,2018,REG,9
+167,M.Valdes-Scantling,Marquez Valdes-Scantling,GB,WR,21.13,51,reception,0,0,2018,REG,9
+168,M.Bryant,Martavis Bryant,OAK,WR,20.37,17,rush,0,0,2018,REG,9
+169,M.Gordon,Melvin Gordon,LAC,RB,20.15,34,rush,1,0,2018,REG,9
+170,M.Thomas,Michael Thomas,NO,WR,20.17,72,reception,1,1,2018,REG,9
+171,P.Lindsay,Phillip Lindsay,DEN,RB,20.56,22,rush,0,0,2018,REG,9
+172,R.Mostert,Raheem Mostert,SF,RB,20.93,52,rush,1,0,2018,REG,9
+173,R.James,Richie James,SF,WR,21.11,53,reception,0,0,2018,REG,9
+174,T.Cohen,Tarik Cohen,CHI,RB,20.29,7,rush,0,0,2018,REG,9
+175,T.Cohen,Tarik Cohen,CHI,RB,20.19,36,punt ret,0,0,2018,REG,9
+176,T.Coleman,Tevin Coleman,ATL,RB,21.48,3,rush,0,1,2018,REG,9
+177,T.Coleman,Tevin Coleman,ATL,RB,20.03,39,reception,1,0,2018,REG,9
+178,T.Gurley,Todd Gurley,LAR,RB,19.98,8,rush,1,0,2018,REG,9
+179,T.Hill,Tyreek Hill,KC,WR,21.38,12,rush,0,0,2018,REG,9
+180,A.Jones,Aaron Jones,GB,RB,21.33,67,rush,0,0,2018,REG,10
+181,A.Roberts,Andre Roberts,NYJ,WR,20.52,35,kickoff ret,0,0,2018,REG,10
+182,B.Cooks,Brandin Cooks,LAR,WR,20.8,9,rush,1,0,2018,REG,10
+183,C.Patterson,Cordarrelle Patterson,NE,WR,20.41,23,kickoff ret,0,0,2018,REG,10
+184,D.Jennings,Darius Jennings,TEN,WR,21.05,58,kickoff ret,0,0,2018,REG,10
+185,D.Fluellen,David Fluellen,TEN,RB,20.43,13,rush,0,0,2018,REG,10
+186,D.Moncrief,Donte Moncrief,JAX,WR,20.21,80,reception,1,0,2018,REG,10
+187,J.Driskel,Jeff Driskel,CIN,QB,21.03,27,rush,1,0,2018,REG,10
+188,J.Ross,John Ross,CIN,WR,20.23,37,reception,0,0,2018,REG,10
+189,J.Townsend,Johnny Townsend,OAK,P,20.48,42,rush,0,0,2018,REG,10
+190,J.Wilkins,Jordan Wilkins,IND,RB,20.78,53,rush,0,0,2018,REG,10
+191,L.Mccoy,LeSean McCoy,BUF,RB,20.23,28,rush,1,0,2018,REG,10
+192,M.Gordon,Melvin Gordon,LAC,RB,20.6,66,reception,1,0,2018,REG,10
+193,N.Agholor,Nelson Agholor,PHI,WR,20.76,51,reception,0,0,2018,REG,10
+194,N.Chubb,Nick Chubb,CLE,RB,20.68,92,rush,1,0,2018,REG,10
+195,R.Foster,Robert Foster,BUF,WR,21.48,47,reception,0,0,2018,REG,10
+196,R.Foster,Robert Foster,BUF,WR,20.64,43,reception,0,0,2018,REG,10
+197,T.Cohen,Tarik Cohen,CHI,RB,20.19,2,reception,0,0,2018,REG,10
+198,T.Hill,Tyreek Hill,KC,WR,21.07,20,rush,0,0,2018,REG,10
+199,T.Hill,Tyreek Hill,KC,WR,20.48,16,reception,0,0,2018,REG,10
+200,B.Cooks,Brandin Cooks,LAR,WR,20.15,30,reception,0,0,2018,REG,11
+201,C.Rogers,Chester Rogers,IND,WR,19.98,51,punt ret,0,1,2018,REG,11
+202,C.Kirk,Christian Kirk,ARI,WR,20.99,59,reception,1,0,2018,REG,11
+203,C.Mccoy,Colt McCoy,WAS,QB,20.31,15,rush,0,0,2018,REG,11
+204,D.Moore,D.J. Moore,CAR,WR,20.15,82,reception,0,0,2018,REG,11
+205,D.Adams,Davante Adams,GB,WR,20.58,57,reception,0,0,2018,REG,11
+206,D.Johnson,David Johnson,ARI,RB,20.64,53,rush,0,0,2018,REG,11
+207,D.Johnson,David Johnson,ARI,RB,20.43,7,rush,0,1,2018,REG,11
+208,J.Adams,Josh Adams,PHI,RB,20.17,28,rush,1,0,2018,REG,11
+209,J.Jones,Julio Jones,ATL,WR,20.56,34,reception,1,0,2018,REG,11
+210,J.Reid,Justin Reid,HOU,DB,20.68,101,int,1,0,2018,REG,11
+211,O.Beckham,Odell Beckham,NYG,WR,20.25,41,reception,0,0,2018,REG,11
+212,O.Beckham,Odell Beckham,NYG,WR,20.03,11,rush,0,0,2018,REG,11
+213,P.Lindsay,Phillip Lindsay,DEN,RB,20.41,41,rush,1,0,2018,REG,11
+214,T.Logan,T.J. Logan,ARI,RB,20.09,32,kickoff ret,0,0,2018,REG,11
+215,T.Hilton,T.Y. Hilton,IND,WR,20.86,68,reception,1,0,2018,REG,11
+216,T.Davis,Trevor Davis,GB,WR,20.35,20,kickoff ret,0,1,2018,REG,11
+217,T.Lockett,Tyler Lockett,SEA,WR,20.39,34,reception,0,0,2018,REG,11
+218,T.Hill,Tyreek Hill,KC,WR,20.21,14,punt ret,0,0,2018,REG,11
+219,T.Hill,Tyreek Hill,KC,WR,20.19,25,reception,1,0,2018,REG,11
+220,A.Cooper,Amari Cooper,DAL,WR,20.82,90,reception,1,0,2018,REG,12
+221,C.Ridley,Calvin Ridley,ATL,WR,21.29,50,reception,0,0,2018,REG,12
+222,C.Mccaffrey,Christian McCaffrey,CAR,RB,21.27,59,rush,0,0,2018,REG,12
+223,C.Mccaffrey,Christian McCaffrey,CAR,RB,20.07,38,reception,0,0,2018,REG,12
+224,C.Davis,Corey Davis,TEN,WR,20.39,39,rush,0,0,2018,REG,12
+225,C.Samuel,Curtis Samuel,CAR,WR,21.56,25,rush,0,0,2018,REG,12
+226,D.Johnson,Danny Johnson,WAS,DB,20.93,44,kickoff ret,0,0,2018,REG,12
+227,J.Smith,Jonnu Smith,TEN,TE,20.72,61,reception,1,0,2018,REG,12
+228,J.Adams,Josh Adams,PHI,RB,20.68,2,rush,0,1,2018,REG,12
+229,J.Smith-Schuster,JuJu Smith-Schuster,PIT,WR,20.45,97,reception,1,0,2018,REG,12
+230,L.Jackson,Lamar Jackson,BAL,QB,20.05,39,rush,0,0,2018,REG,12
+231,L.Miller,Lamar Miller,HOU,RB,21.05,97,rush,1,0,2018,REG,12
+232,M.Breida,Matt Breida,SF,RB,22.09,33,rush,0,0,2018,REG,12
+233,M.Gordon,Melvin Gordon,LAC,RB,20.33,28,rush,1,0,2018,REG,12
+234,M.Evans,Mike Evans,TB,WR,20.78,42,reception,0,0,2018,REG,12
+235,P.Lindsay,Phillip Lindsay,DEN,RB,21.91,32,rush,0,0,2018,REG,12
+236,R.Foster,Robert Foster,BUF,WR,21.11,75,reception,1,0,2018,REG,12
+237,S.Barkley,Saquon Barkley,NYG,RB,20.19,51,rush,1,0,2018,REG,12
+238,S.Roberts,Seth Roberts,OAK,WR,20.15,11,rush,0,0,2018,REG,12
+239,V.Davis,Vernon Davis,WAS,TE,21.44,53,reception,1,0,2018,REG,12
+240,A.Peterson,Adrian Peterson,WAS,RB,20.84,90,rush,1,0,2018,REG,13
+241,A.Roberts,Andre Roberts,NYJ,WR,20.84,59,kickoff ret,0,0,2018,REG,13
+242,B.Wagner,Bobby Wagner,SEA,MLB,20.09,98,int,1,0,2018,REG,13
+243,C.Godwin,Chris Godwin,TB,WR,20.93,48,reception,0,0,2018,REG,13
+244,C.Kirk,Christian Kirk,ARI,WR,20.48,23,rush,0,0,2018,REG,13
+245,C.Mccaffrey,Christian McCaffrey,CAR,RB,20.9,53,rush,0,0,2018,REG,13
+246,D.Cook,Dalvin Cook,MIN,RB,20.31,5,rush,0,0,2018,REG,13
+247,D.Cook,Dalvin Cook,MIN,RB,20.27,18,rush,0,0,2018,REG,13
+248,D.Pettis,Dante Pettis,SF,WR,20.27,75,reception,1,0,2018,REG,13
+249,I.Mckenzie,Isaiah McKenzie,BUF,WR,19.9,19,reception,0,0,2018,REG,13
+250,J.Howard,Jordan Howard,CHI,RB,20.58,25,rush,0,0,2018,REG,13
+251,J.Reynolds,Josh Reynolds,LAR,WR,20.5,14,reception,0,0,2018,REG,13
+252,L.Mccoy,LeSean McCoy,BUF,RB,20.33,18,rush,0,0,2018,REG,13
+253,M.Valdes-Scantling,Marquez Valdes-Scantling,GB,WR,20.76,21,rush,0,0,2018,REG,13
+254,P.Lindsay,Phillip Lindsay,DEN,RB,20.37,65,rush,1,0,2018,REG,13
+255,P.Lindsay,Phillip Lindsay,DEN,RB,20.23,11,rush,0,0,2018,REG,13
+256,R.Penny,Rashaad Penny,SEA,RB,20.19,20,rush,1,0,2018,REG,13
+257,T.Taylor,Taywan Taylor,TEN,WR,20.62,55,reception,0,0,2018,REG,13
+258,T.Benjamin,Travis Benjamin,LAC,WR,20.5,46,reception,1,0,2018,REG,13
+259,T.Hill,Tyreek Hill,KC,WR,21.19,33,rush,0,0,2018,REG,13
+260,A.Cooper,Amari Cooper,DAL,WR,21.27,75,reception,1,0,2018,REG,14
+261,A.Roberts,Andre Roberts,NYJ,WR,20.72,13,kickoff ret,0,1,2018,REG,14
+262,A.Roberts,Andre Roberts,NYJ,WR,20.25,86,kickoff ret,0,0,2018,REG,14
+263,B.Bolden,Brandon Bolden,MIA,RB,20.97,54,rush,1,0,2018,REG,14
+264,B.Perriman,Breshad Perriman,CLE,WR,20.76,66,reception,0,0,2018,REG,14
+265,B.Perriman,Breshad Perriman,CLE,WR,19.88,15,reception,0,0,2018,REG,14
+266,D.Slay,Darius Slay,DET,CB,21.29,67,int,1,0,2018,REG,14
+267,D.Henry,Derrick Henry,TEN,RB,21.74,54,rush,1,0,2018,REG,14
+268,D.Henry,Derrick Henry,TEN,RB,20.29,99,rush,1,0,2018,REG,14
+269,E.Engram,Evan Engram,NYG,TE,20,39,reception,0,0,2018,REG,14
+270,E.Elliott,Ezekiel Elliott,DAL,RB,19.98,10,rush,0,0,2018,REG,14
+271,G.Kittle,George Kittle,SF,TE,20.39,85,reception,1,0,2018,REG,14
+272,I.Mckenzie,Isaiah McKenzie,BUF,WR,20.7,15,rush,1,0,2018,REG,14
+273,J.Crowder,Jamison Crowder,WAS,WR,20.43,79,reception,1,0,2018,REG,14
+274,J.Smith-Schuster,JuJu Smith-Schuster,PIT,WR,20.17,5,reception,0,0,2018,REG,14
+275,N.Agholor,Nelson Agholor,PHI,WR,20.45,42,reception,0,0,2018,REG,14
+276,R.Foster,Robert Foster,BUF,WR,21.62,12,reception,0,0,2018,REG,14
+277,S.Barkley,Saquon Barkley,NYG,RB,21.91,78,rush,1,0,2018,REG,14
+278,S.Diggs,Stefon Diggs,MIN,WR,20.27,48,reception,0,0,2018,REG,14
+279,T.Cohen,Tarik Cohen,CHI,RB,19.98,32,rush,0,0,2018,REG,14
+280,A.Robinson,Aldrick Robinson,MIN,WR,20.8,40,reception,1,0,2018,REG,15
+281,A.Erickson,Alex Erickson,CIN,WR,21.52,77,kickoff ret,0,0,2018,REG,15
+282,D.Williams,Damien Williams,KC,RB,20.93,32,reception,0,0,2018,REG,15
+283,D.Waller,Darren Waller,OAK,TE,20.33,44,reception,0,0,2018,REG,15
+284,D.Carter,DeAndre Carter,HOU,WR,19.94,50,reception,0,0,2018,REG,15
+285,D.Westbrook,Dede Westbrook,JAX,WR,21.8,74,punt ret,1,0,2018,REG,15
+286,J.Driskel,Jeff Driskel,CIN,QB,20.03,13,rush,0,0,2018,REG,15
+287,J.Mixon,Joe Mixon,CIN,HB,20.78,15,rush,1,0,2018,REG,15
+288,J.Nelson,Jordy Nelson,OAK,WR,19.82,44,reception,0,0,2018,REG,15
+289,K.Ballage,Kalen Ballage,MIA,RB,21.87,75,rush,1,0,2018,REG,15
+290,M.Mariota,Marcus Mariota,TEN,QB,20.09,11,rush,0,0,2018,REG,15
+291,M.Sherels,Marcus Sherels,MIN,CB,20.39,70,punt ret,0,0,2018,REG,15
+292,M.Fitzpatrick,Minkah Fitzpatrick,MIA,S,21.85,50,int,1,0,2018,REG,15
+293,N.Chubb,Nick Chubb,CLE,RB,20.45,40,rush,0,0,2018,REG,15
+294,T.Coleman,Tevin Coleman,ATL,RB,21.19,28,rush,0,1,2018,REG,15
+295,T.Coleman,Tevin Coleman,ATL,RB,20.41,65,rush,0,0,2018,REG,15
+296,T.Coleman,Tevin Coleman,ATL,RB,20.29,43,rush,1,0,2018,REG,15
+297,T.Patrick,Tim Patrick,DEN,WR,19.8,24,reception,0,0,2018,REG,15
+298,T.Gurley,Todd Gurley,LAR,RB,19.82,9,rush,0,0,2018,REG,15
+299,T.Benjamin,Travis Benjamin,LAC,WR,20.03,8,rush,0,0,2018,REG,15
+300,A.Jeffery,Alshon Jeffery,PHI,WR,20.25,52,reception,0,0,2018,REG,16
+301,A.Kamara,Alvin Kamara,NO,RB,20.52,42,reception,0,0,2018,REG,16
+302,A.Roberts,Andre Roberts,NYJ,WR,21.31,99,kickoff ret,1,0,2018,REG,16
+303,A.Roberts,Andre Roberts,NYJ,WR,20.21,51,kickoff ret,0,0,2018,REG,16
+304,B.Cooks,Brandin Cooks,LAR,WR,20.15,17,rush,0,1,2018,REG,16
+305,B.Perriman,Breshad Perriman,CLE,WR,20,63,reception,0,0,2018,REG,16
+306,B.Hill,Brian Hill,ATL,HB,21.35,60,rush,0,0,2018,REG,16
+307,C.Ridley,Calvin Ridley,ATL,WR,20.6,75,reception,1,0,2018,REG,16
+308,C.Patterson,Cordarrelle Patterson,NE,WR,21.29,15,rush,0,0,2018,REG,16
+309,C.Patterson,Cordarrelle Patterson,NE,WR,20.15,27,rush,0,0,2018,REG,16
+310,E.Elliott,Ezekiel Elliott,DAL,RB,20.05,12,rush,0,0,2018,REG,16
+311,G.Edwards,Gus Edwards,BAL,RB,20.13,43,rush,0,0,2018,REG,16
+312,J.Natson,JoJo Natson,LAR,WR,20.41,26,punt ret,0,0,2018,REG,16
+313,J.Jones,Julio Jones,ATL,WR,21.35,1,reception,1,0,2018,REG,16
+314,K.Ballage,Kalen Ballage,MIA,RB,20.09,31,reception,0,0,2018,REG,16
+315,K.Golladay,Kenny Golladay,DET,WR,20.29,21,reception,0,0,2018,REG,16
+316,M.Sanu,Mohamed Sanu,ATL,WR,20.21,44,reception,1,0,2018,REG,16
+317,N.Agholor,Nelson Agholor,PHI,WR,20.78,83,reception,1,0,2018,REG,16
+318,T.Hilton,T.Y. Hilton,IND,WR,20.05,55,reception,0,0,2018,REG,16
+319,T.Hill,Tyreek Hill,KC,WR,20.25,32,reception,0,0,2018,REG,16
+320,A.Hurns,Allen Hurns,DAL,WR,19.98,49,reception,0,0,2018,REG,17
+321,B.Perriman,Breshad Perriman,CLE,WR,20.9,5,rush,0,0,2018,REG,17
+322,B.Perriman,Breshad Perriman,CLE,WR,20.03,28,reception,1,0,2018,REG,17
+323,C.Carson,Chris Carson,SEA,RB,20.93,61,rush,0,0,2018,REG,17
+324,C.Coleman,Corey Coleman,NYG,WR,19.9,38,kickoff ret,0,0,2018,REG,17
+325,C.Samuel,Curtis Samuel,CAR,WR,20.15,53,reception,1,0,2018,REG,17
+326,D.Cook,Dalvin Cook,MIN,RB,20.03,5,rush,0,0,2018,REG,17
+327,D.Sorensen,Daniel Sorensen,KC,SS,20.86,54,int,1,0,2018,REG,17
+328,D.Henry,Derrick Henry,TEN,RB,20.17,33,rush,0,0,2018,REG,17
+329,G.Conley,Gareon Conley,OAK,CB,20.37,0,int,0,0,2018,REG,17
+330,J.Mixon,Joe Mixon,CIN,HB,19.9,21,rush,0,0,2018,REG,17
+331,K.Allen,Kyle Allen,CAR,QB,21.35,10,rush,0,0,2018,REG,17
+332,P.Dorsett,Phillip Dorsett,NE,WR,20.64,11,rush,0,0,2018,REG,17
+333,R.Jones,Reshad Jones,MIA,SS,20.03,29,int,1,0,2018,REG,17
+334,S.Barkley,Saquon Barkley,NYG,RB,20.78,68,rush,0,0,2018,REG,17
+335,T.Gabriel,Taylor Gabriel,CHI,WR,20.27,40,reception,0,0,2018,REG,17
+336,T.Hill,Tyreek Hill,KC,WR,20.54,67,reception,1,0,2018,REG,17
+337,T.Hill,Tyreek Hill,KC,WR,19.98,5,reception,0,0,2018,REG,17
+338,Z.Jones,Zay Jones,BUF,WR,20.97,18,reception,1,0,2018,REG,17
+339,Z.Jones,Zay Jones,BUF,WR,20.19,26,reception,1,0,2018,REG,17

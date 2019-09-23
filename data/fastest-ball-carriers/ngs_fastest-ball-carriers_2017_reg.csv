@@ -1,0 +1,341 @@
+,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week
+0,A.Roberts,Andre Roberts,ATL,WR,19.39,11,kickoff ret,0,1,2017,REG,1
+1,B.Cooks,Brandin Cooks,NE,WR,19.9,54,reception,0,0,2017,REG,1
+2,C.Carson,Chris Carson,SEA,RB,19.27,30,rush,0,0,2017,REG,1
+3,C.Latimer,Cody Latimer,DEN,WR,19.84,36,kickoff ret,0,0,2017,REG,1
+4,D.Cook,Dalvin Cook,MIN,RB,20.45,33,rush,0,0,2017,REG,1
+5,D.Cook,Dalvin Cook,MIN,RB,19.98,32,rush,0,0,2017,REG,1
+6,I.Mckenzie,Isaiah McKenzie,DEN,WR,19.47,31,punt ret,0,0,2017,REG,1
+7,J.Maclin,Jeremy Maclin,BAL,WR,20.6,48,reception,1,0,2017,REG,1
+8,J.Mckinnon,Jerick McKinnon,MIN,RB,19.27,31,kickoff ret,0,0,2017,REG,1
+9,J.Matthews,Jordan Matthews,BUF,WR,19.55,47,reception,0,0,2017,REG,1
+10,K.Hunt,Kareem Hunt,KC,RB,20.84,58,rush,0,0,2017,REG,1
+11,K.Golladay,Kenny Golladay,DET,WR,19.43,45,reception,1,0,2017,REG,1
+12,L.Joyner,Lamarcus Joyner,LAR,CB,19.62,29,int,1,0,2017,REG,1
+13,L.Fitzgerald,Larry Fitzgerald,ARI,WR,19.74,33,reception,0,0,2017,REG,1
+14,L.Mccoy,LeSean McCoy,BUF,RB,19.66,23,rush,0,0,2017,REG,1
+15,R.Grant,Ryan Grant,WAS,WR,19.37,34,reception,0,0,2017,REG,1
+16,T.Gipson,Tashaun Gipson,JAX,FS,19.6,67,int,0,0,2017,REG,1
+17,T.Lewis,Tommylee Lewis,NO,WR,19.25,52,reception,0,0,2017,REG,1
+18,T.Benjamin,Travis Benjamin,LAC,WR,20.56,38,reception,1,0,2017,REG,1
+19,T.Hill,Tyreek Hill,KC,WR,20.82,75,reception,1,0,2017,REG,1
+20,A.Green,A.J. Green,CIN,WR,20.5,50,reception,0,0,2017,REG,2
+21,A.Brown,Antonio Brown,PIT,WR,19.62,26,reception,0,0,2017,REG,2
+22,C.Hyde,Carlos Hyde,SF,RB,19.96,61,rush,0,0,2017,REG,2
+23,J.Nelson,J.J. Nelson,ARI,WR,19.9,45,reception,1,0,2017,REG,2
+24,J.Richard,Jalen Richard,OAK,RB,20.07,52,rush,1,0,2017,REG,2
+25,J.Agnew,Jamal Agnew,DET,CB,19.66,88,punt ret,1,0,2017,REG,2
+26,K.Hunt,Kareem Hunt,KC,RB,20.17,53,rush,1,1,2017,REG,2
+27,K.Stills,Kenny Stills,MIA,WR,19.8,29,reception,1,0,2017,REG,2
+28,M.Mariota,Marcus Mariota,TEN,QB,19.9,7,rush,0,0,2017,REG,2
+29,M.Bryant,Martavis Bryant,PIT,WR,20.15,27,reception,1,0,2017,REG,2
+30,M.Bryant,Martavis Bryant,PIT,WR,19.8,51,reception,0,0,2017,REG,2
+31,M.Bryant,Martavis Bryant,PIT,WR,19.74,7,rush,0,0,2017,REG,2
+32,P.Dorsett,Phillip Dorsett,NE,WR,19.58,7,rush,0,0,2017,REG,2
+33,R.Mcclain,Robert McClain,TB,CB,19.62,47,int,1,0,2017,REG,2
+34,S.Shepard,Sterling Shepard,NYG,WR,19.68,12,rush,0,0,2017,REG,2
+35,T.Taylor,Taywan Taylor,TEN,WR,21.44,42,reception,0,0,2017,REG,2
+36,T.Coleman,Tevin Coleman,ATL,RB,21.05,35,rush,0,0,2017,REG,2
+37,T.Gurley,Todd Gurley,LAR,RB,20.93,28,reception,0,0,2017,REG,2
+38,T.Gurley,Todd Gurley,LAR,RB,19.98,18,rush,0,0,2017,REG,2
+39,V.Bolden,Victor Bolden,SF,WR,19.92,34,kickoff ret,0,0,2017,REG,2
+40,A.Jackson,Adoree' Jackson,TEN,CB,20.39,22,punt ret,0,1,2017,REG,3
+41,B.Powell,Bilal Powell,NYJ,RB,19.8,4,rush,0,1,2017,REG,3
+42,B.Cooks,Brandin Cooks,NE,WR,20.48,42,reception,1,0,2017,REG,3
+43,C.Hogan,Chris Hogan,NE,WR,20.15,47,reception,1,0,2017,REG,3
+44,C.Thompson,Chris Thompson,WAS,RB,20.23,74,reception,0,0,2017,REG,3
+45,C.Grant,Corey Grant,JAX,RB,20.99,58,rush,0,1,2017,REG,3
+46,C.Samuel,Curtis Samuel,CAR,WR,20.99,31,rush,0,0,2017,REG,3
+47,D.Slay,Darius Slay,DET,CB,20.54,37,int,0,0,2017,REG,3
+48,K.Hunt,Kareem Hunt,KC,RB,20.82,69,rush,1,0,2017,REG,3
+49,M.Cooper,Marcus Cooper,CHI,CB,20.76,73,misc,0,1,2017,REG,3
+50,M.Goodwin,Marquise Goodwin,SF,WR,20.54,50,reception,0,0,2017,REG,3
+51,R.Anderson,Robby Anderson,NYJ,WR,20.88,69,reception,1,0,2017,REG,3
+52,S.Watkins,Sammy Watkins,LAR,WR,19.96,47,reception,0,0,2017,REG,3
+53,S.Diggs,Stefon Diggs,MIN,WR,20.66,47,reception,0,0,2017,REG,3
+54,S.Shepard,Sterling Shepard,NYG,WR,20.52,77,reception,1,0,2017,REG,3
+55,T.Cohen,Tarik Cohen,CHI,RB,19.82,36,rush,0,0,2017,REG,3
+56,T.Gabriel,Taylor Gabriel,ATL,WR,20.58,40,reception,1,0,2017,REG,3
+57,T.Gurley,Todd Gurley,LAR,RB,20.62,29,rush,0,0,2017,REG,3
+58,T.Hill,Tyreek Hill,KC,WR,21.17,30,reception,1,0,2017,REG,3
+59,W.Jackson,William Jackson,CIN,CB,21.52,75,int,1,0,2017,REG,3
+60,A.Jackson,Adoree' Jackson,TEN,CB,20.09,48,kickoff ret,0,0,2017,REG,4
+61,A.Erickson,Alex Erickson,CIN,WR,19.68,8,punt ret,0,1,2017,REG,4
+62,A.Morris,Alfred Morris,DAL,RB,19.92,70,rush,0,0,2017,REG,4
+63,A.Roberts,Andre Roberts,ATL,WR,19.41,61,kickoff ret,0,0,2017,REG,4
+64,B.Powell,Bilal Powell,NYJ,RB,19.82,75,rush,1,0,2017,REG,4
+65,E.Mcguire,Elijah McGuire,NYJ,RB,21.17,69,rush,1,0,2017,REG,4
+66,F.Whittaker,Fozzy Whittaker,CAR,RB,20.05,28,reception,1,0,2017,REG,4
+67,G.Bernard,Giovani Bernard,CIN,RB,19.9,61,reception,1,0,2017,REG,4
+68,J.Holton,Johnny Holton,OAK,WR,19.88,64,reception,1,0,2017,REG,4
+69,J.Nelson,Jordy Nelson,GB,WR,19.39,58,reception,0,0,2017,REG,4
+70,M.Mariota,Marcus Mariota,TEN,QB,19.78,34,rush,1,0,2017,REG,4
+71,M.Breida,Matt Breida,SF,RB,19.55,8,rush,0,0,2017,REG,4
+72,O.Beckham,Odell Beckham,NYG,WR,19.43,42,reception,0,0,2017,REG,4
+73,P.Cooper,Pharoh Cooper,LAR,WR,19.29,66,kickoff ret,0,0,2017,REG,4
+74,R.Anderson,Robby Anderson,NYJ,WR,19.37,41,reception,0,0,2017,REG,4
+75,T.Coleman,Tevin Coleman,ATL,RB,20.99,29,rush,0,0,2017,REG,4
+76,T.Coleman,Tevin Coleman,ATL,RB,20.76,39,reception,0,0,2017,REG,4
+77,T.Gurley,Todd Gurley,LAR,RB,19.27,53,reception,1,0,2017,REG,4
+78,T.Williams,Tyrell Williams,LAC,WR,20.74,75,reception,1,0,2017,REG,4
+79,W.Fuller,Will Fuller,HOU,WR,19.43,4,rush,0,0,2017,REG,4
+80,A.Green,A.J. Green,CIN,WR,20.09,77,reception,1,0,2017,REG,5
+81,A.Hunt,Akeem Hunt,KC,RB,19.53,34,kickoff ret,0,0,2017,REG,5
+82,B.Cooks,Brandin Cooks,NE,WR,19.43,34,reception,0,0,2017,REG,5
+83,C.Thompson,Chris Thompson,HOU,WR,21.19,19,reception,0,0,2017,REG,5
+84,D.Jackson,DeSean Jackson,TB,WR,20.5,41,reception,0,0,2017,REG,5
+85,J.Mckinnon,Jerick McKinnon,MIN,RB,19.53,58,rush,1,0,2017,REG,5
+86,J.Johnson,John Johnson,LAR,SS,19.7,69,int,0,0,2017,REG,5
+87,J.Smith-Schuster,JuJu Smith-Schuster,PIT,WR,19.27,9,kickoff ret,0,0,2017,REG,5
+88,L.Fournette,Leonard Fournette,JAX,RB,22.05,90,rush,1,0,2017,REG,5
+89,M.Goodwin,Marquise Goodwin,SF,WR,19.68,51,reception,0,0,2017,REG,5
+90,M.Wallace,Mike Wallace,BAL,WR,20.39,54,reception,0,0,2017,REG,5
+91,M.Wallace,Mike Wallace,BAL,WR,20.35,52,reception,0,0,2017,REG,5
+92,M.Trubisky,Mitchell Trubisky,CHI,QB,19.62,13,rush,0,1,2017,REG,5
+93,N.Agholor,Nelson Agholor,PHI,WR,20.82,72,reception,1,0,2017,REG,5
+94,T.Smith,Telvin Smith,JAX,OLB,19.62,28,int,1,0,2017,REG,5
+95,T.Smith,Torrey Smith,PHI,WR,20,59,reception,1,0,2017,REG,5
+96,T.Benjamin,Travis Benjamin,LAC,WR,19.92,14,rush,0,0,2017,REG,5
+97,T.Hill,Tyreek Hill,KC,WR,19.84,82,punt ret,1,0,2017,REG,5
+98,W.Fuller,Will Fuller,HOU,WR,19.66,48,reception,1,0,2017,REG,5
+99,W.Fuller,Will Fuller,HOU,WR,19.29,49,punt ret,0,0,2017,REG,5
+100,A.Jackson,Adoree' Jackson,TEN,CB,19.51,40,kickoff ret,0,0,2017,REG,6
+101,A.Brown,Antonio Brown,PIT,WR,19.45,51,reception,1,0,2017,REG,6
+102,B.Cooks,Brandin Cooks,NE,WR,19.82,42,reception,0,0,2017,REG,6
+103,B.Skrine,Buster Skrine,NYJ,CB,19.96,0,int,0,0,2017,REG,6
+104,C.Thompson,Chris Thompson,WAS,RB,20.07,49,reception,0,0,2017,REG,6
+105,C.Patterson,Cordarrelle Patterson,OAK,WR,19.96,39,kickoff ret,0,0,2017,REG,6
+106,D.Henry,Derrick Henry,TEN,RB,19.51,72,rush,1,0,2017,REG,6
+107,J.Peppers,Jabrill Peppers,CLE,FS,19.64,17,punt ret,0,0,2017,REG,6
+108,J.Agnew,Jamal Agnew,DET,CB,20.41,74,punt ret,1,1,2017,REG,6
+109,J.Jenkins,Janoris Jenkins,NYG,CB,19.8,43,int,1,0,2017,REG,6
+110,J.Mccourty,Jason McCourty,CLE,CB,21.07,56,int,1,0,2017,REG,6
+111,J.Howard,Jordan Howard,CHI,RB,19.6,53,rush,0,0,2017,REG,6
+112,L.Fournette,Leonard Fournette,JAX,RB,21.76,75,rush,1,0,2017,REG,6
+113,M.Ingram,Mark Ingram,NO,RB,19.9,51,rush,0,0,2017,REG,6
+114,M.Hall,Marvin Hall,ATL,WR,20.72,40,reception,1,0,2017,REG,6
+115,M.Campanaro,Michael Campanaro,BAL,WR,20.62,77,punt ret,1,0,2017,REG,6
+116,M.Evans,Mike Evans,TB,WR,19.7,37,reception,1,0,2017,REG,6
+117,O.Darkwa,Orleans Darkwa,NYG,RB,19.68,47,rush,0,0,2017,REG,6
+118,Q.Bray,Quan Bray,IND,WR,19.78,60,kickoff ret,0,0,2017,REG,6
+119,R.Woods,Robert Woods,LAR,WR,19.7,15,reception,0,0,2017,REG,6
+120,A.Jones,Aaron Jones,GB,RB,19.08,46,rush,1,0,2017,REG,7
+121,A.Wilson,Albert Wilson,KC,WR,19.35,63,reception,1,0,2017,REG,7
+122,A.Cooper,Amari Cooper,OAK,WR,19.7,45,reception,1,0,2017,REG,7
+123,B.Powell,Bilal Powell,NYJ,RB,19.53,31,reception,0,0,2017,REG,7
+124,B.Hundley,Brett Hundley,GB,QB,19.06,14,rush,1,0,2017,REG,7
+125,D.Heyward-Bey,Darrius Heyward-Bey,PIT,WR,20.62,44,reception,0,0,2017,REG,7
+126,D.Thompson,Deonte Thompson,BUF,WR,19.39,27,reception,0,0,2017,REG,7
+127,E.Jackson,Eddie Jackson,CHI,FS,19.74,76,int,1,0,2017,REG,7
+128,E.Elliott,Ezekiel Elliott,DAL,RB,20.35,72,reception,1,0,2017,REG,7
+129,L.Mccoy,LeSean McCoy,BUF,RB,19.49,10,rush,0,0,2017,REG,7
+130,M.Hollins,Mack Hollins,PHI,WR,19.19,64,reception,1,0,2017,REG,7
+131,M.Lee,Marqise Lee,JAX,WR,20.05,45,reception,0,0,2017,REG,7
+132,M.Goodwin,Marquise Goodwin,SF,WR,19.55,14,reception,0,0,2017,REG,7
+133,M.Goodwin,Marquise Goodwin,SF,WR,19.31,48,reception,0,0,2017,REG,7
+134,T.Yeldon,T.J. Yeldon,JAX,RB,19.82,58,rush,1,0,2017,REG,7
+135,T.Ginn,Ted Ginn,NO,WR,20.48,47,reception,0,0,2017,REG,7
+136,T.Ginn,Ted Ginn,NO,WR,19.21,40,reception,0,0,2017,REG,7
+137,T.Benjamin,Travis Benjamin,LAC,WR,20.82,42,reception,1,0,2017,REG,7
+138,T.Benjamin,Travis Benjamin,LAC,WR,20.62,65,punt ret,1,0,2017,REG,7
+139,T.Hill,Tyreek Hill,KC,WR,21.64,64,reception,1,0,2017,REG,7
+140,A.Erickson,Alex Erickson,CIN,WR,19.43,29,punt ret,0,0,2017,REG,8
+141,B.Coleman,Brandon Coleman,NO,WR,20.64,54,reception,0,0,2017,REG,8
+142,D.Hopkins,DeAndre Hopkins,HOU,WR,20.62,72,reception,1,1,2017,REG,8
+143,D.Lewis,Dion Lewis,NE,RB,20,71,kickoff ret,0,0,2017,REG,8
+144,E.Thomas,Earl Thomas,SEA,FS,20.23,78,int,1,0,2017,REG,8
+145,J.Olawale,Jamize Olawale,OAK,FB,19.8,9,kickoff ret,0,1,2017,REG,8
+146,J.Maclin,Jeremy Maclin,BAL,WR,19.66,34,reception,1,0,2017,REG,8
+147,J.Smith,Jimmy Smith,BAL,CB,20.17,50,int,1,0,2017,REG,8
+148,J.Mixon,Joe Mixon,CIN,RB,19.53,67,reception,0,0,2017,REG,8
+149,J.Howard,Jordan Howard,CHI,RB,20.95,50,rush,0,0,2017,REG,8
+150,J.Smith-Schuster,JuJu Smith-Schuster,PIT,WR,20.64,97,reception,1,0,2017,REG,8
+151,J.Jones,Julio Jones,ATL,WR,21.13,53,reception,0,0,2017,REG,8
+152,L.Mccoy,LeSean McCoy,BUF,RB,19.68,48,rush,1,1,2017,REG,8
+153,M.Mack,Marlon Mack,IND,RB,19.7,24,reception,1,0,2017,REG,8
+154,M.Gordon,Melvin Gordon,LAC,RB,20.25,87,rush,1,0,2017,REG,8
+155,T.Ginn,Ted Ginn,NO,WR,19.49,53,reception,0,0,2017,REG,8
+156,T.Benjamin,Travis Benjamin,LAC,WR,19.66,7,rush,0,0,2017,REG,8
+157,T.Benjamin,Travis Benjamin,LAC,WR,19.39,7,rush,0,0,2017,REG,8
+158,T.Hill,Tyreek Hill,KC,WR,20.62,0,punt ret,0,1,2017,REG,8
+159,W.Fuller,Will Fuller,HOU,WR,20.64,59,reception,1,0,2017,REG,8
+160,C.Mccaffrey,Christian McCaffrey,CAR,RB,19.04,2,rush,0,0,2017,REG,9
+161,E.Sanders,Emmanuel Sanders,DEN,WR,18.98,30,reception,0,0,2017,REG,9
+162,J.Mickens,Jaydon Mickens,JAX,WR,19.62,63,punt ret,1,0,2017,REG,9
+163,J.Holton,Johnny Holton,OAK,WR,19.8,44,reception,1,0,2017,REG,9
+164,J.Doctson,Josh Doctson,WAS,WR,19.47,38,reception,0,0,2017,REG,9
+165,K.Clay,Kaelin Clay,CAR,WR,19.21,0,punt ret,0,1,2017,REG,9
+166,M.Goodwin,Marquise Goodwin,SF,WR,21.68,55,reception,0,0,2017,REG,9
+167,M.Adams,Mike Adams,CAR,SS,18.92,40,int,0,0,2017,REG,9
+168,P.Robinson,Patrick Robinson,PHI,CB,19.17,17,int,0,0,2017,REG,9
+169,P.Cooper,Pharoh Cooper,LAR,WR,19.82,10,punt ret,0,1,2017,REG,9
+170,R.Woods,Robert Woods,LAR,WR,20.43,52,reception,1,0,2017,REG,9
+171,S.Watkins,Sammy Watkins,LAR,WR,20.33,67,reception,1,0,2017,REG,9
+172,S.Shepard,Sterling Shepard,NYG,WR,19.74,37,reception,0,0,2017,REG,9
+173,T.Hilton,T.Y. Hilton,IND,WR,20.43,45,reception,1,0,2017,REG,9
+174,T.Hilton,T.Y. Hilton,IND,WR,19.64,80,reception,1,0,2017,REG,9
+175,T.Gabriel,Taylor Gabriel,ATL,WR,19.43,40,reception,0,0,2017,REG,9
+176,T.Riddick,Theo Riddick,DET,RB,19.08,63,reception,0,0,2017,REG,9
+177,T.Gurley,Todd Gurley,LAR,RB,20.62,36,rush,0,0,2017,REG,9
+178,T.Hill,Tyreek Hill,KC,WR,19.47,12,rush,0,0,2017,REG,9
+179,T.Taylor,Tyrod Taylor,BUF,QB,19.23,18,rush,0,0,2017,REG,9
+180,C.Newton,Cam Newton,CAR,QB,20.09,69,rush,0,0,2017,REG,10
+181,C.Hyde,Carlos Hyde,SF,RB,19.78,28,rush,0,1,2017,REG,10
+182,C.Grant,Corey Grant,JAX,RB,20.43,56,rush,1,0,2017,REG,10
+183,D.Funchess,Devin Funchess,CAR,WR,20.48,28,reception,1,0,2017,REG,10
+184,D.Lewis,Dion Lewis,NE,RB,19.86,103,kickoff ret,1,0,2017,REG,10
+185,D.Moncrief,Donte Moncrief,IND,WR,20.05,60,reception,1,0,2017,REG,10
+186,D.Baldwin,Doug Baldwin,SEA,WR,19.98,54,reception,0,0,2017,REG,10
+187,G.Tate,Golden Tate,DET,WR,19.92,40,reception,1,0,2017,REG,10
+188,J.Smith-Schuster,JuJu Smith-Schuster,PIT,WR,19.51,44,reception,0,0,2017,REG,10
+189,J.Jones,Julio Jones,ATL,WR,19.68,24,reception,0,0,2017,REG,10
+190,K.Drake,Kenyan Drake,MIA,RB,19.68,66,rush,1,0,2017,REG,10
+191,M.Goodwin,Marquise Goodwin,SF,WR,20.21,83,reception,1,0,2017,REG,10
+192,M.Goodwin,Marquise Goodwin,SF,WR,20.19,18,rush,0,0,2017,REG,10
+193,R.Woods,Robert Woods,LAR,WR,20.54,94,reception,1,0,2017,REG,10
+194,T.Ginn,Ted Ginn,NO,WR,19.92,9,punt ret,0,0,2017,REG,10
+195,T.Gurley,Todd Gurley,LAR,RB,20.35,43,reception,0,0,2017,REG,10
+196,T.Benjamin,Travis Benjamin,LAC,WR,20.39,13,rush,0,0,2017,REG,10
+197,T.Davis,Trevor Davis,GB,WR,19.51,15,punt ret,0,1,2017,REG,10
+198,T.Edmunds,Trey Edmunds,NO,RB,19.88,41,rush,1,0,2017,REG,10
+199,T.Montgomery,Ty Montgomery,GB,RB,20.45,37,rush,1,0,2017,REG,10
+200,A.Thielen,Adam Thielen,MIN,WR,20.58,65,reception,1,0,2017,REG,11
+201,A.Roberts,Andre Roberts,ATL,WR,19.27,50,kickoff ret,0,0,2017,REG,11
+202,B.Gabbert,Blaine Gabbert,ARI,QB,19.35,1,rush,0,0,2017,REG,11
+203,B.Gabbert,Blaine Gabbert,ARI,QB,19.06,12,rush,0,0,2017,REG,11
+204,B.Cooks,Brandin Cooks,NE,WR,20.23,52,reception,0,0,2017,REG,11
+205,B.Cooks,Brandin Cooks,NE,WR,20.07,64,reception,1,0,2017,REG,11
+206,C.Sensabaugh,Coty Sensabaugh,PIT,CB,19.51,32,int,0,0,2017,REG,11
+207,D.Foreman,D'Onta Foreman,HOU,RB,20.39,34,rush,1,0,2017,REG,11
+208,D.Williams,Damien Williams,MIA,RB,20.54,69,rush,0,0,2017,REG,11
+209,D.Harmon,Duron Harmon,NE,FS,19.58,0,int,0,0,2017,REG,11
+210,J.Ajayi,Jay Ajayi,PHI,RB,20.41,71,rush,0,0,2017,REG,11
+211,J.Howard,Jordan Howard,CHI,RB,19.86,50,rush,0,0,2017,REG,11
+212,K.Stills,Kenny Stills,MIA,WR,19.29,61,reception,1,0,2017,REG,11
+213,L.Mccoy,LeSean McCoy,BUF,RB,19.45,37,rush,0,0,2017,REG,11
+214,R.Matthews,Rishard Matthews,TEN,WR,19.29,75,reception,1,0,2017,REG,11
+215,R.Switzer,Ryan Switzer,DAL,WR,19.62,61,kickoff ret,0,0,2017,REG,11
+216,S.Davis,Sean Davis,PIT,SS,20.5,41,int,0,0,2017,REG,11
+217,T.Yeldon,T.J. Yeldon,JAX,RB,18.94,8,rush,0,0,2017,REG,11
+218,T.Lockett,Tyler Lockett,SEA,WR,19.76,57,kickoff ret,0,0,2017,REG,11
+219,V.Davis,Vernon Davis,WAS,TE,19.72,36,reception,0,0,2017,REG,11
+220,A.Collins,Alex Collins,BAL,RB,19.84,12,rush,0,0,2017,REG,12
+221,A.Kamara,Alvin Kamara,NO,RB,20.86,74,rush,1,0,2017,REG,12
+222,C.Grant,Corey Grant,JAX,RB,19.74,68,kickoff ret,0,0,2017,REG,12
+223,D.Walker,Delanie Walker,TEN,TE,19.82,37,reception,0,0,2017,REG,12
+224,J.Mckissic,J.D. McKissic,SEA,RB,19.39,7,rush,0,0,2017,REG,12
+225,J.Williams,Jamaal Williams,GB,RB,19.45,54,reception,1,0,2017,REG,12
+226,J.Mixon,Joe Mixon,CIN,RB,19.6,36,reception,0,0,2017,REG,12
+227,J.Holton,Johnny Holton,OAK,WR,20.5,47,reception,0,0,2017,REG,12
+228,J.Jones,Julio Jones,ATL,WR,20.11,51,reception,1,0,2017,REG,12
+229,J.Jones,Julio Jones,ATL,WR,19.88,15,rush,0,0,2017,REG,12
+230,K.Clay,Kaelin Clay,CAR,WR,20.72,29,rush,0,0,2017,REG,12
+231,K.Clay,Kaelin Clay,CAR,WR,20.33,60,punt ret,1,0,2017,REG,12
+232,L.Murray,Latavius Murray,MIN,RB,19.6,46,rush,0,0,2017,REG,12
+233,M.Bryant,Martavis Bryant,PIT,WR,20.78,38,kickoff ret,0,0,2017,REG,12
+234,P.Peterson,Patrick Peterson,ARI,CB,20.8,12,punt ret,0,0,2017,REG,12
+235,T.Coleman,Tevin Coleman,ATL,RB,20.07,14,rush,1,0,2017,REG,12
+236,T.Gurley,Todd Gurley,LAR,RB,19.74,31,reception,0,0,2017,REG,12
+237,T.Benjamin,Travis Benjamin,LAC,WR,19.8,46,reception,0,0,2017,REG,12
+238,T.Williams,Tyrell Williams,LAC,WR,20.35,31,reception,0,0,2017,REG,12
+239,Z.Jones,Zay Jones,BUF,WR,19.9,11,reception,1,0,2017,REG,12
+240,B.Miller,Braxton Miller,HOU,WR,19.43,57,reception,0,0,2017,REG,13
+241,C.Patterson,Cordarrelle Patterson,OAK,WR,20.45,59,reception,0,0,2017,REG,13
+242,D.Henry,Derrick Henry,TEN,RB,21.64,75,rush,1,1,2017,REG,13
+243,J.Simmons,Justin Simmons,DEN,SS,20.48,65,int,1,1,2017,REG,13
+244,K.Cole,Keelan Cole,JAX,WR,19.39,32,reception,0,0,2017,REG,13
+245,K.Golladay,Kenny Golladay,DET,WR,19.6,31,reception,0,0,2017,REG,13
+246,K.Drake,Kenyan Drake,MIA,RB,20.07,42,rush,1,0,2017,REG,13
+247,M.Mariota,Marcus Mariota,TEN,QB,19.25,12,rush,0,1,2017,REG,13
+248,M.Ingram,Mark Ingram,NO,RB,19.8,72,rush,0,0,2017,REG,13
+249,M.Bryant,Martavis Bryant,PIT,WR,21.72,22,kickoff ret,0,1,2017,REG,13
+250,M.Wallace,Mike Wallace,BAL,WR,21.42,66,reception,0,0,2017,REG,13
+251,P.Cooper,Pharoh Cooper,LAR,WR,19.39,30,punt ret,0,0,2017,REG,13
+252,R.Lewis,Roger Lewis,NYG,WR,19.84,9,reception,0,0,2017,REG,13
+253,R.Switzer,Ryan Switzer,DAL,WR,20.35,83,punt ret,1,0,2017,REG,13
+254,T.Cohen,Tarik Cohen,CHI,RB,20.15,61,punt ret,1,0,2017,REG,13
+255,T.Cohen,Tarik Cohen,CHI,RB,19.55,7,punt ret,0,1,2017,REG,13
+256,T.Gurley,Todd Gurley,LAR,RB,19.37,33,reception,0,0,2017,REG,13
+257,T.Davis,Trevor Davis,GB,WR,19.98,29,kickoff ret,0,1,2017,REG,13
+258,T.Hill,Tyreek Hill,KC,WR,20.78,79,reception,1,0,2017,REG,13
+259,T.Hill,Tyreek Hill,KC,WR,20.52,40,reception,1,0,2017,REG,13
+260,A.Bouye,A.J. Bouye,JAX,CB,19.7,0,int,0,1,2017,REG,14
+261,A.Brown,Antonio Brown,PIT,WR,19.51,43,reception,0,0,2017,REG,14
+262,B.Breeland,Bashaud Breeland,WAS,CB,20.03,96,int,1,0,2017,REG,14
+263,C.Newton,Cam Newton,CAR,QB,19.8,62,rush,0,0,2017,REG,14
+264,C.Hyde,Carlos Hyde,SF,RB,19.8,31,rush,0,0,2017,REG,14
+265,C.Williams,Chad Williams,ARI,WR,19.53,33,rush,0,0,2017,REG,14
+266,D.Jackson,DeSean Jackson,TB,WR,20.29,23,rush,0,0,2017,REG,14
+267,D.Baldwin,Doug Baldwin,SEA,WR,19.98,43,reception,0,0,2017,REG,14
+268,J.Stewart,Jonathan Stewart,CAR,RB,20.35,60,rush,1,0,2017,REG,14
+269,J.Bellamy,Josh Bellamy,CHI,WR,19.25,36,reception,0,0,2017,REG,14
+270,K.Cole,Keelan Cole,JAX,WR,20.68,75,reception,1,0,2017,REG,14
+271,K.Allen,Keenan Allen,LAC,WR,19.21,51,reception,0,0,2017,REG,14
+272,M.Breida,Matt Breida,SF,RB,19.8,4,rush,0,0,2017,REG,14
+273,R.Smith,Rod Smith,DAL,RB,19.72,81,reception,1,0,2017,REG,14
+274,T.Gurley,Todd Gurley,LAR,RB,20.11,30,rush,0,0,2017,REG,14
+275,T.Gurley,Todd Gurley,LAR,RB,19.74,4,rush,0,1,2017,REG,14
+276,T.Benjamin,Travis Benjamin,LAC,WR,20.54,47,punt ret,0,0,2017,REG,14
+277,T.Hill,Tyreek Hill,KC,WR,20.78,44,reception,0,0,2017,REG,14
+278,T.Williams,Tyrell Williams,LAC,WR,19.76,75,reception,1,0,2017,REG,14
+279,X.Howard,Xavien Howard,MIA,CB,20.09,29,int,0,0,2017,REG,14
+280,C.Jones,Chris Jones,DAL,P,20.05,24,rush,0,0,2017,REG,15
+281,C.Patterson,Cordarrelle Patterson,OAK,WR,20.43,20,kickoff ret,0,1,2017,REG,15
+282,I.Crowell,Isaiah Crowell,CLE,RB,19.66,59,rush,0,0,2017,REG,15
+283,J.Nelson,J.J. Nelson,ARI,WR,19.92,7,rush,0,0,2017,REG,15
+284,J.Mickens,Jaydon Mickens,JAX,WR,19.21,41,reception,0,0,2017,REG,15
+285,J.Mckinnon,Jerick McKinnon,MIN,RB,19.33,29,reception,0,0,2017,REG,15
+286,J.Natson,JoJo Natson,NYJ,WR,20,15,rush,0,0,2017,REG,15
+287,J.Natson,JoJo Natson,NYJ,WR,19.58,20,kickoff ret,0,0,2017,REG,15
+288,K.Cole,Keelan Cole,JAX,WR,20.25,73,reception,0,0,2017,REG,15
+289,K.Drake,Kenyan Drake,MIA,RB,20.43,31,rush,0,0,2017,REG,15
+290,M.Ingram,Mark Ingram,NO,RB,20.15,50,rush,1,0,2017,REG,15
+291,M.Bryant,Martavis Bryant,PIT,WR,20.13,39,reception,0,0,2017,REG,15
+292,M.Breida,Matt Breida,SF,RB,19.47,28,kickoff ret,0,1,2017,REG,15
+293,T.Cohen,Tarik Cohen,CHI,RB,20.39,24,kickoff ret,0,1,2017,REG,15
+294,T.King,Tavarres King,NYG,WR,19.74,57,reception,1,0,2017,REG,15
+295,T.Austin,Tavon Austin,LAR,WR,19.33,18,rush,0,0,2017,REG,15
+296,T.Gurley,Todd Gurley,LAR,RB,21.09,57,rush,1,0,2017,REG,15
+297,T.Benjamin,Travis Benjamin,LAC,WR,19.74,7,rush,0,0,2017,REG,15
+298,T.Lockett,Tyler Lockett,SEA,WR,19.7,32,kickoff ret,0,0,2017,REG,15
+299,T.Hill,Tyreek Hill,KC,WR,21.19,64,reception,1,0,2017,REG,15
+300,A.Blue,Alfred Blue,HOU,RB,19.45,48,rush,0,0,2017,REG,16
+301,C.Newton,Cam Newton,CAR,QB,19.82,17,rush,0,0,2017,REG,16
+302,C.Godwin,Chris Godwin,TB,WR,19.35,70,reception,0,0,2017,REG,16
+303,D.Byrd,Damiere Byrd,CAR,WR,20.09,103,kickoff ret,1,0,2017,REG,16
+304,D.Jones,Deion Jones,ATL,MLB,19.76,41,int,0,0,2017,REG,16
+305,D.Freeman,Devonta Freeman,ATL,RB,19.41,4,rush,0,1,2017,REG,16
+306,D.Johnson,Dontae Johnson,SF,CB,20.58,50,int,1,0,2017,REG,16
+307,E.Rogers,Eli Rogers,PIT,WR,19.25,27,punt ret,0,0,2017,REG,16
+308,G.Bernard,Giovani Bernard,CIN,RB,19.31,25,rush,0,0,2017,REG,16
+309,J.Grant,Jakeem Grant,MIA,WR,19.78,65,reception,1,0,2017,REG,16
+310,J.Malone,Josh Malone,CIN,WR,19.55,-2,rush,0,0,2017,REG,16
+311,J.Jones,Julio Jones,ATL,WR,20.9,37,reception,0,0,2017,REG,16
+312,J.Jones,Julio Jones,ATL,WR,19.68,9,reception,0,0,2017,REG,16
+313,M.Ingram,Mark Ingram,NO,RB,19.62,26,rush,1,0,2017,REG,16
+314,M.Bryant,Martavis Bryant,PIT,WR,19.35,8,rush,0,0,2017,REG,16
+315,T.Ginn,Ted Ginn,NO,WR,20.72,54,reception,1,0,2017,REG,16
+316,T.Gurley,Todd Gurley,LAR,RB,21.23,80,reception,1,0,2017,REG,16
+317,T.Benjamin,Travis Benjamin,LAC,WR,21.17,14,punt ret,0,1,2017,REG,16
+318,T.Hill,Tyreek Hill,KC,WR,21.35,52,reception,0,0,2017,REG,16
+319,V.Davis,Vernon Davis,WAS,TE,19.51,31,reception,1,0,2017,REG,16
+320,A.Kamara,Alvin Kamara,NO,RB,20.23,106,kickoff ret,1,0,2017,REG,17
+321,A.Cooper,Amari Cooper,OAK,WR,20.21,87,reception,1,0,2017,REG,17
+322,A.Stewart,ArDarius Stewart,NYJ,WR,19.92,46,reception,0,0,2017,REG,17
+323,C.Hyde,Carlos Hyde,SF,RB,19.7,16,rush,0,0,2017,REG,17
+324,C.Moore,Chris Moore,BAL,WR,19.64,87,kickoff ret,0,0,2017,REG,17
+325,C.Thompson,Chris Thompson,HOU,WR,19.62,28,kickoff ret,0,0,2017,REG,17
+326,D.Henry,Derrick Henry,TEN,RB,19.88,66,reception,1,0,2017,REG,17
+327,J.Gordon,Josh Gordon,CLE,WR,19.53,54,reception,0,0,2017,REG,17
+328,K.Golladay,Kenny Golladay,DET,WR,19.6,54,reception,1,0,2017,REG,17
+329,K.Drake,Kenyan Drake,MIA,RB,20.58,32,rush,0,0,2017,REG,17
+330,M.Goodwin,Marquise Goodwin,SF,WR,19.96,10,rush,0,0,2017,REG,17
+331,M.Jones,Marvin Jones,DET,WR,20.64,56,reception,0,0,2017,REG,17
+332,M.Thomas,Mike Thomas,LAR,WR,19.96,50,reception,0,0,2017,REG,17
+333,R.Higgins,Rashard Higgins,CLE,WR,19.76,56,reception,1,0,2017,REG,17
+334,T.Mitchell,Terrance Mitchell,KC,CB,19.7,40,int,0,0,2017,REG,17
+335,T.Benjamin,Travis Benjamin,LAC,WR,20.13,62,reception,1,0,2017,REG,17
+336,T.Benjamin,Travis Benjamin,LAC,WR,19.82,21,reception,0,0,2017,REG,17
+337,T.Rudolph,Travis Rudolph,NYG,WR,19.88,29,reception,0,0,2017,REG,17
+338,T.Davis,Trevor Davis,GB,WR,19.9,28,punt ret,0,0,2017,REG,17
+339,T.Lockett,Tyler Lockett,SEA,WR,20.39,99,kickoff ret,1,0,2017,REG,17
