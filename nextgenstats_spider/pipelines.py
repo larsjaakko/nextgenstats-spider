@@ -222,6 +222,8 @@ class NextgenstatsSpiderPipeline(object):
             self.df['seasonType'] = self.df['week'].apply(self.season_type)
 
         self.df['season'] = spider.year
+        #Changing LA Rams abbreviation to match nflscrapR
+        self.df[self.df['team'] == 'LAR']['team'] = 'LA'
 
         if spider.week != 'all':
 

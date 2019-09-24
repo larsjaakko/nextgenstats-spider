@@ -1,7 +1,12 @@
 import scrapy
+from scrapy import Selector
 from scrapy_selenium import SeleniumRequest
 
+import time
+
 from selenium.webdriver.common.by import By
+from selenium.webdriver.remote.webelement import WebElement
+from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 class NGSSpider(scrapy.Spider):
@@ -52,6 +57,13 @@ class NGSSpider(scrapy.Spider):
 
     def parse(self, response):
 
+        # assigning the Selenium driver to a variable
+        # Dismissing the cookie consent
+        driver = response.request.meta['driver']
+        driver.find_element_by_xpath('//a[@aria-label="dismiss cookie message"]').click()
+        time.sleep(1) #to allow for the div to disappear?
+
+
         # First, we get the column headers
         # For some reason the entire table seems to be repeated,
         # so we'll only grab the first instance.
@@ -84,6 +96,41 @@ class NGSSpider(scrapy.Spider):
                 'cells' :  cells,
                 'week' : response.meta['week'],
             }
+
+        if self.type == 'fastest-ball-carriers':
+
+            BUTTON_SELECTOR ='(.//tbody)[1]//button[@class="v-btn v-btn--flat theme--light" and 1]'
+            OTHER_BUTTON = '(.//tbody)[1]//i[@class="v-icon grey--text text--lighten-1 material-icons theme--light" and 1]'
+            CLOSE_SELECTOR ='//div[@class="v-dialog v-dialog--active"]//button[@class="green--text darken-1 v-btn v-btn--flat theme--light"]'
+
+            buttons = driver.find_elements_by_xpath(OTHER_BUTTON)
+
+            WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, BUTTON_SELECTOR))).click()
+            time.sleep(5)
+            sel = Selector(text=driver.page_source)
+            description = sel.xpath('//div[@class="v-dialog v-dialog--active"]//div[@class="v-card__text"]//text()').extract()
+            self.logger.info('Parsing: {}'.format(description))
+
+
+            descriptions = []
+
+            # for button in buttons:
+            #
+            #     WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH,
+            #
+            #     button.click()
+            #     self.logger.info('-------------CLICK-----------')
+            #     time.sleep(5)
+            #
+            #     sel = Selector(text=driver.page_source)
+            #     description = sel.xpath('//div[@class="v-dialog v-dialog--active"]//div[@class="v-card__text"]/text()').extract()
+            #     descriptions.append(description)
+            #
+            #     self.logger.info('Parsing: {}'.format(description))
+            #
+            #     driver.find_element_by_xpath(CLOSE_SELECTOR).click()
+            #     time.sleep(5)
+
 
 
     def parse_weeks(self):

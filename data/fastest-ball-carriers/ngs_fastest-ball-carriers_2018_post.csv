@@ -1,81 +1,81 @@
 ,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week
-0,A.Jeffery,Alshon Jeffery,PHI,WR,19.15,30,reception,0,0,2018,POST,18
-1,A.Cooper,Amari Cooper,DAL,WR,19.62,27,reception,0,0,2018,POST,18
-2,A.Luck,Andrew Luck,IND,QB,19.06,9,rush,0,0,2018,POST,18
-3,A.Luck,Andrew Luck,IND,QB,18.86,3,rush,0,0,2018,POST,18
-4,D.King,Desmond King,LAC,CB,19.17,33,punt ret,0,0,2018,POST,18
-5,E.Elliott,Ezekiel Elliott,DAL,RB,21.27,44,rush,0,0,2018,POST,18
-6,E.Elliott,Ezekiel Elliott,DAL,RB,19.86,3,rush,0,0,2018,POST,18
-7,K.Coutee,Keke Coutee,HOU,WR,18.96,5,reception,0,0,2018,POST,18
-8,L.Jackson,Lamar Jackson,BAL,QB,19.9,17,rush,0,0,2018,POST,18
-9,L.Jackson,Lamar Jackson,BAL,QB,18.88,15,rush,0,0,2018,POST,18
-10,M.Mack,Marlon Mack,IND,RB,19.58,25,rush,0,0,2018,POST,18
-11,M.Mack,Marlon Mack,IND,RB,19.29,5,rush,0,0,2018,POST,18
-12,M.Williams,Mike Williams,LAC,WR,19.04,28,reception,0,0,2018,POST,18
-13,T.Hilton,T.Y. Hilton,IND,WR,18.98,38,reception,0,0,2018,POST,18
-14,T.Cohen,Tarik Cohen,CHI,RB,19.29,7,reception,0,0,2018,POST,18
-15,T.Austin,Tavon Austin,DAL,WR,19.55,4,punt ret,0,1,2018,POST,18
-16,T.Benjamin,Travis Benjamin,LAC,WR,19.06,4,reception,0,0,2018,POST,18
-17,T.Lockett,Tyler Lockett,SEA,WR,19.72,40,reception,0,0,2018,POST,18
-18,T.Lockett,Tyler Lockett,SEA,WR,19.62,52,kickoff ret,0,0,2018,POST,18
-19,T.Lockett,Tyler Lockett,SEA,WR,18.98,53,reception,0,0,2018,POST,18
-20,A.Kamara,Alvin Kamara,NO,RB,19.21,15,rush,0,0,2018,POST,19
-21,A.Kamara,Alvin Kamara,NO,RB,18.72,23,reception,0,0,2018,POST,19
-22,A.Cooper,Amari Cooper,DAL,WR,20.45,29,reception,1,0,2018,POST,19
-23,B.Cooks,Brandin Cooks,LAR,WR,19.13,5,rush,0,0,2018,POST,19
-24,J.Reynolds,Josh Reynolds,LAR,WR,19.37,9,rush,0,0,2018,POST,19
-25,J.Reynolds,Josh Reynolds,LAR,WR,19.04,19,reception,0,0,2018,POST,19
-26,M.Thomas,Michael Thomas,NO,WR,18.82,42,reception,0,0,2018,POST,19
-27,N.Agholor,Nelson Agholor,PHI,WR,18.94,12,rush,0,0,2018,POST,19
-28,S.Watkins,Sammy Watkins,KC,WR,19.23,-2,rush,0,0,2018,POST,19
-29,S.Michel,Sony Michel,NE,RB,19.76,14,rush,1,0,2018,POST,19
-30,T.Hilton,T.Y. Hilton,IND,WR,18.74,29,reception,1,0,2018,POST,19
-31,T.Gurley,Todd Gurley,LAR,RB,19.86,18,rush,0,0,2018,POST,19
-32,T.Gurley,Todd Gurley,LAR,RB,19.39,35,rush,1,0,2018,POST,19
-33,T.Lewis,Tommylee Lewis,NO,WR,20.17,0,punt ret,0,1,2018,POST,19
-34,T.Smith,Tre'Quan Smith,NO,WR,19.37,5,rush,0,0,2018,POST,19
-35,T.Hill,Tyreek Hill,KC,WR,20.17,0,punt ret,0,1,2018,POST,19
-36,T.Hill,Tyreek Hill,KC,WR,19.94,36,rush,1,0,2018,POST,19
-37,T.Hill,Tyreek Hill,KC,WR,19.72,3,punt ret,0,0,2018,POST,19
-38,T.Hill,Tyreek Hill,KC,WR,19.37,4,punt ret,0,0,2018,POST,19
-39,T.Hill,Tyreek Hill,KC,WR,19.31,7,reception,0,0,2018,POST,19
-40,A.Kamara,Alvin Kamara,NO,RB,18.86,27,kickoff ret,0,0,2018,POST,20
-41,A.Kamara,Alvin Kamara,NO,RB,18.57,21,reception,0,0,2018,POST,20
-42,A.Kamara,Alvin Kamara,NO,RB,18.39,28,kickoff ret,0,0,2018,POST,20
-43,A.Kamara,Alvin Kamara,NO,RB,18.04,30,kickoff ret,0,0,2018,POST,20
-44,A.Kamara,Alvin Kamara,NO,RB,18,6,rush,0,0,2018,POST,20
-45,B.Cooks,Brandin Cooks,LAR,WR,19.8,36,reception,0,0,2018,POST,20
-46,C.Patterson,Cordarrelle Patterson,NE,WR,19.17,38,kickoff ret,0,0,2018,POST,20
-47,C.Patterson,Cordarrelle Patterson,NE,WR,17.84,15,reception,0,0,2018,POST,20
-48,D.Williams,Damien Williams,KC,RB,20.11,23,reception,1,0,2018,POST,20
-49,D.Williams,Damien Williams,KC,RB,19.45,33,reception,0,0,2018,POST,20
-50,D.Williams,Damien Williams,KC,RB,18.45,1,reception,1,0,2018,POST,20
+0,E.Elliott,Ezekiel Elliott,DAL,RB,21.27,44,rush,0,0,2018,POST,18
+1,L.Jackson,Lamar Jackson,BAL,QB,19.9,17,rush,0,0,2018,POST,18
+2,E.Elliott,Ezekiel Elliott,DAL,RB,19.86,3,rush,0,0,2018,POST,18
+3,A.Cooper,Amari Cooper,DAL,WR,20.45,29,reception,1,0,2018,POST,19
+4,T.Lockett,Tyler Lockett,SEA,WR,19.72,40,reception,0,0,2018,POST,18
+5,T.Lockett,Tyler Lockett,SEA,WR,19.62,52,kickoff ret,0,0,2018,POST,18
+6,A.Cooper,Amari Cooper,DAL,WR,19.62,27,reception,0,0,2018,POST,18
+7,M.Mack,Marlon Mack,IND,RB,19.58,25,rush,0,0,2018,POST,18
+8,T.Hill,Tyreek Hill,KC,WR,20.17,0,punt ret,0,1,2018,POST,19
+9,T.Lewis,Tommylee Lewis,NO,WR,20.17,0,punt ret,0,1,2018,POST,19
+10,T.Hill,Tyreek Hill,KC,WR,19.94,36,rush,1,0,2018,POST,19
+11,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+12,D.Williams,Damien Williams,KC,RB,20.11,23,reception,1,0,2018,POST,20
+13,T.Austin,Tavon Austin,DAL,WR,19.55,4,punt ret,0,1,2018,POST,18
+14,M.Mack,Marlon Mack,IND,RB,19.29,5,rush,0,0,2018,POST,18
+15,T.Cohen,Tarik Cohen,CHI,RB,19.29,7,reception,0,0,2018,POST,18
+16,D.King,Desmond King,LAC,CB,19.17,33,punt ret,0,0,2018,POST,18
+17,S.Michel,Sony Michel,NE,RB,19.76,14,rush,1,0,2018,POST,19
+18,T.Hill,Tyreek Hill,KC,WR,19.72,3,punt ret,0,0,2018,POST,19
+19,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+20,T.Hill,Tyreek Hill,KC,WR,19.37,4,punt ret,0,0,2018,POST,19
+21,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+22,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+23,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+24,D.Williams,Damien Williams,KC,RB,19.45,33,reception,0,0,2018,POST,20
+25,A.Jeffery,Alshon Jeffery,PHI,WR,19.15,30,reception,0,0,2018,POST,18
+26,T.Benjamin,Travis Benjamin,LAC,WR,19.06,4,reception,0,0,2018,POST,18
+27,A.Luck,Andrew Luck,IND,QB,19.06,9,rush,0,0,2018,POST,18
+28,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+29,T.Smith,Tre'Quan Smith,NO,WR,19.37,5,rush,0,0,2018,POST,19
+30,T.Hill,Tyreek Hill,KC,WR,19.31,7,reception,0,0,2018,POST,19
+31,M.Thomas,Michael Thomas,NO,WR,19.31,19,reception,0,0,2018,POST,20
+32,C.Patterson,Cordarrelle Patterson,NE,WR,19.17,38,kickoff ret,0,0,2018,POST,20
+33,M.Williams,Mike Williams,LAC,WR,19.04,28,reception,0,0,2018,POST,18
+34,T.Hilton,T.Y. Hilton,IND,WR,18.98,38,reception,0,0,2018,POST,18
+35,T.Lockett,Tyler Lockett,SEA,WR,18.98,53,reception,0,0,2018,POST,18
+36,K.Coutee,Keke Coutee,HOU,WR,18.96,5,reception,0,0,2018,POST,18
+37,S.Watkins,Sammy Watkins,KC,WR,19.23,-2,rush,0,0,2018,POST,19
+38,A.Kamara,Alvin Kamara,NO,RB,19.21,15,rush,0,0,2018,POST,19
+39,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+40,T.Hill,Tyreek Hill,KC,WR,18.98,42,reception,0,0,2018,POST,20
+41,A.Kamara,Alvin Kamara,NO,RB,18.86,27,kickoff ret,0,0,2018,POST,20
+42,T.Smith,Tremon Smith,KC,DB,18.86,26,kickoff ret,0,0,2018,POST,20
+43,L.Jackson,Lamar Jackson,BAL,QB,18.88,15,rush,0,0,2018,POST,18
+44,A.Luck,Andrew Luck,IND,QB,18.86,3,rush,0,0,2018,POST,18
+45,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+46,N.Agholor,Nelson Agholor,PHI,WR,18.94,12,rush,0,0,2018,POST,19
+47,M.Thomas,Michael Thomas,NO,WR,18.82,42,reception,0,0,2018,POST,19
+48,T.Hilton,T.Y. Hilton,IND,WR,18.74,29,reception,1,0,2018,POST,19
+49,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+50,T.Ginn,Ted Ginn,NO,WR,18.74,43,reception,0,0,2018,POST,20
 51,D.Robinson,Demarcus Robinson,KC,WR,18.59,27,reception,0,0,2018,POST,20
-52,J.Reynolds,Josh Reynolds,LAR,WR,20.07,16,rush,0,0,2018,POST,20
-53,M.Thomas,Michael Thomas,NO,WR,19.31,19,reception,0,0,2018,POST,20
-54,R.Woods,Robert Woods,LAR,WR,19.45,1,rush,0,0,2018,POST,20
-55,R.Woods,Robert Woods,LAR,WR,17.96,0,reception,0,0,2018,POST,20
-56,T.Ginn,Ted Ginn,NO,WR,18.74,43,reception,0,0,2018,POST,20
-57,T.Smith,Tremon Smith,KC,DB,18.86,26,kickoff ret,0,0,2018,POST,20
-58,T.Smith,Tremon Smith,KC,DB,18.04,19,kickoff ret,0,0,2018,POST,20
-59,T.Hill,Tyreek Hill,KC,WR,18.98,42,reception,0,0,2018,POST,20
-60,B.Cooks,Brandin Cooks,LAR,WR,17.78,15,reception,0,0,2018,POST,22
-61,B.Cooks,Brandin Cooks,LAR,WR,16.43,14,reception,0,0,2018,POST,22
-62,B.Cooks,Brandin Cooks,LAR,WR,16,19,reception,0,0,2018,POST,22
-63,B.Cooks,Brandin Cooks,LAR,WR,15.81,16,reception,0,0,2018,POST,22
-64,C.Patterson,Cordarrelle Patterson,NE,WR,19.51,38,kickoff ret,0,0,2018,POST,22
-65,J.Natson,JoJo Natson,LAR,WR,18.39,13,punt ret,0,1,2018,POST,22
-66,J.Reynolds,Josh Reynolds,LAR,WR,18.08,11,reception,0,0,2018,POST,22
-67,J.Edelman,Julian Edelman,NE,WR,16.71,9,reception,0,0,2018,POST,22
-68,J.Edelman,Julian Edelman,NE,WR,16.22,27,reception,0,0,2018,POST,22
-69,R.Burkhead,Rex Burkhead,NE,RB,17.33,26,rush,0,0,2018,POST,22
-70,R.Burkhead,Rex Burkhead,NE,RB,15.87,8,reception,0,0,2018,POST,22
-71,R.Gronkowski,Rob Gronkowski,NE,TE,17.53,29,reception,0,0,2018,POST,22
-72,R.Gronkowski,Rob Gronkowski,NE,TE,15.87,18,reception,0,0,2018,POST,22
-73,R.Gronkowski,Rob Gronkowski,NE,TE,15.79,19,reception,0,0,2018,POST,22
-74,R.Woods,Robert Woods,LAR,WR,17.73,5,rush,0,0,2018,POST,22
-75,R.Woods,Robert Woods,LAR,WR,17.49,18,reception,0,0,2018,POST,22
-76,R.Woods,Robert Woods,LAR,WR,17.18,18,reception,0,0,2018,POST,22
-77,S.Michel,Sony Michel,NE,RB,16.49,26,rush,0,0,2018,POST,22
-78,T.Gurley,Todd Gurley,LAR,RB,19.78,5,rush,0,0,2018,POST,22
-79,T.Gurley,Todd Gurley,LAR,RB,16.06,16,rush,0,0,2018,POST,22
+52,A.Kamara,Alvin Kamara,NO,RB,18.57,21,reception,0,0,2018,POST,20
+53,A.Kamara,Alvin Kamara,NO,RB,18.72,23,reception,0,0,2018,POST,19
+54,C.Patterson,Cordarrelle Patterson,NE,WR,19.51,38,kickoff ret,0,0,2018,POST,22
+55,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+56,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+57,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+58,D.Williams,Damien Williams,KC,RB,18.45,1,reception,1,0,2018,POST,20
+59,A.Kamara,Alvin Kamara,NO,RB,18.39,28,kickoff ret,0,0,2018,POST,20
+60,A.Kamara,Alvin Kamara,NO,RB,18.04,30,kickoff ret,0,0,2018,POST,20
+61,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+62,R.Gronkowski,Rob Gronkowski,NE,TE,17.53,29,reception,0,0,2018,POST,22
+63,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+64,T.Smith,Tremon Smith,KC,DB,18.04,19,kickoff ret,0,0,2018,POST,20
+65,A.Kamara,Alvin Kamara,NO,RB,18,6,rush,0,0,2018,POST,20
+66,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+67,R.Burkhead,Rex Burkhead,NE,RB,17.33,26,rush,0,0,2018,POST,22
+68,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+69,J.Edelman,Julian Edelman,NE,WR,16.71,9,reception,0,0,2018,POST,22
+70,C.Patterson,Cordarrelle Patterson,NE,WR,17.84,15,reception,0,0,2018,POST,20
+71,S.Michel,Sony Michel,NE,RB,16.49,26,rush,0,0,2018,POST,22
+72,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+73,J.Edelman,Julian Edelman,NE,WR,16.22,27,reception,0,0,2018,POST,22
+74,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+75,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+76,R.Burkhead,Rex Burkhead,NE,RB,15.87,8,reception,0,0,2018,POST,22
+77,R.Gronkowski,Rob Gronkowski,NE,TE,15.87,18,reception,0,0,2018,POST,22
+78,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA,LA
+79,R.Gronkowski,Rob Gronkowski,NE,TE,15.79,19,reception,0,0,2018,POST,22
