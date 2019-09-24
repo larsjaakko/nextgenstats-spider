@@ -144,7 +144,8 @@ COL_ORDER_FASTEST =  [
     'penalty',
     'season',
     'seasonType',
-    'week'
+    'week',
+    'desc'
 ]
 
 class NextgenstatsSpiderPipeline(object):
@@ -191,9 +192,11 @@ class NextgenstatsSpiderPipeline(object):
         else:
 
             if item['type'] == 'columns' and self.df is None:
-                    self.df = pd.DataFrame(columns = item['cells'])
+                self.df = pd.DataFrame(columns = item['cells'])
             elif item['type'] == 'rows':
-                    self.df.loc[len(self.df)] = item['cells']
+                self.df.loc[len(self.df)] = item['cells']
+            elif item['type'] == 'descriptions':
+                self.df['desc'] = item['cells']
 
         return item
 
@@ -220,6 +223,7 @@ class NextgenstatsSpiderPipeline(object):
 
         if spider.week != 'all' or spider.type == 'fastest-ball-carriers':
             self.df['seasonType'] = self.df['week'].apply(self.season_type)
+            self.df['desc'] = self.df['desc'].apply(lambda x: x[3:])
 
         self.df['season'] = spider.year
         #Changing LA Rams abbreviation to match nflscrapR

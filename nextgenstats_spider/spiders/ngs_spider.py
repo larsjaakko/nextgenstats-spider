@@ -99,37 +99,37 @@ class NGSSpider(scrapy.Spider):
 
         if self.type == 'fastest-ball-carriers':
 
-            BUTTON_SELECTOR ='(.//tbody)[1]//button[@class="v-btn v-btn--flat theme--light" and 1]'
-            OTHER_BUTTON = '(.//tbody)[1]//i[@class="v-icon grey--text text--lighten-1 material-icons theme--light" and 1]'
+            BUTTON_SELECTOR ='(.//tbody)[1]//button[@class="v-btn v-btn--flat theme--light"]'
             CLOSE_SELECTOR ='//div[@class="v-dialog v-dialog--active"]//button[@class="green--text darken-1 v-btn v-btn--flat theme--light"]'
 
-            buttons = driver.find_elements_by_xpath(OTHER_BUTTON)
-
-            WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, BUTTON_SELECTOR))).click()
-            time.sleep(5)
-            sel = Selector(text=driver.page_source)
-            description = sel.xpath('//div[@class="v-dialog v-dialog--active"]//div[@class="v-card__text"]//text()').extract()
-            self.logger.info('Parsing: {}'.format(description))
-
+            buttons = driver.find_elements_by_xpath(BUTTON_SELECTOR)
 
             descriptions = []
 
-            # for button in buttons:
-            #
-            #     WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH,
-            #
-            #     button.click()
-            #     self.logger.info('-------------CLICK-----------')
-            #     time.sleep(5)
-            #
-            #     sel = Selector(text=driver.page_source)
-            #     description = sel.xpath('//div[@class="v-dialog v-dialog--active"]//div[@class="v-card__text"]/text()').extract()
-            #     descriptions.append(description)
-            #
-            #     self.logger.info('Parsing: {}'.format(description))
-            #
-            #     driver.find_element_by_xpath(CLOSE_SELECTOR).click()
-            #     time.sleep(5)
+            for button in buttons:
+
+                WebDriverWait(driver, 20).until(EC.invisibility_of_element_located((By.CLASS_NAME, 'cc-window cc-banner cc-type-info cc-theme-block cc-bottom cc-color-override-382972913 ')))
+                button.click()
+                self.logger.info('---- CLICKED BUTTON ----')
+                time.sleep(1)
+
+                sel = Selector(text=driver.page_source)
+                description = sel.xpath('//div[@class="v-dialog v-dialog--active"]//div[@class="v-card__text"]/p//text()').extract_first()
+                descriptions.append(description)
+
+                self.logger.info('Added description: {}'.format(description))
+
+                driver.find_element_by_xpath(CLOSE_SELECTOR).click()
+                self.logger.info('---- CLOSED POPUP ----')
+                time.sleep(1)
+
+            yield{
+                'type' : 'descriptions',
+                'cells' :  descriptions,
+                'week' : response.meta['week'],
+            }
+
+            self.logger.info('Parsing: {}'.format(descriptions))
 
 
 
