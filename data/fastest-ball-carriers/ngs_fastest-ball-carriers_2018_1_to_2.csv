@@ -1,0 +1,41 @@
+,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week,desc
+0,A.Green,A.J. Green,CIN,WR,20.95,38,reception,1,0,2018,REG,1,"(6:02) A.Lee punts 58 yards to LA 27, Center-A.Brewer. J.Natson ran ob at LA 44 for 17 yards (G.Hodges)."
+1,D.Jennings,Darius Jennings,TEN,WR,20.64,94,kickoff ret,1,0,2018,REG,1,"(12:39) (Shotgun) P.Rivers pass short right to Ty.Williams pushed ob at LAC 38 for 18 yards (J.Poyer). Caught at LAC 21, crossing from middle."
+2,D.Jackson,DeSean Jackson,TB,WR,20.45,58,reception,1,0,2018,REG,1,(9:26) E.Elliott left tackle to DAL 48 for 19 yards (L.Collins).
+3,D.Jackson,DeSean Jackson,TB,WR,20.41,36,reception,1,1,2018,REG,1,"(10:00) (Punt formation) K.Byard pass deep right to D.Cruikshank for 66 yards, TOUCHDOWN."
+4,D.Henry,Derrick Henry,TEN,RB,21.46,2,rush,0,1,2018,REG,1,(11:42) P.Lindsay up the middle pushed ob at OAK 22 for 53 yards (M.Gilchrist).
+5,I.Crowell,Isaiah Crowell,NYJ,RB,20.95,62,rush,1,0,2018,REG,1,(12:39) J.Goff pass deep middle to B.Cooks to ARZ 22 for 57 yards (J.Taylor).
+6,J.Grant,Jakeem Grant,MIA,WR,20.93,102,kickoff ret,1,0,2018,REG,1,"(3:48) (Shotgun) T.Brady pass short middle to C.Hogan for 29 yards, TOUCHDOWN."
+7,J.Conner,James Conner,PIT,RB,21.03,22,rush,1,0,2018,REG,1,(9:25) J.Crowder left end pushed ob at 50 for 25 yards (M.Hooker). End around
+8,J.Smith-Schuster,JuJu Smith-Schuster,PIT,WR,20.93,67,reception,0,0,2018,REG,1,(:41) (Shotgun) S.Darnold pass deep middle to T.Pryor to MIA 31 for 44 yards (R.Jones).
+9,K.Stills,Kenny Stills,MIA,WR,20.25,75,reception,1,0,2018,REG,1,"(4:33) A.Lee punts 58 yards to LA 8, Center-A.Brewer. J.Natson to ARZ 32 for 60 yards (A.Lee)."
+10,M.Breida,Matt Breida,SF,RB,20.19,-1,rush,0,0,2018,REG,1,(11:42) P.Lindsay up the middle pushed ob at OAK 22 for 53 yards (M.Gilchrist).
+11,M.Evans,Mike Evans,TB,WR,20.15,50,reception,1,0,2018,REG,1,(9:25) J.Crowder left end pushed ob at 50 for 25 yards (M.Hooker). End around
+12,N.Hines,Nyheim Hines,IND,RB,20.05,4,rush,0,0,2018,REG,1,(:41) (Shotgun) S.Darnold pass deep middle to T.Pryor to MIA 31 for 44 yards (R.Jones).
+13,P.Cooper,Pharoh Cooper,LAR,WR,20.03,12,punt ret,0,0,2018,REG,1,"(:53) (No Huddle, Shotgun) D.Brees pass deep middle to T.Ginn ran ob at CLV 25 for 42 yards (D.Randall). Pass 16, YAC 26"
+14,S.Barkley,Saquon Barkley,NYG,RB,19.82,68,rush,1,0,2018,REG,1,"(4:51) (Shotgun) R.Fitzpatrick pass short middle to O.Howard for 75 yards, TOUCHDOWN."
+15,T.Cohen,Tarik Cohen,CHI,RB,19.96,42,punt ret,0,0,2018,REG,1,"(7:13) T.Coleman right tackle to CAR 24 for 36 yards (D.Jackson). FUMBLES (D.Jackson), ball out of bounds at CAR 24."
+16,T.Coleman,Tevin Coleman,ATL,RB,19.76,26,reception,0,0,2018,REG,1,"(6:47) (Shotgun) R.Wilson pass short left intended for R.Penny INTERCEPTED by P.Amukamara at SEA 49. P.Amukamara for 49 yards, TOUCHDOWN."
+17,T.Lockett,Tyler Lockett,SEA,WR,20.35,51,reception,1,0,2018,REG,1,"(1:24) (Shotgun) T.Taylor pass deep middle to A.Callaway for 47 yards, TOUCHDOWN. Pass 47, YAC 0"
+18,T.Hill,Tyreek Hill,KC,WR,21.95,58,reception,1,0,2018,REG,1,"(1:24) (Shotgun) T.Taylor pass deep middle to A.Callaway for 47 yards, TOUCHDOWN. Pass 47, YAC 0"
+19,T.Hill,Tyreek Hill,KC,WR,21.78,91,punt ret,1,0,2018,REG,1,"(4:33) A.Lee punts 58 yards to LA 8, Center-A.Brewer. J.Natson to ARZ 32 for 60 yards (A.Lee)."
+20,A.Callaway,Antonio Callaway,CLE,WR,21.48,47,reception,1,0,2018,REG,2,"(15:00) R.Fitzpatrick pass deep middle to D.Jackson for 75 yards, TOUCHDOWN."
+21,B.Cooks,Brandin Cooks,LAR,WR,20.35,57,reception,0,0,2018,REG,2,(7:19) S.Darnold pass short left to R.Anderson pushed ob at NYJ 25 for 17 yards (J.Baker).
+22,C.Newton,Cam Newton,CAR,QB,20.07,10,rush,0,0,2018,REG,2,(13:35) (Shotgun) C.Newton right end ran ob at ATL 17 for 10 yards (D.Riley).
+23,C.Hogan,Chris Hogan,NE,WR,20.29,29,reception,1,0,2018,REG,2,(12:39) J.Goff pass deep middle to B.Cooks to ARZ 22 for 57 yards (J.Taylor).
+24,D.Cruikshank,Dane Cruikshank,TEN,DB,20.15,66,reception,1,0,2018,REG,2,(9:26) E.Elliott left tackle to DAL 48 for 19 yards (L.Collins).
+25,D.Jackson,DeSean Jackson,TB,WR,20.5,75,reception,1,0,2018,REG,2,"(4:51) (Shotgun) R.Fitzpatrick pass short middle to O.Howard for 75 yards, TOUCHDOWN."
+26,E.Elliott,Ezekiel Elliott,DAL,RB,20.15,19,rush,0,0,2018,REG,2,"(12:39) (Shotgun) P.Rivers pass short right to Ty.Williams pushed ob at LAC 38 for 18 yards (J.Poyer). Caught at LAC 21, crossing from middle."
+27,J.Agnew,Jamal Agnew,DET,CB,19.98,4,punt ret,0,1,2018,REG,2,"(6:31) B.Pinion punts 49 yards to DET 27, Center-K.Nelson. J.Agnew for 73 yards, TOUCHDOWN NULLIFIED by Penalty. Penalty on DET-T.Walker, Illegal Block Above the Waist, declined. PENALTY on DET-N.Bellore, Illegal Block Above the Waist, 10 yards, enforced at DET 31. Agnew credited with a 4-yd. return."
+28,J.Crowder,Jamison Crowder,WAS,WR,20.68,25,rush,0,0,2018,REG,2,"(7:13) T.Coleman right tackle to CAR 24 for 36 yards (D.Jackson). FUMBLES (D.Jackson), ball out of bounds at CAR 24."
+29,J.Natson,JoJo Natson,LAR,WR,20.93,60,punt ret,0,0,2018,REG,2,"(7:29) (Shotgun) K.Cousins pass deep middle to S.Diggs for 75 yards, TOUCHDOWN."
+30,J.Natson,JoJo Natson,LAR,WR,20.39,17,punt ret,0,0,2018,REG,2,(13:35) (Shotgun) C.Newton right end ran ob at ATL 17 for 10 yards (D.Riley).
+31,O.Howard,O.J. Howard,TB,TE,20.31,75,reception,1,0,2018,REG,2,"(6:02) A.Lee punts 58 yards to LA 27, Center-A.Brewer. J.Natson ran ob at LA 44 for 17 yards (G.Hodges)."
+32,P.Lindsay,Phillip Lindsay,DEN,RB,20.76,53,rush,0,0,2018,REG,2,"(:53) (No Huddle, Shotgun) D.Brees pass deep middle to T.Ginn ran ob at CLV 25 for 42 yards (D.Randall). Pass 16, YAC 26"
+33,P.Amukamara,Prince Amukamara,CHI,CB,20.09,49,int,1,0,2018,REG,2,"(10:00) (Punt formation) K.Byard pass deep right to D.Cruikshank for 66 yards, TOUCHDOWN."
+34,R.Anderson,Robby Anderson,NYJ,WR,20.03,17,reception,0,0,2018,REG,2,(7:19) S.Darnold pass short left to R.Anderson pushed ob at NYJ 25 for 17 yards (J.Baker).
+35,S.Diggs,Stefon Diggs,MIN,WR,20.48,75,reception,1,0,2018,REG,2,"(6:47) (Shotgun) R.Wilson pass short left intended for R.Penny INTERCEPTED by P.Amukamara at SEA 49. P.Amukamara for 49 yards, TOUCHDOWN."
+36,T.Ginn,Ted Ginn,NO,WR,20.35,42,reception,0,0,2018,REG,2,"(15:00) R.Fitzpatrick pass deep middle to D.Jackson for 75 yards, TOUCHDOWN."
+37,T.Pryor,Terrelle Pryor,NYJ,WR,20.35,44,reception,0,0,2018,REG,2,"(6:31) B.Pinion punts 49 yards to DET 27, Center-K.Nelson. J.Agnew for 73 yards, TOUCHDOWN NULLIFIED by Penalty. Penalty on DET-T.Walker, Illegal Block Above the Waist, declined. PENALTY on DET-N.Bellore, Illegal Block Above the Waist, 10 yards, enforced at DET 31. Agnew credited with a 4-yd. return."
+38,T.Coleman,Tevin Coleman,ATL,RB,20.31,36,rush,0,0,2018,REG,2,"(7:29) (Shotgun) K.Cousins pass deep middle to S.Diggs for 75 yards, TOUCHDOWN."
+39,T.Williams,Tyrell Williams,LAC,WR,20.23,18,reception,0,0,2018,REG,2,"(3:48) (Shotgun) T.Brady pass short middle to C.Hogan for 29 yards, TOUCHDOWN."

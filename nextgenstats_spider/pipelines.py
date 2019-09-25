@@ -153,9 +153,13 @@ class NextgenstatsSpiderPipeline(object):
 
     def open_spider(self, spider):
         self.df = None
+        self.descriptions = []
         pass
 
     def close_spider(self, spider):
+
+        if spider.type == 'fastest-ball-carriers':
+            self.df['desc'] = self.descriptions
 
         self.df = self.clean_data(spider)
 
@@ -196,7 +200,7 @@ class NextgenstatsSpiderPipeline(object):
             elif item['type'] == 'rows':
                 self.df.loc[len(self.df)] = item['cells']
             elif item['type'] == 'descriptions':
-                self.df['desc'] = item['cells']
+                self.descriptions.extend(item['cells'])
 
         return item
 

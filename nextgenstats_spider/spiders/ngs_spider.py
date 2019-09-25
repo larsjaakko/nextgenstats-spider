@@ -58,10 +58,12 @@ class NGSSpider(scrapy.Spider):
     def parse(self, response):
 
         # assigning the Selenium driver to a variable
-        # Dismissing the cookie consent
+        # Dismissing the cookie consent in it's the first page in the URL list
         driver = response.request.meta['driver']
-        driver.find_element_by_xpath('//a[@aria-label="dismiss cookie message"]').click()
-        time.sleep(1) #to allow for the div to disappear?
+
+        if response.request.meta['week'] == self.week_list[0]:
+            driver.find_element_by_xpath('//a[@aria-label="dismiss cookie message"]').click()
+            time.sleep(1) #to allow for the div to disappear?
 
 
         # First, we get the column headers
