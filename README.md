@@ -3,9 +3,7 @@
 </p>
 
 # nextgenstats-spider
-A Scrapy spider using Selenium to scrape NFL's Next Gen Stats website, inspired by [Deryck97's work](https://github.com/Deryck97/nfl_nextgenstats_data). Nextgenstats-spider currently supports scraping of the passing, receiving, rushing and fastest ball carrier stats. Column names try to follow the standard used by [Deryck97](https://github.com/Deryck97/nfl_nextgenstats_data).
-
-(Please note! Some columns in Deryck97's data are not included here and some numbers don't have the same number of decimals — I suspect this is because not all the data from the JSON is used in the Next Gen Stats frontend.)
+A Scrapy spider using Selenium to scrape NFL's Next Gen Stats website, inspired by [Deryck97's work](https://github.com/Deryck97/nfl_nextgenstats_data). Nextgenstats-spider currently supports scraping of the passing, receiving, rushing and fastest ball carrier stats. Column names try to follow the standard used by [Deryck97](https://github.com/Deryck97/nfl_nextgenstats_data)
 
 ## Installation
 Nextgenstats-spider is built using Python 3.7 and requires the following Python libraries:
