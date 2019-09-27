@@ -1,0 +1,21 @@
+,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week,gameId,playId,desc
+0,E.Elliott,Ezekiel Elliott,DAL,RB,21.27,44,rush,0,0,2018,POST,18,2019010501,1774,(1:11) E.Elliott right end ran ob at SEA 22 for 44 yards (J.Coleman).
+1,L.Jackson,Lamar Jackson,BAL,QB,19.9,17,rush,0,0,2018,POST,18,2019010600,1123,(10:10) (Shotgun) L.Jackson scrambles left end pushed ob at BAL 40 for 17 yards (M.Davis).
+2,E.Elliott,Ezekiel Elliott,DAL,RB,19.86,3,rush,0,0,2018,POST,18,2019010501,390,(8:17) (Shotgun) E.Elliott right end pushed ob at DAL 26 for 3 yards (K.Wright).
+3,T.Lockett,Tyler Lockett,SEA,WR,19.72,40,reception,0,0,2018,POST,18,2019010501,1176,(9:13) R.Wilson pass deep left to T.Lockett pushed ob at DAL 12 for 40 yards (X.Woods).
+4,T.Lockett,Tyler Lockett,SEA,WR,19.62,52,kickoff ret,0,0,2018,POST,18,2019010501,1916,B.Maher kicks 66 yards from DAL 35 to SEA -1. T.Lockett to DAL 49 for 52 yards (B.Maher).
+5,A.Cooper,Amari Cooper,DAL,WR,19.62,27,reception,0,0,2018,POST,18,2019010501,3312,"(10:51) (Shotgun) D.Prescott pass deep left to A.Cooper to SEA 11 for 27 yards (J.Coleman). Seattle challenged the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)"
+6,M.Mack,Marlon Mack,IND,RB,19.58,25,rush,0,0,2018,POST,18,2019010500,464,(9:28) (Shotgun) M.Mack left end pushed ob at HOU 49 for 25 yards (J.Reid).
+7,T.Austin,Tavon Austin,DAL,WR,19.55,4,punt ret,0,1,2018,POST,18,2019010501,859,"(:14) (Punt formation) M.Dickson punts 56 yards to DAL 20, Center-T.Ott. T.Austin for 80 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on DAL-C.Goodwin, Offensive Holding, 10 yards, enforced at DAL 24."
+8,M.Mack,Marlon Mack,IND,RB,19.29,5,rush,0,0,2018,POST,18,2019010500,1079,(14:24) (Shotgun) M.Mack left end pushed ob at HOU 23 for 5 yards (Z.Cunningham).
+9,T.Cohen,Tarik Cohen,CHI,RB,19.29,7,reception,0,0,2018,POST,18,2019010601,3885,(5:38) (Shotgun) M.Trubisky pass short middle to T.Cohen pushed ob at CHI 24 for 7 yards (C.LeBlanc).
+10,D.King,Desmond King,LAC,CB,19.17,33,punt ret,0,0,2018,POST,18,2019010600,694,"(3:35) (Punt formation) S.Koch punts 43 yards to LAC 25, Center-M.Cox. D.King to BAL 42 for 33 yards (S.Koch; A.Levine Sr.)."
+11,A.Jeffery,Alshon Jeffery,PHI,WR,19.15,30,reception,0,0,2018,POST,18,2019010601,991,(15:00) N.Foles pass deep right to A.Jeffery ran ob at CHI 40 for 30 yards.
+12,T.Benjamin,Travis Benjamin,LAC,WR,19.06,4,reception,0,0,2018,POST,18,2019010600,2854,(2:54) (Shotgun) P.Rivers pass short middle to T.Benjamin pushed ob at BAL 43 for 4 yards (E.Weddle). Shovel pass
+13,A.Luck,Andrew Luck,IND,QB,19.06,9,rush,0,0,2018,POST,18,2019010500,2364,(12:15) (Shotgun) A.Luck scrambles left end ran ob at IND 25 for 9 yards (B.McKinney).
+14,M.Williams,Mike Williams,LAC,WR,19.04,28,reception,0,0,2018,POST,18,2019010600,2889,(2:16) (Shotgun) P.Rivers pass deep middle to M.Williams to BAL 15 for 28 yards (J.Smith).
+15,T.Hilton,T.Y. Hilton,IND,WR,18.98,38,reception,0,0,2018,POST,18,2019010500,242,(11:14) (Shotgun) A.Luck pass deep middle to T.Hilton to HOU 6 for 38 yards (B.McKinney) [J.Watt].
+16,T.Lockett,Tyler Lockett,SEA,WR,18.98,53,reception,0,0,2018,POST,18,2019010501,4005,(2:00) (Shotgun) R.Wilson pass deep left to T.Lockett to DAL 13 for 53 yards (B.Jones).
+17,K.Coutee,Keke Coutee,HOU,WR,18.96,5,reception,0,0,2018,POST,18,2019010500,372,(10:24) (Shotgun) D.Watson pass short middle to K.Coutee pushed ob at HOU 30 for 5 yards (D.Leonard).
+18,L.Jackson,Lamar Jackson,BAL,QB,18.88,15,rush,0,0,2018,POST,18,2019010600,608,(5:48) (Shotgun) L.Jackson scrambles left end to BAL 39 for 15 yards (J.Addae; D.King).
+19,A.Luck,Andrew Luck,IND,QB,18.86,3,rush,0,0,2018,POST,18,2019010500,1997,(:33) (Shotgun) A.Luck scrambles left end ran ob at IND 48 for 3 yards (Z.Cunningham).

@@ -6,7 +6,9 @@
 # See: https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 
 import pandas as pd
+from collections import defaultdict
 import logging
+import requests
 
 COL_NAMES_PASS = {
 
@@ -51,7 +53,8 @@ COL_ORDER_PASS = [
     'passerRating',
     'season',
     'seasonType',
-    'week'
+    'week',
+    'gameId',
 ]
 
 COL_NAMES_REC = {
@@ -91,7 +94,8 @@ COL_ORDER_REC = [
     'avgYACAboveExpectation',
     'season',
     'seasonType',
-    'week'
+    'week',
+    'gameId',
     ]
 
 COL_NAMES_RUSH =  {
@@ -119,7 +123,8 @@ COL_ORDER_RUSH =  [
     'rushingTouchdowns',
     'season',
     'seasonType',
-    'week'
+    'week',
+    'gameId',
 ]
 
 COL_NAMES_FASTEST = {
@@ -145,6 +150,8 @@ COL_ORDER_FASTEST =  [
     'season',
     'seasonType',
     'week',
+    'gameId',
+    'playId',
     'desc'
 ]
 
@@ -152,55 +159,82 @@ class NextgenstatsSpiderPipeline(object):
 
 
     def open_spider(self, spider):
+
+        self.datadict = defaultdict(pd.DataFrame)
         self.df = None
-        self.descriptions = []
-        pass
 
     def close_spider(self, spider):
 
-        if spider.type == 'fastest-ball-carriers':
-            self.df['desc'] = self.descriptions
+        for k, v in self.datadict.items():
+            self.df = self.df.append(v)
+
+        self.df = self.df.reset_index()
 
         self.df = self.clean_data(spider)
 
-        self.df.to_csv('data/{}/ngs_{}_{}_{}.csv'.format(
-            spider.type,
-            spider.type,
-            spider.year,
-            spider.weeks,
-            ))
+        if spider.type != 'fastest':
 
-        spider.logger.info('Wrote .csv to data/{}/ngs_{}_{}_{}.csv'.format(
-            spider.type,
-            spider.type,
-            spider.year,
-            spider.weeks,
-            ))
+            self.df.to_csv('data/{}/ngs_{}_{}_{}.csv'.format(
+                spider.type,
+                spider.type,
+                spider.year,
+                spider.weeks,
+                ))
+
+            spider.logger.info('Wrote .csv to data/{}/ngs_{}_{}_{}.csv'.format(
+                spider.type,
+                spider.type,
+                spider.year,
+                spider.weeks,
+                ))
+        else:
+            type = 'fastest-ball-carriers'
+            self.df.to_csv('data/{}/ngs_{}_{}_{}.csv'.format(
+                type,
+                type,
+                spider.year,
+                spider.weeks,
+                ))
+
+            spider.logger.info('Wrote .csv to data/{}/ngs_{}_{}_{}.csv'.format(
+                type,
+                type,
+                spider.year,
+                spider.weeks,
+                ))
 
     def process_item(self, item, spider):
 
-        if spider.type != 'fastest-ball-carriers':
+        if spider.type != 'fastest':
 
-            if item['type'] == 'columns' and self.df is None:
+            if item['type'] == 'columns':
                 if spider.week != 'all':
                     item['cells'].append('week')
                     self.df = pd.DataFrame(columns = item['cells'])
+                    self.datadict[item['url']] = self.datadict[item['url']].reindex(columns=item['cells'])
                 else:
                     self.df = pd.DataFrame(columns = item['cells'])
+                    self.datadict[item['url']] = self.datadict[item['url']].reindex(columns=item['cells'])
+
             elif item['type'] == 'rows':
                 if spider.week != 'all':
-                    item['cells'].append(item['week'])
-                    self.df.loc[len(self.df)] = item['cells']
+                    item['cells'].append(int(item['week']))
+                    self.datadict[item['url']].loc[len(self.datadict[item['url']])] = item['cells']
                 else:
-                    self.df.loc[len(self.df)] = item['cells']
+                    self.datadict[item['url']].loc[len(self.datadict[item['url']])] = item['cells']
         else:
 
-            if item['type'] == 'columns' and self.df is None:
-                self.df = pd.DataFrame(columns = item['cells'])
+            if item['type'] == 'columns':
+                if spider.week != 'all':
+                    self.df = pd.DataFrame(columns = item['cells'])
+                    self.datadict[item['url']] = self.datadict[item['url']].reindex(columns=item['cells'])
+                else:
+                    self.df = pd.DataFrame(columns = item['cells'])
+                    self.datadict[item['url']] = self.datadict[item['url']].reindex(columns=item['cells'])
             elif item['type'] == 'rows':
-                self.df.loc[len(self.df)] = item['cells']
+                self.datadict[item['url']].loc[len(self.datadict[item['url']])] = item['cells']
             elif item['type'] == 'descriptions':
-                self.descriptions.extend(item['cells'])
+                self.datadict[item['url']]['desc'] = item['cells']
 
         return item
 
@@ -208,7 +242,7 @@ class NextgenstatsSpiderPipeline(object):
 
         self.df['shortName'] = self.df['PLAYER NAME'].apply(self.name_shortener)
 
-        if spider.type == 'fastest-ball-carriers':
+        if spider.type == 'fastest':
             self.df['Play Type'] = self.df['Play Type'].apply(self.space_remover)
             self.df['yards'] = self.df['Play Type'].apply(lambda x: x.split()[0])
             self.df['playType'] = self.df['Play Type'].apply(lambda x: x.split()[2] if 'ret' not in (x.split()) else ' '.join(x.split()[2:4]))
@@ -222,16 +256,22 @@ class NextgenstatsSpiderPipeline(object):
             self.df = self.df.rename(columns=COL_NAMES_REC)
         elif spider.type == 'rushing':
             self.df = self.df.rename(columns=COL_NAMES_RUSH)
-        elif spider.type == 'fastest-ball-carriers':
+        elif spider.type == 'fastest':
             self.df = self.df.rename(columns=COL_NAMES_FASTEST)
 
-        if spider.week != 'all' or spider.type == 'fastest-ball-carriers':
+        if spider.week != 'all' or spider.type == 'fastest':
             self.df['seasonType'] = self.df['week'].apply(self.season_type)
-            self.df['desc'] = self.df['desc'].apply(lambda x: x[3:])
+
+        if spider.type == 'fastest':
+            try:
+                self.df['desc'] = self.df['desc'].apply(lambda x: x[3:])
+            except:
+                spider.logger.info('Failed to prune a play description.')
 
         self.df['season'] = spider.year
-        #Changing LA Rams abbreviation to match nflscrapR
-        self.df[self.df['team'] == 'LAR']['team'] = 'LA'
+
+        #Pulling NFL game IDs
+        self.df = self.pull_ids(spider)
 
         if spider.week != 'all':
 
@@ -241,7 +281,7 @@ class NextgenstatsSpiderPipeline(object):
                 self.df = self.df[COL_ORDER_REC]
             elif spider.type == 'rushing':
                 self.df = self.df[COL_ORDER_RUSH]
-            elif spider.type == 'fastest-ball-carriers':
+            elif spider.type == 'fastest':
                 self.df = self.df[COL_ORDER_FASTEST]
         else:
             if spider.type == 'passing':
@@ -256,12 +296,12 @@ class NextgenstatsSpiderPipeline(object):
                 COL_ORDER_RUSH.remove('week')
                 COL_ORDER_RUSH.remove('seasonType')
                 self.df = self.df[COL_ORDER_RUSH]
-            elif spider.type == 'fastest-ball-carriers':
+            elif spider.type == 'fastest':
                 self.df = self.df[COL_ORDER_FASTEST]
 
         try:
             self.df['week'] = self.df['week'].astype('int32')
-            self.df = self.df.sort_values(by=['week', 'playerName'], ascending=True)
+            #self.df = self.df.sort_values(by=['week', 'playerName'], ascending=True)
         except:
             pass
 
@@ -297,3 +337,113 @@ class NextgenstatsSpiderPipeline(object):
             return 'REG'
         elif int(week) >= 18:
             return 'POST'
+
+    def pull_ids(self, spider):
+
+        #Changing LAR to LA for joining purposes
+        self.df.loc[self.df['team'] == 'LAR', ['team']] = 'LA'
+
+        #Making sure week numbers are ints
+        self.df['week'] = self.df['week'].astype('int32')
+        spider.week_list = [int(i) for i in spider.week_list]
+
+        if spider.week == 'all':
+            return self.df
+
+        if min(spider.week_list) <= 17:
+            #make call to shcedule feed
+            try:
+                response_reg = requests.get('http://www.nfl.com/feeds-rs/schedules/{}.json'.format(spider.year)).json()
+            except requests.exceptions.RequestException as e:  # This is the correct syntax
+                print(e)
+
+            schedules = pd.DataFrame.from_dict(response_reg['gameSchedules'])
+            schedules = schedules.loc[schedules['seasonType'] == 'REG', ['gameId', 'week', 'homeTeamAbbr', 'visitorTeamAbbr']]
+
+            schedules = pd.concat([
+                schedules.rename(columns={'homeTeamAbbr': 'team'}),
+                schedules.rename(columns={'visitorTeamAbbr': 'team'})
+                ])
+
+            self.df = self.df.astype(str).merge(schedules.astype(str), how='left', on=['week', 'team'])
+
+
+        if max(spider.week_list) >= 18:
+            #make calls to score feeds for each week in the postseason
+            post_weeks = [i for i in spider.week_list if i >= 18]
+
+            responses = []
+            rows = []
+            columns = ['week', 'gameId', 'homeTeamAbbr', 'visitorTeamAbbr']
+
+            for i, week in enumerate(post_weeks):
+                try:
+                    responses.append(requests.get('http://www.nfl.com/feeds-rs/scores/{}/POST/{}.json'.format(spider.year, week)).json())
+                    responses[i] = responses[i]['gameScores']
+                except requests.exceptions.RequestException as e:  # This is the correct syntax
+                    print(e)
+
+                gamescores = responses[i]
+
+                for j, game in enumerate(gamescores):
+
+                    row = []
+                    row.append(game['gameSchedule']['week'])
+                    row.append(game['gameSchedule']['gameId'])
+                    row.append(game['gameSchedule']['homeTeamAbbr'])
+                    row.append(game['gameSchedule']['visitorTeamAbbr'])
+
+                    rows.append(row)
+
+            schedules = pd.DataFrame(columns=columns, data=rows)
+
+            schedules = pd.concat([
+                schedules.rename(columns={'homeTeamAbbr': 'team'}),
+                schedules.rename(columns={'visitorTeamAbbr': 'team'})
+                ])
+
+            self.df = self.df.astype(str).merge(schedules.astype(str), how='left', on=['week', 'team'])
+
+        if spider.type == 'fastest':
+
+            games = self.df['gameId'].unique().tolist()
+
+            columns = ['gameId', 'playId', 'desc']
+            rows = []
+
+            for i, game in enumerate(games):
+
+                try:
+                    response = requests.get('http://www.nfl.com/liveupdate/game-center/{}/{}_gtd.json'.format(game, game)).json()
+                    drives = response['{}'.format(game)]['drives']
+                    drives.pop('crntdrv')
+                except requests.exceptions.RequestException as e:  # This is the correct syntax
+                    print(e)
+
+                for j, drive in drives.items():
+
+                    plays = drive['plays']
+
+                    for k, play in plays.items():
+
+                        row = []
+                        row.append(game)
+                        row.append(k)
+
+                        #Replacing known weird team abbreviations
+                        desc = plays[k]['desc']
+
+                        row.append(desc)
+
+                        #spider.logger.info(row)
+
+                        rows.append(row)
+
+
+
+            schedules = pd.DataFrame(columns=columns, data=rows)
+            #schedules.to_csv('debug.csv')
+
+            self.df = self.df.astype(str).merge(schedules.astype(str), how='left', on=['gameId', 'desc'])
+
+        return self.df
