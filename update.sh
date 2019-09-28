@@ -1,8 +1,8 @@
 #!/bin/bash
 
-years='2019'
-types='passing rushing'
-weeks='1'
+years='2019 2018 2017 2016'
+types='passing rushing receiving fastest'
+weeks='all post reg'
 
 for year in $years
 do
@@ -10,7 +10,7 @@ do
   do
     for week in $weeks
     do
-      echo $year, $type, $week
+      scrapy crawl ngs_spider -a year=$year -a type=$type -a week=$week -a ids=true
     done
   done
 done

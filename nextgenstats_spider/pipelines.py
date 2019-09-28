@@ -275,11 +275,14 @@ class NextgenstatsSpiderPipeline(object):
         #Pulling NFL game IDs
         if spider.ids == True:
             self.df = self.pull_ids(spider)
-
-            COL_ORDER_PASS.append('gameId')
-            COL_ORDER_REC.append('gameId')
-            COL_ORDER_RUSH.append('gameId')
             COL_ORDER_FASTEST.extend(['gameId', 'playId', 'quarter', 'time', 'desc'])
+
+            if spider.week != 'all':
+
+                COL_ORDER_PASS.append('gameId')
+                COL_ORDER_REC.append('gameId')
+                COL_ORDER_RUSH.append('gameId')
+
 
         if spider.week == 'all':
 
@@ -376,14 +379,14 @@ class NextgenstatsSpiderPipeline(object):
 
     def pull_ids(self, spider):
 
+        if spider.week == 'all':
+            return self.df
+
         spider.logger.info('Fetching game IDs and play-by-play data from NFL.')
 
         #Making sure week numbers are ints
         self.df['week'] = self.df['week'].astype('int32')
         spider.week_list = [int(i) for i in spider.week_list]
-
-        if spider.week == 'all':
-            return self.df
 
         if min(spider.week_list) <= 17:
             #make call to shcedule feed
