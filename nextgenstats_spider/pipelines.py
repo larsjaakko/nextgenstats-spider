@@ -376,6 +376,8 @@ class NextgenstatsSpiderPipeline(object):
 
     def pull_ids(self, spider):
 
+        spider.logger.info('Fetching game IDs and play-by-play data from NFL.')
+
         #Making sure week numbers are ints
         self.df['week'] = self.df['week'].astype('int32')
         spider.week_list = [int(i) for i in spider.week_list]
@@ -462,8 +464,10 @@ class NextgenstatsSpiderPipeline(object):
                 40 : 'punt ret',
                 45 : 'kickoff ret',
                 46 : 'kickoff ret',
-                59 : 'fumble ret',
-                60 : 'fumble ret'
+                59 : 'misc',
+                60 : 'misc',
+                63 : 'misc',
+                64 : 'misc',
             }
 
             for i, game in enumerate(games):
