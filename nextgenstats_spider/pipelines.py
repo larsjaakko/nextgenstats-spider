@@ -8,6 +8,7 @@
 import pandas as pd
 from collections import defaultdict
 import logging
+import re
 
 try:
     import requests
@@ -264,10 +265,10 @@ class NextgenstatsSpiderPipeline(object):
             self.df['penalty'] = self.df['Play Type'].apply(lambda x: 1 if "*" in x.split() else 0)
             self.df = self.df.drop(['Play Type'], axis=1)
 
-            try:
-                self.df['desc'] = self.df['desc'].apply(lambda x: x[3:])
-            except:
-                spider.logger.info('Failed to prune a play description.')
+            if spider.ids == True:
+                self.df = self.parse_descriptions(self.df)
+
+
 
         self.df['season'] = spider.year
         self.df.loc[self.df['team'] == 'LAR', ['team']] = 'LA'
@@ -279,7 +280,7 @@ class NextgenstatsSpiderPipeline(object):
             COL_ORDER_PASS.append('gameId')
             COL_ORDER_REC.append('gameId')
             COL_ORDER_RUSH.append('gameId')
-            COL_ORDER_FASTEST.extend(['gameId', 'playId', 'desc'])
+            COL_ORDER_FASTEST.extend(['gameId', 'playId', 'quarter', 'time', 'desc'])
 
         if spider.week == 'all':
 
@@ -310,7 +311,7 @@ class NextgenstatsSpiderPipeline(object):
 
 
         try:
-            self.df['week'] = self.df['week'].astype('int32')
+            self.df['week'] = self.df['week'].astype('int')
         except:
             pass
 
@@ -347,18 +348,26 @@ class NextgenstatsSpiderPipeline(object):
         elif int(week) >= 18:
             return 'POST'
 
-    def clean_descriptions(self):
+    def parse_descriptions(self, df):
 
-        self.df['desc'] = apply(lambda x: x.replace('BLT', 'BAL'))
-        self.df['desc'] = apply(lambda x: x.replace('LAR', 'LA'))
-        self.df['desc'] = apply(lambda x: x.replace('HST', 'HOU'))
-        self.df['desc'] = apply(lambda x: x.replace('CLV', 'CLE'))
-        self.df['desc'] = apply(lambda x: x.replace('ARZ', 'ARI'))
+        df['quarter'] = self.df['desc'].apply(lambda x: x[1])
 
-        self.df['desc'] = apply(lambda x: x.replace('pushed ob at', 'to'))
-        self.df['desc'] = apply(lambda x: x.replace('ran ob at', 'to'))
+        df['time'] = self.df['desc'].apply(lambda x: re.findall('\((.*?)\)',x)[0])
+        df['time'] = self.df['time'].apply(lambda x: '0' + x if len(x) == 4 else x)
 
-        return self.df
+
+        df['desc'] = df['desc'].apply(lambda x: x.replace('BLT', 'BAL'))
+        df['desc'] = df['desc'].apply(lambda x: x.replace('LAR', 'LA'))
+        df['desc'] = df['desc'].apply(lambda x: x.replace('HST', 'HOU'))
+        df['desc'] = df['desc'].apply(lambda x: x.replace('CLV', 'CLE'))
+        df['desc'] = df['desc'].apply(lambda x: x.replace('ARZ', 'ARI'))
+
+        df.loc[df['playType'] == 'kickoff ret', ['time']] = ''
+
+        #To help if folks want to join with nflscrapR descriptions:
+        df['desc'] = df['desc'].apply(lambda x: x[3:])
+
+        return df
 
 
 
@@ -384,7 +393,7 @@ class NextgenstatsSpiderPipeline(object):
             schedules = pd.concat([
                 schedules.rename(columns={'homeTeamAbbr': 'team'}),
                 schedules.rename(columns={'visitorTeamAbbr': 'team'})
-                ])
+                ], sort=False)
 
             schedules = schedules.replace('SD', 'LAC')
 
@@ -424,7 +433,7 @@ class NextgenstatsSpiderPipeline(object):
             schedules = pd.concat([
                 schedules.rename(columns={'homeTeamAbbr': 'team'}),
                 schedules.rename(columns={'visitorTeamAbbr': 'team'})
-                ])
+                ], sort=False)
 
 
 
@@ -434,8 +443,23 @@ class NextgenstatsSpiderPipeline(object):
 
             games = self.df['gameId'].unique().tolist()
 
-            columns = ['gameId', 'playId', 'desc']
+            columns = ['gameId', 'drive', 'playId', 'time', 'quarter', 'touchdown', 'json_desc', 'statId', 'playType', 'yards', 'shortName']
             rows = []
+
+            stat_ids = {
+                25 : 'int',
+                26 : 'int',
+                21 : 'reception',
+                22 : 'reception',
+                10 : 'rush',
+                11 : 'rush',
+                39 : 'punt ret',
+                40 : 'punt ret',
+                45 : 'kickoff ret',
+                46 : 'kickoff ret',
+                59 : 'fumble ret',
+                60 : 'fumble ret'
+            }
 
             for i, game in enumerate(games):
 
@@ -443,7 +467,7 @@ class NextgenstatsSpiderPipeline(object):
                     response = requests.get('http://www.nfl.com/liveupdate/game-center/{}/{}_gtd.json'.format(game, game)).json()
                     drives = response['{}'.format(game)]['drives']
                     drives.pop('crntdrv')
-                except requests.exceptions.RequestException as e:  # This is the correct syntax
+                except requests.exceptions.RequestException as e:
                     print(e)
 
                 for j, drive in drives.items():
@@ -453,19 +477,44 @@ class NextgenstatsSpiderPipeline(object):
                     for k, play in plays.items():
 
                         row = []
+
                         row.append(game)
+                        row.append(j)
                         row.append(k)
 
-                        desc = plays[k]['desc']
-                        row.append(desc)
+                        if plays[k]['note'] == 'KICKOFF':
+                            row.append('')
+                        else:
+                            row.append(plays[k]['time'])
 
-                        rows.append(row)
+                        row.append(plays[k]['qtr'])
+                        row.append(plays[k]['sp'])
+                        row.append(plays[k]['desc'])
 
+                        players = play['players']
 
+                        for l, player in players.items():
+
+                            for m, stat in enumerate(player):
+
+                                if stat['statId'] in stat_ids.keys():
+
+                                    _row = row.copy()
+
+                                    _row.append(str(stat['statId']))
+                                    _row.append(stat_ids[stat['statId']]) # playType
+                                    _row.append(str(int(stat['yards'])))
+                                    _row.append(stat['playerName'])
+
+                                    rows.append(_row)
 
             schedules = pd.DataFrame(columns=columns, data=rows)
+            schedules['yards'] = schedules['yards'].astype('int')
+
             schedules.to_csv('debug.csv')
 
-            self.df = self.df.astype(str).merge(schedules.astype(str), how='left', on=['gameId', 'desc'])
+            self.df = self.df.astype(str).merge(schedules.astype(str), how='left', on=['gameId', 'quarter', 'time', 'yards', 'touchdown', 'shortName', 'playType'])
+
+            spider.logger.info('Columns: {}'.format(self.df.columns))
 
         return self.df

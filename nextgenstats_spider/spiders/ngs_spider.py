@@ -165,6 +165,7 @@ class NGSSpider(scrapy.Spider):
         buttons = driver.find_elements_by_xpath(BUTTON_SELECTOR)
 
         descriptions = []
+        counter = 1
 
         WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="stats-top-plays-view"]/div[3]/div/div[3]/table/tbody/tr[1]/td[6]/div/button')))
         for button in buttons:
@@ -173,7 +174,8 @@ class NGSSpider(scrapy.Spider):
             WebDriverWait(driver, 20).until(EC.invisibility_of_element_located((By.CLASS_NAME, 'cc-window cc-banner cc-type-info cc-theme-block cc-bottom cc-color-override-382972913  cc-invisible')))
             button.click()
 
-            self.logger.info('---- CLICKED BUTTON ----')
+            self.logger.info('---- CLICKED BUTTON ON ROW {} ----'.format(counter))
+            counter += 1
             time.sleep(1)
 
             sel = Selector(text=driver.page_source)

@@ -1,513 +1,1149 @@
-,gameId,homeTeamAbbr,team,visitorTeamAbbr,week
-65,2016090800,,DEN,CAR,1
-66,2016091100,,ATL,TB,1
-67,2016091101,,BAL,BUF,1
-68,2016091108,,TEN,MIN,1
-69,2016091107,,PHI,CLE,1
-70,2016091106,,NYJ,CIN,1
-71,2016091105,,NO,OAK,1
-72,2016091104,,KC,SD,1
-73,2016091102,,HOU,CHI,1
-74,2016091103,,JAX,GB,1
-75,2016091109,,SEA,MIA,1
-76,2016091111,,IND,DET,1
-77,2016091110,,DAL,NYG,1
-78,2016091112,,ARI,NE,1
-79,2016091200,,WAS,PIT,1
-80,2016091201,,SF,LA,1
-81,2016091500,,BUF,NYJ,2
-82,2016091800,,CAR,SF,2
-83,2016091801,,CLE,BAL,2
-84,2016091807,,WAS,DAL,2
-85,2016091806,,PIT,CIN,2
-86,2016091805,,NYG,NO,2
-87,2016091804,,NE,MIA,2
-88,2016091803,,HOU,KC,2
-89,2016091802,,DET,TEN,2
-90,2016091809,,LA,SEA,2
-91,2016091808,,ARI,TB,2
-92,2016091812,,SD,JAX,2
-93,2016091811,,OAK,ATL,2
-94,2016091810,,DEN,IND,2
-95,2016091813,,MIN,GB,2
-96,2016091900,,CHI,PHI,2
-97,2016092200,,NE,HOU,3
-98,2016092500,,BUF,ARI,3
-99,2016092501,,CAR,MIN,3
-100,2016092507,,TEN,OAK,3
-101,2016092506,,NYG,WAS,3
-102,2016092505,,MIA,CLE,3
-103,2016092504,,JAX,BAL,3
-104,2016092503,,GB,DET,3
-105,2016092502,,CIN,DEN,3
-106,2016092508,,SEA,SF,3
-107,2016092509,,TB,LA,3
-108,2016092512,,KC,NYJ,3
-109,2016092511,,IND,SD,3
-110,2016092510,,PHI,PIT,3
-111,2016092513,,DAL,CHI,3
-112,2016092600,,NO,ATL,3
-113,2016092900,,CIN,MIA,4
-114,2016100200,,JAX,IND,4
-115,2016100205,,NE,BUF,4
-116,2016100204,,HOU,TEN,4
-117,2016100207,,WAS,CLE,4
-118,2016100206,,NYJ,SEA,4
-119,2016100201,,ATL,CAR,4
-120,2016100202,,BAL,OAK,4
-121,2016100203,,CHI,DET,4
-122,2016100208,,TB,DEN,4
-123,2016100211,,SF,DAL,4
-124,2016100210,,SD,NO,4
-125,2016100209,,ARI,LA,4
-126,2016100212,,PIT,KC,4
-127,2016100300,,MIN,NYG,4
-128,2016100600,,SF,ARI,5
-129,2016100905,,MIN,HOU,5
-130,2016100904,,MIA,TEN,5
-131,2016100903,,IND,CHI,5
-132,2016100902,,DET,PHI,5
-133,2016100901,,CLE,NE,5
-134,2016100900,,BAL,WAS,5
-135,2016100906,,PIT,NYJ,5
-136,2016100907,,DEN,ATL,5
-137,2016100909,,LA,BUF,5
-138,2016100908,,DAL,CIN,5
-139,2016100910,,OAK,SD,5
-140,2016100911,,GB,NYG,5
-141,2016101000,,CAR,TB,5
-142,2016101300,,SD,DEN,6
-143,2016101602,,DET,LA,6
-144,2016101601,,CHI,JAX,6
-145,2016101600,,BUF,SF,6
-146,2016101603,,MIA,PIT,6
-147,2016101608,,WAS,PHI,6
-148,2016101607,,TEN,CLE,6
-149,2016101606,,NYG,BAL,6
-150,2016101605,,NO,CAR,6
-151,2016101604,,NE,CIN,6
-152,2016101609,,OAK,KC,6
-153,2016101611,,SEA,ATL,6
-154,2016101610,,GB,DAL,6
-155,2016101612,,HOU,IND,6
-156,2016101700,,ARI,NYJ,6
-157,2016102000,,GB,CHI,7
-158,2016102300,,LA,NYG,7
-159,2016102301,,CIN,CLE,7
-160,2016102302,,DET,WAS,7
-161,2016102303,,JAX,OAK,7
-162,2016102304,,KC,NO,7
-163,2016102305,,MIA,BUF,7
-164,2016102306,,NYJ,BAL,7
-165,2016102307,,PHI,MIN,7
-166,2016102308,,TEN,IND,7
-167,2016102309,,ATL,SD,7
-168,2016102310,,SF,TB,7
-169,2016102311,,PIT,NE,7
-170,2016102312,,ARI,SEA,7
-171,2016102400,,DEN,HOU,7
-172,2016102700,,TEN,JAX,8
-173,2016103000,,CIN,WAS,8
-174,2016103002,,BUF,NE,8
-175,2016103009,,CAR,ARI,8
-176,2016103007,,TB,OAK,8
-177,2016103006,,NO,SEA,8
-178,2016103005,,IND,KC,8
-179,2016103003,,CLE,NYJ,8
-180,2016103004,,HOU,DET,8
-181,2016103008,,DEN,SD,8
-182,2016103001,,ATL,GB,8
-183,2016103010,,DAL,PHI,8
-184,2016103100,,CHI,MIN,8
-185,2016110300,,TB,ATL,9
-186,2016110605,,MIN,DET,9
-187,2016110604,,MIA,NYJ,9
-188,2016110603,,KC,JAX,9
-189,2016110602,,CLE,DAL,9
-190,2016110606,,NYG,PHI,9
-191,2016110601,,BAL,PIT,9
-192,2016110607,,LA,CAR,9
-193,2016110608,,SF,NO,9
-194,2016110610,,SD,TEN,9
-195,2016110609,,GB,IND,9
-196,2016110600,,OAK,DEN,9
-197,2016110700,,SEA,BUF,9
-198,2016111000,,BAL,CLE,10
-199,2016111308,,WAS,MIN,10
-200,2016111303,,NO,DEN,10
-201,2016111304,,NYJ,LA,10
-202,2016111305,,PHI,ATL,10
-203,2016111302,,JAX,HOU,10
-204,2016111307,,TEN,GB,10
-205,2016111306,,TB,CHI,10
-206,2016111301,,CAR,KC,10
-207,2016111309,,SD,MIA,10
-208,2016111311,,PIT,DAL,10
-209,2016111310,,ARI,SF,10
-210,2016111312,,NE,SEA,10
-211,2016111400,,NYG,CIN,10
-212,2016111700,,CAR,NO,11
-213,2016112003,,DET,JAX,11
-214,2016112004,,IND,TEN,11
-215,2016112005,,KC,TB,11
-216,2016112006,,MIN,ARI,11
-217,2016112007,,NYG,CHI,11
-218,2016112001,,CLE,PIT,11
-219,2016112002,,DAL,BAL,11
-220,2016112000,,CIN,BUF,11
-221,2016112008,,LA,MIA,11
-222,2016112010,,SEA,PHI,11
-223,2016112009,,SF,NE,11
-224,2016112011,,WAS,GB,11
-225,2016112100,,OAK,HOU,11
-226,2016112400,,DET,MIN,12
-227,2016112401,,DAL,WAS,12
-228,2016112402,,IND,PIT,12
-229,2016112705,,HOU,SD,12
-230,2016112700,,ATL,ARI,12
-231,2016112701,,BAL,CIN,12
-232,2016112702,,BUF,JAX,12
-233,2016112703,,CHI,TEN,12
-234,2016112707,,NO,LA,12
-235,2016112706,,MIA,SF,12
-236,2016112704,,CLE,NYG,12
-237,2016112708,,TB,SEA,12
-238,2016112710,,OAK,CAR,12
-239,2016112711,,NYJ,NE,12
-240,2016112709,,DEN,KC,12
-241,2016112800,,PHI,GB,12
-242,2016120100,,MIN,DAL,13
-243,2016120401,,BAL,MIA,13
-244,2016120402,,CHI,SF,13
-245,2016120400,,ATL,KC,13
-246,2016120403,,CIN,PHI,13
-247,2016120404,,GB,HOU,13
-248,2016120405,,JAX,DEN,13
-249,2016120406,,NE,LA,13
-250,2016120407,,NO,DET,13
-251,2016120408,,OAK,BUF,13
-252,2016120409,,ARI,WAS,13
-253,2016120410,,PIT,NYG,13
-254,2016120411,,SD,TB,13
-255,2016120412,,SEA,CAR,13
-256,2016120500,,NYJ,IND,13
-257,2016120800,,KC,OAK,14
-258,2016121106,,MIA,ARI,14
-259,2016121103,,DET,CHI,14
-260,2016121101,,CAR,SD,14
-261,2016121100,,BUF,PIT,14
-262,2016121105,,JAX,MIN,14
-263,2016121107,,PHI,WAS,14
-264,2016121104,,IND,HOU,14
-265,2016121109,,TEN,DEN,14
-266,2016121102,,CLE,CIN,14
-267,2016121110,,SF,NYJ,14
-268,2016121111,,GB,SEA,14
-269,2016121112,,LA,ATL,14
-270,2016121108,,TB,NO,14
-271,2016121113,,NYG,DAL,14
-272,2016121200,,NE,BAL,14
-273,2016121500,,SEA,LA,15
-274,2016121700,,NYJ,MIA,15
-275,2016121807,,NYG,DET,15
-276,2016121812,,CIN,PIT,15
-277,2016121804,,HOU,JAX,15
-278,2016121806,,MIN,IND,15
-279,2016121805,,KC,TEN,15
-280,2016121802,,CHI,GB,15
-281,2016121801,,BUF,CLE,15
-282,2016121800,,BAL,PHI,15
-283,2016121809,,ATL,SF,15
-284,2016121808,,ARI,NO,15
-285,2016121811,,SD,OAK,15
-286,2016121810,,DEN,NE,15
-287,2016121803,,DAL,TB,15
-288,2016121900,,WAS,CAR,15
-289,2016122200,,PHI,NYG,16
-290,2016122406,,NE,NYJ,16
-291,2016122403,,CLE,SD,16
-292,2016122404,,GB,MIN,16
-293,2016122405,,JAX,TEN,16
-294,2016122402,,CHI,WAS,16
-295,2016122401,,CAR,ATL,16
-296,2016122400,,BUF,MIA,16
-297,2016122408,,OAK,IND,16
-298,2016122410,,SEA,ARI,16
-299,2016122409,,LA,SF,16
-300,2016122407,,NO,TB,16
-301,2016122411,,HOU,CIN,16
-302,2016122500,,PIT,BAL,16
-303,2016122501,,KC,DEN,16
-304,2016122600,,DAL,DET,16
-305,2017010109,,TB,CAR,17
-306,2017010101,,CIN,BAL,17
-307,2017010110,,TEN,HOU,17
-308,2017010103,,IND,JAX,17
-309,2017010108,,PIT,CLE,17
-310,2017010105,,MIN,CHI,17
-311,2017010106,,NYJ,BUF,17
-312,2017010107,,PHI,DAL,17
-313,2017010104,,MIA,NE,17
-314,2017010100,,ATL,NO,17
-315,2017010113,,LA,ARI,17
-316,2017010115,,SF,SEA,17
-317,2017010114,,SD,KC,17
-318,2017010112,,DEN,OAK,17
-319,2017010111,,WAS,NYG,17
-320,2017010102,,DET,GB,17
-65,2016090800,DEN,CAR,,1
-66,2016091100,ATL,TB,,1
-67,2016091101,BAL,BUF,,1
-68,2016091108,TEN,MIN,,1
-69,2016091107,PHI,CLE,,1
-70,2016091106,NYJ,CIN,,1
-71,2016091105,NO,OAK,,1
-72,2016091104,KC,SD,,1
-73,2016091102,HOU,CHI,,1
-74,2016091103,JAX,GB,,1
-75,2016091109,SEA,MIA,,1
-76,2016091111,IND,DET,,1
-77,2016091110,DAL,NYG,,1
-78,2016091112,ARI,NE,,1
-79,2016091200,WAS,PIT,,1
-80,2016091201,SF,LA,,1
-81,2016091500,BUF,NYJ,,2
-82,2016091800,CAR,SF,,2
-83,2016091801,CLE,BAL,,2
-84,2016091807,WAS,DAL,,2
-85,2016091806,PIT,CIN,,2
-86,2016091805,NYG,NO,,2
-87,2016091804,NE,MIA,,2
-88,2016091803,HOU,KC,,2
-89,2016091802,DET,TEN,,2
-90,2016091809,LA,SEA,,2
-91,2016091808,ARI,TB,,2
-92,2016091812,SD,JAX,,2
-93,2016091811,OAK,ATL,,2
-94,2016091810,DEN,IND,,2
-95,2016091813,MIN,GB,,2
-96,2016091900,CHI,PHI,,2
-97,2016092200,NE,HOU,,3
-98,2016092500,BUF,ARI,,3
-99,2016092501,CAR,MIN,,3
-100,2016092507,TEN,OAK,,3
-101,2016092506,NYG,WAS,,3
-102,2016092505,MIA,CLE,,3
-103,2016092504,JAX,BAL,,3
-104,2016092503,GB,DET,,3
-105,2016092502,CIN,DEN,,3
-106,2016092508,SEA,SF,,3
-107,2016092509,TB,LA,,3
-108,2016092512,KC,NYJ,,3
-109,2016092511,IND,SD,,3
-110,2016092510,PHI,PIT,,3
-111,2016092513,DAL,CHI,,3
-112,2016092600,NO,ATL,,3
-113,2016092900,CIN,MIA,,4
-114,2016100200,JAX,IND,,4
-115,2016100205,NE,BUF,,4
-116,2016100204,HOU,TEN,,4
-117,2016100207,WAS,CLE,,4
-118,2016100206,NYJ,SEA,,4
-119,2016100201,ATL,CAR,,4
-120,2016100202,BAL,OAK,,4
-121,2016100203,CHI,DET,,4
-122,2016100208,TB,DEN,,4
-123,2016100211,SF,DAL,,4
-124,2016100210,SD,NO,,4
-125,2016100209,ARI,LA,,4
-126,2016100212,PIT,KC,,4
-127,2016100300,MIN,NYG,,4
-128,2016100600,SF,ARI,,5
-129,2016100905,MIN,HOU,,5
-130,2016100904,MIA,TEN,,5
-131,2016100903,IND,CHI,,5
-132,2016100902,DET,PHI,,5
-133,2016100901,CLE,NE,,5
-134,2016100900,BAL,WAS,,5
-135,2016100906,PIT,NYJ,,5
-136,2016100907,DEN,ATL,,5
-137,2016100909,LA,BUF,,5
-138,2016100908,DAL,CIN,,5
-139,2016100910,OAK,SD,,5
-140,2016100911,GB,NYG,,5
-141,2016101000,CAR,TB,,5
-142,2016101300,SD,DEN,,6
-143,2016101602,DET,LA,,6
-144,2016101601,CHI,JAX,,6
-145,2016101600,BUF,SF,,6
-146,2016101603,MIA,PIT,,6
-147,2016101608,WAS,PHI,,6
-148,2016101607,TEN,CLE,,6
-149,2016101606,NYG,BAL,,6
-150,2016101605,NO,CAR,,6
-151,2016101604,NE,CIN,,6
-152,2016101609,OAK,KC,,6
-153,2016101611,SEA,ATL,,6
-154,2016101610,GB,DAL,,6
-155,2016101612,HOU,IND,,6
-156,2016101700,ARI,NYJ,,6
-157,2016102000,GB,CHI,,7
-158,2016102300,LA,NYG,,7
-159,2016102301,CIN,CLE,,7
-160,2016102302,DET,WAS,,7
-161,2016102303,JAX,OAK,,7
-162,2016102304,KC,NO,,7
-163,2016102305,MIA,BUF,,7
-164,2016102306,NYJ,BAL,,7
-165,2016102307,PHI,MIN,,7
-166,2016102308,TEN,IND,,7
-167,2016102309,ATL,SD,,7
-168,2016102310,SF,TB,,7
-169,2016102311,PIT,NE,,7
-170,2016102312,ARI,SEA,,7
-171,2016102400,DEN,HOU,,7
-172,2016102700,TEN,JAX,,8
-173,2016103000,CIN,WAS,,8
-174,2016103002,BUF,NE,,8
-175,2016103009,CAR,ARI,,8
-176,2016103007,TB,OAK,,8
-177,2016103006,NO,SEA,,8
-178,2016103005,IND,KC,,8
-179,2016103003,CLE,NYJ,,8
-180,2016103004,HOU,DET,,8
-181,2016103008,DEN,SD,,8
-182,2016103001,ATL,GB,,8
-183,2016103010,DAL,PHI,,8
-184,2016103100,CHI,MIN,,8
-185,2016110300,TB,ATL,,9
-186,2016110605,MIN,DET,,9
-187,2016110604,MIA,NYJ,,9
-188,2016110603,KC,JAX,,9
-189,2016110602,CLE,DAL,,9
-190,2016110606,NYG,PHI,,9
-191,2016110601,BAL,PIT,,9
-192,2016110607,LA,CAR,,9
-193,2016110608,SF,NO,,9
-194,2016110610,SD,TEN,,9
-195,2016110609,GB,IND,,9
-196,2016110600,OAK,DEN,,9
-197,2016110700,SEA,BUF,,9
-198,2016111000,BAL,CLE,,10
-199,2016111308,WAS,MIN,,10
-200,2016111303,NO,DEN,,10
-201,2016111304,NYJ,LA,,10
-202,2016111305,PHI,ATL,,10
-203,2016111302,JAX,HOU,,10
-204,2016111307,TEN,GB,,10
-205,2016111306,TB,CHI,,10
-206,2016111301,CAR,KC,,10
-207,2016111309,SD,MIA,,10
-208,2016111311,PIT,DAL,,10
-209,2016111310,ARI,SF,,10
-210,2016111312,NE,SEA,,10
-211,2016111400,NYG,CIN,,10
-212,2016111700,CAR,NO,,11
-213,2016112003,DET,JAX,,11
-214,2016112004,IND,TEN,,11
-215,2016112005,KC,TB,,11
-216,2016112006,MIN,ARI,,11
-217,2016112007,NYG,CHI,,11
-218,2016112001,CLE,PIT,,11
-219,2016112002,DAL,BAL,,11
-220,2016112000,CIN,BUF,,11
-221,2016112008,LA,MIA,,11
-222,2016112010,SEA,PHI,,11
-223,2016112009,SF,NE,,11
-224,2016112011,WAS,GB,,11
-225,2016112100,OAK,HOU,,11
-226,2016112400,DET,MIN,,12
-227,2016112401,DAL,WAS,,12
-228,2016112402,IND,PIT,,12
-229,2016112705,HOU,SD,,12
-230,2016112700,ATL,ARI,,12
-231,2016112701,BAL,CIN,,12
-232,2016112702,BUF,JAX,,12
-233,2016112703,CHI,TEN,,12
-234,2016112707,NO,LA,,12
-235,2016112706,MIA,SF,,12
-236,2016112704,CLE,NYG,,12
-237,2016112708,TB,SEA,,12
-238,2016112710,OAK,CAR,,12
-239,2016112711,NYJ,NE,,12
-240,2016112709,DEN,KC,,12
-241,2016112800,PHI,GB,,12
-242,2016120100,MIN,DAL,,13
-243,2016120401,BAL,MIA,,13
-244,2016120402,CHI,SF,,13
-245,2016120400,ATL,KC,,13
-246,2016120403,CIN,PHI,,13
-247,2016120404,GB,HOU,,13
-248,2016120405,JAX,DEN,,13
-249,2016120406,NE,LA,,13
-250,2016120407,NO,DET,,13
-251,2016120408,OAK,BUF,,13
-252,2016120409,ARI,WAS,,13
-253,2016120410,PIT,NYG,,13
-254,2016120411,SD,TB,,13
-255,2016120412,SEA,CAR,,13
-256,2016120500,NYJ,IND,,13
-257,2016120800,KC,OAK,,14
-258,2016121106,MIA,ARI,,14
-259,2016121103,DET,CHI,,14
-260,2016121101,CAR,SD,,14
-261,2016121100,BUF,PIT,,14
-262,2016121105,JAX,MIN,,14
-263,2016121107,PHI,WAS,,14
-264,2016121104,IND,HOU,,14
-265,2016121109,TEN,DEN,,14
-266,2016121102,CLE,CIN,,14
-267,2016121110,SF,NYJ,,14
-268,2016121111,GB,SEA,,14
-269,2016121112,LA,ATL,,14
-270,2016121108,TB,NO,,14
-271,2016121113,NYG,DAL,,14
-272,2016121200,NE,BAL,,14
-273,2016121500,SEA,LA,,15
-274,2016121700,NYJ,MIA,,15
-275,2016121807,NYG,DET,,15
-276,2016121812,CIN,PIT,,15
-277,2016121804,HOU,JAX,,15
-278,2016121806,MIN,IND,,15
-279,2016121805,KC,TEN,,15
-280,2016121802,CHI,GB,,15
-281,2016121801,BUF,CLE,,15
-282,2016121800,BAL,PHI,,15
-283,2016121809,ATL,SF,,15
-284,2016121808,ARI,NO,,15
-285,2016121811,SD,OAK,,15
-286,2016121810,DEN,NE,,15
-287,2016121803,DAL,TB,,15
-288,2016121900,WAS,CAR,,15
-289,2016122200,PHI,NYG,,16
-290,2016122406,NE,NYJ,,16
-291,2016122403,CLE,SD,,16
-292,2016122404,GB,MIN,,16
-293,2016122405,JAX,TEN,,16
-294,2016122402,CHI,WAS,,16
-295,2016122401,CAR,ATL,,16
-296,2016122400,BUF,MIA,,16
-297,2016122408,OAK,IND,,16
-298,2016122410,SEA,ARI,,16
-299,2016122409,LA,SF,,16
-300,2016122407,NO,TB,,16
-301,2016122411,HOU,CIN,,16
-302,2016122500,PIT,BAL,,16
-303,2016122501,KC,DEN,,16
-304,2016122600,DAL,DET,,16
-305,2017010109,TB,CAR,,17
-306,2017010101,CIN,BAL,,17
-307,2017010110,TEN,HOU,,17
-308,2017010103,IND,JAX,,17
-309,2017010108,PIT,CLE,,17
-310,2017010105,MIN,CHI,,17
-311,2017010106,NYJ,BUF,,17
-312,2017010107,PHI,DAL,,17
-313,2017010104,MIA,NE,,17
-314,2017010100,ATL,NO,,17
-315,2017010113,LA,ARI,,17
-316,2017010115,SF,SEA,,17
-317,2017010114,SD,KC,,17
-318,2017010112,DEN,OAK,,17
-319,2017010111,WAS,NYG,,17
-320,2017010102,DET,GB,,17
+,gameId,drive,playId,time,quarter,touchdown,json_desc,statId,playType,yards,shortName
+0,2017090700,1,44,,1,0,"C.Santos kicks 64 yards from KC 35 to NE 1. D.Lewis to NE 27 for 26 yards (K.Pierre-Louis, D.Harris).",45,kickoff ret,26,D.Lewis
+1,2017090700,1,94,14:49,1,0,(14:49) T.Brady pass short right to R.Burkhead pushed ob at NE 35 for 8 yards (R.Parker).,21,reception,8,R.Burkhead
+2,2017090700,1,118,14:14,1,0,"(14:14) (Shotgun) J.White left guard to NE 43 for 8 yards (R.Parker, D.Johnson).",10,rush,8,J.White
+3,2017090700,1,139,13:52,1,0,"(13:52) (No Huddle, Shotgun) J.White up the middle to NE 46 for 3 yards (E.Berry).",10,rush,3,J.White
+4,2017090700,1,160,13:26,1,0,"(13:26) (No Huddle, Shotgun) T.Brady pass deep left to B.Cooks pushed ob at KC 35 for 19 yards (P.Gaines).",21,reception,19,B.Cooks
+5,2017090700,1,189,13:02,1,0,"(13:02) (No Huddle) J.White left tackle to KC 30 for 5 yards (D.Ford, D.Johnson).",10,rush,5,J.White
+6,2017090700,1,210,12:35,1,0,"(12:35) (No Huddle, Shotgun) T.Brady pass short left to D.Amendola pushed ob at KC 14 for 16 yards (P.Gaines).",21,reception,16,D.Amendola
+7,2017090700,1,345,12:12,1,1,"(12:12) N.Solder reported in as eligible.  M.Gillislee up the middle for 2 yards, TOUCHDOWN.",11,rush,2,M.Gillislee
+8,2017090700,2,395,12:08,1,0,"(12:08) (Shotgun) K.Hunt right tackle to KC 32 for 7 yards (J.Richards). FUMBLES (J.Richards), RECOVERED by NE-D.McCourty at KC 32. D.McCourty to KC 32 for no gain (C.Conley).",10,rush,7,K.Hunt
+9,2017090700,2,395,12:08,1,0,"(12:08) (Shotgun) K.Hunt right tackle to KC 32 for 7 yards (J.Richards). FUMBLES (J.Richards), RECOVERED by NE-D.McCourty at KC 32. D.McCourty to KC 32 for no gain (C.Conley).",59,fumble ret,0,D.McCourty
+10,2017090700,3,449,11:55,1,0,(11:55) (Shotgun) T.Brady pass short left to J.White to KC 29 for 3 yards (R.Parker).,21,reception,3,J.White
+11,2017090700,3,473,11:21,1,0,(11:21) (Shotgun) J.White right guard to KC 19 for 10 yards (R.Parker).,10,rush,10,J.White
+12,2017090700,3,516,10:34,1,0,"(10:34) R.Burkhead left guard to KC 20 for -1 yards (E.Berry, B.Logan).",10,rush,-1,R.Burkhead
+13,2017090700,3,629,09:49,1,0,(9:49) (Shotgun) T.Brady pass short middle to D.Amendola to KC 10 for 5 yards (R.Parker). measurement,21,reception,5,D.Amendola
+14,2017090700,3,653,09:34,1,0,"(9:34) N.Solder reported in as eligible.  M.Gillislee up the middle to KC 10 for no gain (A.Bailey, B.Logan).",10,rush,0,M.Gillislee
+15,2017090700,4,680,09:25,1,0,"(9:25) K.Hunt right guard to KC 19 for 9 yards (J.Richards, S.Gilmore).",10,rush,9,K.Hunt
+16,2017090700,4,701,08:48,1,0,"(8:48) (Shotgun) Direct snap to T.Kelce.  T.Kelce up the middle to KC 23 for 4 yards (J.Richards, M.Brown).",10,rush,4,T.Kelce
+17,2017090700,4,724,08:05,1,0,(8:05) (Shotgun) A.Smith pass short left to T.Hill ran ob at KC 37 for 14 yards.,21,reception,14,T.Hill
+18,2017090700,4,748,07:38,1,0,(7:38) (Shotgun) A.Smith pass short left to D.Harris pushed ob at KC 45 for 8 yards (D.McCourty).,21,reception,8,D.Harris
+19,2017090700,4,777,07:05,1,0,(7:05) (Shotgun) A.Smith pass short left to K.Hunt pushed ob at 50 for 5 yards (M.Butler).,21,reception,5,K.Hunt
+20,2017090700,4,801,06:34,1,0,(6:34) (Shotgun) K.Hunt right tackle to NE 41 for 9 yards (S.Gilmore).,10,rush,9,K.Hunt
+21,2017090700,4,822,05:51,1,0,(5:51) (Shotgun) A.Smith pass short middle to A.Wilson to NE 38 for 3 yards (M.Brown).,21,reception,3,A.Wilson
+22,2017090700,4,846,05:13,1,0,(5:13) (Shotgun) A.Smith pass short middle to T.Hill to NE 27 for 11 yards (P.Chung).,21,reception,11,T.Hill
+23,2017090700,4,870,04:31,1,0,(4:31) (Shotgun) A.Smith pass short right to C.Conley pushed ob at NE 9 for 18 yards (K.Van Noy).,21,reception,18,C.Conley
+24,2017090700,4,917,03:47,1,0,(3:47) K.Hunt up the middle to NE 7 for 2 yards (K.Van Noy).,10,rush,2,K.Hunt
+25,2017090700,4,938,03:10,1,1,"(3:10) (Shotgun) A.Smith pass short right to D.Harris for 7 yards, TOUCHDOWN.",22,reception,7,D.Harris
+26,2017090700,5,1004,03:03,1,0,(3:03) (Shotgun) M.Gillislee left guard to NE 28 for 3 yards (R.Parker).,10,rush,3,M.Gillislee
+27,2017090700,5,1025,02:32,1,0,"(2:32) (Shotgun) T.Brady pass deep middle to D.Amendola to KC 45 for 27 yards (R.Parker, E.Berry).",21,reception,27,D.Amendola
+28,2017090700,5,1049,02:05,1,0,(2:05) (No Huddle) T.Brady pass short middle to B.Cooks ran ob at KC 30 for 15 yards.,21,reception,15,B.Cooks
+29,2017090700,5,1077,01:36,1,0,(1:36) C.Hogan left end to KC 17 for 13 yards (P.Gaines). reverse,10,rush,13,C.Hogan
+30,2017090700,5,1156,00:37,1,0,(:37) J.White left end pushed ob at KC 8 for 4 yards (T.Mitchell).,10,rush,4,J.White
+31,2017090700,5,1177,00:23,1,0,"(:23) (No Huddle, Shotgun) J.White up the middle to KC 8 for no gain (D.Johnson; R.Parker). measurement",10,rush,0,J.White
+32,2017090700,6,1241,,2,0,"S.Gostkowski kicks 66 yards from NE 35 to KC -1. D.Thomas pushed ob at KC 30 for 31 yards (P.Chung). PENALTY on NE-B.King, Unnecessary Roughness, 15 yards, enforced at KC 30.",45,kickoff ret,31,D.Thomas
+33,2017090700,6,1296,14:44,2,0,(14:44) (Shotgun) T.Hill right end to KC 49 for 4 yards (D.McCourty).,10,rush,4,T.Hill
+34,2017090700,6,1336,13:22,2,0,"(13:22) D.Colquitt punts 36 yards to NE 18, Center-J.Winchester, fair catch by D.Amendola.",39,punt ret,0,D.Amendola
+35,2017090700,7,1355,13:17,2,0,"(13:17) C.Hogan right end to NE 22 for 4 yards (J.Houston, E.Berry).",10,rush,4,C.Hogan
+36,2017090700,7,1376,12:49,2,0,(12:49) M.Gillislee right end to NE 26 for 4 yards (A.Bailey).,10,rush,4,M.Gillislee
+37,2017090700,7,1397,12:09,2,0,(12:09) (Shotgun) T.Brady pass short left to D.Amendola to NE 48 for 22 yards (T.Mitchell).,21,reception,22,D.Amendola
+38,2017090700,7,1443,11:23,2,0,(11:23) C.Hogan right end to NE 48 for no gain (J.Houston).,10,rush,0,C.Hogan
+39,2017090700,7,1464,10:44,2,0,(10:44) (Shotgun) T.Brady pass short right to R.Gronkowski to KC 36 for 16 yards (E.Berry).,21,reception,16,R.Gronkowski
+40,2017090700,7,1488,09:57,2,0,"(9:57) M.Gillislee left tackle to KC 20 for 16 yards (R.Parker, M.Peters).",10,rush,16,M.Gillislee
+41,2017090700,7,1509,09:17,2,0,"(9:17) M.Gillislee left end to KC 11 for 9 yards (T.Mitchell, R.Miller).",10,rush,9,M.Gillislee
+42,2017090700,7,1530,08:38,2,0,(8:38) M.Gillislee left guard to KC 7 for 4 yards (D.Johnson).,10,rush,4,M.Gillislee
+43,2017090700,7,1551,08:15,2,0,"(8:15) M.Gillislee right tackle to KC 5 for 2 yards (D.Ford, B.Logan).",10,rush,2,M.Gillislee
+44,2017090700,7,1605,07:31,2,1,"(7:31) N.Solder reported in as eligible.  M.Gillislee left guard for 2 yards, TOUCHDOWN.",11,rush,2,M.Gillislee
+45,2017090700,8,1640,,2,0,S.Gostkowski kicks 71 yards from NE 35 to KC -6. D.Thomas to KC 23 for 29 yards (J.Richards).,45,kickoff ret,29,D.Thomas
+46,2017090700,8,1664,07:22,2,0,(7:22) (Shotgun) K.Hunt right end pushed ob at KC 26 for 3 yards (K.Van Noy).,10,rush,3,K.Hunt
+47,2017090700,8,1690,06:47,2,0,(6:47) (Shotgun) K.Hunt right end pushed ob at KC 36 for 10 yards (K.Van Noy). option pitch,10,rush,10,K.Hunt
+48,2017090700,8,1715,06:11,2,0,"(6:11) T.Hill left guard to KC 37 for 1 yard (A.Branch, T.Flowers).",10,rush,1,T.Hill
+49,2017090700,8,1736,05:29,2,0,"(5:29) (Shotgun) D.Thomas right tackle to KC 41 for 4 yards (L.Guy, D.Hightower).",10,rush,4,D.Thomas
+50,2017090700,9,1819,03:44,2,0,(3:44) (Shotgun) D.Lewis up the middle to NE 44 for 4 yards (D.Ford).,10,rush,4,D.Lewis
+51,2017090700,10,1955,02:29,2,0,(2:29) (Shotgun) K.Hunt right end to KC 11 for 7 yards (C.Marsh).,10,rush,7,K.Hunt
+52,2017090700,10,1993,02:07,2,0,"(2:07) (Shotgun) A.Smith pass short middle to A.Wilson to KC 20 for 9 yards (A.Butler, C.Marsh).",21,reception,9,A.Wilson
+53,2017090700,10,2034,02:00,2,0,(2:00) (Shotgun) A.Smith pass short left to T.Kelce to KC 34 for 14 yards (D.McCourty).,21,reception,14,T.Kelce
+54,2017090700,10,2058,01:33,2,0,"(1:33) (No Huddle, Shotgun) A.Smith pass short right to A.Wilson to KC 47 for 13 yards (E.Rowe).",21,reception,13,A.Wilson
+55,2017090700,10,2082,01:30,2,0,(1:30) (Shotgun) A.Smith scrambles up the middle to NE 46 for 7 yards (M.Brown).,10,rush,7,A.Smith
+56,2017090700,10,2125,00:57,2,0,(:57) (Shotgun) A.Smith pass short middle to T.Hill to NE 34 for 12 yards (D.McCourty) [D.Wise].,21,reception,12,T.Hill
+57,2017090700,10,2166,00:49,2,0,(:49) (Shotgun) A.Smith pass short right to C.West pushed ob at NE 30 for 4 yards (D.Hightower).,21,reception,4,C.West
+58,2017090700,10,2190,00:45,2,0,(:45) (Shotgun) A.Smith pass short right to A.Wilson pushed ob at NE 29 for 1 yard (M.Butler).,21,reception,1,A.Wilson
+59,2017090700,10,2219,00:37,2,0,(:37) (Shotgun) A.Smith pass short right to T.Hill ran ob at NE 21 for 8 yards.,21,reception,8,T.Hill
+60,2017090700,10,2276,00:23,2,0,(:23) (Shotgun) A.Smith pass short right to D.Thomas to NE 3 for -2 yards (D.McCourty).,21,reception,-2,D.Thomas
+61,2017090700,10,2317,00:17,2,1,"(:17) (Shotgun) A.Smith pass short left to K.Hunt for 3 yards, TOUCHDOWN.",22,reception,3,K.Hunt
+62,2017090700,11,2353,,2,0,C.Santos kicks 57 yards from KC 35 to NE 8. D.Lewis to NE 18 for 10 yards (D.Sorensen).,45,kickoff ret,10,D.Lewis
+63,2017090700,11,2377,00:08,2,0,(:08) T.Brady kneels to NE 17 for -1 yards.,10,rush,-1,T.Brady
+64,2017090700,12,2430,15:00,3,0,(15:00) K.Hunt up the middle to KC 35 for 10 yards (T.Flowers; L.Guy).,10,rush,10,K.Hunt
+65,2017090700,12,2495,13:57,3,0,(13:57) (Shotgun) A.Smith pass short middle to T.Kelce pushed ob at KC 32 for 7 yards (D.McCourty).,21,reception,7,T.Kelce
+66,2017090700,12,2524,13:21,3,0,"(13:21) A.Smith pass short right to K.Hunt to KC 40 for 8 yards (S.Gilmore, D.McCourty).",21,reception,8,K.Hunt
+67,2017090700,12,2548,12:34,3,0,(12:34) (Shotgun) A.Smith pass short right to T.Hill to KC 44 for 4 yards (M.Butler).,21,reception,4,T.Hill
+68,2017090700,12,2572,11:59,3,0,"(11:59) D.Colquitt punts 39 yards to NE 17, Center-J.Winchester, fair catch by D.Amendola.",39,punt ret,0,D.Amendola
+69,2017090700,13,2613,11:46,3,0,"(11:46) (Shotgun) T.Brady pass short left to D.Amendola to NE 25 for 8 yards (D.Ford). FUMBLES (D.Ford), recovered by NE-D.Andrews at NE 28.",21,reception,8,D.Amendola
+70,2017090700,13,2648,10:53,3,0,(10:53) M.Gillislee left tackle to NE 30 for 2 yards (A.Bailey).,10,rush,2,M.Gillislee
+71,2017090700,13,2669,10:23,3,0,(10:23) M.Gillislee right tackle to NE 26 for -4 yards (D.Johnson).,10,rush,-4,M.Gillislee
+72,2017090700,14,2756,09:28,3,1,"(9:28) (Shotgun) A.Smith pass deep right to T.Hill for 75 yards, TOUCHDOWN.",22,reception,75,T.Hill
+73,2017090700,15,2829,09:13,3,0,(9:13) M.Gillislee up the middle to NE 29 for 4 yards (B.Logan).,10,rush,4,M.Gillislee
+74,2017090700,15,2850,08:33,3,0,(8:33) (Shotgun) T.Brady pass short left to R.Gronkowski to NE 46 for 17 yards (E.Berry).,21,reception,17,R.Gronkowski
+75,2017090700,15,2900,07:55,3,0,(7:55) (Shotgun) D.Lewis up the middle to KC 49 for 5 yards (D.Sorensen).,10,rush,5,D.Lewis
+76,2017090700,16,2961,07:08,3,0,"(7:08) K.Hunt up the middle to KC 15 for 1 yard (T.Flowers, D.Harris). NE-D.Hightower was injured during the play. His return is Questionable.",10,rush,1,K.Hunt
+77,2017090700,16,3029,06:29,3,0,"(6:29) D.Colquitt punts 39 yards to NE 46, Center-J.Winchester, fair catch by D.Amendola.",39,punt ret,0,D.Amendola
+78,2017090700,17,3081,06:18,3,0,(6:18) (Shotgun) T.Brady pass short left to D.Amendola to KC 27 for 22 yards (P.Gaines). NE-80 Amendola 8th career 100-yard game.,21,reception,22,D.Amendola
+79,2017090700,17,3138,05:35,3,0,(5:35) N.Solder reported in as eligible.  M.Gillislee right guard to KC 1 for no gain (A.Bailey; R.Miller).,10,rush,0,M.Gillislee
+80,2017090700,17,3161,05:03,3,1,"(5:03) N.Solder reported in as eligible.  M.Gillislee right guard for 1 yard, TOUCHDOWN.",11,rush,1,M.Gillislee
+81,2017090700,18,3196,,3,0,S.Gostkowski kicks 66 yards from NE 35 to KC -1. D.Thomas to KC 13 for 14 yards (J.Jones).,45,kickoff ret,14,D.Thomas
+82,2017090700,18,3222,04:56,3,0,"(4:56) (Shotgun) A.Smith pass short middle to T.Kelce to KC 21 for 8 yards (L.Guy). shovel pass PENALTY on KC-T.Kelce, Taunting, 10 yards, enforced at KC 21.",21,reception,8,T.Kelce
+83,2017090700,18,3261,04:21,3,0,(4:21) (Shotgun) K.Hunt up the middle to KC 12 for 1 yard (M.Brown).,10,rush,1,K.Hunt
+84,2017090700,19,3409,02:50,3,0,"(2:50) (Shotgun) T.Brady pass deep left to B.Cooks to KC 18 for 54 yards (T.Mitchell). Penalty on KC-P.Gaines, Defensive Holding, declined.",21,reception,54,B.Cooks
+85,2017090700,19,3444,02:31,3,0,(2:31) J.White left tackle to KC 11 for 7 yards (D.Sorensen).,10,rush,7,J.White
+86,2017090700,19,3465,02:00,3,0,(2:00) (No Huddle) J.White left guard to KC 7 for 4 yards (D.Johnson).,10,rush,4,J.White
+87,2017090700,19,3486,01:36,3,0,(1:36) (No Huddle) J.White left tackle to KC 4 for 3 yards (A.Bailey).,10,rush,3,J.White
+88,2017090700,19,3507,00:57,3,0,(:57) J.White left end to KC 10 for -6 yards (D.Johnson).,10,rush,-6,J.White
+89,2017090700,19,3528,00:20,3,0,"(:20) (Shotgun) T.Brady scrambles right tackle to KC 9 for 1 yard. T.Brady pass short left to J.White for 9 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on NE-T.Brady, Illegal Forward Pass, 5 yards, enforced at KC 9.",10,rush,1,T.Brady
+90,2017090700,20,3578,,3,0,S.Gostkowski kicks 67 yards from NE 35 to KC -2. D.Thomas to KC 10 for 12 yards (J.Bademosi).,45,kickoff ret,12,D.Thomas
+91,2017090700,20,3635,00:04,3,0,(:04) (Shotgun) K.Hunt up the middle to KC 18 for 13 yards (P.Chung).,10,rush,13,K.Hunt
+92,2017090700,20,3673,15:00,4,0,(15:00) (Shotgun) A.Smith pass short middle to T.Kelce to KC 22 for 4 yards (M.Brown; J.Richards). shovel pass,21,reception,4,T.Kelce
+93,2017090700,20,3725,14:19,4,1,"(14:19) (Shotgun) A.Smith pass deep right to K.Hunt for 78 yards, TOUCHDOWN.",22,reception,78,K.Hunt
+94,2017090700,21,3776,14:07,4,0,(14:07) (Shotgun) T.Brady pass short left to J.White to KC 49 for 26 yards (R.Parker).,21,reception,26,J.White
+95,2017090700,21,3800,13:34,4,0,"(13:34) (Shotgun) T.Brady pass short left to C.Hogan to KC 41 for 8 yards (R.Parker, D.Johnson).",21,reception,8,C.Hogan
+96,2017090700,21,3846,12:56,4,0,"(12:56) (Shotgun) T.Brady pass short right to J.White to KC 40 for 1 yard (M.Peters, E.Berry). measurement",21,reception,1,J.White
+97,2017090700,21,3874,12:29,4,0,(12:29) N.Solder reported in as eligible.  M.Gillislee up the middle to KC 40 for no gain (F.Zombo; J.Houston).,10,rush,0,M.Gillislee
+98,2017090700,22,3919,12:16,4,0,(12:16) (Shotgun) A.Smith right guard to KC 42 for 2 yards (C.Marsh).,10,rush,2,A.Smith
+99,2017090700,22,3940,11:36,4,0,(11:36) (Shotgun) A.Smith pass short left to T.Kelce to KC 49 for 7 yards (D.McCourty).,21,reception,7,T.Kelce
+100,2017090700,22,4006,10:37,4,0,"(10:37) D.Colquitt punts 43 yards to NE 13, Center-J.Winchester, fair catch by P.Chung.",39,punt ret,0,P.Chung
+101,2017090700,23,4025,10:28,4,0,(10:28) R.Burkhead up the middle to NE 15 for 2 yards (B.Logan).,10,rush,2,R.Burkhead
+102,2017090700,23,4046,10:00,4,0,(10:00) R.Burkhead left end to NE 29 for 14 yards (E.Murray; T.Mitchell).,10,rush,14,R.Burkhead
+103,2017090700,24,4158,08:55,4,0,(8:55) (Shotgun) A.Smith pass short right to T.Hill pushed ob at KC 49 for 9 yards (D.McCourty).,21,reception,9,T.Hill
+104,2017090700,24,4182,08:20,4,0,(8:20) (Shotgun) K.Hunt right tackle to NE 44 for 7 yards (K.Van Noy; L.Guy).,10,rush,7,K.Hunt
+105,2017090700,24,4203,07:36,4,0,(7:36) (Shotgun) A.Smith pass short right to K.Hunt to NE 40 for 4 yards (S.Gilmore).,21,reception,4,K.Hunt
+106,2017090700,24,4227,06:51,4,0,(6:51) (Shotgun) A.Smith pass deep left to C.Conley pushed ob at NE 15 for 25 yards (M.Butler).,21,reception,25,C.Conley
+107,2017090700,24,4273,06:06,4,0,(6:06) (Shotgun) A.Smith pass short left to A.Wilson to NE 4 for 11 yards (L.Guy).,21,reception,11,A.Wilson
+108,2017090700,24,4314,05:19,4,1,"(5:19) (Shotgun) K.Hunt right end for 4 yards, TOUCHDOWN.",11,rush,4,K.Hunt
+109,2017090700,26,4465,04:15,4,0,(4:15) (Shotgun) K.Hunt left end pushed ob at NE 21 for 58 yards (D.McCourty).,10,rush,58,K.Hunt
+110,2017090700,26,4486,04:05,4,1,"(4:05) C.West right guard for 21 yards, TOUCHDOWN.",11,rush,21,C.West
+111,2017090700,27,4520,,4,0,C.Santos kicks 64 yards from KC 35 to NE 1. D.Lewis to NE 14 for 13 yards (U.Eligwe).,45,kickoff ret,13,D.Lewis
+112,2017090700,28,4622,02:44,4,0,(2:44) K.Hunt right tackle to NE 40 for 2 yards (K.Van Noy).,10,rush,2,K.Hunt
+113,2017090700,28,4660,02:37,4,0,(2:37) K.Hunt right tackle to NE 38 for 2 yards (A.Branch).,10,rush,2,K.Hunt
+114,2017090700,28,4721,02:32,4,0,(2:32) K.Hunt up the middle to NE 30 for 3 yards (M.Brown).,10,rush,3,K.Hunt
+115,2017090700,28,4759,02:00,4,0,(2:00) A.Smith kneels to NE 32 for -2 yards.,10,rush,-2,A.Smith
+116,2017090700,28,4780,01:20,4,0,(1:20) A.Smith kneels to NE 35 for -3 yards.,10,rush,-3,A.Smith
+117,2017090700,28,4805,00:39,4,0,(:39) A.Smith kneels to NE 36 for -1 yards.,10,rush,-1,A.Smith
+118,2017091002,1,80,15:00,1,0,(15:00) A.Dalton pass short left to T.Kroft to CIN 25 for 5 yards (C.Mosley).,21,reception,5,T.Kroft
+119,2017091002,1,104,14:19,1,0,(14:19) J.Hill right tackle to CIN 37 for 12 yards (T.Jefferson).,10,rush,12,J.Hill
+120,2017091002,1,125,13:47,1,0,(13:47) J.Hill right end to CIN 38 for 1 yard (Z.Smith; T.Suggs).,10,rush,1,J.Hill
+121,2017091002,2,240,12:38,1,0,(12:38) T.West up the middle to BAL 35 for -1 yards (G.Atkins).,10,rush,-1,T.West
+122,2017091002,2,284,11:45,1,0,(11:45) T.West right tackle to BAL 47 for 7 yards (V.Rey; N.Vigil).,10,rush,7,T.West
+123,2017091002,2,344,10:34,1,0,(10:34) T.West left tackle to CIN 47 for 1 yard (K.Minter; P.Sims).,10,rush,1,T.West
+124,2017091002,2,365,09:48,1,0,(9:48) (Shotgun) J.Flacco pass short left to D.Woodhead pushed ob at CIN 35 for 12 yards (D.Dennard).,21,reception,12,D.Woodhead
+125,2017091002,2,394,09:17,1,0,(9:17) J.Allen left tackle to CIN 35 for no gain (G.Iloka).,10,rush,0,J.Allen
+126,2017091002,2,415,08:40,1,0,(8:40) (Shotgun) J.Flacco pass short middle to D.Woodhead to CIN 22 for 13 yards (N.Vigil).,21,reception,13,D.Woodhead
+127,2017091002,2,471,07:34,1,0,(7:34) (Shotgun) J.Flacco pass short left to B.Perriman to CIN 27 for 5 yards (W.Jackson).,21,reception,5,B.Perriman
+128,2017091002,2,495,06:54,1,0,(6:54) (Shotgun) J.Flacco pass short left to J.Maclin pushed ob at CIN 19 for 8 yards (N.Vigil).,21,reception,8,J.Maclin
+129,2017091002,2,519,06:16,1,0,(6:16) (Shotgun) J.Flacco pass short left to D.Woodhead pushed ob at CIN 11 for 8 yards (W.Jackson).,21,reception,8,D.Woodhead
+130,2017091002,2,565,05:35,1,0,(5:35) D.Woodhead left guard to CIN 7 for 4 yards (M.Johnson).,10,rush,4,D.Woodhead
+131,2017091002,3,650,04:44,1,0,(4:44) J.Mixon right tackle to CIN 26 for 1 yard (B.Williams; T.Jefferson).,10,rush,1,J.Mixon
+132,2017091002,3,671,03:59,1,0,(3:59) A.Dalton pass short right to J.Mixon ran ob at CIN 35 for 9 yards (C.Mosley).,21,reception,9,J.Mixon
+133,2017091002,3,695,03:28,1,0,(3:28) (Shotgun) J.Mixon right end to CIN 43 for 8 yards (C.Mosley; T.Jefferson).,10,rush,8,J.Mixon
+134,2017091002,3,722,02:46,1,0,(2:46) J.Mixon right tackle to CIN 44 for 1 yard (Z.Smith).,10,rush,1,J.Mixon
+135,2017091002,3,743,02:10,1,0,"(2:10) A.Dalton right guard to CIN 46 for 2 yards (T.Suggs). PENALTY on BAL-C.Mosley, Face Mask (15 Yards), 15 yards, enforced at CIN 46.",10,rush,2,A.Dalton
+136,2017091002,3,775,01:46,1,0,(1:46) A.Dalton pass short right intended for A.Green INTERCEPTED by B.Carr (P.Onwuasor) at BAL 27. B.Carr pushed ob at BAL 47 for 20 yards (C.Boling).,25,int,20,B.Carr
+137,2017091002,4,801,01:34,1,0,(1:34) (Shotgun) T.West left end pushed ob at CIN 49 for 4 yards (G.Iloka; D.Dennard).,10,rush,4,T.West
+138,2017091002,4,850,00:42,1,0,(:42) J.Flacco pass short middle to M.Williams to CIN 49 for 5 yards (N.Vigil).,21,reception,5,M.Williams
+139,2017091002,4,917,14:55,2,0,"(14:55) S.Koch punts 40 yards to CIN 9, Center-M.Cox, fair catch by A.Erickson.",39,punt ret,0,A.Erickson
+140,2017091002,5,976,14:26,2,0,(14:26) A.Dalton pass short right to A.Green to CIN 19 for 14 yards (E.Weddle).,21,reception,14,A.Green
+141,2017091002,5,1000,13:46,2,0,(13:46) G.Bernard left end pushed ob at CIN 21 for 2 yards (K.Correa).,10,rush,2,G.Bernard
+142,2017091002,5,1021,13:08,2,0,(13:08) (Shotgun) A.Dalton pass short middle to A.Green to CIN 35 for 14 yards (L.Webb).,21,reception,14,A.Green
+143,2017091002,5,1045,12:42,2,0,(12:42) (Shotgun) G.Bernard right guard to BAL 42 for 23 yards (T.Jefferson).,10,rush,23,G.Bernard
+144,2017091002,5,1066,12:15,2,0,(12:15) (Shotgun) G.Bernard left guard to BAL 39 for 3 yards (B.Urban).,10,rush,3,G.Bernard
+145,2017091002,5,1087,11:50,2,0,(11:50) J.Hill right guard to BAL 38 for 1 yard (M.Judon).,10,rush,1,J.Hill
+146,2017091002,5,1108,11:09,2,0,(11:09) (Shotgun) A.Dalton pass short middle to B.LaFell to BAL 25 for 13 yards (J.Smith).,21,reception,13,B.LaFell
+147,2017091002,5,1132,10:44,2,0,(10:44) (Shotgun) A.Dalton pass short left to A.Green to BAL 12 for 13 yards (J.Smith).,21,reception,13,A.Green
+148,2017091002,5,1156,10:22,2,0,(10:22) G.Bernard right guard to BAL 11 for 1 yard (C.Mosley; T.Jefferson).,10,rush,1,G.Bernard
+149,2017091002,5,1198,09:50,2,0,(9:50) (Shotgun) G.Bernard left guard to BAL 9 for 2 yards (M.Pierce).,10,rush,2,G.Bernard
+150,2017091002,5,1219,09:06,2,0,(9:06) (Shotgun) A.Dalton pass short middle intended for B.LaFell INTERCEPTED by C.Mosley at BAL -5. C.Mosley to BAL 26 for 31 yards (B.LaFell).,25,int,31,C.Mosley
+151,2017091002,6,1274,08:48,2,0,(8:48) (Shotgun) T.West left tackle to BAL 30 for 4 yards (V.Rey).,10,rush,4,T.West
+152,2017091002,7,1339,07:10,2,0,"(7:10) J.Hill up the middle to CIN 48 for 8 yards (T.Bowser). PENALTY on CIN-J.Fisher, Offensive Holding, 10 yards, enforced at CIN 47. {J.Hill credited with 7 rushing yards due to the penalty}",10,rush,7,J.Hill
+153,2017091002,7,1394,06:41,2,0,(6:41) (Shotgun) A.Dalton pass short right to T.Eifert to CIN 41 for 4 yards (C.Mosley).,21,reception,4,T.Eifert
+154,2017091002,8,1462,05:46,2,0,(5:46) T.West left tackle to BAL 25 for 1 yard (K.Minter; P.Sims).,10,rush,1,T.West
+155,2017091002,8,1483,05:03,2,0,(5:03) T.West left guard to BAL 35 for 10 yards (V.Rey).,10,rush,10,T.West
+156,2017091002,8,1504,04:25,2,0,(4:25) J.Flacco pass short middle to N.Boyle pushed ob at BAL 49 for 14 yards (D.Dennard).,21,reception,14,N.Boyle
+157,2017091002,8,1528,03:41,2,0,"(3:41) J.Allen up the middle to CIN 46 for 5 yards (D.Kirkpatrick). PENALTY on BAL-N.Boyle, Offensive Holding, 10 yards, enforced at CIN 47. {J.Allen credited with 4 yard rush due to the penalty}",10,rush,4,J.Allen
+158,2017091002,8,1560,03:15,2,0,(3:15) J.Allen up the middle to BAL 44 for 1 yard (G.Atkins).,10,rush,1,J.Allen
+159,2017091002,8,1581,02:37,2,0,(2:37) (Shotgun) J.Flacco pass short middle to M.Wallace to CIN 48 for 8 yards (V.Rey).,21,reception,8,M.Wallace
+160,2017091002,8,1622,02:00,2,1,"(2:00) (Shotgun) J.Flacco pass short middle to J.Maclin for 48 yards, TOUCHDOWN.",22,reception,48,J.Maclin
+161,2017091002,9,1662,,2,0,J.Tucker kicks 63 yards from BAL 35 to CIN 2. A.Erickson to CIN 13 for 11 yards (A.Levine Sr.).,45,kickoff ret,11,A.Erickson
+162,2017091002,9,1686,01:47,2,0,(1:47) (Shotgun) G.Bernard right end to CIN 17 for 4 yards (A.Levine Sr.).,10,rush,4,G.Bernard
+163,2017091002,9,1707,01:39,2,0,(1:39) (Shotgun) A.Dalton pass short left intended for T.Boyd INTERCEPTED by L.Webb (T.Suggs) at CIN 12. L.Webb to CIN 2 for 10 yards (T.Hopkins).,25,int,10,L.Webb
+164,2017091002,10,1733,01:31,2,1,"(1:31) T.West left guard for 2 yards, TOUCHDOWN.",11,rush,2,T.West
+165,2017091002,11,1803,01:24,2,0,(1:24) (Shotgun) G.Bernard right guard to CIN 30 for 5 yards (M.Pierce).,10,rush,5,G.Bernard
+166,2017091002,12,1889,00:30,2,0,(:30) J.Allen left end to BAL 44 for 7 yards (N.Vigil; G.Atkins).,10,rush,7,J.Allen
+167,2017091002,12,1984,00:12,2,0,(:12) (Shotgun) J.Allen right guard to CIN 49 for 17 yards (V.Rey). CIN-M.Johnson was injured during the play.,10,rush,17,J.Allen
+168,2017091002,13,2041,15:00,3,0,(15:00) M.Campanaro left end to BAL 27 for 2 yards (K.Minter). {end around},10,rush,2,M.Campanaro
+169,2017091002,13,2089,14:12,3,0,(14:12) (Shotgun) J.Flacco pass short middle intended for T.West INTERCEPTED by N.Vigil at BAL 26. N.Vigil to BAL 26 for no gain (T.West).,25,int,0,N.Vigil
+170,2017091002,14,2115,14:06,3,0,(14:06) (Shotgun) J.Hill right guard to BAL 23 for 3 yards (C.Mosley; T.Jefferson).,10,rush,3,J.Hill
+171,2017091002,14,2136,13:25,3,0,(13:25) (Shotgun) A.Dalton pass short right to J.Hill pushed ob at BAL 25 for -2 yards (K.Correa).,21,reception,-2,J.Hill
+172,2017091002,14,2160,12:51,3,0,(12:51) (Shotgun) A.Dalton pass short right to T.Boyd to BAL 14 for 11 yards (B.Carr).,21,reception,11,T.Boyd
+173,2017091002,14,2184,12:15,3,0,(12:15) (Shotgun) J.Hill right end to BAL 12 for 2 yards (K.Correa).,10,rush,2,J.Hill
+174,2017091002,14,2205,11:37,3,0,(11:37) (Shotgun) A.Dalton pass short right to A.Green pushed ob at BAL 6 for 6 yards (T.Suggs).,21,reception,6,A.Green
+175,2017091002,14,2229,10:57,3,0,"(10:57) (Shotgun) A.Dalton sacked at BAL 14 for -8 yards (T.Suggs). FUMBLES (T.Suggs), RECOVERED by BAL-M.Pierce at BAL 12. M.Pierce to BAL 12 for no gain (C.Ogbuehi). {sack credited for 6 yards due to where fumble was recovered}",59,fumble ret,0,M.Pierce
+176,2017091002,15,2268,10:44,3,0,(10:44) T.West left end to BAL 19 for 7 yards (K.Minter; P.Sims).,10,rush,7,T.West
+177,2017091002,15,2289,10:02,3,0,(10:02) T.West left guard to BAL 21 for 2 yards (D.Kirkpatrick).,10,rush,2,T.West
+178,2017091002,15,2310,09:22,3,0,(9:22) T.West left end to BAL 28 for 7 yards (C.Fejedelem).,10,rush,7,T.West
+179,2017091002,15,2363,08:20,3,0,(8:20) (Shotgun) J.Allen left guard to BAL 49 for 6 yards (V.Rey; G.Atkins).,10,rush,6,J.Allen
+180,2017091002,15,2384,07:44,3,0,(7:44) J.Allen right guard to CIN 48 for 3 yards (K.Minter).,10,rush,3,J.Allen
+181,2017091002,15,2422,07:02,3,0,(7:02) T.West right tackle to CIN 46 for 2 yards (V.Rey).,10,rush,2,T.West
+182,2017091002,15,2443,06:29,3,0,(6:29) T.West left tackle to CIN 44 for 2 yards (D.Kirkpatrick; C.Fejedelem).,10,rush,2,T.West
+183,2017091002,15,2464,05:47,3,0,(5:47) J.Allen left guard to CIN 40 for 4 yards (G.Atkins; V.Rey).,10,rush,4,J.Allen
+184,2017091002,15,2502,05:03,3,0,(5:03) (Shotgun) J.Allen left guard to CIN 34 for 6 yards (J.Shaw).,10,rush,6,J.Allen
+185,2017091002,15,2523,04:25,3,0,(4:25) J.Allen left end to CIN 34 for no gain (D.Dennard; K.Minter).,10,rush,0,J.Allen
+186,2017091002,15,2544,03:41,3,0,(3:41) T.West up the middle to CIN 30 for 4 yards (A.Billings).,10,rush,4,T.West
+187,2017091002,15,2598,02:57,3,0,(2:57) (Shotgun) J.Allen left guard to CIN 16 for 7 yards (N.Vigil).,10,rush,7,J.Allen
+188,2017091002,15,2619,02:21,3,0,(2:21) J.Allen right guard to CIN 15 for 1 yard (V.Rey).,10,rush,1,J.Allen
+189,2017091002,15,2695,01:54,3,0,(1:54) T.West right end to CIN 7 for 3 yards (K.Minter; V.Rey).,10,rush,3,T.West
+190,2017091002,16,2772,01:06,3,0,(1:06) A.Dalton pass short right to B.LaFell to CIN 30 for 5 yards (J.Smith).,21,reception,5,B.LaFell
+191,2017091002,17,2897,00:18,3,0,(:18) T.West right end to BAL 26 for 11 yards (D.Kirkpatrick; G.Iloka).,10,rush,11,T.West
+192,2017091002,17,2935,15:00,4,0,(15:00) T.West left tackle to BAL 28 for 2 yards (P.Sims).,10,rush,2,T.West
+193,2017091002,17,2956,14:22,4,0,(14:22) J.Allen left end to BAL 25 for -3 yards (J.Willis; V.Rey).,10,rush,-3,J.Allen
+194,2017091002,17,3000,13:15,4,0,(13:15) (Shotgun) J.Allen left guard to BAL 24 for 4 yards (G.Atkins).,10,rush,4,J.Allen
+195,2017091002,18,3046,12:23,4,0,(12:23) (Shotgun) A.Dalton pass short left to J.Mixon to CIN 34 for 4 yards (B.Carr).,21,reception,4,J.Mixon
+196,2017091002,18,3089,11:16,4,0,(11:16) (Shotgun) A.Dalton pass deep middle to A.Green pushed ob at BAL 44 for 27 yards (T.Jefferson).,21,reception,27,A.Green
+197,2017091002,18,3135,10:34,4,0,(10:34) (Shotgun) J.Mixon up the middle to BAL 43 for 1 yard (L.Webb).,10,rush,1,J.Mixon
+198,2017091002,18,3178,09:54,4,0,"(9:54) K.Huber punts 35 yards to BAL 8, Center-C.Harris, fair catch by M.Campanaro.",39,punt ret,0,M.Campanaro
+199,2017091002,19,3201,09:47,4,0,(9:47) T.West right end pushed ob at BAL 12 for 4 yards (K.Minter).,10,rush,4,T.West
+200,2017091002,19,3245,08:47,4,0,(8:47) T.West left guard to BAL 15 for 8 yards (C.Fejedelem).,10,rush,8,T.West
+201,2017091002,19,3266,08:05,4,0,(8:05) (Shotgun) J.Allen left tackle to BAL 13 for -2 yards (C.Dunlap; N.Vigil).,10,rush,-2,J.Allen
+202,2017091002,20,3395,06:46,4,0,(6:46) (Shotgun) A.Dalton pass short left to G.Bernard to BAL 18 for 39 yards (L.Webb).,21,reception,39,G.Bernard
+203,2017091002,20,3460,05:18,4,0,(5:18) (Shotgun) A.Dalton pass short middle to B.LaFell to BAL 13 for 6 yards (T.Jefferson).,21,reception,6,B.LaFell
+204,2017091002,21,3510,04:33,4,0,(4:33) {line of scrimmage changed with change of possession} J.Allen right guard to BAL 13 for -1 yards (C.Smith).,10,rush,-1,J.Allen
+205,2017091002,21,3552,04:26,4,0,"(4:26) J.Allen left tackle to BAL 15 for 2 yards (K.Minter). Penalty on BAL-R.Jensen, Offensive Holding, declined.",10,rush,2,J.Allen
+206,2017091002,21,3584,04:21,4,0,(4:21) J.Allen left tackle to BAL 23 for 8 yards (N.Vigil).,10,rush,8,J.Allen
+207,2017091002,22,3662,04:07,4,0,"(4:07) J.Mixon right tackle to CIN 45 for 3 yards (T.Suggs). PENALTY on BAL-B.Urban, Illegal Use of Hands, 5 yards, enforced at CIN 45.",10,rush,3,J.Mixon
+208,2017091002,22,3694,04:01,4,0,(4:01) J.Mixon right guard to BAL 46 for 4 yards (M.Pierce; E.Weddle).,10,rush,4,J.Mixon
+209,2017091002,22,3715,03:36,4,0,(3:36) (Shotgun) A.Dalton pass short left to J.Mixon to BAL 44 for 2 yards (C.Mosley).,21,reception,2,J.Mixon
+210,2017091002,22,3743,03:00,4,0,(3:00) (Shotgun) A.Dalton pass short left intended for A.Green INTERCEPTED by J.Smith at BAL 36. J.Smith to BAL 44 for 8 yards (A.Green; J.Mixon).,25,int,8,J.Smith
+211,2017091002,23,3769,02:52,4,0,(2:52) J.Allen left guard to BAL 42 for -2 yards (K.Minter; N.Vigil).,10,rush,-2,J.Allen
+212,2017091002,23,3790,02:09,4,0,(2:09) J.Allen left tackle to BAL 49 for 7 yards (D.Kirkpatrick).,10,rush,7,J.Allen
+213,2017091002,23,3828,02:00,4,0,(2:00) J.Allen right tackle to CIN 49 for 2 yards (R.Glasgow).,10,rush,2,J.Allen
+214,2017091002,23,3870,01:13,4,0,"(1:13) S.Koch punts 36 yards to CIN 13, Center-M.Cox, fair catch by A.Erickson.",39,punt ret,0,A.Erickson
+215,2017091002,24,3889,01:06,4,0,(1:06) J.Mixon right tackle to CIN 9 for -4 yards (C.Mosley).,10,rush,-4,J.Mixon
+216,2017091002,24,3910,00:25,4,0,(:25) J.Mixon left end to CIN 4 for -5 yards (P.Ricard).,10,rush,-5,J.Mixon
+217,2017091101,1,52,15:00,1,0,(15:00) C.Anderson right guard to DEN 26 for 1 yard (J.Bosa).,10,rush,1,C.Anderson
+218,2017091101,1,73,14:28,1,0,(14:28) (Shotgun) T.Siemian pass short middle to De.Thomas to DEN 32 for 6 yards (J.Brown; H.Pullard).,21,reception,6,De.Thomas
+219,2017091101,1,97,13:54,1,0,(13:54) (Shotgun) T.Siemian pass short left to E.Sanders ran ob at DEN 36 for 4 yards.,21,reception,4,E.Sanders
+220,2017091101,1,121,13:21,1,0,(13:21) D.Stephenson reported in as eligible.  C.Anderson up the middle to DEN 38 for 2 yards (M.Ingram).,10,rush,2,C.Anderson
+221,2017091101,1,188,12:38,1,0,"(12:38) R.Dixon punts 51 yards to LAC 11, Center-C.Kreiter, fair catch by T.Benjamin.",39,punt ret,0,T.Benjamin
+222,2017091101,2,230,12:30,1,0,(12:30) M.Gordon left guard to LAC 27 for 21 yards (J.Simmons).,10,rush,21,M.Gordon
+223,2017091101,2,251,11:50,1,0,"(11:50) (Shotgun) M.Gordon left tackle to LAC 32 for 5 yards (D.Peko, J.Simmons).",10,rush,5,M.Gordon
+224,2017091101,3,389,10:50,1,0,(10:50) C.Anderson left guard to DEN 36 for 6 yards (J.Brown).,10,rush,6,C.Anderson
+225,2017091101,3,410,10:13,1,0,(10:13) (Shotgun) T.Siemian pass short left to De.Thomas to DEN 42 for 6 yards (C.Hayward) [M.Ingram].,21,reception,6,De.Thomas
+226,2017091101,3,434,09:39,1,0,(9:39) C.Anderson up the middle to DEN 44 for 2 yards (K.Toomer).,10,rush,2,C.Anderson
+227,2017091101,3,455,09:05,1,0,(9:05) (Shotgun) C.Anderson up the middle to LAC 45 for 11 yards (H.Pullard).,10,rush,11,C.Anderson
+228,2017091101,3,498,08:20,1,0,(8:20) (Shotgun) T.Siemian pass short middle to J.Heuerman to LAC 25 for 20 yards (K.Emanuel).,21,reception,20,J.Heuerman
+229,2017091101,3,544,07:37,1,0,(7:37) C.Anderson left guard to LAC 22 for 3 yards (D.Square; D.Philon).,10,rush,3,C.Anderson
+230,2017091101,3,565,06:57,1,0,(6:57) (Shotgun) T.Siemian pass short right to B.Fowler to LAC 12 for 10 yards (M.Ingram).,21,reception,10,B.Fowler
+231,2017091101,3,589,06:18,1,0,(6:18) C.Anderson right tackle pushed ob at LAC 5 for 7 yards (J.Brown).,10,rush,7,C.Anderson
+232,2017091101,3,610,05:41,1,0,(5:41) C.Anderson up the middle to LAC 5 for no gain (B.Mebane).,10,rush,0,C.Anderson
+233,2017091101,3,631,04:58,1,1,"(4:58) (Shotgun) T.Siemian pass short right to B.Fowler for 5 yards, TOUCHDOWN. Penalty on LAC-J.Bosa, Defensive Offside, declined.",22,reception,5,B.Fowler
+234,2017091101,4,698,04:50,1,0,(4:50) M.Gordon left guard to LAC 27 for 2 yards (B.Marshall; T.Davis).,10,rush,2,M.Gordon
+235,2017091101,4,719,04:03,1,0,"(4:03) (Shotgun) M.Gordon up the middle to LAC 28 for 1 yard (D.Wolfe, B.Marshall).",10,rush,1,M.Gordon
+236,2017091101,4,740,03:20,1,0,(3:20) (Shotgun) P.Rivers pass short left to K.Allen to LAC 37 for 9 yards (J.Simmons).,21,reception,9,K.Allen
+237,2017091101,4,764,02:41,1,0,(2:41) (Shotgun) M.Gordon left tackle to LAC 39 for 2 yards (T.Davis; S.Harris).,10,rush,2,M.Gordon
+238,2017091101,4,902,01:44,1,0,(1:44) M.Gordon right guard to DEN 21 for no gain (J.Simmons; D.Wolfe).,10,rush,0,M.Gordon
+239,2017091101,4,923,01:07,1,0,(1:07) (Shotgun) C.Hairston reported in as eligible.  M.Gordon left tackle to DEN 11 for 10 yards (J.Simmons).,10,rush,10,M.Gordon
+240,2017091101,4,946,00:24,1,0,(:24) (Shotgun) M.Gordon up the middle to DEN 11 for no gain (A.Gotsis).,10,rush,0,M.Gordon
+241,2017091101,4,984,15:00,2,1,"(15:00) (Shotgun) P.Rivers pass short middle to M.Gordon for 11 yards, TOUCHDOWN [D.Wolfe].",22,reception,11,M.Gordon
+242,2017091101,5,1040,14:55,2,0,"(14:55) (Shotgun) C.Anderson up the middle to DEN 27 for 2 yards (J.Brown, H.Pullard).",10,rush,2,C.Anderson
+243,2017091101,5,1061,14:16,2,0,(14:16) (Shotgun) T.Siemian pass short left to E.Sanders to DEN 29 for 2 yards (Tr.Williams; J.Addae).,21,reception,2,E.Sanders
+244,2017091101,6,1132,13:19,2,0,(13:19) (Shotgun) B.Oliver up the middle to LAC 21 for 6 yards (B.Roby).,10,rush,6,B.Oliver
+245,2017091101,6,1153,12:48,2,0,"(12:48) B.Oliver left tackle to LAC 24 for 3 yards (V.Miller, S.Harris).",10,rush,3,B.Oliver
+246,2017091101,6,1174,12:04,2,0,(12:04) (Shotgun) P.Rivers pass short right to M.Gordon ran ob at LAC 27 for 3 yards.,21,reception,3,M.Gordon
+247,2017091101,6,1198,11:43,2,0,(11:43) B.Oliver up the middle to LAC 28 for 1 yard (A.Gotsis).,10,rush,1,B.Oliver
+248,2017091101,6,1219,11:11,2,0,(11:11) B.Oliver up the middle to LAC 28 for no gain (A.Gotsis).,10,rush,0,B.Oliver
+249,2017091101,7,1292,10:05,2,0,(10:05) J.Charles right tackle to DEN 47 for 3 yards (K.Toomer; B.Mebane).,10,rush,3,J.Charles
+250,2017091101,7,1335,09:19,2,0,(9:19) (Shotgun) T.Siemian pass short left to A.Derby to LAC 44 for 9 yards (J.Brown).,21,reception,9,A.Derby
+251,2017091101,7,1359,08:40,2,0,(8:40) C.Anderson left tackle pushed ob at LAC 26 for 18 yards (T.Boston).,10,rush,18,C.Anderson
+252,2017091101,7,1380,08:05,2,0,(8:05) T.Siemian scrambles up the middle to LAC 18 for 8 yards (J.Brown).,10,rush,8,T.Siemian
+253,2017091101,7,1401,07:25,2,0,(7:25) (Shotgun) J.Charles up the middle to LAC 14 for 4 yards (H.Pullard; J.Bosa).,10,rush,4,J.Charles
+254,2017091101,7,1422,06:44,2,0,(6:44) (Shotgun) T.Siemian pass short left to A.Derby to LAC 1 for 13 yards (H.Pullard).,21,reception,13,A.Derby
+255,2017091101,7,1465,06:11,2,0,(6:11) C.Anderson up the middle to LAC 1 for no gain (I.Rochell).,10,rush,0,C.Anderson
+256,2017091101,7,1486,05:33,2,1,"(5:33) T.Siemian scrambles right end for 1 yard, TOUCHDOWN.",11,rush,1,T.Siemian
+257,2017091101,8,1534,05:27,2,0,(5:27) M.Gordon right tackle to LAC 27 for 2 yards (V.Miller).,10,rush,2,M.Gordon
+258,2017091101,8,1555,04:47,2,0,(4:47) (Shotgun) P.Rivers pass short right to T.Benjamin pushed ob at LAC 33 for 6 yards (D.Stewart) [B.Marshall].,21,reception,6,T.Benjamin
+259,2017091101,8,1584,04:10,2,0,(4:10) (Shotgun) P.Rivers pass short right to K.Allen to LAC 42 for 9 yards (V.Miller).,21,reception,9,K.Allen
+260,2017091101,8,1608,03:29,2,0,(3:29) P.Rivers pass short middle to Ty.Williams to DEN 44 for 14 yards (D.Stewart).,21,reception,14,Ty.Williams
+261,2017091101,8,1632,02:50,2,0,(2:50) M.Gordon up the middle to DEN 43 for 1 yard (T.Jarrett; D.Stewart).,10,rush,1,M.Gordon
+262,2017091101,8,1653,02:07,2,0,(2:07) M.Gordon up the middle to DEN 39 for 4 yards (D.Stewart).,10,rush,4,M.Gordon
+263,2017091101,9,1738,01:46,2,0,(1:46) C.Anderson up the middle to DEN 27 for 9 yards (B.Mebane).,10,rush,9,C.Anderson
+264,2017091101,9,1759,01:16,2,0,(1:16) C.Anderson left tackle to DEN 32 for 5 yards (J.Verrett).,10,rush,5,C.Anderson
+265,2017091101,9,1780,00:52,2,0,(:52) (Shotgun) T.Siemian scrambles right tackle pushed ob at DEN 34 for 2 yards (J.Brown).,10,rush,2,T.Siemian
+266,2017091101,9,1835,00:38,2,0,(:38) (Shotgun) J.Charles up the middle to DEN 28 for 4 yards (C.McCain).,10,rush,4,J.Charles
+267,2017091101,10,1888,15:00,3,0,(15:00) (Shotgun) M.Gordon up the middle to LAC 27 for 2 yards (D.Peko).,10,rush,2,M.Gordon
+268,2017091101,10,1909,14:19,3,0,(14:19) (Shotgun) M.Gordon right end to LAC 29 for 2 yards (D.Stewart).,10,rush,2,M.Gordon
+269,2017091101,10,1930,13:33,3,0,(13:33) (Shotgun) P.Rivers pass short middle intended for K.Allen INTERCEPTED by B.Roby [J.Simmons] at LAC 43. B.Roby to LAC 43 for no gain (K.Allen).,25,int,0,B.Roby
+270,2017091101,11,1956,13:27,3,0,(13:27) C.Anderson right guard to LAC 39 for 4 yards (K.Toomer).,10,rush,4,C.Anderson
+271,2017091101,11,1999,12:51,3,0,(12:51) (Shotgun) T.Siemian pass deep right to D. Thomas ran ob at LAC 10 for 29 yards.,21,reception,29,D. Thomas
+272,2017091101,11,2023,12:09,3,0,(12:09) (Shotgun) T.Siemian scrambles right tackle to LAC 2 for 8 yards (J.Brown).,10,rush,8,T.Siemian
+273,2017091101,11,2067,11:13,3,0,(11:13) (Shotgun) T.Siemian scrambles right tackle to LAC 6 for 1 yard (J.Bosa).,10,rush,1,T.Siemian
+274,2017091101,11,2088,10:31,3,1,"(10:31) (Shotgun) T.Siemian pass short left to B.Fowler for 6 yards, TOUCHDOWN.",22,reception,6,B.Fowler
+275,2017091101,12,2158,09:41,3,0,(9:41) (Shotgun) P.Rivers pass short left to M.Gordon to LAC 17 for -1 yards (D.Stewart).,21,reception,-1,M.Gordon
+276,2017091101,12,2186,08:56,3,0,(8:56) (Shotgun) P.Rivers pass short left to Ty.Williams pushed ob at LAC 26 for 9 yards (B.Roby).,21,reception,9,Ty.Williams
+277,2017091101,13,2235,08:16,3,0,(8:16) T.Siemian pass short left to D. Thomas to DEN 34 for 14 yards (C.Hayward) [D.Philon].,21,reception,14,D. Thomas
+278,2017091101,13,2259,07:33,3,0,(7:33) J.Charles right guard to DEN 41 for 7 yards (K.Toomer; J.Brown).,10,rush,7,J.Charles
+279,2017091101,13,2280,06:58,3,0,(6:58) (Shotgun) J.Charles left end pushed ob at LAC 47 for 12 yards (H.Pullard).,10,rush,12,J.Charles
+280,2017091101,13,2301,06:18,3,0,(6:18) T.Siemian pass short right to A.Derby to LAC 35 for 12 yards (T.Boston).,21,reception,12,A.Derby
+281,2017091101,13,2350,04:46,3,0,(4:46) (Shotgun) T.Siemian pass short right to E.Sanders pushed ob at LAC 24 for 20 yards (Tr.Williams).,21,reception,20,E.Sanders
+282,2017091101,13,2374,04:02,3,0,"(4:02) T.Siemian pass short right to D. Thomas to LAC 12 for 12 yards (C.Hayward, H.Pullard).",21,reception,12,D. Thomas
+283,2017091101,13,2398,03:28,3,0,(3:28) J.Charles right end pushed ob at LAC 10 for 2 yards (K.Toomer).,10,rush,2,J.Charles
+284,2017091101,13,2419,02:55,3,0,(2:55) T.Siemian pass short middle to C.Anderson to LAC 3 for 7 yards (B.Mebane).,21,reception,7,C.Anderson
+285,2017091101,13,2460,02:17,3,0,(2:17) J.Charles up the middle to LAC 1 for 2 yards (J.Brown).,10,rush,2,J.Charles
+286,2017091101,13,2481,01:33,3,0,(1:33) D.Stephenson reported in as eligible.  J.Charles right end to LAC 3 for -2 yards (J.Addae).,10,rush,-2,J.Charles
+287,2017091101,13,2504,00:49,3,0,(:49) (Shotgun) C.Anderson left guard to LAC 2 for 1 yard (T.Boston).,10,rush,1,C.Anderson
+288,2017091101,14,2596,15:00,4,0,(15:00) (Shotgun) P.Rivers pass short left to M.Gordon to LAC 34 for 9 yards (B.Roby; B.Marshall).,21,reception,9,M.Gordon
+289,2017091101,14,2620,14:27,4,0,(14:27) (Shotgun) P.Rivers pass short middle to Ty.Williams to LAC 43 for 9 yards (B.Marshall).,21,reception,9,Ty.Williams
+290,2017091101,14,2644,13:51,4,0,(13:51) (Shotgun) M.Gordon left tackle to LAC 41 for -2 yards (C.Harris).,10,rush,-2,M.Gordon
+291,2017091101,14,2665,13:12,4,0,(13:12) (Shotgun) P.Rivers pass short right to A.Ekeler to LAC 48 for 7 yards (C.Nelson).,21,reception,7,A.Ekeler
+292,2017091101,14,2689,12:34,4,0,(12:34) (Shotgun) P.Rivers pass short right to K.Allen to DEN 48 for 4 yards (A.Talib).,21,reception,4,K.Allen
+293,2017091101,14,2730,12:02,4,0,(12:02) C.Hairston reported in as eligible.  M.Gordon up the middle to 50 for -2 yards (T.Davis).,10,rush,-2,M.Gordon
+294,2017091101,15,2753,11:58,4,0,(11:58)  Direction Change. C.Anderson right guard to LAC 49 for no gain (J.Brown).,10,rush,0,C.Anderson
+295,2017091101,15,2778,11:58,4,0,(11:58) C.Anderson up the middle to LAC 49 for no gain (J.Brown).,10,rush,0,C.Anderson
+296,2017091101,15,2810,10:44,4,0,"(10:44) (Shotgun) T.Siemian pass short left intended for B.Fowler INTERCEPTED by A.Phillips (D.King) at DEN 47. A.Phillips to DEN 43 for 4 yards (A.Derby). The Replay Official reviewed the pass interception ruling, and the play was Upheld. The ruling on the field was confirmed.",25,int,4,A.Phillips
+297,2017091101,16,2875,10:33,4,0,(10:33) (Shotgun) P.Rivers pass short middle to A.Gates to DEN 32 for 11 yards (B.Marshall).,21,reception,11,A.Gates
+298,2017091101,16,2899,10:08,4,0,"(10:08) (No Huddle, Shotgun) P.Rivers pass short left to Ty.Williams to DEN 20 for 12 yards (B.Marshall).",21,reception,12,Ty.Williams
+299,2017091101,16,2923,09:31,4,0,"(9:31) (No Huddle, Shotgun) M.Gordon up the middle to DEN 16 for 4 yards (A.Gotsis).",10,rush,4,M.Gordon
+300,2017091101,16,2944,08:56,4,0,"(8:56) (No Huddle, Shotgun) P.Rivers pass short middle to A.Ekeler to DEN 5 for 11 yards (B.Roby; J.Simmons).",21,reception,11,A.Ekeler
+301,2017091101,16,2968,08:15,4,1,"(8:15) (No Huddle, Shotgun) P.Rivers pass short right to K.Allen for 5 yards, TOUCHDOWN. PENALTY on LAC-K.Allen, Taunting, 15 yards, enforced between downs.",22,reception,5,K.Allen
+302,2017091101,17,3070,,4,0,Y.Koo kicks 78 yards from LAC 20 to DEN 2. C.Latimer to DEN 38 for 36 yards (J.Onwualu).,45,kickoff ret,36,C.Latimer
+303,2017091101,17,3094,08:01,4,0,(8:01) J.Charles right end to DEN 42 for 4 yards (C.Hayward; B.Mebane).,10,rush,4,J.Charles
+304,2017091101,17,3115,07:22,4,0,"(7:22) J.Charles right end to DEN 46 for 4 yards (K.Toomer). FUMBLES (K.Toomer), RECOVERED by LAC-C.Hayward at DEN 49. C.Hayward to DEN 38 for 11 yards (M.Watson). The Replay Official reviewed the fumble ruling, and the play was Upheld. The ruling on the field stands.",59,fumble ret,11,C.Hayward
+305,2017091101,17,3115,07:22,4,0,"(7:22) J.Charles right end to DEN 46 for 4 yards (K.Toomer). FUMBLES (K.Toomer), RECOVERED by LAC-C.Hayward at DEN 49. C.Hayward to DEN 38 for 11 yards (M.Watson). The Replay Official reviewed the fumble ruling, and the play was Upheld. The ruling on the field stands.",10,rush,4,J.Charles
+306,2017091101,18,3164,07:07,4,1,"(7:07) (Shotgun) P.Rivers pass deep left to T.Benjamin for 38 yards, TOUCHDOWN.",22,reception,38,T.Benjamin
+307,2017091101,19,3215,07:00,4,0,"(7:00) (Shotgun) T.Siemian pass deep right to V.Green to LAC 31 for 44 yards (K.Emanuel). PENALTY on LAC-M.Ingram, Roughing the Passer, 15 yards, enforced at LAC 31.",21,reception,44,V.Green
+308,2017091101,19,3250,06:24,4,0,(6:24) C.Anderson left guard to LAC 13 for 3 yards (J.Brown; J.Bosa).,10,rush,3,C.Anderson
+309,2017091101,20,3333,04:07,4,0,(4:07) (Shotgun) P.Rivers pass short left to Ty.Williams ran ob at 50 for 10 yards.,21,reception,10,Ty.Williams
+310,2017091101,20,3401,03:49,4,0,(3:49) (Shotgun) P.Rivers pass short right to T.Benjamin to LAC 49 for -1 yards (B.Marshall).,21,reception,-1,T.Benjamin
+311,2017091101,21,3444,03:04,4,0,(3:04) C.Anderson up the middle to DEN 18 for 3 yards (J.Brown).,10,rush,3,C.Anderson
+312,2017091101,21,3482,02:58,4,0,(2:58) C.Anderson right tackle to DEN 22 for 4 yards (K.Emanuel).,10,rush,4,C.Anderson
+313,2017091101,21,3525,02:09,4,0,"(2:09) R.Dixon punts 40 yards to LAC 38, Center-C.Kreiter, fair catch by T.Benjamin.",39,punt ret,0,T.Benjamin
+314,2017091101,22,3570,02:00,4,0,(2:00) (Shotgun) P.Rivers pass short right to M.Gordon to LAC 41 for 3 yards (A.Gotsis).,21,reception,3,M.Gordon
+315,2017091101,22,3594,01:33,4,0,"(1:33) (No Huddle, Shotgun) P.Rivers pass short middle to A.Gates to LAC 47 for 6 yards (B.Marshall).",21,reception,6,A.Gates
+316,2017091101,22,3618,01:07,4,0,"(1:07) (No Huddle, Shotgun) M.Gordon up the middle to LAC 47 for no gain (W.Parks).",10,rush,0,M.Gordon
+317,2017091101,22,3656,00:42,4,0,(:42) (Shotgun) M.Gordon up the middle to LAC 49 for 2 yards (V.Miller).,10,rush,2,M.Gordon
+318,2017091101,22,3732,00:14,4,0,(:14) (Shotgun) P.Rivers pass short left to K.Allen pushed ob at DEN 26 for 8 yards (B.Roby).,21,reception,8,K.Allen
+319,2017091101,23,3822,00:01,4,0,(:01) T.Siemian kneels to DEN 33 for -1 yards.,10,rush,-1,T.Siemian
+320,2017091100,1,63,,1,0,K.Forbath kicks 68 yards from MIN 35 to NO -3. T.Edmunds to NO 19 for 22 yards (C.Ham).,45,kickoff ret,22,T.Edmunds
+321,2017091100,1,87,14:56,1,0,(14:56) A.Peterson right guard to NO 28 for 9 yards (L.Joseph).,10,rush,9,A.Peterson
+322,2017091100,1,108,14:17,1,0,(14:17) A.Peterson right tackle to NO 29 for 1 yard (T.Johnson; E.Kendricks).,10,rush,1,A.Peterson
+323,2017091100,1,174,13:11,1,0,"(13:11) (Shotgun) A.Kamara up the middle to NO 27 for 3 yards (L.Joseph). PENALTY on MIN-L.Joseph, Face Mask (15 Yards), 15 yards, enforced at NO 27.",10,rush,3,A.Kamara
+324,2017091100,1,206,12:52,1,0,(12:52) D.Brees pass short left to M.Thomas to 50 for 8 yards (X.Rhodes).,21,reception,8,M.Thomas
+325,2017091100,1,230,12:19,1,0,(12:19) (Shotgun) M.Ingram left end pushed ob at MIN 48 for 2 yards (E.Griffen).,10,rush,2,M.Ingram
+326,2017091100,1,251,11:53,1,0,(11:53) D.Brees pass short left to M.Ingram pushed ob at MIN 30 for 18 yards (A.Sendejo).,21,reception,18,M.Ingram
+327,2017091100,1,285,11:23,1,0,(11:23) D.Brees pass short right to T.Ginn pushed ob at MIN 22 for 8 yards (T.Waynes).,21,reception,8,T.Ginn
+328,2017091100,1,309,10:48,1,0,(10:48) J.Kuhn up the middle to MIN 20 for 2 yards (A.Barr).,10,rush,2,J.Kuhn
+329,2017091100,1,330,10:12,1,0,(10:12) (Shotgun) A.Kamara up the middle to MIN 19 for 1 yard (E.Kendricks).,10,rush,1,A.Kamara
+330,2017091100,1,386,09:17,1,0,(9:17) (Shotgun) M.Ingram right tackle to MIN 25 for 4 yards (A.Barr; H.Smith).,10,rush,4,M.Ingram
+331,2017091100,2,448,,1,0,W.Lutz kicks 72 yards from NO 35 to MIN -7. J.McKinnon to MIN 15 for 22 yards (T.Edmunds).,45,kickoff ret,22,J.McKinnon
+332,2017091100,2,470,08:17,1,0,(8:17) (Shotgun) S.Bradford pass short middle to D.Cook to MIN 19 for 4 yards (A.Klein).,21,reception,4,D.Cook
+333,2017091100,2,494,07:37,1,0,(7:37) D.Cook up the middle to MIN 20 for 1 yard (K.Vaccaro).,10,rush,1,D.Cook
+334,2017091100,2,515,06:54,1,0,(6:54) (Shotgun) S.Bradford pass short left to S.Diggs to MIN 31 for 11 yards (D.Harris).,21,reception,11,S.Diggs
+335,2017091100,2,539,06:14,1,0,(6:14) S.Bradford pass short left to A.Thielen to MIN 37 for 6 yards (M.Lattimore).,21,reception,6,A.Thielen
+336,2017091100,2,563,05:44,1,0,(5:44) D.Cook right end to MIN 36 for -1 yards (P.Williams; M.Te'o).,10,rush,-1,D.Cook
+337,2017091100,2,584,04:57,1,0,"(4:57) (Shotgun) S.Bradford pass short left to S.Diggs pushed ob at MIN 46 for 10 yards (M.Williams). PENALTY on NO-M.Williams, Unnecessary Roughness, 15 yards, enforced at MIN 46.",21,reception,10,S.Diggs
+338,2017091100,2,624,04:36,1,0,(4:36) D.Cook left tackle to NO 40 for -1 yards (A.Klein).,10,rush,-1,D.Cook
+339,2017091100,2,678,03:52,1,0,"(3:52) (No Huddle, Shotgun) S.Bradford pass short middle to J.McKinnon to NO 21 for 4 yards (A.Anzalone).",21,reception,4,J.McKinnon
+340,2017091100,2,724,03:12,1,0,(3:12) J.McKinnon up the middle to NO 11 for 10 yards (K.Vaccaro).,10,rush,10,J.McKinnon
+341,2017091100,2,745,02:32,1,0,(2:32) D.Cook left guard to NO 9 for 2 yards (A.Klein; M.Williams).,10,rush,2,D.Cook
+342,2017091100,2,766,01:50,1,0,(1:50) (Shotgun) S.Bradford pass short middle to S.Diggs to NO 7 for 2 yards (C.Jordan).,21,reception,2,S.Diggs
+343,2017091100,3,846,01:01,1,0,(1:01) A.Peterson right tackle to NO 28 for 3 yards (L.Joseph; S.Stephen).,10,rush,3,A.Peterson
+344,2017091100,3,867,00:25,1,0,(:25) A.Kamara up the middle to NO 31 for 3 yards (T.Waynes).,10,rush,3,A.Kamara
+345,2017091100,4,963,14:45,2,0,(14:45) (Shotgun) D.Cook left end pushed ob at MIN 31 for 6 yards (A.Klein).,10,rush,6,D.Cook
+346,2017091100,4,989,14:19,2,0,(14:19) D.Cook up the middle to MIN 31 for no gain (D.Onyemata).,10,rush,0,D.Cook
+347,2017091100,4,1045,13:04,2,0,(13:04) (Shotgun) S.Bradford pass short right to J.McKinnon to MIN 24 for 3 yards (A.Okafor; K.Vaccaro).,21,reception,3,J.McKinnon
+348,2017091100,5,1094,12:15,2,0,(12:15) D.Brees pass short right to T.Lewis to NO 24 for no gain (T.Waynes).,21,reception,0,T.Lewis
+349,2017091100,5,1118,11:42,2,0,(11:42) (Shotgun) D.Brees pass short left to A.Kamara to NO 27 for 3 yards (T.Newman; A.Sendejo).,21,reception,3,A.Kamara
+350,2017091100,5,1172,10:37,2,0,(10:37) M.Ingram right tackle to NO 49 for 7 yards (E.Kendricks).,10,rush,7,M.Ingram
+351,2017091100,5,1215,09:52,2,0,(9:52) (Shotgun) D.Brees pass short right to M.Thomas to MIN 45 for 6 yards (T.Waynes; A.Barr).,21,reception,6,M.Thomas
+352,2017091100,5,1239,09:06,2,0,(9:06) D.Brees pass deep middle to C.Fleener to MIN 21 for 24 yards (B.Gedeon).,21,reception,24,C.Fleener
+353,2017091100,5,1263,08:29,2,0,(8:29) M.Ingram left tackle to MIN 19 for 2 yards (E.Griffen).,10,rush,2,M.Ingram
+354,2017091100,5,1306,07:45,2,0,(7:45) (Shotgun) D.Brees pass short middle to C.Fleener to MIN 9 for 10 yards (X.Rhodes; H.Smith).,21,reception,10,C.Fleener
+355,2017091100,5,1330,07:06,2,0,(7:06) T.Ginn right end to MIN 4 for 5 yards (A.Sendejo).,10,rush,5,T.Ginn
+356,2017091100,5,1351,06:37,2,0,(6:37) (No Huddle) M.Ingram right guard to MIN 5 for -1 yards (E.Griffen; A.Barr). NO-Z.Strief was injured during the play.,10,rush,-1,M.Ingram
+357,2017091100,5,1375,06:15,2,0,(6:15) (Shotgun) M.Ingram up the middle to MIN 2 for 3 yards (H.Smith).,10,rush,3,M.Ingram
+358,2017091100,6,1415,,2,0,W.Lutz kicks 70 yards from NO 35 to MIN -5. J.McKinnon to MIN 26 for 31 yards (C.Robertson).,45,kickoff ret,31,J.McKinnon
+359,2017091100,6,1437,05:21,2,0,(5:21) (Shotgun) S.Bradford pass deep left to A.Thielen to NO 39 for 35 yards (M.Te'o).,21,reception,35,A.Thielen
+360,2017091100,6,1461,04:44,2,0,(4:44) S.Bradford pass deep right to J.Wright to NO 18 for 21 yards (M.Williams) [C.Jordan].,21,reception,21,J.Wright
+361,2017091100,6,1485,04:13,2,1,"(4:13) (No Huddle) S.Bradford pass deep right to S.Diggs for 18 yards, TOUCHDOWN.",22,reception,18,S.Diggs
+362,2017091100,7,1521,,2,0,K.Forbath kicks 66 yards from MIN 35 to NO -1. A.Kamara to NO 25 for 26 yards (M.Sherels).,45,kickoff ret,26,A.Kamara
+363,2017091100,7,1543,04:02,2,0,(4:02) (Shotgun) A.Kamara up the middle to NO 27 for 2 yards (L.Joseph).,10,rush,2,A.Kamara
+364,2017091100,7,1594,03:06,2,0,(3:06) A.Peterson right end pushed ob at NO 33 for 1 yard (T.Waynes).,10,rush,1,A.Peterson
+365,2017091100,7,1632,02:26,2,0,(2:26) (Shotgun) D.Brees pass short right to A.Kamara to NO 27 for -6 yards (A.Barr) [D.Hunter].,21,reception,-6,A.Kamara
+366,2017091100,8,1692,01:43,2,0,(1:43) (Shotgun) D.Cook up the middle to MIN 10 for 5 yards (M.Williams; A.Anzalone).,10,rush,5,D.Cook
+367,2017091100,8,1730,01:37,2,0,(1:37) S.Bradford pass short right to D.Cook to MIN 14 for 4 yards (A.Okafor).,21,reception,4,D.Cook
+368,2017091100,8,1771,01:27,2,0,(1:27) D.Cook left guard to MIN 24 for 10 yards (A.Klein).,10,rush,10,D.Cook
+369,2017091100,8,1809,01:21,2,0,(1:21) (Shotgun) S.Bradford pass short left to D.Cook to MIN 26 for 2 yards (A.Klein).,21,reception,2,D.Cook
+370,2017091100,8,1833,00:51,2,0,(:51) (Shotgun) S.Bradford pass deep middle to A.Thielen to NO 30 for 44 yards (P.Williams).,21,reception,44,A.Thielen
+371,2017091100,8,1874,00:41,2,0,(:41) (Shotgun) S.Bradford pass short middle to K.Rudolph to NO 24 for 6 yards (P.Williams; A.Klein).,21,reception,6,K.Rudolph
+372,2017091100,8,1898,00:22,2,0,"(:22) (Shotgun) S.Bradford pass deep right to S.Diggs to NO 4 for 20 yards (K.Vaccaro). PENALTY on NO-K.Vaccaro, Unnecessary Roughness, 2 yards, enforced at NO 4.",21,reception,20,S.Diggs
+373,2017091100,8,1978,00:11,2,0,(:11) (Shotgun) S.Bradford pass short right to K.Rudolph pushed ob at NO 2 for 5 yards (M.Williams).,21,reception,5,K.Rudolph
+374,2017091100,8,2002,00:07,2,1,"(:07) (Shotgun) S.Bradford pass short right to S.Diggs for 2 yards, TOUCHDOWN. The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",22,reception,2,S.Diggs
+375,2017091100,9,2073,,2,0,K.Forbath kicks 37 yards from MIN 35 to NO 28. J.Kuhn to NO 37 for 9 yards (C.Ham).,45,kickoff ret,9,J.Kuhn
+376,2017091100,10,2112,,3,0,W.Lutz kicks 71 yards from NO 35 to MIN -6. J.McKinnon to MIN 33 for 39 yards (C.Robertson).,45,kickoff ret,39,J.McKinnon
+377,2017091100,10,2134,14:52,3,0,(14:52) (Shotgun) D.Cook left end to MIN 40 for 7 yards (A.Okafor).,10,rush,7,D.Cook
+378,2017091100,10,2155,14:15,3,0,"(14:15) (Shotgun) S.Bradford pass deep right to S.Diggs pushed ob at NO 30 for 30 yards (D.Harris). Penalty on NO-D.Harris, Defensive Pass Interference, declined.",21,reception,30,S.Diggs
+379,2017091100,10,2194,14:06,3,0,(14:06) D.Cook left end to NO 30 for no gain (T.Davison).,10,rush,0,D.Cook
+380,2017091100,10,2215,13:23,3,0,(13:23) (Shotgun) D.Cook right end pushed ob at NO 20 for 10 yards (P.Williams).,10,rush,10,D.Cook
+381,2017091100,10,2241,12:45,3,0,(12:45) (Shotgun) S.Bradford pass short middle to A.Thielen to NO 16 for 4 yards (K.Vaccaro).,21,reception,4,A.Thielen
+382,2017091100,10,2265,12:05,3,0,"(12:05) L.Murray up the middle to NO 13 for 3 yards (A.Klein). FUMBLES (A.Klein), recovered by MIN-D.Morgan at NO 13. D.Morgan to NO 13 for no gain (M.Te'o).",10,rush,3,L.Murray
+383,2017091100,11,2353,11:07,3,0,(11:07) A.Peterson up the middle to NO 27 for 2 yards (T.Waynes).,10,rush,2,A.Peterson
+384,2017091100,12,2455,09:28,3,0,(9:28) J.McKinnon left guard to MIN 30 for -2 yards (S.Rankins).,10,rush,-2,J.McKinnon
+385,2017091100,12,2476,08:46,3,0,(8:46) (Shotgun) S.Bradford pass short right to A.Thielen to MIN 36 for 6 yards (P.Williams; D.Onyemata).,21,reception,6,A.Thielen
+386,2017091100,12,2504,08:05,3,0,(8:05) (Shotgun) S.Bradford pass deep right to A.Thielen pushed ob at NO 40 for 24 yards (P.Williams).,21,reception,24,A.Thielen
+387,2017091100,12,2528,07:34,3,0,(7:34) S.Diggs left end pushed ob at NO 46 for -6 yards (A.Okafor).,10,rush,-6,S.Diggs
+388,2017091100,12,2579,06:19,3,0,(6:19) (Shotgun) S.Bradford pass short middle to A.Thielen to NO 46 for 5 yards (K.Vaccaro).,21,reception,5,A.Thielen
+389,2017091100,12,2603,05:36,3,0,"(5:36) R.Quigley punts 35 yards to NO 11, Center-K.McDermott, fair catch by T.Ginn.",39,punt ret,0,T.Ginn
+390,2017091100,13,2626,05:29,3,0,(5:29) (Shotgun) D.Brees pass short right to M.Thomas to NO 25 for 14 yards (H.Smith).,21,reception,14,M.Thomas
+391,2017091100,13,2650,05:00,3,0,(5:00) A.Kamara left guard to NO 28 for 3 yards (E.Griffen; S.Stephen).,10,rush,3,A.Kamara
+392,2017091100,13,2671,04:29,3,0,(4:29) D.Brees pass short left to T.Ginn to NO 40 for 12 yards (T.Newman).,21,reception,12,T.Ginn
+393,2017091100,13,2695,03:50,3,0,"(3:50) D.Brees pass deep right to T.Lewis to MIN 8 for 52 yards (T.Waynes). Penalty on MIN-T.Waynes, Defensive Pass Interference, declined.",21,reception,52,T.Lewis
+394,2017091100,13,2730,03:33,3,0,(3:33) J.LeRibeus reported in as eligible.  A.Peterson left guard to MIN 6 for 2 yards (A.Sendejo; S.Stephen).,10,rush,2,A.Peterson
+395,2017091100,14,2816,,3,0,W.Lutz kicks 70 yards from NO 35 to MIN -5. J.McKinnon to MIN 11 for 16 yards (T.Edmunds).,45,kickoff ret,16,J.McKinnon
+396,2017091100,14,2860,02:34,3,0,(2:34) (Shotgun) D.Cook left guard to MIN 12 for 1 yard (D.Onyemata; T.Davison).,10,rush,1,D.Cook
+397,2017091100,14,2881,01:53,3,0,(1:53) (Shotgun) S.Bradford pass deep right to A.Thielen to MIN 39 for 27 yards (M.Lattimore).,21,reception,27,A.Thielen
+398,2017091100,14,2905,01:06,3,0,"(1:06) D.Cook up the middle to MIN 42 for 3 yards (M.Lattimore). PENALTY on NO-A.Okafor, Illegal Use of Hands, 5 yards, enforced at MIN 42.",10,rush,3,D.Cook
+399,2017091100,14,2960,00:37,3,0,(:37) D.Cook up the middle to NO 48 for 5 yards (M.Te'o; A.Klein).,10,rush,5,D.Cook
+400,2017091100,14,2998,15:00,4,0,(15:00) (Shotgun) D.Cook right end to NO 16 for 32 yards (A.Klein).,10,rush,32,D.Cook
+401,2017091100,14,3019,14:18,4,0,(14:18) D.Cook left tackle to NO 12 for 4 yards (M.Te'o).,10,rush,4,D.Cook
+402,2017091100,14,3040,13:40,4,0,(13:40) J.McKinnon up the middle to NO 15 for -3 yards (A.Okafor).,10,rush,-3,J.McKinnon
+403,2017091100,14,3061,12:57,4,1,"(12:57) (Shotgun) S.Bradford pass short left to K.Rudolph for 15 yards, TOUCHDOWN.",22,reception,15,K.Rudolph
+404,2017091100,15,3112,12:52,4,0,(12:52) (Shotgun) D.Brees pass short left to C.Fleener to NO 30 for 5 yards (E.Kendricks).,21,reception,5,C.Fleener
+405,2017091100,15,3136,12:20,4,0,(12:20) (Shotgun) D.Brees pass short right to B.Coleman to NO 34 for 4 yards (T.Waynes).,21,reception,4,B.Coleman
+406,2017091100,15,3160,11:46,4,0,(11:46) (Shotgun) D.Brees pass short left to T.Ginn to NO 40 for 6 yards (T.Newman).,21,reception,6,T.Ginn
+407,2017091100,15,3184,11:15,4,0,(11:15) (Shotgun) D.Brees pass short right to M.Thomas to NO 43 for 3 yards (T.Waynes).,21,reception,3,M.Thomas
+408,2017091100,15,3208,10:42,4,0,(10:42) (Shotgun) D.Brees pass short left to A.Kamara ran ob at MIN 42 for 15 yards (A.Sendejo).,21,reception,15,A.Kamara
+409,2017091100,15,3254,10:07,4,0,(10:07) A.Kamara right tackle to MIN 37 for 5 yards (E.Griffen; S.Stephen).,10,rush,5,A.Kamara
+410,2017091100,15,3275,09:29,4,0,(9:29) (Shotgun) D.Brees pass deep left to T.Ginn ran ob at MIN 10 for 27 yards (T.Newman).,21,reception,27,T.Ginn
+411,2017091100,15,3299,08:59,4,0,(8:59) (Shotgun) D.Brees pass short left to C.Fleener pushed ob at MIN 3 for 7 yards (H.Smith; A.Sendejo) [S.Stephen].,21,reception,7,C.Fleener
+412,2017091100,15,3323,08:38,4,0,(8:38) (Shotgun) A.Kamara up the middle to MIN 2 for 1 yard (E.Kendricks; D.Hunter).,10,rush,1,A.Kamara
+413,2017091100,16,3402,07:49,4,0,(7:49) (Shotgun) D.Cook left end to MIN 29 for 4 yards (D.Onyemata).,10,rush,4,D.Cook
+414,2017091100,16,3423,07:09,4,0,(7:09) S.Bradford pass short left to L.Treadwell to MIN 36 for 7 yards (D.Harris).,21,reception,7,L.Treadwell
+415,2017091100,16,3447,06:25,4,0,(6:25) D.Cook up the middle to MIN 39 for 3 yards (A.Anzalone).,10,rush,3,D.Cook
+416,2017091100,16,3468,05:45,4,0,(5:45) S.Bradford pass short right to J.McKinnon to NO 36 for 25 yards (M.Lattimore).,21,reception,25,J.McKinnon
+417,2017091100,16,3492,04:59,4,0,(4:59) D.Cook up the middle to NO 36 for no gain (C.Jordan; P.Williams).,10,rush,0,D.Cook
+418,2017091100,16,3530,04:50,4,0,(4:50) L.Murray left tackle to NO 33 for 3 yards (M.Te'o).,10,rush,3,L.Murray
+419,2017091100,16,3551,04:11,4,0,(4:11) (Shotgun) S.Bradford pass short right to A.Thielen pushed ob at NO 27 for 6 yards (P.Williams).,21,reception,6,A.Thielen
+420,2017091100,17,3614,04:00,4,0,(4:00) (Shotgun) D.Brees pass short left to B.Coleman pushed ob at NO 34 for 9 yards (X.Rhodes).,21,reception,9,B.Coleman
+421,2017091100,17,3638,03:54,4,0,"(3:54) (Shotgun) D.Brees pass short left to M.Thomas to NO 48 for 14 yards (X.Rhodes). Penalty on MIN-X.Rhodes, Defensive Holding, declined.",21,reception,14,M.Thomas
+422,2017091100,17,3673,03:47,4,0,(3:47) (Shotgun) D.Brees pass short middle to M.Ingram to MIN 44 for 8 yards (E.Kendricks; A.Barr).,21,reception,8,M.Ingram
+423,2017091100,17,3697,03:20,4,0,"(3:20) (No Huddle, Shotgun) D.Brees pass short right to M.Ingram to MIN 35 for 9 yards (T.Waynes).",21,reception,9,M.Ingram
+424,2017091100,17,3721,02:57,4,0,"(2:57) (No Huddle, Shotgun) D.Brees pass short right to M.Ingram to MIN 27 for 8 yards (A.Barr).",21,reception,8,M.Ingram
+425,2017091100,17,3745,02:35,4,0,"(2:35) (No Huddle, Shotgun) D.Brees pass short right to M.Ingram to MIN 16 for 11 yards (H.Smith).",21,reception,11,M.Ingram
+426,2017091100,17,3769,02:08,4,0,(2:08) (Shotgun) D.Brees pass short right to A.Kamara to MIN 8 for 8 yards (T.Waynes; A.Barr).,21,reception,8,A.Kamara
+427,2017091100,17,3810,02:00,4,1,"(2:00) (Shotgun) D.Brees pass short middle to C.Fleener for 8 yards, TOUCHDOWN.",22,reception,8,C.Fleener
+428,2017091100,18,3863,01:55,4,0,(1:55) D.Cook right end pushed ob at NO 46 for 2 yards (C.Robertson).,10,rush,2,D.Cook
+429,2017091100,18,3901,01:47,4,0,(1:47) D.Cook right tackle to NO 45 for 1 yard (S.Rankins; C.Jordan).,10,rush,1,D.Cook
+430,2017091100,18,3939,01:42,4,0,(1:42) (Shotgun) D.Cook right end to NO 12 for 33 yards (A.Klein).,10,rush,33,D.Cook
+431,2017091100,18,3960,00:55,4,0,(:55) (Run formation) S.Bradford kneels to NO 13 for -1 yards.,10,rush,-1,S.Bradford
+432,2017091100,18,3981,00:28,4,0,(:28) (Run formation) S.Bradford kneels to NO 15 for -2 yards.,10,rush,-2,S.Bradford
+433,2017091004,1,37,,1,0,K.Redfern kicks 65 yards from DET 35 to ARI 0. K.Williams to ARI 23 for 23 yards (M.Killebrew).,45,kickoff ret,23,K.Williams
+434,2017091004,1,73,14:54,1,0,(14:54) (Shotgun) C.Palmer pass short right to L.Fitzgerald to ARI 27 for 4 yards (Q.Diggs).,21,reception,4,L.Fitzgerald
+435,2017091004,1,97,14:16,1,0,(14:16) Da.Johnson up the middle to ARI 29 for 2 yards (E.Ansah).,10,rush,2,Da.Johnson
+436,2017091004,1,118,13:34,1,0,"(13:34) (Shotgun) C.Palmer pass short middle to Da.Johnson to ARI 44 for 15 yards (G.Quin). FUMBLES (G.Quin), recovered by ARI-Ja.Brown at ARI 44. Ja.Brown to ARI 44 for no gain (J.Agnew).",21,reception,15,Da.Johnson
+437,2017091004,1,153,12:51,1,0,(12:51) (Shotgun) Da.Johnson left end to ARI 42 for -2 yards (A.Zettel).,10,rush,-2,Da.Johnson
+438,2017091004,1,207,12:08,1,0,(12:08) (Shotgun) C.Palmer pass short left intended for Da.Johnson INTERCEPTED by T.Wilson at ARI 49. T.Wilson to ARI 26 for 23 yards (D.Humphries).,25,int,23,T.Wilson
+439,2017091004,2,233,12:00,1,0,(12:00) A.Abdullah left end ran ob at ARI 21 for 5 yards (H.Reddick).,10,rush,5,A.Abdullah
+440,2017091004,2,254,11:29,1,1,"(11:29) (Shotgun) M.Stafford pass short middle intended for G.Tate INTERCEPTED by J.Bethel at ARI 18. J.Bethel for 82 yards, TOUCHDOWN.",26,int,82,J.Bethel
+441,2017091004,3,292,,1,0,P.Dawson kicks 68 yards from ARI 35 to DET -3. D.Washington to DET 15 for 18 yards (B.Williams; B.Baker).,45,kickoff ret,18,D.Washington
+442,2017091004,3,316,11:08,1,0,(11:08) A.Abdullah right end to DET 15 for no gain (K.Dansby).,10,rush,0,A.Abdullah
+443,2017091004,3,337,10:29,1,0,"(10:29) (No Huddle, Shotgun) M.Stafford pass short right to A.Abdullah to DET 17 for 2 yards (A.Bethea).",21,reception,2,A.Abdullah
+444,2017091004,4,408,09:33,1,0,(9:33) (Shotgun) C.Palmer pass short right to Da.Johnson to ARI 36 for 3 yards (J.Davis).,21,reception,3,Da.Johnson
+445,2017091004,4,432,08:57,1,0,"(8:57) Da.Johnson left tackle to ARI 42 for 6 yards (N.Lawson, A.Spence). ARI-D.Humphries was injured during the play. He is Out.",10,rush,6,Da.Johnson
+446,2017091004,4,453,08:37,1,0,(8:37) Da.Johnson left tackle to ARI 42 for no gain (T.Whitehead; C.Washington).,10,rush,0,Da.Johnson
+447,2017091004,5,533,07:17,1,0,"(7:17) (No Huddle, Shotgun) M.Stafford pass short left to T.Riddick to DET 12 for 5 yards (A.Bethea).",21,reception,5,T.Riddick
+448,2017091004,5,590,06:21,1,0,"(6:21) (Punt formation) K.Redfern FUMBLES (Aborted) at DET -8, and recovers at DET -8. K.Redfern to DET 13 for 21 yards (I.Momah).",10,rush,10,K.Redfern
+449,2017091004,6,624,06:12,1,0,(6:12) Da.Johnson right tackle to DET 12 for 1 yard (G.Quin; J.Ledbetter).,10,rush,1,Da.Johnson
+450,2017091004,6,661,05:32,1,0,(5:32) Da.Johnson right end to DET 11 for 1 yard (T.Wilson).,10,rush,1,Da.Johnson
+451,2017091004,6,757,04:36,1,0,(4:36) C.Palmer pass short right to Da.Johnson to DET 3 for 2 yards (G.Quin) [C.Washington].,21,reception,2,Da.Johnson
+452,2017091004,6,781,04:04,1,0,(4:04) (Shotgun) Da.Johnson up the middle to DET 2 for 1 yard (A.Zettel).,10,rush,1,Da.Johnson
+453,2017091004,6,802,03:22,1,0,(3:22) (Shotgun) C.Palmer pass short right to J.Gresham to DET 6 for -4 yards (M.Killebrew).,21,reception,-4,J.Gresham
+454,2017091004,7,851,,1,0,P.Dawson kicks 71 yards from ARI 35 to DET -6. D.Washington to DET 7 for 13 yards (E.Penny).,45,kickoff ret,13,D.Washington
+455,2017091004,7,876,02:35,1,0,(2:35) A.Abdullah right tackle to DET 8 for 1 yard (T.Mathieu).,10,rush,1,A.Abdullah
+456,2017091004,7,897,02:02,1,0,"(2:02) (No Huddle, Shotgun) M.Stafford pass short right to G.Tate to DET 15 for 7 yards (A.Bethea).",21,reception,7,G.Tate
+457,2017091004,7,921,01:18,1,0,"(1:18) (No Huddle, Shotgun) M.Stafford pass short right to T.Riddick to DET 17 for 2 yards (J.Bynes) [F.Rucker].",21,reception,2,T.Riddick
+458,2017091004,7,945,00:46,1,0,(:46) (No Huddle) T.Riddick right end to DET 16 for -1 yards (C.Jones).,10,rush,-1,T.Riddick
+459,2017091004,7,966,00:24,1,0,"(:24) (No Huddle, Shotgun) M.Stafford pass short right to K.Golladay to DET 25 for 9 yards (J.Bynes).",21,reception,9,K.Golladay
+460,2017091004,7,1030,15:00,2,0,"(15:00) (Shotgun) M.Stafford pass deep middle to G.Tate to DET 38 for 18 yards (T.Branch). Penalty on ARI-P.Peterson, Defensive Holding, declined.",21,reception,18,G.Tate
+461,2017091004,7,1065,14:27,2,0,(14:27) (Shotgun) A.Abdullah left tackle to DET 41 for 3 yards (K.Dansby).,10,rush,3,A.Abdullah
+462,2017091004,7,1086,14:01,2,0,"(14:01) (No Huddle, Shotgun) M.Stafford pass short middle to G.Tate to DET 47 for 6 yards (H.Reddick).",21,reception,6,G.Tate
+463,2017091004,7,1110,13:16,2,0,"(13:16) (No Huddle, Shotgun) M.Stafford pass short left to T.Riddick to DET 46 for -1 yards (H.Reddick).",21,reception,-1,T.Riddick
+464,2017091004,7,1134,13:16,2,0,"(13:16) M.Prater punts 32 yards to ARI 22, Center-D.Muhlbach, fair catch by K.Williams.",39,punt ret,0,K.Williams
+465,2017091004,8,1179,12:33,2,0,(12:33) Da.Johnson left tackle to ARI 25 for 3 yards (A.Spence).,10,rush,3,Da.Johnson
+466,2017091004,8,1200,11:53,2,0,(11:53) (Shotgun) C.Palmer pass short middle to L.Fitzgerald pushed ob at DET 42 for 33 yards (Q.Diggs).,21,reception,33,L.Fitzgerald
+467,2017091004,8,1281,10:49,2,0,(10:49) (Shotgun) C.Palmer pass deep middle intended for J.Brown INTERCEPTED by G.Quin at DET 33. G.Quin to ARI 42 for 25 yards (J.Gresham).,25,int,25,G.Quin
+468,2017091004,9,1342,10:19,2,0,(10:19) (Shotgun) A.Abdullah right tackle to ARI 47 for 5 yards (H.Reddick; K.Dansby).,10,rush,5,A.Abdullah
+469,2017091004,9,1363,09:47,2,0,"(9:47) (No Huddle, Shotgun) M.Stafford pass short right to A.Abdullah to ARI 44 for 3 yards (H.Reddick).",21,reception,3,A.Abdullah
+470,2017091004,9,1387,09:05,2,0,"(9:05) (No Huddle, Shotgun) M.Stafford scrambles up the middle to ARI 29 for 15 yards (T.Branch).",10,rush,15,M.Stafford
+471,2017091004,9,1413,08:19,2,0,"(8:19) (No Huddle, Shotgun) D.Washington up the middle to ARI 24 for 5 yards (J.Mauro).",10,rush,5,D.Washington
+472,2017091004,9,1457,07:33,2,0,"(7:33) (No Huddle, Shotgun) M.Stafford pass short right to E.Ebron to ARI 19 for 5 yards (T.Branch).",21,reception,5,E.Ebron
+473,2017091004,9,1481,07:09,2,0,"(7:09) (No Huddle, Shotgun) M.Stafford pass short middle to G.Tate to ARI 13 for 6 yards (K.Dansby).",21,reception,6,G.Tate
+474,2017091004,9,1505,06:34,2,0,"(6:34) (No Huddle, Shotgun) A.Abdullah right tackle to ARI 10 for 3 yards (H.Reddick).",10,rush,3,A.Abdullah
+475,2017091004,9,1526,05:50,2,0,(5:50) A.Barrett reported in as eligible.  D.Washington right end to ARI 4 for 6 yards (H.Reddick).,10,rush,6,D.Washington
+476,2017091004,9,1549,05:09,2,0,"(5:09) (No Huddle, Shotgun) A.Abdullah left tackle to ARI 6 for -2 yards (C.Jones).",10,rush,-2,A.Abdullah
+477,2017091004,9,1570,04:30,2,1,"(4:30) (No Huddle, Shotgun) M.Stafford pass short left to M.Jones for 6 yards, TOUCHDOWN.",22,reception,6,M.Jones
+478,2017091004,10,1611,,2,0,M.Prater kicks 68 yards from DET 35 to ARI -3. K.Williams to ARI 20 for 23 yards (C. Washington).,45,kickoff ret,23,K.Williams
+479,2017091004,11,1769,03:54,2,0,(3:54) A.Abdullah left end to DET 34 for -4 yards (F.Rucker).,10,rush,-4,A.Abdullah
+480,2017091004,11,1790,03:15,2,0,(3:15) (Shotgun) M.Stafford pass short right to G.Tate to DET 39 for 5 yards (J.Bynes).,21,reception,5,G.Tate
+481,2017091004,11,1814,02:31,2,0,"(2:31) (No Huddle, Shotgun) M.Stafford pass short right to T.Riddick to DET 40 for 1 yard (T.Branch) [C.Peters].",21,reception,1,T.Riddick
+482,2017091004,12,1900,01:49,2,0,(1:49) (Shotgun) C.Palmer pass short right to J.Brown to ARI 42 for 12 yards (N.Lawson).,21,reception,12,J.Brown
+483,2017091004,12,1924,01:30,2,0,"(1:30) (No Huddle, Shotgun) C.Palmer pass short right to J.Brown ran ob at DET 47 for 11 yards.",21,reception,11,J.Brown
+484,2017091004,12,1958,01:25,2,0,"(1:25) (No Huddle, Shotgun) C.Palmer pass short middle to L.Fitzgerald to DET 29 for 18 yards (G.Quin).",21,reception,18,L.Fitzgerald
+485,2017091004,12,2059,01:11,2,0,(1:11) (Shotgun) Da.Johnson left end pushed ob at DET 23 for 3 yards (J.Davis).,10,rush,3,Da.Johnson
+486,2017091004,12,2081,01:04,2,0,(1:04) (Shotgun) C.Palmer pass short right to J.Brown ran ob at DET 14 for 9 yards.,21,reception,9,J.Brown
+487,2017091004,13,2208,00:39,2,0,(:39) (Shotgun) M.Stafford pass short middle to T.Riddick to DET 35 for 13 yards (P.Peterson; T.Branch).,21,reception,13,T.Riddick
+488,2017091004,13,2293,00:24,2,0,(:24) (Shotgun) M.Stafford pass short middle to G.Tate to ARI 46 for 19 yards (A.Bethea).,21,reception,19,G.Tate
+489,2017091004,13,2378,00:08,2,0,(:08) (Shotgun) M.Stafford pass short middle to A.Abdullah to ARI 40 for 6 yards (K.Dansby).,21,reception,6,A.Abdullah
+490,2017091004,14,2481,15:00,3,0,(15:00) (Shotgun) D.Washington right tackle to DET 25 for no gain (C.Peters).,10,rush,0,D.Washington
+491,2017091004,14,2502,14:26,3,0,(14:26) (No Huddle) M.Stafford pass short right to E.Ebron to DET 29 for 4 yards (J.Bynes).,21,reception,4,E.Ebron
+492,2017091004,14,2526,13:41,3,0,"(13:41) (No Huddle, Shotgun) M.Stafford pass short middle to G.Tate to DET 40 for 11 yards (T.Branch).",21,reception,11,G.Tate
+493,2017091004,14,2550,13:04,3,0,"(13:04) (No Huddle, Shotgun) A.Abdullah right tackle to DET 42 for 2 yards (X.Williams).",10,rush,2,A.Abdullah
+494,2017091004,14,2571,12:24,3,0,"(12:24) (No Huddle, Shotgun) M.Stafford pass short right to K.Golladay to DET 47 for 5 yards (J.Bethel).",21,reception,5,K.Golladay
+495,2017091004,15,2640,11:26,3,0,(11:26) Da.Johnson left end ran ob at ARI 9 for 3 yards (T.Whitehead).,10,rush,3,Da.Johnson
+496,2017091004,15,2661,10:53,3,0,(10:53) (Shotgun) C.Palmer pass short left to Da.Johnson to ARI 25 for 16 yards (D.Hayden) [T.Whitehead].,21,reception,16,Da.Johnson
+497,2017091004,15,2685,10:12,3,0,(10:12) K.Williams up the middle to ARI 29 for 4 yards (A.Robinson).,10,rush,4,K.Williams
+498,2017091004,15,2739,09:23,3,0,(9:23) J.Brown left end ran ob at DET 46 for 10 yards (T.Wilson).,10,rush,10,J.Brown
+499,2017091004,15,2786,08:49,3,0,(8:49) (Shotgun) C.Palmer pass short left to J.Nelson to DET 32 for 14 yards (D.Hayden).,21,reception,14,J.Nelson
+500,2017091004,15,2810,08:28,3,0,(8:28) (No Huddle) C.Palmer pass short right to J.Brown to DET 32 for no gain (D.Slay).,21,reception,0,J.Brown
+501,2017091004,15,2834,07:46,3,0,(7:46) C.Palmer pass short middle to Da.Johnson to DET 24 for 8 yards (Q.Diggs).,21,reception,8,Da.Johnson
+502,2017091004,15,2858,07:01,3,0,(7:01) (Shotgun) C.Palmer pass short left to L.Fitzgerald ran ob at DET 17 for 7 yards (J.Davis).,21,reception,7,L.Fitzgerald
+503,2017091004,15,2935,06:04,3,0,(6:04) (Shotgun) C.Palmer pass deep left to Da.Johnson to DET 3 for 24 yards (G.Quin). ARI-Da.Johnson was injured during the play. His return is Questionable.,21,reception,24,Da.Johnson
+504,2017091004,15,2962,05:42,3,1,"(5:42) K.Williams up the middle for 3 yards, TOUCHDOWN.",11,rush,3,K.Williams
+505,2017091004,16,2995,,3,0,P.Dawson kicks 67 yards from ARI 35 to DET -2. J.Agnew to DET 16 for 18 yards (J.Ford).,45,kickoff ret,18,J.Agnew
+506,2017091004,16,3019,05:32,3,0,(5:32) M.Stafford pass deep right to M.Jones pushed ob at DET 47 for 31 yards (T.Branch).,21,reception,31,M.Jones
+507,2017091004,16,3043,05:01,3,0,"(5:01) (No Huddle, Shotgun) A.Abdullah right tackle to DET 49 for 2 yards (M.Golden).",10,rush,2,A.Abdullah
+508,2017091004,16,3112,04:09,3,0,"(4:09) M.Prater punts 30 yards to ARI 21, Center-D.Muhlbach, fair catch by K.Williams. Penalty on DET-S.Longa, Unsportsmanlike Conduct, offsetting. Penalty on ARI-K.Martin, Unsportsmanlike Conduct, offsetting.",39,punt ret,0,K.Williams
+509,2017091004,17,3146,04:03,3,0,"(4:03) Da.Johnson left end to ARI 26 for 5 yards (A.Robinson). FUMBLES (A.Robinson), RECOVERED by DET-J.Davis at ARI 26. J.Davis to ARI 10 for 16 yards (Da.Johnson).",59,fumble ret,16,J.Davis
+510,2017091004,17,3146,04:03,3,0,"(4:03) Da.Johnson left end to ARI 26 for 5 yards (A.Robinson). FUMBLES (A.Robinson), RECOVERED by DET-J.Davis at ARI 26. J.Davis to ARI 10 for 16 yards (Da.Johnson).",10,rush,5,Da.Johnson
+511,2017091004,18,3178,03:52,3,0,(3:52) (Shotgun) D.Washington left tackle to ARI 7 for 3 yards (J.Mauro).,10,rush,3,D.Washington
+512,2017091004,18,3199,03:15,3,1,"(3:15) (Shotgun) M.Stafford pass short middle to T.Riddick for 7 yards, TOUCHDOWN.",22,reception,7,T.Riddick
+513,2017091004,19,3254,03:07,3,0,(3:07) C.Palmer pass short middle to J.Gresham to ARI 33 for 8 yards (J.Davis).,21,reception,8,J.Gresham
+514,2017091004,19,3278,02:26,3,0,(2:26) K.Williams left tackle to ARI 34 for 1 yard (J.Valoaga; T.Whitehead). DET-H.Ngata was injured during the play.,10,rush,1,K.Williams
+515,2017091004,19,3299,01:48,3,0,(1:48) K.Williams left tackle to ARI 35 for 1 yard (T.Whitehead).,10,rush,1,K.Williams
+516,2017091004,19,3347,00:48,3,0,(:48) K.Williams up the middle to ARI 31 for 1 yard (T.Wilson).,10,rush,1,K.Williams
+517,2017091004,19,3368,00:04,3,0,(:04) C.Palmer pass short left to J.Nelson to ARI 39 for 8 yards (N.Lawson).,21,reception,8,J.Nelson
+518,2017091004,20,3453,14:16,4,0,"(14:16) G.Tate right end to DET 47 for 14 yards (T.Mathieu; J.Bethel). PENALTY on DET-T.Lang, Illegal Block Above the Waist, 10 yards, enforced at DET 39.",10,rush,6,G.Tate
+519,2017091004,20,3507,13:35,4,0,"(13:35) (No Huddle, Shotgun) M.Stafford pass short left to G.Tate to DET 33 for 4 yards (K.Dansby; A.Bethea).",21,reception,4,G.Tate
+520,2017091004,20,3531,12:53,4,0,"(12:53) (No Huddle, Shotgun) M.Stafford pass deep right to T.Jones to DET 49 for 16 yards (J.Bethel).",21,reception,16,T.Jones
+521,2017091004,20,3572,12:06,4,0,"(12:06) (Shotgun) M.Stafford pass short right to G.Tate to ARI 34 for 17 yards (T.Mathieu). Penalty on ARI-H.Reddick, Illegal Use of Hands, declined.",21,reception,17,G.Tate
+522,2017091004,20,3607,11:44,4,0,(11:44) A.Abdullah right end to ARI 30 for 4 yards (T.Branch).,10,rush,4,A.Abdullah
+523,2017091004,20,3628,11:03,4,0,(11:03) (Shotgun) M.Stafford pass deep left to T.Jones ran ob at ARI 14 for 16 yards.,21,reception,16,T.Jones
+524,2017091004,20,3652,11:03,4,0,"(11:03) (No Huddle) A.Abdullah left end to ARI 13 for 1 yard (T.Branch). PENALTY on ARI-C.Peters, Defensive Holding, 5 yards, enforced at ARI 13.",10,rush,1,A.Abdullah
+525,2017091004,20,3684,10:18,4,0,(10:18) (Shotgun) A.Abdullah right end to ARI 10 for -2 yards (H.Reddick; F.Rucker).,10,rush,-2,A.Abdullah
+526,2017091004,20,3705,09:33,4,1,"(9:33) (No Huddle, Shotgun) M.Stafford pass short left to K.Golladay for 10 yards, TOUCHDOWN.",22,reception,10,K.Golladay
+527,2017091004,21,3778,09:27,4,0,(9:27) (Shotgun) C.Palmer pass short left to A.Ellington to ARI 49 for 24 yards (J.Davis).,21,reception,24,A.Ellington
+528,2017091004,21,3824,08:43,4,0,(8:43) C.Palmer pass short left to K.Williams to DET 49 for 2 yards (T.Whitehead; J.Ledbetter).,21,reception,2,K.Williams
+529,2017091004,22,3941,07:08,4,0,(7:08) (Shotgun) A.Abdullah right tackle to DET 35 for 7 yards (J.Bethel).,10,rush,7,A.Abdullah
+530,2017091004,22,3962,06:32,4,0,(6:32) (No Huddle) A.Abdullah left tackle to DET 40 for 5 yards (F.Rucker).,10,rush,5,A.Abdullah
+531,2017091004,22,3983,05:55,4,0,"(5:55) (No Huddle, Shotgun) M.Stafford pass short left to G.Tate to ARI 46 for 14 yards (T.Branch).",21,reception,14,G.Tate
+532,2017091004,22,4007,05:07,4,0,(5:07) G.Tate right end to ARI 45 for 1 yard (K.Dansby).,10,rush,1,G.Tate
+533,2017091004,22,4028,04:22,4,1,"(4:22) M.Stafford pass deep middle to K.Golladay for 45 yards, TOUCHDOWN.",22,reception,45,K.Golladay
+534,2017091004,23,4085,04:13,4,1,"(4:13) (Shotgun) C.Palmer pass short middle intended for A.Ellington INTERCEPTED by M.Killebrew [A.Robinson] at ARI 35. M.Killebrew for 35 yards, TOUCHDOWN.",26,int,35,M.Killebrew
+535,2017091004,24,4148,04:03,4,0,"(4:03) (Shotgun) C.Palmer pass short middle to J.Gresham to ARI 36 for 11 yards (J.Davis). PENALTY on DET-J.Davis, Unnecessary Roughness, 15 yards, enforced at ARI 36.",21,reception,11,J.Gresham
+536,2017091004,24,4183,03:55,4,0,(3:55) (Shotgun) C.Palmer pass short right to A.Ellington to DET 38 for 11 yards (M.Killebrew).,21,reception,11,A.Ellington
+537,2017091004,24,4207,03:31,4,0,"(3:31) (No Huddle, Shotgun) C.Palmer pass short middle to L.Fitzgerald to DET 31 for 7 yards (A.Robinson).",21,reception,7,L.Fitzgerald
+538,2017091004,24,4298,02:52,4,0,(2:52) (Shotgun) C.Palmer pass short left to J.Nelson to DET 30 for 11 yards (D.Hayden) [J.Valoaga].,21,reception,11,J.Nelson
+539,2017091004,24,4322,02:27,4,0,(2:27) (No Huddle) C.Palmer up the middle to DET 28 for 2 yards (J.Davis).,10,rush,2,C.Palmer
+540,2017091004,24,4382,02:16,4,0,(2:16) (Shotgun) C.Palmer pass short middle to J.Nelson to DET 19 for 9 yards (J.Davis).,21,reception,9,J.Nelson
+541,2017091004,24,4423,02:00,4,0,(2:00) (Shotgun) C.Palmer pass short left to L.Fitzgerald to DET 14 for 5 yards (J.Davis).,21,reception,5,L.Fitzgerald
+542,2017091004,24,4480,01:38,4,1,"(1:38) (Shotgun) C.Palmer pass short left to J.Nelson for 1 yard, TOUCHDOWN.",22,reception,1,J.Nelson
+543,2017091004,25,4546,01:33,4,0,(1:33) D.Washington right tackle to ARI 38 for 6 yards (J.Mauro).,10,rush,6,D.Washington
+544,2017091004,25,4567,00:49,4,0,(:49) D.Washington left tackle to ARI 36 for 2 yards (C.Peters).,10,rush,2,D.Washington
+545,2017091004,25,4588,00:18,4,0,(:18) M.Stafford kneels to ARI 37 for -1 yards.,10,rush,-1,M.Stafford
+546,2017091000,1,81,14:52,1,0,"(14:52) L.McCoy right tackle to BUF 28 for 3 yards (D.Lee, M.Maye).",10,rush,3,L.McCoy
+547,2017091000,1,102,14:18,1,0,"(14:18) (Shotgun) T.Taylor pass short middle to C.Clay to BUF 41 for 13 yards (D.Davis, D.Lee). Caught at BUF 28, crossing from left.",21,reception,13,C.Clay
+548,2017091000,1,188,13:22,1,0,"(13:22) (Shotgun) T.Taylor pass short right to L.McCoy pushed ob at NYJ 48 for 21 yards (D.Davis). Dump pass, caught at BUF 27.",21,reception,21,L.McCoy
+549,2017091000,1,221,12:48,1,0,(12:48) M.Tolbert left guard to NYJ 32 for 16 yards (Ja.Adams).,10,rush,16,M.Tolbert
+550,2017091000,1,242,12:15,1,0,"(12:15) M.Tolbert up the middle to NYJ 28 for 4 yards (C.Pelon, S.McLendon).",10,rush,4,M.Tolbert
+551,2017091000,1,263,11:35,1,0,(11:35) (Shotgun) L.McCoy up the middle to NYJ 25 for 3 yards (D.Davis).,10,rush,3,L.McCoy
+552,2017091000,1,284,11:01,1,0,(11:01) (Shotgun) T.Taylor scrambles left guard pushed ob at NYJ 15 for 10 yards (M.Maye).,10,rush,10,T.Taylor
+553,2017091000,1,305,10:33,1,0,(10:33) L.McCoy right guard to NYJ 5 for 10 yards (D.Davis).,10,rush,10,L.McCoy
+554,2017091000,1,358,09:40,1,0,(9:40) M.Tolbert left tackle to NYJ 8 for -6 yards (J.Martin).,10,rush,-6,M.Tolbert
+555,2017091000,1,401,09:02,1,0,"(9:02) (Shotgun) T.Taylor pass short left intended for C.Clay INTERCEPTED by J.Burris at NYJ -6. J.Burris to NYJ 42 for 48 yards (E.Wood). Pass through receiver's hands at BUF 1. PENALTY on NYJ-D.Lee, Unnecessary Roughness, 15 yards, enforced at NYJ 42.",25,int,48,J.Burris
+556,2017091000,2,452,08:48,1,0,"(8:48) (Shotgun) J.McCown pass short left to R.Anderson pushed ob at NYJ 30 for 3 yards (E.Gaines). Out-pattern, caught near sideline at NYJ 30.",21,reception,3,R.Anderson
+557,2017091000,2,501,08:22,1,0,"(8:22) M.Forte right tackle to NYJ 31 for 1 yard (S.Lawson, R.Humber).",10,rush,1,M.Forte
+558,2017091000,2,522,07:38,1,0,"(7:38) (Shotgun) J.McCown pass short left to A.Stewart to NYJ 33 for 2 yards (E.Gaines) [J.Hughes]. Flat pass, caught at NYJ 31.",21,reception,2,A.Stewart
+559,2017091000,3,575,06:57,1,0,"(6:57) T.Taylor pass short middle to Z.Jones to BUF 41 for 21 yards (M.Maye; M.Claiborne). Caught at BUF 34, slanting from right.",21,reception,21,Z.Jones
+560,2017091000,3,626,06:13,1,0,(6:13) L.McCoy right tackle to BUF 39 for 3 yards (S.McLendon).,10,rush,3,L.McCoy
+561,2017091000,3,675,05:09,1,0,"(5:09) (Shotgun) T.Taylor pass short left to L.McCoy to BUF 44 for 5 yards (J.Jenkins) [L.Williams]. Dump pass, thrown under pressure and caught at BUF 35.",21,reception,5,L.McCoy
+562,2017091000,3,703,04:29,1,0,"(4:29) C.Schmidt punts 40 yards to NYJ 16, Center-R.Ferguson, fair catch by K.Raymond.",39,punt ret,0,K.Raymond
+563,2017091000,4,722,04:21,1,0,"(4:21) (Shotgun) J.McCown pass short middle to J.Kearse to NYJ 20 for 4 yards (R.Humber). Caught at NYJ 19, crossing from right.",21,reception,4,J.Kearse
+564,2017091000,4,782,03:24,1,0,"(3:24) M.Forte left guard to NYJ 12 for 2 yards (J.Poyer, J.Hughes).",10,rush,2,M.Forte
+565,2017091000,4,803,02:47,1,0,"(2:47) (Shotgun) J.McCown pass short right to R.Anderson to NYJ 16 for 4 yards (L.Johnson, P.Brown). Screen pass, caught at NYJ 10.",21,reception,4,R.Anderson
+566,2017091000,5,882,01:57,1,0,(1:57) L.McCoy right tackle to BUF 22 for -1 yards (K.Ealy).,10,rush,-1,L.McCoy
+567,2017091000,5,929,01:22,1,0,"(1:22) (Shotgun) T.Taylor pass short middle to J.Matthews to BUF 36 for 14 yards (D.Lee, D.Davis). Button-hook, caught at BUF 34.",21,reception,14,J.Matthews
+568,2017091000,5,957,00:48,1,0,"(:48) M.Tolbert right tackle to BUF 42 for 6 yards (D.Davis, D.Lee).",10,rush,6,M.Tolbert
+569,2017091000,5,978,00:20,1,0,(:20) L.McCoy right tackle to BUF 43 for 1 yard (C.Pelon; K.Ealy).,10,rush,1,L.McCoy
+570,2017091000,5,1020,15:00,2,0,(15:00) (Shotgun) L.McCoy right end to NYJ 34 for 23 yards (M.Maye).,10,rush,23,L.McCoy
+571,2017091000,5,1041,14:30,2,0,"(14:30) M.Tolbert left guard to NYJ 34 for no gain (Ja.Adams, L.Williams).",10,rush,0,M.Tolbert
+572,2017091000,5,1062,13:59,2,0,"(13:59) (Shotgun) T.Taylor pass short middle to M.Tolbert to NYJ 22 for 12 yards (D.Lee). Caught at NYJ 30, slanting from left.",21,reception,12,M.Tolbert
+573,2017091000,5,1102,13:22,2,0,(13:22) M.Tolbert right tackle to NYJ 8 for 14 yards (T.Brooks).,10,rush,14,M.Tolbert
+574,2017091000,5,1123,12:48,2,0,"(12:48) L.McCoy up the middle to NYJ 6 for 2 yards (M.Wilkerson, Ja.Adams).",10,rush,2,L.McCoy
+575,2017091000,5,1144,12:10,2,0,(12:10) T.Taylor pass short left to P.DiMarco to NYJ 1 for 5 yards (J.Stanford). Caught in flat at NYJ 5.,21,reception,5,P.DiMarco
+576,2017091000,5,1168,11:30,2,1,"(11:30) (Shotgun) T.Taylor pass short left to C.Clay for 1 yard, TOUCHDOWN. Caught 2 yds. into end zone.",22,reception,1,C.Clay
+577,2017091000,6,1249,11:23,2,0,(11:23) J.McCown pass deep left to E.Tomlinson pushed ob at 50 for 25 yards (M.Hyde). Caught along sideline at NYJ 45.,21,reception,25,E.Tomlinson
+578,2017091000,6,1281,10:49,2,0,"(10:49) (Shotgun) J.McCown pass short left to M.Forte to BUF 41 for 9 yards (M.Hyde). Screen pass, caught at NYJ 47.",21,reception,9,M.Forte
+579,2017091000,6,1332,09:22,2,0,"(9:22) (Shotgun) J.McCown pass short middle to J.Kearse to BUF 34 for 18 yards (T.White). Caught at BUF 40, crossing from right.",21,reception,18,J.Kearse
+580,2017091000,6,1367,08:45,2,0,"(8:45) J.McCown pass short right to M.Forte to BUF 35 for -1 yards (L.Alexander). Flare pass, caught at BUF 40.",21,reception,-1,M.Forte
+581,2017091000,6,1395,08:05,2,0,"(8:05) (Shotgun) J.McCown pass short right to E.Tomlinson to BUF 35 for no gain (J.Poyer). Quick pass, caught near sideline at BUF 35.",21,reception,0,E.Tomlinson
+582,2017091000,6,1423,07:22,2,0,"(7:22) (Shotgun) J.McCown pass short left to J.Kearse to BUF 30 for 5 yards (L.Johnson). Curl pattern, caught at BUF 30.",21,reception,5,J.Kearse
+583,2017091000,7,1489,06:34,2,0,(6:34) T.Taylor pass deep left to C.Clay pushed ob at NYJ 40 for 35 yards (T.Brooks) [L.Williams]. Caught near sideline at BUF 46.,21,reception,35,C.Clay
+584,2017091000,7,1522,06:16,2,0,(6:16) L.McCoy left tackle pushed ob at NYJ 20 for 20 yards (M.Maye).,10,rush,20,L.McCoy
+585,2017091000,7,1543,05:48,2,0,(5:48) L.McCoy right tackle to NYJ 21 for -1 yards (J.Martin).,10,rush,-1,L.McCoy
+586,2017091000,7,1622,04:44,2,0,"(4:44) (Shotgun) M.Tolbert up the middle to NYJ 28 for 3 yards (D.Donahue, D.Davis).",10,rush,3,M.Tolbert
+587,2017091000,8,1689,03:55,2,0,"(3:55) (Shotgun) B.Powell up the middle to NYJ 40 for 4 yards (R.Humber, J.Hughes).",10,rush,4,B.Powell
+588,2017091000,8,1710,03:17,2,0,"(3:17) (Shotgun) J.McCown pass short middle to J.Kearse to BUF 49 for 11 yards (R.Humber). Caught at 50, crossing from left.",21,reception,11,J.Kearse
+589,2017091000,8,1738,02:38,2,0,"(2:38) (Shotgun) B.Powell left guard to BUF 46 for 3 yards (R.Humber, L.Johnson). PENALTY on BUF-A.Washington, Defensive Holding, 5 yards, enforced at BUF 46.",10,rush,3,B.Powell
+590,2017091000,8,1770,02:10,2,0,"(2:10) (Shotgun) B.Powell up the middle to BUF 39 for 2 yards (R.Humber, A.Washington).",10,rush,2,B.Powell
+591,2017091000,8,1808,02:00,2,0,(2:00) (Shotgun) J.McCown pass short right to W.Tye to BUF 34 for 5 yards (R.Humber). Caught near sideline at BUF 38.,21,reception,5,W.Tye
+592,2017091000,9,1896,01:44,2,0,"(1:44) (Shotgun) T.Taylor pass short left to L.McCoy to BUF 20 for -5 yards (J.Martin). Screen pass, caught at BUF 20.",21,reception,-5,L.McCoy
+593,2017091000,9,1928,01:20,2,0,"(1:20) (No Huddle, Shotgun) T.Taylor pass short middle to L.McCoy to BUF 30 for 10 yards (B.Skrine). Caught at BUF 25, slanting from left.",21,reception,10,L.McCoy
+594,2017091000,9,2079,00:38,2,0,"(:38) C.Schmidt punts 52 yards to end zone, Center-R.Ferguson, Touchback.",40,punt ret,0,
+595,2017091000,10,2147,00:30,2,0,(:30) J.McCown kneels to NYJ 19 for -1 yards.,10,rush,-1,J.McCown
+596,2017091000,11,2189,,3,0,"S.Hauschka kicks 65 yards from BUF 35 to NYJ 0. K.Raymond to NYJ 25 for 25 yards (C.Anderson, L.Johnson).",45,kickoff ret,25,K.Raymond
+597,2017091000,11,2211,14:54,3,0,(14:54) B.Powell up the middle to NYJ 25 for no gain (S.Lawson).,10,rush,0,B.Powell
+598,2017091000,11,2232,14:17,3,0,"(14:17) (Shotgun) J.McCown pass short middle to B.Powell to NYJ 33 for 8 yards (P.Brown, L.Johnson). Button-hook, caught at NYJ 29",21,reception,8,B.Powell
+599,2017091000,11,2260,13:35,3,0,(13:35) J.McCown pass short right to B.Powell ran ob at NYJ 38 for 5 yards. Caught near sideline at NYJ 35.,21,reception,5,B.Powell
+600,2017091000,11,2293,13:02,3,0,"(13:02) (Shotgun) M.Forte right tackle to NYJ 39 for 1 yard (A.Washington, E.Yarbrough).",10,rush,1,M.Forte
+601,2017091000,12,2384,12:00,3,0,(12:00) L.McCoy left guard to BUF 33 for 1 yard (S.McLendon; D.Davis).,10,rush,1,L.McCoy
+602,2017091000,12,2431,11:21,3,0,(11:21) (Shotgun) T.Taylor scrambles left guard to BUF 36 for 3 yards (D.Davis).,10,rush,3,T.Taylor
+603,2017091000,13,2477,10:41,3,0,(10:41) (Shotgun) M.Forte right tackle to NYJ 21 for no gain (T.White).,10,rush,0,M.Forte
+604,2017091000,13,2524,09:54,3,0,"(9:54) (Shotgun) J.McCown pass short middle to R.Anderson to NYJ 25 for 4 yards (K.Williams). Caught at NYJ 22, crossing from right.",21,reception,4,R.Anderson
+605,2017091000,14,2577,09:05,3,0,(9:05) L.McCoy right tackle to BUF 36 for no gain (J.Jenkins).,10,rush,0,L.McCoy
+606,2017091000,14,2598,08:36,3,0,"(8:36) T.Taylor pass short middle to J.Matthews pushed ob at NYJ 17 for 47 yards (M.Maye). Caught at BUF 43, crossing from right.",21,reception,47,J.Matthews
+607,2017091000,14,2631,08:05,3,0,(8:05) L.McCoy right guard to NYJ 15 for 2 yards (L.Williams; M.Pennel).,10,rush,2,L.McCoy
+608,2017091000,14,2678,07:22,3,0,(7:22) (Shotgun) T.Taylor scrambles left end pushed ob at NYJ 1 for 14 yards (D.Davis).,10,rush,14,T.Taylor
+609,2017091000,14,2699,06:55,3,1,"(6:55) T.Taylor pass short left to A.Holmes for 1 yard, TOUCHDOWN. Caught in flat at NYJ 1.",22,reception,1,A.Holmes
+610,2017091000,15,2754,06:52,3,0,"(6:52) M.Forte up the middle to NYJ 33 for 8 yards (L.Alexander, E.Gaines).",10,rush,8,M.Forte
+611,2017091000,15,2779,06:14,3,0,(6:14) (Shotgun) J.McCown pass short left to R.Anderson pushed ob at NYJ 44 for 11 yards (T.White). Caught near sideline at NYJ 41.,21,reception,11,R.Anderson
+612,2017091000,15,2803,05:37,3,0,"(5:37) (Shotgun) J.McCown pass short middle to J.Kearse to BUF 44 for 12 yards (T.White). Caught at BUF 48, slanting from right.",21,reception,12,J.Kearse
+613,2017091000,15,2835,05:04,3,0,"(5:04) (Shotgun) J.McCown pass short left to W.Tye to BUF 36 for 8 yards (R.Humber). Swing pass, caught at BUF 45.",21,reception,8,W.Tye
+614,2017091000,15,2863,04:34,3,0,"(4:34) (Shotgun) J.McCown pass short right to J.Kearse to BUF 31 for 5 yards (R.Humber, E.Yarbrough). Flat pass, caught at BUF 32.",21,reception,5,J.Kearse
+615,2017091000,15,2891,03:55,3,0,"(3:55) (Shotgun) B.Powell left guard to BUF 30 for 1 yard (K.Williams, E.Yarbrough).",10,rush,1,B.Powell
+616,2017091000,15,2912,03:12,3,0,"(3:12) (Shotgun) J.McCown pass short left to W.Tye to BUF 9 for 21 yards (M.Hyde). Caught at BUF 15, slanting from middle.",21,reception,21,W.Tye
+617,2017091000,15,2940,02:35,3,0,"(2:35) (Shotgun) J.McCown pass short right to A.Stewart for 9 yards, TOUCHDOWN. Caught along sideline at BUF 2. The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED. (Shotgun) J.McCown pass short right to A.Stewart pushed ob at BUF 1 for 8 yards (L.Johnson). Caught along sideline at BUF 2.",21,reception,8,A.Stewart
+618,2017091000,15,3056,02:20,3,0,(2:20) J.McCown pass short right to B.Powell to BUF 1 for no gain (E.Gaines). Caught near sideline at BUF 1.,21,reception,0,B.Powell
+619,2017091000,15,3084,02:06,3,1,"(2:06) J.McCown up the middle for 1 yard, TOUCHDOWN.",11,rush,1,J.McCown
+620,2017091000,16,3130,,3,0,C.Catanzaro kicks 68 yards from NYJ 35 to BUF -3. B.Tate pushed ob at BUF 20 for 23 yards (J.Jenkins).,45,kickoff ret,23,B.Tate
+621,2017091000,16,3180,01:48,3,0,(1:48) (Shotgun) L.McCoy up the middle to BUF 28 for 8 yards (B.Skrine).,10,rush,8,L.McCoy
+622,2017091000,16,3205,01:14,3,0,"(1:14) (Shotgun) T.Taylor pass deep left to L.McCoy to BUF 46 for 18 yards (D.Davis). Caught at BUF 45, crossing from middle.",21,reception,18,L.McCoy
+623,2017091000,16,3233,00:36,3,0,"(:36) M.Tolbert right guard to BUF 47 for 1 yard (M.Pennel, D.Davis).",10,rush,1,M.Tolbert
+624,2017091000,16,3275,15:00,4,0,"(15:00) L.McCoy up the middle to NYJ 26 for 27 yards (B.Skrine, M.Maye).",10,rush,27,L.McCoy
+625,2017091000,16,3296,14:17,4,0,"(14:17) M.Tolbert left guard to NYJ 26 for no gain (D.Lee, L.Williams).",10,rush,0,M.Tolbert
+626,2017091000,16,3317,13:59,4,0,"(13:59) T.Taylor pass short left to N.O'Leary pushed ob at NYJ 4 for 22 yards (D.Lee). Naked bootleg, caught near sideline at NYJ 19.",21,reception,22,N.O'Leary
+627,2017091000,16,3350,13:27,4,0,"(13:27) L.McCoy left guard to NYJ 1 for 3 yards (J.Stanford, D.Davis).",10,rush,3,L.McCoy
+628,2017091000,16,3371,12:51,4,1,"(12:51) M.Tolbert up the middle for 1 yard, TOUCHDOWN.",11,rush,1,M.Tolbert
+629,2017091000,17,3404,,4,0,S.Hauschka kicks 68 yards from BUF 35 to NYJ -3. K.Raymond to NYJ 17 for 20 yards (M.Milano; D.Lacey).,45,kickoff ret,20,K.Raymond
+630,2017091000,17,3426,12:42,4,0,"(12:42) (Shotgun) J.McCown pass short left to B.Powell to NYJ 19 for 2 yards (R.Humber). Flare pass, caught at NYJ 10.",21,reception,2,B.Powell
+631,2017091000,17,3454,12:05,4,0,(12:05) B.Powell up the middle to NYJ 20 for 1 yard (S.Lawson; P.Brown).,10,rush,1,B.Powell
+632,2017091000,17,3475,11:18,4,0,(11:18) (Shotgun) B.Powell left guard to NYJ 31 for 11 yards (L.Alexander; E.Gaines). BUF-E.Gaines was injured during the play.  E.Gaines walks off.,10,rush,11,B.Powell
+633,2017091000,17,3499,10:55,4,0,(10:55) (Shotgun) J.McCown pass short left to J.Kearse to NYJ 35 for 4 yards (R.Humber). Caught in flat at NYJ 35.,21,reception,4,J.Kearse
+634,2017091000,17,3531,10:21,4,0,(10:21) (Shotgun) M.Forte up the middle to NYJ 39 for 4 yards (J.Hughes).,10,rush,4,M.Forte
+635,2017091000,18,3608,09:25,4,0,(9:25) L.McCoy up the middle to BUF 6 for 2 yards (M.Pennel).,10,rush,2,L.McCoy
+636,2017091000,18,3629,08:52,4,0,(8:52) L.McCoy right guard to BUF 5 for -1 yards (Ja.Adams).,10,rush,-1,L.McCoy
+637,2017091000,18,3650,08:17,4,0,"(8:17) (Shotgun) T.Taylor pass short left to C.Clay to BUF 9 for 4 yards (Ja.Adams). Quick pass, caught near sideline at BUF 5.",21,reception,4,C.Clay
+638,2017091000,19,3741,07:27,4,0,"(7:27) (Shotgun) J.McCown pass short left to B.Powell to BUF 37 for 2 yards (R.Humber). WR screen, caught near sideline at BUF 41.",21,reception,2,B.Powell
+639,2017091000,19,3765,06:44,4,0,"(6:44) (Shotgun) J.McCown pass short right intended for R.Anderson INTERCEPTED by J.Poyer [J.Hughes] at BUF 23. J.Poyer to BUF 23 for no gain (R.Anderson). Receiver and coverage along sideline at BUF 23. The Replay Official reviewed the pass interception ruling, and the play was Upheld. The ruling on the field stands.",25,int,0,J.Poyer
+640,2017091000,20,3857,06:33,4,0,"(6:33) L.McCoy right guard to BUF 28 for 5 yards (M.Claiborne, D.Lee).",10,rush,5,L.McCoy
+641,2017091000,20,3878,05:53,4,0,(5:53) L.McCoy left end to BUF 25 for -3 yards (D.Lee).,10,rush,-3,L.McCoy
+642,2017091000,21,4041,04:38,4,0,(4:38) (Shotgun) J.McCown pass short middle to M.Forte to NYJ 44 for 12 yards (R.Humber). Caught at NYJ 35.,21,reception,12,M.Forte
+643,2017091000,22,4094,03:51,4,0,"(3:51) M.Tolbert up the middle to BUF 19 for 2 yards (L.Williams, K.Ealy).",10,rush,2,M.Tolbert
+644,2017091000,22,4132,03:42,4,0,"(3:42) M.Tolbert up the middle to BUF 20 for 1 yard (J.Jenkins, S.McLendon).",10,rush,1,M.Tolbert
+645,2017091000,22,4170,03:37,4,0,(3:37) T.Taylor right end to BUF 29 for 9 yards (K.Ealy).,10,rush,9,T.Taylor
+646,2017091000,22,4196,02:55,4,0,"(2:55) L.McCoy up the middle to BUF 32 for 3 yards (M.Wilkerson, M.Pennel).",10,rush,3,L.McCoy
+647,2017091000,22,4249,02:06,4,0,(2:06) L.McCoy right tackle to BUF 22 for no gain (M.Pennel).,10,rush,0,L.McCoy
+648,2017091000,22,4287,02:00,4,0,(2:00) (Shotgun) T.Taylor right end to BUF 27 for 5 yards (M.Claiborne).,10,rush,5,T.Taylor
+649,2017091000,22,4325,01:52,4,0,"(1:52) C.Schmidt punts 32 yards to NYJ 41, Center-R.Ferguson, fair catch by K.Raymond.",39,punt ret,0,K.Raymond
+650,2017091000,23,4344,01:44,4,0,(1:44) (Shotgun) J.McCown pass deep left intended for J.Kearse INTERCEPTED by M.Hyde [L.Alexander] at BUF 41. M.Hyde to NYJ 47 for 12 yards (C.Hansen).,25,int,12,M.Hyde
+651,2017091000,24,4380,01:35,4,0,(1:35) T.Taylor kneels to NYJ 48 for -1 yards.,10,rush,-1,T.Taylor
+652,2017091000,24,4401,00:55,4,0,(:55) T.Taylor kneels to NYJ 49 for -1 yards.,10,rush,-1,T.Taylor
+653,2017091000,24,4422,00:39,4,0,(:39) T.Taylor kneels to 50 for -1 yards.,10,rush,-1,T.Taylor
+654,2017091009,1,51,15:00,1,0,(15:00) T.Gurley up the middle to LA 27 for 2 yards (H.Anderson).,10,rush,2,T.Gurley
+655,2017091009,1,72,14:29,1,0,(14:29) J.Goff pass short left to S.Watkins to LA 40 for 13 yards (R.Melvin).,21,reception,13,S.Watkins
+656,2017091009,1,96,13:58,1,0,(13:58) J.Goff pass short right to R.Woods to IND 39 for 21 yards (R.Melvin).,21,reception,21,R.Woods
+657,2017091009,1,142,13:27,1,0,(13:27) (Shotgun) J.Goff pass short left to S.Watkins to IND 32 for 7 yards (R.Melvin).,21,reception,7,S.Watkins
+658,2017091009,2,222,12:43,1,0,(12:43) F.Gore up the middle to IND 27 for 2 yards (M.Alexander; M.Brockers).,10,rush,2,F.Gore
+659,2017091009,2,243,12:05,1,0,(12:05) F.Gore right guard to IND 25 for -2 yards (T.Walker).,10,rush,-2,F.Gore
+660,2017091009,2,264,11:21,1,1,"(11:21) (Shotgun) S.Tolzien pass short left intended for T.Hilton INTERCEPTED by T.Johnson [M.Brockers] at IND 39. T.Johnson for 39 yards, TOUCHDOWN.",26,int,39,T.Johnson
+661,2017091009,3,350,11:04,1,0,"(11:04) F.Gore left guard to IND 34 for 4 yards (C.Barwin, E.Westbrooks).",10,rush,4,F.Gore
+662,2017091009,3,371,10:26,1,0,(10:26) (Shotgun) S.Tolzien pass short right to J.Doyle to LA 45 for 21 yards (A.Ogletree).,21,reception,21,J.Doyle
+663,2017091009,3,395,09:52,1,0,"(9:52) (Shotgun) S.Tolzien pass short left to J.Doyle to LA 25 for 20 yards (M.Alexander, A.Ogletree).",21,reception,20,J.Doyle
+664,2017091009,3,419,09:14,1,0,(9:14) F.Gore right tackle to LA 17 for 8 yards (A.Ogletree).,10,rush,8,F.Gore
+665,2017091009,3,463,08:18,1,0,(8:18) (Shotgun) S.Tolzien pass short right to M.Mack pushed ob at LA 1 for 21 yards (L.Joyner).,21,reception,21,M.Mack
+666,2017091009,3,492,07:46,1,0,(7:46) M.Mack up the middle to LA 2 for -1 yards (M.Brockers).,10,rush,-1,M.Mack
+667,2017091009,3,513,07:06,1,0,(7:06) (Shotgun) M.Mack up the middle to LA 2 for no gain (M.Brockers).,10,rush,0,M.Mack
+668,2017091009,4,590,06:21,1,0,(6:21) T.Gurley right guard to LA 28 for 3 yards (A.Woods).,10,rush,3,T.Gurley
+669,2017091009,4,611,05:47,1,0,(5:47) T.Gurley right guard to LA 32 for 4 yards (J.Hankins).,10,rush,4,T.Gurley
+670,2017091009,4,632,05:18,1,0,(5:18) (Shotgun) J.Goff pass short right to C.Kupp to LA 38 for 6 yards (D.Butler).,21,reception,6,C.Kupp
+671,2017091009,4,656,04:41,1,0,(4:41) T.Austin right end ran ob at LA 47 for 9 yards (J.Bostic).,10,rush,9,T.Austin
+672,2017091009,4,682,04:09,1,0,(4:09) T.Gurley up the middle to LA 47 for no gain (J.Bostic).,10,rush,0,T.Gurley
+673,2017091009,4,703,03:33,1,0,"(3:33) T.Gurley right end to IND 39 for 14 yards (D.Butler). PENALTY on LA-R.Havenstein, Offensive Holding, 10 yards, enforced at IND 46.",10,rush,7,T.Gurley
+674,2017091009,4,758,02:51,1,0,(2:51) (Shotgun) J.Goff pass short middle to T.Gurley to LA 43 for 4 yards (J.Bostic).,21,reception,4,T.Gurley
+675,2017091009,5,818,02:03,1,0,(2:03) F.Gore left tackle to IND 23 for 16 yards (L.Joyner).,10,rush,16,F.Gore
+676,2017091009,5,839,01:26,1,0,(1:26) F.Gore left guard to IND 25 for 2 yards (M.Brockers).,10,rush,2,F.Gore
+677,2017091009,5,860,00:46,1,0,"(:46) (Shotgun) S.Tolzien pass short left to T.Hilton to IND 34 for 9 yards (T.Johnson). FUMBLES (T.Johnson), RECOVERED by LA-T.Johnson at IND 34. T.Johnson to IND 34 for no gain (D.Moncrief).",59,fumble ret,0,T.Johnson
+678,2017091009,5,860,00:46,1,0,"(:46) (Shotgun) S.Tolzien pass short left to T.Hilton to IND 34 for 9 yards (T.Johnson). FUMBLES (T.Johnson), RECOVERED by LA-T.Johnson at IND 34. T.Johnson to IND 34 for no gain (D.Moncrief).",21,reception,9,T.Hilton
+679,2017091009,6,918,00:36,1,0,(:36) (Shotgun) T.Gurley left end to IND 42 for -3 yards (A.Woods).,10,rush,-3,T.Gurley
+680,2017091009,6,990,15:00,2,0,(15:00) T.Austin right end to IND 45 for 2 yards (T.Green).,10,rush,2,T.Austin
+681,2017091009,7,1062,14:02,2,0,(14:02) S.Tolzien pass short right to T.Hilton to IND 23 for 16 yards (T.Johnson).,21,reception,16,T.Hilton
+682,2017091009,7,1086,13:31,2,0,(13:31) F.Gore right tackle to IND 25 for 2 yards (M.Barron).,10,rush,2,F.Gore
+683,2017091009,7,1107,12:51,2,0,(12:51) (Shotgun) S.Tolzien scrambles up the middle to IND 28 for 3 yards (T.Smart).,10,rush,3,S.Tolzien
+684,2017091009,8,1175,11:49,2,0,(11:49) J.Goff pass deep left to C.Kupp to IND 45 for 24 yards (M.Farley).,21,reception,24,C.Kupp
+685,2017091009,8,1221,10:58,2,0,(10:58) (Shotgun) J.Goff pass deep left to G.Everett to IND 6 for 39 yards (J.Bostic) [H.Ridgeway].,21,reception,39,G.Everett
+686,2017091009,8,1266,09:44,2,1,"(9:44) (Shotgun) T.Gurley up the middle for 5 yards, TOUCHDOWN. The Replay Official reviewed the score ruling, and the play was Upheld. The ruling on the field was confirmed.",11,rush,5,T.Gurley
+687,2017091009,9,1392,08:52,2,0,(8:52) M.Mack left guard to IND 18 for no gain (T.Smart).,10,rush,0,M.Mack
+688,2017091009,9,1413,08:13,2,0,(8:13) (Shotgun) S.Tolzien pass short left to R.Turbin to IND 14 for -4 yards (R.Quinn).,21,reception,-4,R.Turbin
+689,2017091009,10,1466,07:29,2,0,(7:29) J.Goff pass short right to S.Watkins to IND 34 for 24 yards (M.Hooker).,21,reception,24,S.Watkins
+690,2017091009,10,1505,06:59,2,0,(6:59) (Shotgun) J.Goff pass short right to R.Woods to IND 29 for 5 yards (R.Melvin).,21,reception,5,R.Woods
+691,2017091009,10,1529,06:37,2,0,(6:37) (Shotgun) T.Gurley up the middle to IND 22 for 7 yards (R.Melvin).,10,rush,7,T.Gurley
+692,2017091009,10,1572,06:11,2,0,(6:11) (Shotgun) J.Goff pass short left to S.Watkins to IND 18 for 4 yards (N.Hairston).,21,reception,4,S.Watkins
+693,2017091009,10,1596,05:27,2,1,"(5:27) (Shotgun) J.Goff pass deep middle to C.Kupp for 18 yards, TOUCHDOWN.",22,reception,18,C.Kupp
+694,2017091009,11,1647,05:20,2,0,"(5:20) (Shotgun) S.Tolzien pass deep left to T.Hilton to LA 43 for 32 yards (K.Webster). LA-K.Webster was injured during the play. He is Out.  LA #21 K.Webster, shoulder injury",21,reception,32,T.Hilton
+695,2017091009,11,1693,04:07,2,0,(4:07) (Shotgun) S.Tolzien pass short right to F.Gore to LA 40 for 10 yards (L.Joyner).,21,reception,10,F.Gore
+696,2017091009,12,1778,03:08,2,0,"(3:08) T.Gurley right end to IND 48 for 12 yards (D.Butler). FUMBLES (D.Butler), ball out of bounds at IND 48.",10,rush,12,T.Gurley
+697,2017091009,12,1799,02:34,2,0,(2:34) J.Goff pass short left to T.Gurley ran ob at IND 25 for 23 yards (T.Green).,21,reception,23,T.Gurley
+698,2017091009,12,1845,02:00,2,0,(2:00) T.Gurley right end to IND 24 for 1 yard (J.Hankins).,10,rush,1,T.Gurley
+699,2017091009,12,1909,01:10,2,0,(1:10) (Shotgun) J.Goff pass short right to T.Gurley to IND 17 for 7 yards (J.George).,21,reception,7,T.Gurley
+700,2017091009,13,1985,00:17,2,0,(:17) S.Tolzien kneels to IND 24 for -1 yards.,10,rush,-1,S.Tolzien
+701,2017091009,14,2063,15:00,3,0,(15:00) F.Gore up the middle to IND 31 for 6 yards (C.Barwin).,10,rush,6,F.Gore
+702,2017091009,14,2084,14:25,3,0,"(14:25) F.Gore left guard to IND 34 for 3 yards (E.Westbrooks, M.Brockers).",10,rush,3,F.Gore
+703,2017091009,14,2127,13:40,3,0,"(13:40) R.Sanchez punts 49 yards to LA 17, Center-L.Rhodes. T.Austin MUFFS catch, RECOVERED by IND-J.George at LA 24. J.George to LA 24 for no gain (S.Ebukam). Penalty on LA, Offensive Holding, declined.",59,fumble ret,0,J.George
+704,2017091009,15,2175,13:28,3,0,(13:28) (Shotgun) S.Tolzien pass short middle to K.Aiken to LA 21 for 3 yards (L.Joyner).,21,reception,3,K.Aiken
+705,2017091009,15,2199,12:54,3,0,(12:54) F.Gore up the middle to LA 20 for 1 yard (A.Ogletree).,10,rush,1,F.Gore
+706,2017091009,16,2264,12:03,3,0,(12:03) J.Goff pass short left to T.Higbee to LA 36 for 8 yards (J.Simon).,21,reception,8,T.Higbee
+707,2017091009,16,2288,11:23,3,0,(11:23) T.Gurley right end to LA 39 for 3 yards (J.Simon; M.Farley).,10,rush,3,T.Gurley
+708,2017091009,16,2309,10:43,3,0,(10:43) J.Goff pass deep left to R.Woods to IND 34 for 27 yards (M.Farley).,21,reception,27,R.Woods
+709,2017091009,16,2333,09:54,3,0,"(9:54) T.Gurley right end ran ob at IND 29 for 5 yards (T.Green). PENALTY on IND-H.Ridgeway, Defensive Holding, 5 yards, enforced at IND 29.",10,rush,5,T.Gurley
+710,2017091009,16,2382,09:28,3,0,(9:28) (Shotgun) J.Goff right end to IND 22 for 2 yards (M.Farley).,10,rush,2,J.Goff
+711,2017091009,16,2403,08:47,3,0,(8:47) T.Gurley up the middle to IND 28 for -6 yards (J.Simon).,10,rush,-6,T.Gurley
+712,2017091009,16,2424,08:09,3,0,(8:09) (Shotgun) T.Gurley up the middle to IND 26 for 2 yards (J.Sheard).,10,rush,2,T.Gurley
+713,2017091009,17,2479,07:23,3,1,"(7:23) (Shotgun) S.Tolzien pass short left intended for T.Hilton INTERCEPTED by L.Joyner at IND 29. L.Joyner for 29 yards, TOUCHDOWN.",26,int,29,L.Joyner
+714,2017091009,18,2538,07:15,3,0,(7:15) M.Mack right end to IND 26 for 1 yard (D.Hatfield).,10,rush,1,M.Mack
+715,2017091009,19,2626,05:30,3,0,(5:30) T.Gurley left end to LA 40 for no gain (M.Hunt).,10,rush,0,T.Gurley
+716,2017091009,19,2669,04:39,3,0,"(4:39) (Shotgun) J.Goff pass short right to T.Austin to LA 47 for 7 yards (R.Melvin). Penalty on LA-C.Kupp, Face Mask (15 Yards), declined.",21,reception,7,T.Austin
+717,2017091009,20,2727,04:17,3,0,(4:17) M.Mack left tackle to IND 9 for 3 yards (M.Fox).,10,rush,3,M.Mack
+718,2017091009,20,2748,03:41,3,0,(3:41) M.Mack up the middle to IND 7 for -2 yards (B.Countess).,10,rush,-2,M.Mack
+719,2017091009,21,2834,02:37,3,0,(2:37) T.Gurley right guard to LA 33 for 1 yard (A.Morrison).,10,rush,1,T.Gurley
+720,2017091009,21,2855,01:55,3,0,(1:55) T.Gurley right end ran ob at LA 33 for no gain (J.Bostic).,10,rush,0,T.Gurley
+721,2017091009,21,2876,01:16,3,0,(1:16) (Shotgun) J.Goff pass short left to S.Watkins to LA 43 for 10 yards (M.Hooker).,21,reception,10,S.Watkins
+722,2017091009,21,2900,00:45,3,0,(:45) (Shotgun) J.Goff pass short left to T.Gurley ran ob at LA 46 for 3 yards (J.George).,21,reception,3,T.Gurley
+723,2017091009,21,2929,00:10,3,0,(:10) M.Brown left end to LA 46 for no gain (J.Simon).,10,rush,0,M.Brown
+724,2017091009,22,3011,14:13,4,0,(14:13) New QB IND #7 J.Brissett. M.Mack right end to IND 40 for 24 yards (J.Johnson).,10,rush,24,M.Mack
+725,2017091009,22,3036,13:34,4,0,(13:34) R.Turbin up the middle to IND 45 for 5 yards (S.Ebukam).,10,rush,5,R.Turbin
+726,2017091009,22,3057,13:02,4,0,(13:02) J.Brissett pass deep left to D.Moncrief to LA 5 for 50 yards (B.Countess).,21,reception,50,D.Moncrief
+727,2017091009,22,3081,12:17,4,0,"(12:17) R.Turbin right tackle to LA 3 for 2 yards (N.Robey, B.Hager).",10,rush,2,R.Turbin
+728,2017091009,22,3102,11:36,4,1,"(11:36) (Shotgun) M.Mack up the middle for 3 yards, TOUCHDOWN.",11,rush,3,M.Mack
+729,2017091009,23,3135,,4,0,R.Sanchez kicks 58 yards from IND 35 to LA 7. P.Cooper to LA 42 for 35 yards (M.Hooker).,45,kickoff ret,35,P.Cooper
+730,2017091009,23,3194,11:00,4,0,(11:00) T.Gurley left end ran ob at LA 28 for -4 yards (B.Mingo; J.Bostic).,10,rush,-4,T.Gurley
+731,2017091009,23,3220,10:26,4,0,(10:26) (Shotgun) J.Goff pass short middle to T.Gurley to LA 47 for 19 yards (M.Hooker; M.Farley) [B.Mingo]. IND-A.Woods was injured during the play. His return is Doubtful.,21,reception,19,T.Gurley
+732,2017091009,24,3294,09:29,4,1,"(9:29) M.Mack left tackle to IND 7 for -3 yards (C.Littleton). FUMBLES (C.Littleton), recovered by IND-J.Brissett at IND -3. J.Brissett tackled in End Zone, SAFETY (M.Fox).",10,rush,-10,M.Mack
+733,2017091009,25,3331,,4,0,R.Sanchez kicks 50 yards from IND 20 to LA 30. T.Austin to LA 43 for 13 yards (C.Milton).,45,kickoff ret,13,T.Austin
+734,2017091009,25,3353,09:10,4,0,(9:10) M.Brown up the middle to LA 48 for 5 yards (M.Farley).,10,rush,5,M.Brown
+735,2017091009,25,3374,08:29,4,0,(8:29) M.Brown left guard to 50 for 2 yards (M.Farley).,10,rush,2,M.Brown
+736,2017091009,25,3395,07:45,4,0,(7:45) (Shotgun) J.Goff pass deep right to C.Kupp to IND 22 for 28 yards (Q.Wilson).,21,reception,28,C.Kupp
+737,2017091009,25,3419,06:59,4,0,(6:59) M.Brown up the middle to IND 20 for 2 yards (A.Morrison).,10,rush,2,M.Brown
+738,2017091009,25,3440,06:33,4,0,(6:33) (Shotgun) J.Goff pass short middle to T.Higbee to IND 11 for 9 yards (A.Morrison) [M.Hunt].,21,reception,9,T.Higbee
+739,2017091009,25,3464,05:48,4,0,(5:48) M.Brown left guard to IND 10 for 1 yard (A.Morrison; J.Bostic).,10,rush,1,M.Brown
+740,2017091009,25,3485,05:02,4,0,(5:02) M.Brown right end to IND 7 for 3 yards (J.Simon).,10,rush,3,M.Brown
+741,2017091009,25,3529,04:33,4,1,"(4:33) (Shotgun) M.Brown left guard for 3 yards, TOUCHDOWN.",11,rush,3,M.Brown
+742,2017091009,26,3599,04:22,4,0,(4:22) M.Mack up the middle to IND 31 for 6 yards (C.Littleton).,10,rush,6,M.Mack
+743,2017091009,26,3620,03:38,4,0,(3:38) (Shotgun) J.Brissett pass short right to M.Hazel to IND 32 for 1 yard (N.Robey).,21,reception,1,M.Hazel
+744,2017091009,27,3662,02:54,4,0,(2:54) New LA QB #14 S.Mannion. J.Davis up the middle to LA 16 for 1 yard (M.Farley).,10,rush,1,J.Davis
+745,2017091009,27,3687,02:11,4,0,(2:11) S.Mannion pass short left to D.Carrier to LA 28 for 12 yards (M.Farley).,21,reception,12,D.Carrier
+746,2017091009,27,3728,02:00,4,0,(2:00) S.Mannion kneels to LA 25 for -3 yards.,10,rush,-3,S.Mannion
+747,2017091009,27,3794,01:15,4,0,(1:15) S.Mannion kneels to LA 23 for -2 yards.,10,rush,-2,S.Mannion
+748,2017091009,27,3815,00:37,4,0,(:37) S.Mannion kneels to LA 21 for -2 yards.,10,rush,-2,S.Mannion
+749,2017091005,1,77,15:00,1,0,(15:00) L.Fournette right guard to JAX 24 for 4 yards (A.Hal).,10,rush,4,L.Fournette
+750,2017091005,1,98,14:26,1,0,(14:26) L.Fournette left tackle to JAX 33 for 9 yards (K.Johnson).,10,rush,9,L.Fournette
+751,2017091005,1,119,13:48,1,0,(13:48) (Shotgun) B.Bortles pass short left to A.Robinson pushed ob at 50 for 17 yards (K.Johnson) [J.Watt]. JAX-A.Robinson was injured during the play. His return is Probable.,21,reception,17,A.Robinson
+752,2017091005,1,143,13:19,1,0,(13:19) B.Bortles pass deep left to A.Hurns ran ob at HOU 30 for 20 yards.,21,reception,20,A.Hurns
+753,2017091005,1,171,12:51,1,0,(12:51) B.Bortles pass short right to L.Fournette pushed ob at HOU 24 for 6 yards (W.Mercilus).,21,reception,6,L.Fournette
+754,2017091005,2,273,12:08,1,0,(12:08) L.Miller left tackle to HOU 26 for 1 yard (P.Posluszny).,10,rush,1,L.Miller
+755,2017091005,2,335,10:44,1,0,"(10:44) S.Lechler punts 43 yards to JAX 38, Center-J.Weeks, fair catch by M.Lee.",39,punt ret,0,M.Lee
+756,2017091005,3,354,10:34,1,0,(10:34) L.Fournette right guard to JAX 41 for 3 yards (B.McKinney).,10,rush,3,L.Fournette
+757,2017091005,3,375,10:02,1,0,(10:02) L.Fournette up the middle to JAX 43 for 2 yards (J.Watt).,10,rush,2,L.Fournette
+758,2017091005,3,418,09:22,1,0,"(9:22) B.Nortman punts 57 yards to end zone, Center-M.Overton, Touchback.",40,punt ret,0,
+759,2017091005,4,435,09:12,1,0,(9:12) T.Ervin up the middle to HOU 26 for 6 yards (B.Church; M.Jack).,10,rush,6,T.Ervin
+760,2017091005,4,456,08:41,1,0,"(8:41) (No Huddle, Shotgun) T.Savage pass short left to T.Ervin to HOU 29 for 3 yards (B.Church).",21,reception,3,T.Ervin
+761,2017091005,4,480,08:00,1,0,(8:00) (Shotgun) T.Savage pass short middle to L.Miller to HOU 34 for 5 yards (M.Jack).,21,reception,5,L.Miller
+762,2017091005,4,504,07:28,1,0,(7:28) (No Huddle) L.Miller left tackle to HOU 40 for 6 yards (Y.Ngakoue; T.Smith).,10,rush,6,L.Miller
+763,2017091005,4,525,07:07,1,0,(7:07) L.Miller left end pushed ob at HOU 39 for -1 yards (M.Jack).,10,rush,-1,L.Miller
+764,2017091005,4,546,06:39,1,0,"(6:39) (No Huddle, Shotgun) T.Savage pass short middle to S.Anderson to 50 for 11 yards (B.Church).",21,reception,11,S.Anderson
+765,2017091005,4,570,05:51,1,0,(5:51) (No Huddle) L.Miller up the middle to HOU 49 for -1 yards (M.Jack; P.Posluszny).,10,rush,-1,L.Miller
+766,2017091005,4,639,05:11,1,0,"(5:11) S.Lechler punts 35 yards to JAX 16, Center-J.Weeks, fair catch by M.Lee.",39,punt ret,0,M.Lee
+767,2017091005,5,658,05:03,1,0,(5:03) B.Bortles pass short left to L.Fournette to JAX 28 for 12 yards (K.Jackson).,21,reception,12,L.Fournette
+768,2017091005,5,682,04:32,1,0,(4:32) L.Fournette right guard to JAX 39 for 11 yards (M.Gilchrist; A.Hal).,10,rush,11,L.Fournette
+769,2017091005,5,703,04:02,1,0,"(4:02) L.Fournette right guard to JAX 45 for 6 yards (W.Mercilus, B.Cushing).",10,rush,6,L.Fournette
+770,2017091005,5,724,03:24,1,0,"(3:24) B.Bortles pass short left to J.O'Shaughnessy to HOU 37 for 18 yards (M.Gilchrist, B.McKinney).",21,reception,18,J.O'Shaughnessy
+771,2017091005,5,748,02:42,1,0,(2:42) C.Ivory right tackle pushed ob at HOU 20 for 17 yards (M.Gilchrist).,10,rush,17,C.Ivory
+772,2017091005,5,801,01:42,1,0,(1:42) (Shotgun) C.Ivory right tackle to HOU 18 for 12 yards (J.Joseph; A.Hal).,10,rush,12,C.Ivory
+773,2017091005,5,855,00:57,1,0,(:57) (Shotgun) L.Fournette right tackle to HOU 10 for -1 yards (A.Hal).,10,rush,-1,L.Fournette
+774,2017091005,5,876,00:25,1,0,(:25) L.Fournette up the middle to HOU 7 for 3 yards (K.Jackson; W.Mercilus).,10,rush,3,L.Fournette
+775,2017091005,6,1003,14:42,2,0,(14:42) (Shotgun) T.Ervin left guard to HOU 28 for -2 yards (D.Fowler).,10,rush,-2,T.Ervin
+776,2017091005,7,1126,12:58,2,0,(12:58) L.Fournette left guard to JAX 29 for -1 yards (W.Mercilus).,10,rush,-1,L.Fournette
+777,2017091005,7,1147,12:22,2,0,"(12:22) (Shotgun) L.Fournette up the middle to JAX 33 for 4 yards (J.Clowney, D.Reader).",10,rush,4,L.Fournette
+778,2017091005,7,1191,11:35,2,0,"(11:35) B.Nortman punts 35 yards to HOU 32, Center-M.Overton, fair catch by T.Ervin.",39,punt ret,0,T.Ervin
+779,2017091005,8,1214,11:24,2,0,(11:24) D.Foreman right tackle to HOU 37 for 4 yards (E.Ankou).,10,rush,4,D.Foreman
+780,2017091005,8,1293,10:22,2,0,"(10:22) S.Lechler punts 51 yards to JAX 19, Center-J.Weeks, fair catch by M.Lee.",39,punt ret,0,M.Lee
+781,2017091005,9,1312,10:12,2,0,(10:12) L.Fournette up the middle to JAX 23 for 4 yards (B.McKinney; B.Cushing).,10,rush,4,L.Fournette
+782,2017091005,9,1333,09:36,2,0,(9:36) (Shotgun) L.Fournette up the middle to JAX 22 for -1 yards (B.Dunn).,10,rush,-1,L.Fournette
+783,2017091005,10,1401,08:37,2,0,(8:37) T.Savage pass short middle to C.Fiedorowicz to JAX 47 for 15 yards (T.Gipson).,21,reception,15,C.Fiedorowicz
+784,2017091005,10,1425,08:10,2,0,(8:10) (No Huddle) L.Miller right tackle to JAX 44 for 3 yards (M.Jack).,10,rush,3,L.Miller
+785,2017091005,10,1446,07:38,2,0,"(7:38) (No Huddle, Shotgun) T.Savage sacked at 50 for -6 yards (Y.Ngakoue). FUMBLES (Y.Ngakoue), RECOVERED by JAX-A.Jones at JAX 47. A.Jones to JAX 47 for no gain (X.Su'a-Filo).",59,fumble ret,0,A.Jones
+786,2017091005,11,1475,07:31,2,0,(7:31) B.Bortles pass short left to L.Fournette to HOU 47 for 6 yards (D.Reader).,21,reception,6,L.Fournette
+787,2017091005,11,1499,06:53,2,0,(6:53) L.Fournette up the middle to HOU 43 for 4 yards (K.Jackson; B.McKinney).,10,rush,4,L.Fournette
+788,2017091005,11,1520,06:05,2,0,"(6:05) B.Bortles pass short right to A.Benn to HOU 31 for 12 yards (A.Hal; W.Mercilus). PENALTY on HOU-D.Reader, Roughing the Passer, 15 yards, enforced at HOU 31.",21,reception,12,A.Benn
+789,2017091005,11,1555,05:41,2,0,(5:41) C.Ivory right guard to HOU 14 for 2 yards (J.Heath).,10,rush,2,C.Ivory
+790,2017091005,11,1604,04:57,2,0,"(4:57) L.Fournette right guard to HOU 10 for 4 yards (B.Cushing, J.Heath). PENALTY on HOU-D.Reader, Defensive Holding, 5 yards, enforced at HOU 10.",10,rush,4,L.Fournette
+791,2017091005,11,1636,04:32,2,0,(4:32) L.Fournette up the middle to HOU 2 for 3 yards (B.McKinney; C.Moore).,10,rush,3,L.Fournette
+792,2017091005,11,1678,03:43,2,0,(3:43) L.Fournette right guard to HOU 1 for 1 yard (B.McKinney; K.Johnson). (#69 reports as eligible.),10,rush,1,L.Fournette
+793,2017091005,11,1699,03:08,2,0,"(3:08) T.Bohanon right guard to HOU 1 for no gain (D.Reader). Jacksonville challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #3.)",10,rush,0,T.Bohanon
+794,2017091005,11,1724,02:14,2,1,"(2:14) L.Fournette up the middle for 1 yard, TOUCHDOWN.",11,rush,1,L.Fournette
+795,2017091005,12,1778,02:02,2,0,(2:02) (Shotgun) T.Savage pass short left to D.Hopkins to HOU 32 for 7 yards (A.Bouye).,21,reception,7,D.Hopkins
+796,2017091005,12,1819,01:57,2,0,(1:57) (Shotgun) T.Savage pass short middle to C.Fiedorowicz to HOU 47 for 15 yards (T.Gipson).,21,reception,15,C.Fiedorowicz
+797,2017091005,12,1992,01:00,2,1,"(1:00) (Shotgun) T.Savage sacked at JAX 47 for -10 yards (Y.Ngakoue). FUMBLES (Y.Ngakoue), RECOVERED by JAX-D.Fowler at JAX 47. D.Fowler for 53 yards, TOUCHDOWN.",60,fumble ret,53,D.Fowler
+798,2017091005,13,2048,00:49,2,0,(:49) (Shotgun) L.Miller up the middle to HOU 32 for 7 yards (B.Church).,10,rush,7,L.Miller
+799,2017091005,13,2069,00:20,2,0,"(:20) (No Huddle, Shotgun) T.Savage pass short right to C.Fiedorowicz to HOU 38 for 6 yards (M.Jack).",21,reception,6,C.Fiedorowicz
+800,2017091005,14,2125,15:00,3,0,(15:00) (Shotgun) L.Miller right tackle to HOU 32 for 7 yards (T.Gipson).,10,rush,7,L.Miller
+801,2017091005,14,2146,14:33,3,0,"(14:33) (No Huddle, Shotgun) L.Miller right tackle to HOU 32 for no gain (M.Jackson).",10,rush,0,L.Miller
+802,2017091005,14,2167,14:00,3,0,(14:00) (Shotgun) D.Watson pass short right to D.Hopkins to HOU 40 for 8 yards (J.Ramsey; M.Jack).,21,reception,8,D.Hopkins
+803,2017091005,14,2191,13:36,3,0,(13:36) L.Miller right tackle to HOU 42 for 2 yards (C.Campbell).,10,rush,2,L.Miller
+804,2017091005,14,2212,13:05,3,0,(13:05) (No Huddle) D.Watson pass short right to D.Hopkins pushed ob at 50 for 8 yards (J.Ramsey).,21,reception,8,D.Hopkins
+805,2017091005,14,2236,12:38,3,0,(12:38) (Shotgun) L.Miller left tackle to JAX 43 for 7 yards (M.Jack).,10,rush,7,L.Miller
+806,2017091005,14,2257,12:17,3,0,(12:17) D.Watson pass short right to C.Fiedorowicz to JAX 33 for 10 yards (B.Church; M.Jack).,21,reception,10,C.Fiedorowicz
+807,2017091005,14,2281,11:38,3,0,(11:38) (Shotgun) D.Watson scrambles left end pushed ob at JAX 24 for 9 yards (A.Bouye).,10,rush,9,D.Watson
+808,2017091005,14,2302,11:05,3,0,(11:05) T.Ervin left guard to JAX 20 for 4 yards (D.Smoot).,10,rush,4,T.Ervin
+809,2017091005,14,2462,09:58,3,0,(9:58) D.Watson pass short right to D.Hopkins ran ob at JAX 8 for 7 yards (J.Ramsey).,21,reception,7,D.Hopkins
+810,2017091005,14,2518,09:12,3,1,"(9:12) (Shotgun) D.Watson pass short middle to D.Hopkins for 4 yards, TOUCHDOWN.",22,reception,4,D.Hopkins
+811,2017091005,15,2578,09:09,3,0,"(9:09) C.Ivory right tackle to JAX 32 for 7 yards (A.Hal, K.Johnson).",10,rush,7,C.Ivory
+812,2017091005,15,2654,08:24,3,0,(8:24) C.Ivory right tackle to HOU 47 for 1 yard (C.Moore).,10,rush,1,C.Ivory
+813,2017091005,15,2675,07:45,3,0,(7:45) C.Ivory up the middle to HOU 46 for 1 yard (Z.Cunningham; B.McKinney).,10,rush,1,C.Ivory
+814,2017091005,15,2696,07:14,3,0,(7:14) (Shotgun) B.Bortles pass short middle to A.Hurns to HOU 33 for 13 yards (K.Jackson).,21,reception,13,A.Hurns
+815,2017091005,15,2720,06:40,3,0,(6:40) L.Fournette left guard to HOU 26 for 7 yards (C.Moore).,10,rush,7,L.Fournette
+816,2017091005,15,2741,06:02,3,0,(6:02) (Shotgun) B.Bortles left end to HOU 11 for 15 yards (C.Moore).,10,rush,15,B.Bortles
+817,2017091005,15,2762,05:22,3,0,(5:22) (Shotgun) B.Bortles pass short middle to A.Hurns to HOU 2 for 9 yards (K.Johnson).,21,reception,9,A.Hurns
+818,2017091005,15,2786,04:40,3,0,(4:40) L.Fournette right end pushed ob at HOU 1 for 1 yard (E.Pleasant). (ELG- Player #63 reports.),10,rush,1,L.Fournette
+819,2017091005,15,2807,04:18,3,1,"(4:18) B.Bortles pass short right to T.Bohanon for 1 yard, TOUCHDOWN.",22,reception,1,T.Bohanon
+820,2017091005,16,2862,04:14,3,0,(4:14) (Shotgun) L.Miller up the middle to HOU 29 for 4 yards (A.Jones; B.Church).,10,rush,4,L.Miller
+821,2017091005,16,2905,03:36,3,0,(3:36) (Shotgun) D.Watson scrambles up the middle to HOU 36 for 7 yards (A.Bouye).,10,rush,7,D.Watson
+822,2017091005,16,2926,03:13,3,0,(3:13) (Shotgun) L.Miller left tackle to HOU 38 for 2 yards (D.Fowler).,10,rush,2,L.Miller
+823,2017091005,16,3002,02:37,3,0,"(2:37) (Shotgun) L.Miller right tackle to JAX 46 for 8 yards (M.Jack, T.Gipson).",10,rush,8,L.Miller
+824,2017091005,16,3045,01:54,3,0,(1:54) L.Miller right tackle to JAX 41 for 5 yards (M.Jackson).,10,rush,5,L.Miller
+825,2017091005,16,3066,01:15,3,0,"(1:15) (No Huddle, Shotgun) D.Watson pass short left to T.Ervin pushed ob at JAX 38 for 3 yards (A.Colvin).",21,reception,3,T.Ervin
+826,2017091005,16,3090,00:46,3,0,(:46) (No Huddle) L.Miller up the middle to JAX 35 for 3 yards (Y.Ngakoue).,10,rush,3,L.Miller
+827,2017091005,16,3111,00:13,3,0,"(:13) (No Huddle, Shotgun) D.Watson sacked at JAX 41 for -6 yards (D.Fowler). FUMBLES (D.Fowler), RECOVERED by JAX-Y.Ngakoue at JAX 41. Y.Ngakoue to JAX 41 for no gain (X.Su'a-Filo).",59,fumble ret,0,Y.Ngakoue
+828,2017091005,17,3140,00:03,3,0,(:03) L.Fournette up the middle to JAX 45 for 4 yards (B.McKinney).,10,rush,4,L.Fournette
+829,2017091005,17,3178,15:00,4,0,(15:00) L.Fournette right tackle to HOU 38 for 17 yards (B.McKinney).,10,rush,17,L.Fournette
+830,2017091005,17,3199,14:14,4,0,(14:14) C.Ivory up the middle to HOU 37 for 1 yard (Z.Cunningham; D.Reader).,10,rush,1,C.Ivory
+831,2017091005,17,3220,13:31,4,0,(13:31) C.Ivory right guard to HOU 37 for no gain (C.Covington; D.Reader).,10,rush,0,C.Ivory
+832,2017091005,17,3241,12:54,4,0,(12:54) (Shotgun) B.Bortles pass short left to C.Ivory to HOU 26 for 11 yards (K.Jackson).,21,reception,11,C.Ivory
+833,2017091005,17,3265,12:10,4,0,(12:10) (Shotgun) L.Fournette right end pushed ob at HOU 21 for 5 yards (K.Jackson).,10,rush,5,L.Fournette
+834,2017091005,18,3350,11:23,4,0,(11:23) D.Watson pass short left to D.Hopkins to HOU 38 for 9 yards (A.Bouye).,21,reception,9,D.Hopkins
+835,2017091005,18,3374,11:03,4,0,"(11:03) L.Miller left tackle to HOU 42 for 4 yards (M.Jack, S.Day).",10,rush,4,L.Miller
+836,2017091005,19,3479,09:59,4,0,"(9:59) L.Fournette right guard to JAX 26 for 1 yard (B.Dunn, Z.Cunningham).",10,rush,1,L.Fournette
+837,2017091005,19,3500,09:16,4,0,(9:16) (Shotgun) L.Fournette left guard to JAX 29 for 3 yards (B.Dunn).,10,rush,3,L.Fournette
+838,2017091005,20,3561,08:21,4,0,(8:21) (Shotgun) D.Watson pass short left to T.Ervin to HOU 43 for 6 yards (M.Jack).,21,reception,6,T.Ervin
+839,2017091005,20,3608,07:28,4,0,(7:28) D.Watson pass short left to D.Hopkins to JAX 40 for 12 yards (A.Bouye; M.Jack) [A.Jones].,21,reception,12,D.Hopkins
+840,2017091005,20,3714,05:24,4,0,(5:24) (Shotgun) D.Watson pass short left to T.Ervin to JAX 36 for 6 yards (A.Bouye).,21,reception,6,T.Ervin
+841,2017091005,20,3738,04:37,4,0,"(4:37) (No Huddle, Shotgun) D.Watson pass short middle to L.Miller to JAX 10 for 26 yards (T.Gipson).",21,reception,26,L.Miller
+842,2017091005,20,3811,03:45,4,0,(3:45) (Shotgun) D.Watson pass short middle intended for S.Anderson INTERCEPTED by T.Gipson at JAX 6. T.Gipson to HOU 27 for 67 yards (D.Watson).,25,int,67,T.Gipson
+843,2017091005,21,3837,03:31,4,0,(3:31) L.Fournette left guard to HOU 25 for 2 yards (B.Scarlett).,10,rush,2,L.Fournette
+844,2017091005,21,3880,03:25,4,0,(3:25) C.Ivory up the middle to HOU 24 for 1 yard (C.Covington).,10,rush,1,C.Ivory
+845,2017091005,21,3919,03:21,4,0,(3:21) L.Fournette right guard to HOU 20 for 4 yards (Z.Cunningham; B.Peters).,10,rush,4,L.Fournette
+846,2017091005,22,3982,,4,0,"J.Myers kicks 68 yards from JAX 35 to HOU -3. T.Ervin to HOU 25 for 28 yards (D.Payne). PENALTY on HOU-E.Pleasant, Offensive Holding, 10 yards, enforced at HOU 21.",45,kickoff ret,24,T.Ervin
+847,2017091005,22,4015,03:04,4,0,(3:04) (Shotgun) L.Miller left guard to HOU 19 for 8 yards (M.Jack; L.McCray).,10,rush,8,L.Miller
+848,2017091005,22,4076,02:00,4,0,"(2:00) (Shotgun) D.Watson pass short right to S.Anderson to HOU 16 for 3 yards (T.Smith, T.Gipson).",21,reception,3,S.Anderson
+849,2017091005,23,4145,01:08,4,0,(1:08) B.Bortles kneels to HOU 15 for -1 yards.,10,rush,-1,B.Bortles
+850,2017091005,23,4166,00:32,4,0,(:32) B.Bortles kneels to HOU 16 for -1 yards.,10,rush,-1,B.Bortles
+851,2017091001,1,36,,1,0,"C.Barth kicks 60 yards from CHI 35 to ATL 5. A.Roberts pushed ob at CHI 32 for 63 yards (C.LeBlanc). PENALTY on ATL-K.Ishmael, Illegal Block Above the Waist, 8 yards, enforced at ATL 16.",45,kickoff ret,11,A.Roberts
+852,2017091001,1,71,14:48,1,0,(14:48) D.Freeman right end to ATL 14 for 6 yards (J.Freeman).,10,rush,6,D.Freeman
+853,2017091001,1,92,14:10,1,0,(14:10) M.Ryan pass short left to M.Sanu to ATL 18 for 4 yards (K.Fuller).,21,reception,4,M.Sanu
+854,2017091001,1,116,13:13,1,0,(13:13) M.Ryan pass short middle to Ju.Jones to ATL 37 for 19 yards (M.Cooper).,21,reception,19,Ju.Jones
+855,2017091001,1,140,12:33,1,0,(12:33) M.Ryan pass short right to T.Gabriel to CHI 49 for 14 yards (M.Cooper).,21,reception,14,T.Gabriel
+856,2017091001,1,164,11:53,1,0,(11:53) T.Coleman left end to CHI 46 for 3 yards (Q.Demps).,10,rush,3,T.Coleman
+857,2017091001,1,185,11:23,1,0,(11:23) (No Huddle) M.Ryan pass short middle to T.Coleman to CHI 43 for 3 yards (W.Young).,21,reception,3,T.Coleman
+858,2017091001,1,209,10:39,1,0,(10:39) (Shotgun) D.Freeman left tackle to CHI 38 for 5 yards (L.Floyd).,10,rush,5,D.Freeman
+859,2017091001,1,230,10:01,1,0,(10:01) M.Ryan pass short right to M.Sanu to CHI 31 for 7 yards (L.Floyd; J.Freeman).,21,reception,7,M.Sanu
+860,2017091001,1,254,09:24,1,0,(9:24) (No Huddle) D.Freeman right tackle to CHI 29 for 2 yards (J.Freeman; M.Unrein).,10,rush,2,D.Freeman
+861,2017091001,1,275,08:40,1,0,(8:40) T.Coleman right tackle to CHI 30 for -1 yards (J.Freeman).,10,rush,-1,T.Coleman
+862,2017091001,2,330,,1,0,M.Bosher kicks 62 yards from ATL 35 to CHI 3. B.Cunningham to CHI 26 for 23 yards (D.Coleman).,45,kickoff ret,23,B.Cunningham
+863,2017091001,2,354,07:49,1,0,(7:49) Jo.Howard left guard to CHI 27 for 1 yard (D.Campbell).,10,rush,1,Jo.Howard
+864,2017091001,2,389,06:38,1,0,(6:38) M.Glennon pass short middle to T.Cohen to CHI 25 for 8 yards (D.Campbell; D.Riley).,21,reception,8,T.Cohen
+865,2017091001,2,571,06:11,1,0,(6:11) (Shotgun) M.Glennon pass short right to Z.Miller to CHI 33 for 8 yards (K.Neal; B.Poole).,21,reception,8,Z.Miller
+866,2017091001,3,475,05:22,1,0,(5:22) D.Freeman right tackle to ATL 34 for 4 yards (D.Trevathan).,10,rush,4,D.Freeman
+867,2017091001,4,624,04:19,1,0,(4:19) Jo.Howard right end to CHI 34 for 11 yards (R.Allen).,10,rush,11,Jo.Howard
+868,2017091001,4,659,03:41,1,0,(3:41) (Shotgun) M.Glennon pass short right to T.Cohen to CHI 31 for -3 yards (D.Jones).,21,reception,-3,T.Cohen
+869,2017091001,4,683,03:02,1,0,(3:02) (Shotgun) M.Glennon pass short right to T.Cohen to CHI 36 for 5 yards (D.Campbell).,21,reception,5,T.Cohen
+870,2017091001,4,707,02:21,1,0,(2:21) (Shotgun) M.Glennon pass short middle to D.Thompson to ATL 49 for 15 yards (R.Alford).,21,reception,15,D.Thompson
+871,2017091001,4,753,01:35,1,0,(1:35) T.Cohen right end to ATL 34 for 15 yards (R.Allen).,10,rush,15,T.Cohen
+872,2017091001,4,774,00:50,1,0,(:50) (Shotgun) Jo.Howard left guard to ATL 32 for 2 yards (V.Beasley).,10,rush,2,Jo.Howard
+873,2017091001,5,887,14:55,2,0,(14:55) T.Coleman left guard to ATL 30 for 5 yards (M.Unrein).,10,rush,5,T.Coleman
+874,2017091001,5,908,14:18,2,0,(14:18) T.Coleman right tackle to ATL 30 for no gain (S.Acho).,10,rush,0,T.Coleman
+875,2017091001,6,1023,12:31,2,0,(12:31) (Shotgun) M.Glennon pass short middle to T.Cohen to CHI 27 for 2 yards (K.Neal).,21,reception,2,T.Cohen
+876,2017091001,6,1047,11:53,2,0,(11:53) (Shotgun) M.Glennon pass short middle to K.White to CHI 33 for 6 yards (B.Poole). CHI-B.Cunningham was injured during the play. His return is Questionable.,21,reception,6,K.White
+877,2017091001,7,1116,11:28,2,0,(11:28) M.Ryan pass deep right to Ju.Jones pushed ob at ATL 35 for 18 yards (E.Jackson).,21,reception,18,Ju.Jones
+878,2017091001,7,1140,10:56,2,0,(10:56) D.Freeman right tackle to ATL 36 for 1 yard (J.Freeman; M.Unrein).,10,rush,1,D.Freeman
+879,2017091001,7,1161,10:13,2,0,(10:13) (Shotgun) M.Ryan pass short middle to T.Gabriel to CHI 46 for 18 yards (Q.Demps).,21,reception,18,T.Gabriel
+880,2017091001,7,1185,09:35,2,0,(9:35) M.Ryan pass short left to T.Coleman to CHI 38 for 8 yards (K.Fuller).,21,reception,8,T.Coleman
+881,2017091001,7,1209,09:07,2,0,(9:07) (No Huddle) T.Coleman right guard to CHI 37 for 1 yard (E.Goldman).,10,rush,1,T.Coleman
+882,2017091001,7,1230,08:22,2,0,(8:22) D.Freeman left guard to CHI 34 for 3 yards (Q.Demps).,10,rush,3,D.Freeman
+883,2017091001,7,1270,06:54,2,0,(6:54) (Shotgun) M.Ryan pass short middle to Ju.Jones pushed ob at CHI 15 for 25 yards (M.Cooper).,21,reception,25,Ju.Jones
+884,2017091001,7,1331,06:02,2,0,(6:02) T.Coleman left tackle to CHI 18 for 7 yards (K.Fuller).,10,rush,7,T.Coleman
+885,2017091001,7,1352,05:18,2,0,(5:18) M.Ryan scrambles left guard to CHI 5 for 13 yards.,10,rush,13,M.Ryan
+886,2017091001,7,1373,04:34,2,1,"(4:34) D.Freeman left tackle for 5 yards, TOUCHDOWN.",11,rush,5,D.Freeman
+887,2017091001,8,1436,04:29,2,0,(4:29) Jo.Howard right end to CHI 28 for 3 yards (B.Reed).,10,rush,3,Jo.Howard
+888,2017091001,8,1457,03:55,2,0,(3:55) T.Cohen left end to ATL 26 for 46 yards (D.Trufant).,10,rush,46,T.Cohen
+889,2017091001,8,1478,03:02,2,0,(3:02) Jo.Howard left guard to ATL 22 for 4 yards (B.Reed).,10,rush,4,Jo.Howard
+890,2017091001,8,1499,02:25,2,0,(2:25) Jo.Howard right tackle to ATL 20 for 2 yards (A.Clayborn).,10,rush,2,Jo.Howard
+891,2017091001,8,1572,01:53,2,0,(1:53) T.Cohen left end to ATL 10 for 5 yards (D.Trufant).,10,rush,5,T.Cohen
+892,2017091001,8,1593,01:05,2,0,(1:05) (Shotgun) Jo.Howard right guard to ATL 4 for 6 yards (D.Campbell).,10,rush,6,Jo.Howard
+893,2017091001,8,1614,00:20,2,1,"(:20) Direct snap to T.Cohen.  Jo.Howard right end for 4 yards, TOUCHDOWN. Wildcat formation - #8 M. Glennon lined up at WR (right side)",11,rush,4,Jo.Howard
+894,2017091001,9,1668,00:14,2,0,(:14) M.Ryan kneels to ATL 24 for -1 yards.,10,rush,-1,M.Ryan
+895,2017091001,10,1743,14:56,3,0,(14:56) Jo.Howard left end pushed ob at CHI 34 for 9 yards (D.Jones).,10,rush,9,Jo.Howard
+896,2017091001,10,1764,14:20,3,0,(14:20) M.Burton right guard to CHI 41 for 7 yards (D.Kazee).,10,rush,7,M.Burton
+897,2017091001,10,1785,13:44,3,0,(13:44) Jo.Howard right end to CHI 43 for 2 yards (D.Riley; D.Campbell).,10,rush,2,Jo.Howard
+898,2017091001,10,1855,12:19,3,0,"(12:19) (Punt formation) P.O'Donnell punts 69 yards to end zone, Center-A.DePaola, Touchback.",40,punt ret,0,
+899,2017091001,11,1889,12:09,3,0,(12:09) D.Freeman left end to ATL 20 for no gain (S.Acho; K.Fuller).,10,rush,0,D.Freeman
+900,2017091001,11,1910,11:33,3,0,(11:33) (Shotgun) M.Ryan pass short left to D.Freeman to ATL 20 for no gain (S.Acho) [E.Goldman].,21,reception,0,D.Freeman
+901,2017091001,12,1995,10:10,3,0,(10:10) Jo.Howard left end to 50 for 5 yards (D.Jones).,10,rush,5,Jo.Howard
+902,2017091001,12,2016,09:33,3,0,(9:33) Jo.Howard right end to ATL 49 for 1 yard (R.Allen).,10,rush,1,Jo.Howard
+903,2017091001,12,2059,08:47,3,0,"(8:47) (Punt formation) P.O'Donnell punts 35 yards to ATL 14, Center-A.DePaola, fair catch by A.Roberts.",39,punt ret,0,A.Roberts
+904,2017091001,13,2117,08:32,3,0,(8:32) (Shotgun) M.Ryan pass short right to T.Coleman pushed ob at ATL 25 for 11 yards (J.Freeman).,21,reception,11,T.Coleman
+905,2017091001,13,2141,08:06,3,0,(8:06) T.Coleman left tackle to ATL 26 for 1 yard (A.Hicks).,10,rush,1,T.Coleman
+906,2017091001,13,2162,07:26,3,0,(7:26) D.Freeman right guard to ATL 32 for 6 yards (D.Trevathan).,10,rush,6,D.Freeman
+907,2017091001,13,2183,06:54,3,0,(6:54) (No Huddle) M.Ryan pass short left to M.Sanu to ATL 38 for 6 yards (B.Callahan; N.Kwiatkoski).,21,reception,6,M.Sanu
+908,2017091001,13,2207,06:22,3,0,(6:22) (No Huddle) M.Ryan pass short left to D.Freeman to ATL 40 for 2 yards (J.Freeman).,21,reception,2,D.Freeman
+909,2017091001,13,2231,05:59,3,0,(5:59) D.Freeman right guard to ATL 40 for no gain (K.Fuller).,10,rush,0,D.Freeman
+910,2017091001,13,2286,05:10,3,0,(5:10) (Shotgun) M.Ryan pass short middle to T.Coleman to CHI 25 for 20 yards (E.Jackson).,21,reception,20,T.Coleman
+911,2017091001,13,2310,04:27,3,0,(4:27) M.Ryan pass short middle to M.Sanu to CHI 10 for 15 yards (E.Jackson).,21,reception,15,M.Sanu
+912,2017091001,13,2383,03:36,3,0,(3:36) D.Freeman left guard to CHI 14 for 6 yards (L.Floyd).,10,rush,6,D.Freeman
+913,2017091001,13,2421,03:05,3,0,(3:05) (Shotgun) M.Ryan pass short right to T.Gabriel to CHI 10 for 4 yards (M.Cooper).,21,reception,4,T.Gabriel
+914,2017091001,14,2501,,3,0,M.Bosher kicks 63 yards from ATL 35 to CHI 2. D.Thompson to CHI 29 for 27 yards (C.Goodwin).,45,kickoff ret,27,D.Thompson
+915,2017091001,14,2525,02:05,3,0,(2:05) T.Cohen left end to CHI 26 for -3 yards (B.Reed).,10,rush,-3,T.Cohen
+916,2017091001,14,2546,01:21,3,0,"(1:21) (Shotgun) T.Cohen left end to CHI 29 for 3 yards (T.McKinley; D.Jones). PENALTY on ATL-D.Jones, Unnecessary Roughness, 15 yards, enforced at CHI 29.",10,rush,3,T.Cohen
+917,2017091001,14,2578,00:56,3,0,(:56) Jo.Howard left tackle to CHI 46 for 2 yards (D.Riley).,10,rush,2,Jo.Howard
+918,2017091001,14,2599,00:19,3,0,(:19) M.Glennon pass short left to D.Sims pushed ob at ATL 45 for 9 yards (K.Neal).,21,reception,9,D.Sims
+919,2017091001,14,2672,14:30,4,0,(14:30) (Shotgun) M.Glennon pass short left to T.Cohen pushed ob at ATL 48 for 7 yards (R.Alford).,21,reception,7,T.Cohen
+920,2017091001,14,2715,13:48,4,0,(13:48) M.Glennon pass short middle to Jo.Howard to ATL 39 for 9 yards (D.Jones).,21,reception,9,Jo.Howard
+921,2017091001,15,2801,12:54,4,0,(12:54) M.Ryan pass short left to M.Sanu to ATL 12 for 7 yards (K.Fuller).,21,reception,7,M.Sanu
+922,2017091001,15,2848,12:10,4,1,"(12:10) (Shotgun) M.Ryan pass deep middle to A.Hooper for 88 yards, TOUCHDOWN [A.Hicks].",22,reception,88,A.Hooper
+923,2017091001,16,2918,11:55,4,0,(11:55) M.Glennon pass short right to K.Wright to CHI 35 for 10 yards (D.Trufant).,21,reception,10,K.Wright
+924,2017091001,16,2942,11:17,4,0,(11:17) M.Glennon pass short middle to Z.Miller to CHI 43 for 8 yards (D.Jones).,21,reception,8,Z.Miller
+925,2017091001,16,2988,10:36,4,0,(10:36) (Shotgun) M.Glennon pass short middle to D.Sims to ATL 35 for 22 yards (D.Jones).,21,reception,22,D.Sims
+926,2017091001,16,3067,09:43,4,0,(9:43) (Shotgun) M.Glennon pass short right to K.White to ATL 30 for no gain (T.McKinley) [D.Poe].,21,reception,0,K.White
+927,2017091001,16,3091,08:57,4,0,(8:57) (Shotgun) M.Glennon pass short left to T.Cohen to ATL 25 for 5 yards (R.Alford).,21,reception,5,T.Cohen
+928,2017091001,16,3115,08:10,4,0,(8:10) (Shotgun) M.Glennon pass short right to J.Bellamy to ATL 19 for 6 yards (K.Neal).,21,reception,6,J.Bellamy
+929,2017091001,16,3139,07:33,4,1,"(7:33) (Shotgun) M.Glennon pass short right to T.Cohen for 19 yards, TOUCHDOWN.",22,reception,19,T.Cohen
+930,2017091001,17,3249,07:16,4,0,(7:16) (Shotgun) M.Ryan pass short left to A.Hooper pushed ob at CHI 35 for 40 yards (J.Freeman).,21,reception,40,A.Hooper
+931,2017091001,17,3273,06:38,4,0,(6:38) D.Freeman left end to CHI 36 for -1 yards (L.Floyd).,10,rush,-1,D.Freeman
+932,2017091001,17,3294,05:57,4,0,(5:57) (Shotgun) M.Ryan pass short right to M.Sanu to CHI 28 for 8 yards (J.Freeman).,21,reception,8,M.Sanu
+933,2017091001,17,3353,04:53,4,0,(4:53) T.Coleman right guard to CHI 23 for no gain (J.Freeman).,10,rush,0,T.Coleman
+934,2017091001,17,3396,04:10,4,0,(4:10) (Shotgun) M.Ryan pass short right to Ju.Jones to CHI 19 for 4 yards (B.Callahan).,21,reception,4,Ju.Jones
+935,2017091001,18,3439,03:24,4,0,"M.Bosher kicks 67 yards from ATL 35 to CHI -2. D.Thompson to CHI 18 for 20 yards (D.Kazee). FUMBLES (D.Kazee), recovered by CHI-R.Robertson-Harris at CHI 18. R.Robertson-Harris to CHI 18 for no gain (D.Coleman).",45,kickoff ret,20,D.Thompson
+936,2017091001,18,3469,03:18,4,0,(3:18) M.Glennon pass short right to Jo.Howard to CHI 18 for no gain (D.Campbell).,21,reception,0,Jo.Howard
+937,2017091001,18,3493,03:11,4,0,(3:11) (Shotgun) M.Glennon pass short left to Jo.Howard to CHI 23 for 5 yards (B.Poole).,21,reception,5,Jo.Howard
+938,2017091001,18,3517,02:27,4,0,(2:27) (Shotgun) M.Glennon pass short middle to K.Wright to CHI 39 for 16 yards (D.Riley) [B.Poole].,21,reception,16,K.Wright
+939,2017091001,18,3558,02:00,4,0,(2:00) (Shotgun) M.Glennon pass short right to T.Cohen to CHI 43 for 4 yards (B.Poole).,21,reception,4,T.Cohen
+940,2017091001,18,3588,01:35,4,0,"(1:35) (No Huddle, Shotgun) M.Glennon pass short left to K.Wright to ATL 49 for 8 yards (B.Poole).",21,reception,8,K.Wright
+941,2017091001,18,3612,01:15,4,0,"(1:15) (No Huddle, Shotgun) M.Glennon pass short right to J.Bellamy to ATL 42 for 7 yards (B.Poole).",21,reception,7,J.Bellamy
+942,2017091001,18,3734,00:46,4,0,(:46) (Shotgun) M.Glennon pass short middle to J.Bellamy to ATL 28 for 14 yards (D.Trufant).,21,reception,14,J.Bellamy
+943,2017091001,18,3797,00:32,4,0,(:32) (Shotgun) M.Glennon pass short left to Z.Miller to ATL 16 for 12 yards (K.Neal).,21,reception,12,Z.Miller
+944,2017091001,18,3877,00:26,4,0,(:26) (Shotgun) M.Glennon pass short left to Z.Miller pushed ob at ATL 5 for 11 yards (D.Riley) [J.Crawford].,21,reception,11,Z.Miller
+945,2017091001,19,4003,00:03,4,0,(:03) M.Ryan kneels to ATL 13 for -1 yards.,10,rush,-1,M.Ryan
+946,2017091008,1,44,,1,0,C.Sturgis kicks 63 yards from PHI 35 to WAS 2. B.Breeland to WAS 16 for 14 yards (C.Clement).,45,kickoff ret,14,B.Breeland
+947,2017091008,1,90,14:50,1,0,(14:50) C.Thompson left tackle to WAS 15 for -1 yards (B.Graham).,10,rush,-1,C.Thompson
+948,2017091008,1,111,14:12,1,0,"(14:12) (Shotgun) K.Cousins pass short middle to T.Pryor to WAS 27 for 12 yards (J.Mills, J.Hicks).",21,reception,12,T.Pryor
+949,2017091008,1,135,13:31,1,0,(13:31) R.Kelley right end to WAS 26 for -1 yards (B.Graham; T.Jernigan).,10,rush,-1,R.Kelley
+950,2017091008,2,265,11:43,1,1,"(11:43) (Shotgun) C.Wentz pass deep left to N.Agholor for 58 yards, TOUCHDOWN [M.Ioannidis].",22,reception,58,N.Agholor
+951,2017091008,3,338,11:23,1,0,(11:23) (Shotgun) K.Cousins pass short left to R.Grant pushed ob at PHI 41 for 34 yards (R.McLeod).,21,reception,34,R.Grant
+952,2017091008,3,385,10:50,1,0,"(10:50) R.Kelley right tackle to PHI 37 for 4 yards (M.Jenkins, V.Curry).",10,rush,4,R.Kelley
+953,2017091008,3,428,10:06,1,0,"(10:06) (Shotgun) K.Cousins sacked at PHI 48 for -11 yards (F.Cox). FUMBLES (F.Cox), RECOVERED by PHI-J.Hicks at WAS 48. J.Hicks to WAS 48 for no gain (B.Scherff).",59,fumble ret,0,J.Hicks
+954,2017091008,4,457,09:58,1,0,"(9:58) (Shotgun) C.Wentz pass short left to D.Sproles to WAS 47 for 1 yard (M.Foster). PENALTY on PHI-J.Peters, Illegal Block Above the Waist, 10 yards, enforced at WAS 47.",21,reception,1,D.Sproles
+955,2017091008,4,492,09:16,1,0,"(9:16) L.Blount right end to PHI 49 for 6 yards (M.Foster, K.Fuller).",10,rush,6,L.Blount
+956,2017091008,4,524,08:33,1,0,(8:33) (Shotgun) C.Wentz pass short right to D.Sproles pushed ob at WAS 45 for 6 yards (P.Smith).,21,reception,6,D.Sproles
+957,2017091008,4,548,07:57,1,0,(7:57) (Shotgun) C.Wentz pass short left to N.Agholor to WAS 35 for 10 yards (K.Fuller).,21,reception,10,N.Agholor
+958,2017091008,4,572,07:16,1,0,(7:16) H.Vaitai reported in as eligible.  W.Smallwood left end to WAS 34 for 1 yard (T.McClain).,10,rush,1,W.Smallwood
+959,2017091008,4,595,06:37,1,0,"(6:37) (Shotgun) C.Wentz FUMBLES (Aborted) at WAS 42, RECOVERED by WAS-M.Foster at 50. M.Foster to 50 for no gain (C.Wentz).",59,fumble ret,0,M.Foster
+960,2017091008,4,595,06:37,1,0,"(6:37) (Shotgun) C.Wentz FUMBLES (Aborted) at WAS 42, RECOVERED by WAS-M.Foster at 50. M.Foster to 50 for no gain (C.Wentz).",10,rush,0,C.Wentz
+961,2017091008,5,653,06:21,1,0,(6:21) R.Kelley left end to WAS 44 for 4 yards (R.McLeod).,10,rush,4,R.Kelley
+962,2017091008,5,674,05:43,1,0,(5:43) (Shotgun) K.Cousins scrambles up the middle to PHI 46 for 10 yards (R.Darby).,10,rush,10,K.Cousins
+963,2017091008,5,717,04:57,1,0,"(4:57) T.Way punts 33 yards to PHI 13, Center-N.Sundberg, fair catch by D.Sproles.",39,punt ret,0,D.Sproles
+964,2017091008,6,740,04:49,1,0,"(4:49) L.Blount right end to PHI 17 for 4 yards (Z.Brown, D.Everett).",10,rush,4,L.Blount
+965,2017091008,6,761,04:14,1,0,"(4:14) L.Blount left guard to PHI 22 for 5 yards (J.Allen, Z.Brown).",10,rush,5,L.Blount
+966,2017091008,6,782,03:31,1,0,(3:31) (Shotgun) H.Vaitai reported in as eligible.  L.Blount left end to PHI 20 for -2 yards (Z.Brown).,10,rush,-2,L.Blount
+967,2017091008,6,805,02:55,1,0,"(2:55) D.Jones punts 40 yards to WAS 40, Center-R.Lovato. J.Crowder MUFFS catch, touched at WAS 40, RECOVERED by PHI-T.Burton at WAS 39.",59,fumble ret,0,T.Burton
+968,2017091008,7,838,02:43,1,0,(2:43) H.Vaitai reported in as eligible.  C.Wentz pass short right to Z.Ertz to WAS 32 for 7 yards.,21,reception,7,Z.Ertz
+969,2017091008,7,864,01:57,1,0,"(1:57) L.Blount up the middle to WAS 28 for 4 yards (Z.Brown, D.Everett).",10,rush,4,L.Blount
+970,2017091008,7,885,01:11,1,0,(1:11) C.Wentz pass short left to Z.Ertz to WAS 14 for 14 yards (D.Swearinger).,21,reception,14,Z.Ertz
+971,2017091008,7,909,00:27,1,0,(:27) L.Blount right tackle to WAS 8 for 6 yards (D.Swearinger).,10,rush,6,L.Blount
+972,2017091008,7,947,15:00,2,0,(15:00) C.Wentz pass short right to N.Agholor to WAS 3 for 5 yards (D.Swearinger).,21,reception,5,N.Agholor
+973,2017091008,7,971,14:16,2,0,(14:16) (Shotgun) L.Blount right guard to WAS 1 for 2 yards (J.Allen; Z.Brown).,10,rush,2,L.Blount
+974,2017091008,7,1016,13:28,2,1,"(13:28) (Shotgun) C.Wentz pass short right to L.Blount for 1 yard, TOUCHDOWN. Penalty on WAS-D.Swearinger, Defensive Offside, declined.",22,reception,1,L.Blount
+975,2017091008,8,1063,,2,0,C.Sturgis kicks 65 yards from PHI 35 to WAS 0. B.Breeland to WAS 24 for 24 yards (N.Goode).,45,kickoff ret,24,B.Breeland
+976,2017091008,8,1087,13:18,2,0,(13:18) R.Kelley left end to WAS 30 for 6 yards (M.Kendricks).,10,rush,6,R.Kelley
+977,2017091008,8,1108,12:40,2,0,(12:40) R.Kelley left end pushed ob at WAS 32 for 2 yards (N.Bradham).,10,rush,2,R.Kelley
+978,2017091008,8,1129,12:06,2,0,(12:06) K.Cousins scrambles right end to WAS 36 for 4 yards (M.Jenkins). PHI-R.Darby was injured during the play. He is Out.,10,rush,4,K.Cousins
+979,2017091008,8,1154,11:35,2,0,"(11:35) R.Kelley left guard to WAS 35 for -1 yards (D.Barnett, J.Hicks).",10,rush,-1,R.Kelley
+980,2017091008,8,1175,11:00,2,0,(11:00) (Shotgun) C.Thompson right end to WAS 36 for 1 yard (P.Robinson).,10,rush,1,C.Thompson
+981,2017091008,8,1196,10:20,2,0,"(10:20) (Shotgun) K.Cousins pass short left to J.Reed to WAS 45 for 9 yards (J.Hicks, N.Bradham).",21,reception,9,J.Reed
+982,2017091008,9,1239,09:26,2,0,(9:26) C.Wentz pass short right to A.Jeffery to PHI 20 for 14 yards (J.Norman; D.Everett).,21,reception,14,A.Jeffery
+983,2017091008,9,1285,08:39,2,1,"(8:39) (Shotgun) C.Wentz pass short right intended for D.Sproles INTERCEPTED by R.Kerrigan (S.McGee) [S.McGee] at PHI 24. R.Kerrigan for 24 yards, TOUCHDOWN.",26,int,24,R.Kerrigan
+984,2017091008,10,1338,08:30,2,0,(8:30) L.Blount left end to PHI 32 for 7 yards (K.Fuller).,10,rush,7,L.Blount
+985,2017091008,10,1404,07:21,2,0,"(7:21) (Shotgun) C.Wentz pass short middle to Z.Ertz to PHI 37 for 10 yards (M.Foster, Z.Brown) [J.Galette].",21,reception,10,Z.Ertz
+986,2017091008,10,1428,06:37,2,0,(6:37) W.Smallwood left end to PHI 39 for 2 yards (P.Smith).,10,rush,2,W.Smallwood
+987,2017091008,10,1479,05:23,2,0,(5:23) (Shotgun) C.Wentz pass short right to D.Sproles to PHI 39 for 15 yards (J.Norman).,21,reception,15,D.Sproles
+988,2017091008,10,1522,04:03,2,0,"(4:03) D.Jones punts 37 yards to WAS 31, Center-R.Lovato, fair catch by J.Crowder.",39,punt ret,0,J.Crowder
+989,2017091008,11,1567,03:52,2,0,(3:52) (Shotgun) K.Cousins pass short left to T.Pryor to WAS 43 for 12 yards (J.Mills).,21,reception,12,T.Pryor
+990,2017091008,11,1591,03:15,2,0,(3:15) R.Kelley right tackle to WAS 47 for 4 yards (P.Robinson).,10,rush,4,R.Kelley
+991,2017091008,11,1612,02:40,2,0,(2:40) K.Cousins pass short left to R.Grant pushed ob at PHI 43 for 10 yards (C.Graham).,21,reception,10,R.Grant
+992,2017091008,11,1640,02:11,2,0,"(2:11) (Shotgun) K.Cousins pass short middle to J.Reed to PHI 38 for 5 yards (J.Hicks, C.Graham).",21,reception,5,J.Reed
+993,2017091008,11,1681,02:00,2,0,(2:00) (Shotgun) K.Cousins pass short middle to C.Thompson to PHI 33 for 5 yards (J.Hicks).,21,reception,5,C.Thompson
+994,2017091008,11,1705,01:34,2,0,(1:34) (Shotgun) C.Thompson right tackle to PHI 29 for 4 yards (D.Vaeao; R.McLeod).,10,rush,4,C.Thompson
+995,2017091008,11,1743,01:26,2,1,"(1:26) (Shotgun) K.Cousins pass short middle to C.Thompson for 29 yards, TOUCHDOWN [F.Cox].",22,reception,29,C.Thompson
+996,2017091008,12,1816,01:11,2,0,(1:11) (Shotgun) D.Sproles right tackle to PHI 25 for no gain (R.Kerrigan).,10,rush,0,D.Sproles
+997,2017091008,12,1854,01:04,2,0,(1:04) (Shotgun) C.Wentz pass short middle to Z.Ertz to PHI 37 for 12 yards (D.Swearinger).,21,reception,12,Z.Ertz
+998,2017091008,12,1917,00:50,2,0,(:50) (Shotgun) C.Wentz scrambles up the middle to PHI 41 for 4 yards (Z.Brown).,10,rush,4,C.Wentz
+999,2017091008,12,1955,00:41,2,0,(:41) (Shotgun) C.Wentz pass short middle to N.Agholor to WAS 49 for 10 yards (M.Foster).,21,reception,10,N.Agholor
+1000,2017091008,12,1979,00:22,2,0,"(:22) (No Huddle, Shotgun) C.Wentz pass short middle to D.Sproles to WAS 41 for 8 yards (M.Foster). The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",21,reception,8,D.Sproles
+1001,2017091008,12,2053,00:15,2,0,(:15) (Shotgun) C.Wentz pass short left to Z.Ertz pushed ob at WAS 32 for 9 yards (D.Everett).,21,reception,9,Z.Ertz
+1002,2017091008,13,2164,15:00,3,0,(15:00) C.Wentz pass short right to B.Celek pushed ob at PHI 36 for 11 yards (J.Norman).,21,reception,11,B.Celek
+1003,2017091008,13,2188,14:26,3,0,(14:26) L.Blount right guard to PHI 36 for no gain (D.Everett; Z.Brown).,10,rush,0,L.Blount
+1004,2017091008,13,2231,13:35,3,0,(13:35) (Shotgun) C.Wentz pass short left to T.Smith to WAS 34 for 30 yards (B.Breeland).,21,reception,30,T.Smith
+1005,2017091008,13,2255,12:58,3,0,(12:58) (Shotgun) C.Wentz pass short left to Z.Ertz to WAS 27 for 7 yards (M.Foster).,21,reception,7,Z.Ertz
+1006,2017091008,13,2343,11:39,3,0,(11:39) C.Wentz scrambles right end to WAS 24 for 3 yards.,10,rush,3,C.Wentz
+1007,2017091008,14,2441,,3,0,C.Sturgis kicks 67 yards from PHI 35 to WAS -2. B.Breeland to WAS 19 for 21 yards (R.McLeod).,45,kickoff ret,21,B.Breeland
+1008,2017091008,14,2484,09:53,3,0,(9:53) (Shotgun) K.Cousins pass short right to J.Crowder pushed ob at WAS 18 for 5 yards (P.Robinson).,21,reception,5,J.Crowder
+1009,2017091008,14,2538,09:03,3,0,(9:03) R.Kelley left end to WAS 27 for 4 yards (J.Mills; M.Kendricks).,10,rush,4,R.Kelley
+1010,2017091008,14,2563,08:14,3,0,(8:14) (Shotgun) K.Cousins pass short middle to J.Reed to WAS 36 for 9 yards (M.Jenkins).,21,reception,9,J.Reed
+1011,2017091008,14,2587,07:40,3,0,(7:40) K.Cousins pass short left to T.Pryor to WAS 40 for 4 yards (J.Mills).,21,reception,4,T.Pryor
+1012,2017091008,14,2611,06:59,3,0,(6:59) K.Cousins scrambles up the middle to WAS 47 for 7 yards (N.Bradham; D.Vaeao).,10,rush,7,K.Cousins
+1013,2017091008,14,2655,05:54,3,0,(5:54) (Shotgun) K.Cousins right end to PHI 39 for 9 yards (M.Jenkins).,10,rush,9,K.Cousins
+1014,2017091008,14,2720,05:05,3,0,(5:05) (Shotgun) K.Cousins pass short middle to B.Quick to PHI 28 for 11 yards (J.Watkins).,21,reception,11,B.Quick
+1015,2017091008,14,2744,04:17,3,0,(4:17) R.Kelley left guard to PHI 22 for 6 yards (C.Long).,10,rush,6,R.Kelley
+1016,2017091008,14,2765,03:34,3,0,(3:34) K.Cousins pass short left to T.Pryor pushed ob at PHI 16 for 6 yards (J.Mills).,21,reception,6,T.Pryor
+1017,2017091008,14,2789,03:05,3,0,(3:05) (Shotgun) K.Cousins pass short right to R.Grant pushed ob at PHI 15 for 1 yard (P.Robinson).,21,reception,1,R.Grant
+1018,2017091008,15,2911,,3,0,D.Hopkins kicks 47 yards from WAS 35 to PHI 18. B.Celek to PHI 26 for 8 yards (M.Spaight).,45,kickoff ret,8,B.Celek
+1019,2017091008,15,2935,02:00,3,0,(2:00) (Shotgun) C.Wentz pass short middle to Z.Ertz to PHI 37 for 11 yards (D.Swearinger).,21,reception,11,Z.Ertz
+1020,2017091008,15,2959,01:28,3,0,"(1:28) (No Huddle, Shotgun) C.Wentz pass short middle to D.Sproles to 50 for 13 yards (P.Smith).",21,reception,13,D.Sproles
+1021,2017091008,15,3016,00:52,3,0,(:52) L.Blount right tackle to PHI 39 for 5 yards (Z.Brown).,10,rush,5,L.Blount
+1022,2017091008,16,3134,14:46,4,0,(14:46) (No Huddle) K.Cousins pass deep left to R.Grant to PHI 48 for 16 yards (J.Mills).,21,reception,16,R.Grant
+1023,2017091008,16,3158,14:31,4,0,"(14:31) (No Huddle) R.Kelley right tackle to PHI 46 for 2 yards (D.Barnett, M.Kendricks).",10,rush,2,R.Kelley
+1024,2017091008,16,3179,13:49,4,0,(13:49) K.Cousins pass short middle to T.Pryor to PHI 18 for 28 yards (J.Watkins).,21,reception,28,T.Pryor
+1025,2017091008,16,3203,13:06,4,0,(13:06) K.Cousins pass short left to T.Pryor to PHI 14 for 4 yards (J.Mills).,21,reception,4,T.Pryor
+1026,2017091008,16,3249,12:30,4,0,(12:30) (Shotgun) K.Cousins pass short middle intended for J.Crowder INTERCEPTED by J.Mills at PHI 0. J.Mills to PHI 15 for 15 yards (T.Williams).,25,int,15,J.Mills
+1027,2017091008,17,3275,12:21,4,0,(12:21) (Shotgun) D.Sproles left guard to PHI 17 for 2 yards (R.Kerrigan).,10,rush,2,D.Sproles
+1028,2017091008,17,3296,11:42,4,0,(11:42) (Shotgun) C.Wentz pass short right to N.Agholor to PHI 21 for 4 yards (M.Foster).,21,reception,4,N.Agholor
+1029,2017091008,17,3320,10:59,4,0,(10:59) (Shotgun) C.Wentz pass short right to W.Smallwood to PHI 26 for 5 yards (Z.Brown).,21,reception,5,W.Smallwood
+1030,2017091008,17,3344,10:17,4,0,"(10:17) L.Blount right tackle to PHI 26 for no gain (M.Foster, D.Everett).",10,rush,0,L.Blount
+1031,2017091008,17,3387,09:27,4,0,(9:27) (Shotgun) C.Wentz pass deep left to Z.Ertz to PHI 49 for 23 yards (D.Everett).,21,reception,23,Z.Ertz
+1032,2017091008,17,3411,08:40,4,0,(8:40) W.Smallwood left end pushed ob at WAS 48 for 3 yards (J.Allen).,10,rush,3,W.Smallwood
+1033,2017091008,17,3437,08:07,4,0,(8:07) (Shotgun) W.Smallwood left end to 50 for -2 yards (Z.Brown).,10,rush,-2,W.Smallwood
+1034,2017091008,17,3458,07:22,4,0,(7:22) (Shotgun) C.Wentz pass short right to N.Agholor to PHI 49 for -1 yards (K.Fuller).,21,reception,-1,N.Agholor
+1035,2017091008,18,3523,06:39,4,0,(6:39) (Shotgun) K.Cousins pass short right to J.Crowder to WAS 3 for 2 yards (J.Watkins).,21,reception,2,J.Crowder
+1036,2017091008,18,3585,05:53,4,0,"(5:53) T.Way punts 50 yards to PHI 47, Center-N.Sundberg, fair catch by D.Sproles.",39,punt ret,0,D.Sproles
+1037,2017091008,19,3608,05:46,4,0,(5:46) (Shotgun) C.Wentz pass short right to A.Jeffery to PHI 47 for no gain (K.Fuller).,21,reception,0,A.Jeffery
+1038,2017091008,19,3632,05:06,4,0,(5:06) C.Wentz pass short left to A.Jeffery to WAS 29 for 24 yards (B.Breeland; M.Foster).,21,reception,24,A.Jeffery
+1039,2017091008,19,3656,04:17,4,0,(4:17) L.Blount up the middle to WAS 26 for 3 yards (J.Allen).,10,rush,3,L.Blount
+1040,2017091008,19,3677,03:33,4,0,(3:33) L.Blount right guard to WAS 22 for 4 yards (S.McGee).,10,rush,4,L.Blount
+1041,2017091008,19,3698,02:49,4,0,(2:49) L.Blount left tackle to WAS 20 for 2 yards (T.McClain; Z.Brown).,10,rush,2,L.Blount
+1042,2017091008,20,3770,01:59,4,0,(1:59) (Shotgun) K.Cousins pass short right to J.Reed to WAS 32 for 7 yards (J.Hicks).,21,reception,7,J.Reed
+1043,2017091008,20,3794,01:38,4,1,"(1:38) (No Huddle, Shotgun) K.Cousins sacked at WAS 24 for -8 yards (B.Graham). FUMBLES (B.Graham) [B.Graham], RECOVERED by PHI-F.Cox at WAS 20. F.Cox for 20 yards, TOUCHDOWN. The Replay Official reviewed the fumble ruling, and the play was Upheld. The ruling on the field stands.",60,fumble ret,20,F.Cox
+1044,2017091008,21,3892,,4,0,C.Sturgis kicks 49 yards from PHI 35 to WAS 16. C.Thompson pushed ob at WAS 34 for 18 yards (K.Grugier-Hill).,45,kickoff ret,18,C.Thompson
+1045,2017091008,21,3916,01:24,4,0,(1:24) (Shotgun) K.Cousins pass short right to J.Reed to WAS 40 for 6 yards (J.Hicks) [D.Barnett].,21,reception,6,J.Reed
+1046,2017091008,21,3946,01:00,4,0,"(1:00) (No Huddle, Shotgun) K.Cousins pass short middle to C.Thompson to 50 for 10 yards (N.Bradham).",21,reception,10,C.Thompson
+1047,2017091008,21,4034,00:40,4,0,(:40) (Shotgun) K.Cousins pass short left to J.Crowder pushed ob at 50 for 7 yards (J.Mills).,21,reception,7,J.Crowder
+1048,2017091008,21,4058,00:35,4,0,(:35) (Shotgun) K.Cousins pass short left to C.Thompson pushed ob at PHI 42 for 8 yards (J.Mills).,21,reception,8,C.Thompson
+1049,2017091008,22,4104,00:25,4,0,(:25) C.Wentz kneels to PHI 41 for -1 yards.,10,rush,-1,C.Wentz
+1050,2017091010,1,35,,1,0,M.Crosby kicks 69 yards from GB 35 to SEA -4. T.Lockett pushed ob at SEA 39 for 43 yards (K.Brice).,45,kickoff ret,43,T.Lockett
+1051,2017091010,1,96,14:48,1,0,"(14:48) D.Baldwin right end to SEA 36 for -3 yards (D.House, M.Burnett).",10,rush,-3,D.Baldwin
+1052,2017091010,2,197,13:22,1,0,(13:22) (Shotgun) A.Rodgers pass short right to J.Nelson to GB 32 for 10 yards (B.Wagner).,21,reception,10,J.Nelson
+1053,2017091010,2,221,12:41,1,0,(12:41) (Shotgun) A.Rodgers pass short left to R.Cobb to GB 32 for no gain (E.Thomas).,21,reception,0,R.Cobb
+1054,2017091010,2,245,12:00,1,0,"(12:00) A.Rodgers pass short right to R.Cobb pushed ob at GB 46 for 14 yards (J.Lane). PENALTY on GB-R.Cobb, Taunting, 15 yards, enforced between downs.",21,reception,14,R.Cobb
+1055,2017091010,2,325,11:02,1,0,(11:02) A.Rodgers pass short left to J.Nelson pushed ob at GB 39 for 13 yards (S.Griffin).,21,reception,13,J.Nelson
+1056,2017091010,2,349,10:26,1,0,(10:26) (Shotgun) A.Rodgers pass short middle to R.Cobb to SEA 32 for 29 yards (E.Thomas).,21,reception,29,R.Cobb
+1057,2017091010,2,373,09:37,1,0,"(9:37) (Shotgun) A.Rodgers pass short middle intended for L.Kendricks INTERCEPTED by N.Jones at SEA 36. N.Jones for 64 yards, TOUCHDOWN NULLIFIED by Penalty. Penalty on SEA-J.Lane, Disqualification, declined. PENALTY on SEA-C.Avril, Illegal Block Above the Waist, 10 yards, enforced at GB 40. SEA 20 was ejected due to penalty",25,int,24,N.Jones
+1058,2017091010,3,411,09:26,1,0,"(9:26) E.Lacy left end to GB 48 for 2 yards (D.Randall, Q.Rollins).",10,rush,2,E.Lacy
+1059,2017091010,3,445,08:52,1,0,(8:52) (Shotgun) E.Lacy up the middle to GB 42 for 6 yards (M.Daniels).,10,rush,6,E.Lacy
+1060,2017091010,4,512,07:53,1,0,(7:53) T.Montgomery up the middle to GB 5 for 3 yards (K.Wright).,10,rush,3,T.Montgomery
+1061,2017091010,4,537,07:19,1,0,(7:19) T.Montgomery left tackle to GB 8 for 3 yards (K.Wright).,10,rush,3,T.Montgomery
+1062,2017091010,4,558,06:34,1,0,(6:34) (Shotgun) A.Rodgers scrambles right end to GB 13 for 5 yards (S.Richardson).,10,rush,5,A.Rodgers
+1063,2017091010,4,579,05:48,1,0,(5:48) T.Montgomery right end to GB 15 for 2 yards (R.Sherman).,10,rush,2,T.Montgomery
+1064,2017091010,4,600,05:10,1,0,(5:10) T.Montgomery right guard to GB 18 for 3 yards (T.Garvin; B.Wagner).,10,rush,3,T.Montgomery
+1065,2017091010,4,622,04:25,1,0,(4:25) (Shotgun) A.Rodgers pass short left to R.Cobb to GB 28 for 10 yards (R.Sherman).,21,reception,10,R.Cobb
+1066,2017091010,4,646,03:51,1,0,(3:51) A.Rodgers pass short middle to L.Kendricks to GB 37 for 9 yards (K.Wright).,21,reception,9,L.Kendricks
+1067,2017091010,4,670,03:13,1,0,(3:13) J.Williams up the middle to GB 40 for 3 yards (B.Wagner).,10,rush,3,J.Williams
+1068,2017091010,4,754,01:41,1,0,"(1:41) J.Vogel punts 41 yards to SEA 25, Center-B.Goode, fair catch by T.Lockett.",39,punt ret,0,T.Lockett
+1069,2017091010,5,773,01:34,1,0,(1:34) M.Tobin reported in as eligible.  E.Lacy left end to SEA 23 for -2 yards (J.Ryan).,10,rush,-2,E.Lacy
+1070,2017091010,5,796,00:52,1,0,"(:52) (Shotgun) C.Prosise right tackle to SEA 23 for no gain (B.Martinez, M.Daniels).",10,rush,0,C.Prosise
+1071,2017091010,5,817,00:14,1,0,"(:14) (Shotgun) R.Wilson pass short left to J.Graham to SEA 29 for 6 yards (M.Burnett, Q.Rollins).",21,reception,6,J.Graham
+1072,2017091010,6,905,14:40,2,0,(14:40) A.Rodgers pass short left to D.Adams ran ob at GB 25 for 13 yards (S.Griffin).,21,reception,13,D.Adams
+1073,2017091010,6,934,14:09,2,0,"(14:09) (No Huddle, Shotgun) A.Rodgers pass short left to D.Adams pushed ob at GB 38 for 13 yards (S.Griffin).",21,reception,13,D.Adams
+1074,2017091010,6,993,13:28,2,0,(13:28) T.Montgomery left end to GB 45 for 2 yards (K.Wright).,10,rush,2,T.Montgomery
+1075,2017091010,6,1014,12:53,2,0,"(12:53) (No Huddle, Shotgun) A.Rodgers pass short right to J.Nelson to GB 46 for 1 yard (E.Thomas).",21,reception,1,J.Nelson
+1076,2017091010,6,1084,11:21,2,0,"(11:21) J.Vogel punts 45 yards to SEA 20, Center-B.Goode, fair catch by T.Lockett.",39,punt ret,0,T.Lockett
+1077,2017091010,7,1103,11:13,2,0,(11:13) (Shotgun) R.Wilson pass short left to P.Richardson pushed ob at SEA 26 for 6 yards (D.Randall).,21,reception,6,P.Richardson
+1078,2017091010,7,1128,10:43,2,0,(10:43) R.Wilson pass short left to J.Graham pushed ob at SEA 29 for 3 yards (M.Burnett).,21,reception,3,J.Graham
+1079,2017091010,7,1152,10:06,2,0,"(10:06) R.Wilson pass short right to C.Carson pushed ob at SEA 39 for 10 yards (D.House). Penalty on GB-D.House, Defensive Holding, declined.",21,reception,10,C.Carson
+1080,2017091010,7,1192,09:48,2,0,(9:48) C.Carson up the middle to SEA 43 for 4 yards (C.Matthews).,10,rush,4,C.Carson
+1081,2017091010,7,1257,08:57,2,0,"(8:57) J.Ryan punts 52 yards to GB 5, Center-T.Ott, fair catch by T.Davis.",39,punt ret,0,T.Davis
+1082,2017091010,8,1276,08:49,2,0,(8:49) T.Montgomery left tackle to GB 8 for 3 yards (J.Reed). SEA-C.Avril was injured during the play. His return is Questionable.,10,rush,3,T.Montgomery
+1083,2017091010,8,1300,08:12,2,0,"(8:12) T.Montgomery left end to GB 8 for no gain (K.Wright, J.Reed).",10,rush,0,T.Montgomery
+1084,2017091010,9,1379,07:12,2,0,"(7:12) M.Tobin reported in as eligible.  E.Lacy left tackle to SEA 32 for no gain (A.Brooks, J.Ryan).",10,rush,0,E.Lacy
+1085,2017091010,9,1424,06:30,2,0,(6:30) (Shotgun) R.Wilson pass short right to J.Graham to SEA 31 for -1 yards (Q.Rollins).,21,reception,-1,J.Graham
+1086,2017091010,10,1486,04:55,2,0,(4:55) (Shotgun) A.Rodgers pass short right to T.Montgomery to GB 28 for 5 yards (B.Wagner; E.Thomas).,21,reception,5,T.Montgomery
+1087,2017091010,10,1527,04:30,2,0,(4:30) (Shotgun) A.Rodgers pass short middle to M.Bennett to GB 40 for 12 yards (E.Thomas).,21,reception,12,M.Bennett
+1088,2017091010,10,1551,03:48,2,0,"(3:48) (No Huddle) T.Montgomery left end to GB 40 for no gain (B.Wagner, K.Wright).",10,rush,0,T.Montgomery
+1089,2017091010,10,1594,02:37,2,0,(2:37) (Shotgun) A.Rodgers pass deep right to D.Adams to SEA 46 for 21 yards (K.Chancellor).,21,reception,21,D.Adams
+1090,2017091010,10,1657,01:52,2,0,(1:52) (Shotgun) A.Rodgers pass short left to R.Cobb to SEA 43 for 3 yards (S.Griffin).,21,reception,3,R.Cobb
+1091,2017091010,10,1703,01:03,2,0,"(1:03) J.Vogel punts 32 yards to SEA 11, Center-B.Goode, fair catch by T.Lockett.",39,punt ret,0,T.Lockett
+1092,2017091010,11,1745,00:55,2,0,"(:55) C.Prosise left end to SEA 10 for -1 yards (B.Martinez, Q.Rollins).",10,rush,-1,C.Prosise
+1093,2017091010,11,1805,00:48,2,0,"(:48) C.Prosise up the middle to SEA 18 for 8 yards (C.Matthews, D.House).",10,rush,8,C.Prosise
+1094,2017091010,11,1843,00:43,2,0,(:43) C.Prosise right tackle to SEA 22 for 4 yards (M.Daniels).,10,rush,4,C.Prosise
+1095,2017091010,11,1881,00:29,2,0,(:29) (Shotgun) R.Wilson pass deep right to D.Baldwin ran ob at GB 44 for 34 yards (H.Clinton-Dix).,21,reception,34,D.Baldwin
+1096,2017091010,11,1905,00:20,2,0,"(:20) (No Huddle, Shotgun) R.Wilson scrambles up the middle ran ob at GB 15 for 29 yards (D.Randall).",10,rush,29,R.Wilson
+1097,2017091010,12,2048,15:00,3,0,(15:00) T.Montgomery left tackle to GB 29 for 4 yards (B.Wagner).,10,rush,4,T.Montgomery
+1098,2017091010,12,2069,14:27,3,0,(14:27) (No Huddle) A.Rodgers pass short left to J.Nelson to GB 38 for 9 yards (S.Griffin).,21,reception,9,J.Nelson
+1099,2017091010,12,2126,13:56,3,0,(13:56) T.Montgomery left tackle to GB 36 for 8 yards (E.Thomas).,10,rush,8,T.Montgomery
+1100,2017091010,12,2202,12:56,3,0,"(12:56) (Shotgun) A.Rodgers Aborted. C.Linsley FUMBLES at GB 35, recovered by GB-A.Rodgers at GB 35. A.Rodgers to GB 35 for no gain (M.Smith).",10,rush,0,A.Rodgers
+1101,2017091010,12,2228,12:10,3,0,"(12:10) J.Vogel punts 44 yards to SEA 21, Center-B.Goode, fair catch by T.Lockett.",39,punt ret,0,T.Lockett
+1102,2017091010,13,2266,11:27,3,0,(11:27) (Shotgun) C.Carson up the middle to SEA 13 for 2 yards (K.Clark).,10,rush,2,C.Carson
+1103,2017091010,13,2287,10:46,3,0,"(10:46) (Shotgun) R.Wilson sacked at SEA 3 for -10 yards (M.Daniels). FUMBLES (M.Daniels) [M.Daniels], RECOVERED by GB-K.Fackrell at SEA 6. K.Fackrell to SEA 6 for no gain (J.Britt).",59,fumble ret,0,K.Fackrell
+1104,2017091010,14,2316,10:39,3,1,"(10:39) (Shotgun) T.Montgomery left tackle for 6 yards, TOUCHDOWN.",11,rush,6,T.Montgomery
+1105,2017091010,15,2349,,3,0,M.Crosby kicks 64 yards from GB 35 to SEA 1. T.Lockett to SEA 26 for 25 yards (J.Jones).,45,kickoff ret,25,T.Lockett
+1106,2017091010,15,2371,10:29,3,0,"(10:29) C.Carson right end to SEA 29 for 3 yards (M.Daniels, N.Perry).",10,rush,3,C.Carson
+1107,2017091010,15,2415,09:26,3,0,(9:26) (Shotgun) R.Wilson scrambles up the middle to SEA 35 for 11 yards (K.Brice).,10,rush,11,R.Wilson
+1108,2017091010,15,2468,08:28,3,0,"(8:28) C.Carson up the middle to GB 30 for 30 yards (Q.Rollins, K.Brice).",10,rush,30,C.Carson
+1109,2017091010,15,2489,07:39,3,0,(7:39) (Shotgun) R.Wilson pass short left to P.Richardson pushed ob at GB 18 for 12 yards (D.Randall).,21,reception,12,P.Richardson
+1110,2017091010,15,2513,07:05,3,0,(7:05) E.Lacy right end to GB 21 for -3 yards (M.Daniels).,10,rush,-3,E.Lacy
+1111,2017091010,15,2534,06:22,3,0,"(6:22) (Shotgun) R.Wilson pass short left to N.Vannett to GB 11 for 10 yards (H.Clinton-Dix, Q.Rollins).",21,reception,10,N.Vannett
+1112,2017091010,15,2558,05:40,3,0,(5:40) (Shotgun) R.Wilson pass short right to T.Lockett to GB 3 for 8 yards (Q.Rollins) [K.Fackrell].,21,reception,8,T.Lockett
+1113,2017091010,15,2582,05:11,3,0,(5:11) (No Huddle) C.Carson left tackle to GB 3 for no gain (K.Brice).,10,rush,0,C.Carson
+1114,2017091010,16,2714,04:11,3,0,(4:11) (Shotgun) A.Rodgers pass short left to L.Kendricks to GB 24 for 9 yards (B.Wagner; E.Thomas).,21,reception,9,L.Kendricks
+1115,2017091010,16,2760,03:31,3,0,(3:31) (Shotgun) A.Rodgers scrambles left end ran ob at GB 37 for 13 yards (K.Chancellor).,10,rush,13,A.Rodgers
+1116,2017091010,16,2781,02:55,3,0,(2:55) (Shotgun) A.Rodgers pass short middle to M.Bennett to GB 42 for 5 yards (K.Chancellor).,21,reception,5,M.Bennett
+1117,2017091010,16,2812,02:20,3,0,"(2:20) T.Montgomery left tackle to GB 48 for 6 yards (S.Richardson, K.Chancellor). SEA-M.Bennett was injured during the play.",10,rush,6,T.Montgomery
+1118,2017091010,16,2837,01:48,3,0,(1:48) (Shotgun) A.Rodgers pass short middle to T.Montgomery to SEA 40 for 12 yards (K.Wright; T.Garvin). SEA-J.Reed was injured during the play. SEA-F.Clark was injured during the play.,21,reception,12,T.Montgomery
+1119,2017091010,16,2867,01:22,3,0,(1:22) A.Rodgers pass short right to R.Cobb to SEA 34 for 6 yards (E.Thomas).,21,reception,6,R.Cobb
+1120,2017091010,16,2891,00:47,3,0,(:47) (Shotgun) A.Rodgers pass short left to T.Montgomery pushed ob at SEA 32 for 2 yards (S.Griffin).,21,reception,2,T.Montgomery
+1121,2017091010,16,2915,00:22,3,1,"(:22) (No Huddle) A.Rodgers pass deep middle to J.Nelson for 32 yards, TOUCHDOWN. Penalty on SEA-T.Garvin, Defensive 12 On-field, declined.",22,reception,32,J.Nelson
+1122,2017091010,17,3001,,3,0,M.Crosby kicks 67 yards from GB 30 to SEA 3. T.Lockett to SEA 26 for 23 yards (K.Fackrell).,45,kickoff ret,23,T.Lockett
+1123,2017091010,17,3035,00:05,3,0,(:05) R.Wilson pass short middle to D.Baldwin to SEA 37 for 11 yards (H.Clinton-Dix).,21,reception,11,D.Baldwin
+1124,2017091010,17,3076,15:00,4,0,(15:00) R.Wilson pass short left to D.Baldwin pushed ob at SEA 44 for 7 yards (H.Clinton-Dix).,21,reception,7,D.Baldwin
+1125,2017091010,17,3100,14:36,4,0,(14:36) C.Carson left end to SEA 44 for no gain (Q.Rollins).,10,rush,0,C.Carson
+1126,2017091010,18,3162,13:38,4,0,(13:38) (Shotgun) A.Rodgers pass short left to R.Cobb to GB 30 for 5 yards (S.Griffin).,21,reception,5,R.Cobb
+1127,2017091010,18,3186,12:54,4,0,"(12:54) (Shotgun) T.Montgomery up the middle to GB 36 for 6 yards (N.Jones, D.Bass).",10,rush,6,T.Montgomery
+1128,2017091010,18,3207,12:10,4,0,(12:10) (Shotgun) A.Rodgers pass short left to T.Montgomery to SEA 44 for 20 yards (S.Griffin).,21,reception,20,T.Montgomery
+1129,2017091010,18,3242,11:22,4,0,(11:22) (Shotgun) A.Rodgers pass short middle to R.Cobb to SEA 36 for 8 yards (J.Coleman).,21,reception,8,R.Cobb
+1130,2017091010,18,3266,10:40,4,0,(10:40) T.Montgomery right tackle to SEA 33 for 3 yards (M.Bennett).,10,rush,3,T.Montgomery
+1131,2017091010,18,3309,09:49,4,0,(9:49) (Shotgun) J.Williams left tackle to SEA 27 for 6 yards (E.Thomas).,10,rush,6,J.Williams
+1132,2017091010,18,3330,09:05,4,0,(9:05) (Shotgun) A.Rodgers pass short middle to J.Nelson to SEA 22 for 5 yards (S.Griffin).,21,reception,5,J.Nelson
+1133,2017091010,19,3471,08:01,4,0,(8:01) (Shotgun) R.Wilson pass short middle to D.Baldwin to SEA 36 for 11 yards (M.Burnett).,21,reception,11,D.Baldwin
+1134,2017091010,19,3495,07:33,4,0,"(7:33) (No Huddle, Shotgun) R.Wilson pass deep left to P.Richardson to GB 36 for 28 yards (D.Randall).",21,reception,28,P.Richardson
+1135,2017091010,19,3519,07:03,4,0,(7:03) (No Huddle) R.Wilson pass short left to P.Richardson to GB 23 for 13 yards (D.Randall).,21,reception,13,P.Richardson
+1136,2017091010,20,3650,06:17,4,0,(6:17) T.Montgomery left end pushed ob at GB 27 for 2 yards (S.Richardson).,10,rush,2,T.Montgomery
+1137,2017091010,20,3739,04:59,4,0,(4:59) (Shotgun) A.Rodgers pass short left to R.Cobb pushed ob at GB 37 for 10 yards (J.Coleman).,21,reception,10,R.Cobb
+1138,2017091010,20,3768,04:53,4,0,(4:53) T.Montgomery right tackle to GB 40 for 3 yards (K.Wright).,10,rush,3,T.Montgomery
+1139,2017091010,20,3789,04:07,4,0,(4:07) A.Rodgers pass short left to J.Nelson to GB 49 for 9 yards (S.Griffin).,21,reception,9,J.Nelson
+1140,2017091010,20,3846,03:19,4,0,(3:19) T.Montgomery left tackle to SEA 46 for no gain (S.Richardson).,10,rush,0,T.Montgomery
+1141,2017091010,20,3884,03:15,4,0,"(3:15) (Shotgun) T.Montgomery left guard to SEA 45 for 1 yard (B.Wagner, E.Thomas).",10,rush,1,T.Montgomery
+1142,2017091010,20,3922,03:09,4,0,"(3:09) (Shotgun) A.Rodgers scrambles up the middle to SEA 39 for 6 yards (K.Wright). PENALTY on GB-M.Bennett, Unnecessary Roughness, 15 yards, enforced between downs.",10,rush,6,A.Rodgers
+1143,2017091010,20,4003,02:51,4,0,(2:51) T.Montgomery right guard to 50 for -1 yards (J.Reed).,10,rush,-1,T.Montgomery
+1144,2017091010,20,4042,02:45,4,0,"(2:45) A.Rodgers pass short right to M.Bennett to SEA 24 for 26 yards (B.Wagner, E.Thomas).",21,reception,26,M.Bennett
+1145,2017091010,20,4083,02:00,4,0,(2:00) A.Rodgers kneels to SEA 25 for -1 yards.,10,rush,-1,A.Rodgers
+1146,2017091010,20,4104,01:18,4,0,(1:18) A.Rodgers kneels to SEA 26 for -1 yards.,10,rush,-1,A.Rodgers
+1147,2017091010,20,4125,00:39,4,0,(:39) A.Rodgers kneels to SEA 27 for -1 yards.,10,rush,-1,A.Rodgers

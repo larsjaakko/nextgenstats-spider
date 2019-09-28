@@ -39,7 +39,7 @@ The `type` parameter is required, and can take the following values:
 * `receiving`
 * `fastest`
 
-The `fastest` type will fetch the [Fastest Ball Carriers](https://nextgenstats.nfl.com/stats/top-plays/fastest-ball-carriers) data. Do note: to be able to join the plays back to nflscrapR gameIDs, nextgenstats-spider needs to open all the popups with the game descriptions — this can be a slow process, and can also consume a lot of memory, as a separate browser instance needs to be launched for each URL.
+The `fastest` type will fetch the [Fastest Ball Carriers](https://nextgenstats.nfl.com/stats/top-plays/fastest-ball-carriers) data. Do note: to be able to join the plays back to nflscrapR gameIDs, nextgenstats-spider needs to open all the popups with the game descriptions, one by one — this can be a slow process (about 20mins for a full regular season), and can also consume a lot of memory, as a separate browser instance needs to be launched for each URL.
 
 **Week**<br>
 The 'week' parameter is optional and can take the following values:
