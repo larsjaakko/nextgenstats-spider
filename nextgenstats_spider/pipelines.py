@@ -242,7 +242,6 @@ class NextgenstatsSpiderPipeline(object):
     def clean_data(self, spider):
 
         self.df['shortName'] = self.df['PLAYER NAME'].apply(self.name_shortener)
-        self.df = self.df.replace('--', '')
 
         if spider.type == 'passing':
             self.df = self.df.rename(columns=COL_NAMES_PASS)
@@ -315,6 +314,8 @@ class NextgenstatsSpiderPipeline(object):
         except:
             pass
 
+        self.df = self.df.replace('--', '')
+
         return self.df.reset_index(drop=True)
 
     def name_shortener(self, name):
@@ -332,7 +333,7 @@ class NextgenstatsSpiderPipeline(object):
         # l[-1] gives last item of list l. We
         # use title to print first character in
         # capital.
-        short += names[-1].title()
+        short += names[-1]
 
         return short
 
@@ -352,8 +353,11 @@ class NextgenstatsSpiderPipeline(object):
 
         df['quarter'] = self.df['desc'].apply(lambda x: x[1])
 
-        df['time'] = self.df['desc'].apply(lambda x: re.findall('\((.*?)\)',x)[0])
+        df['time'] = self.df['desc'].apply(lambda x: re.findall('\((.*?)\)',x))
+        df['time'] = self.df['time'].apply(lambda x: '--' if x == [] else x[0])
+
         df['time'] = self.df['time'].apply(lambda x: '0' + x if len(x) == 4 else x)
+        df['time'] = self.df['time'].apply(lambda x: '00' + x if x[0] == ':' else x)
 
 
         df['desc'] = df['desc'].apply(lambda x: x.replace('BLT', 'BAL'))
@@ -362,10 +366,9 @@ class NextgenstatsSpiderPipeline(object):
         df['desc'] = df['desc'].apply(lambda x: x.replace('CLV', 'CLE'))
         df['desc'] = df['desc'].apply(lambda x: x.replace('ARZ', 'ARI'))
 
-        df.loc[df['playType'] == 'kickoff ret', ['time']] = ''
-
         #To help if folks want to join with nflscrapR descriptions:
         df['desc'] = df['desc'].apply(lambda x: x[3:])
+        df.loc[df['playType'] == 'kickoff ret', ['time']] = ''
 
         return df
 
@@ -453,6 +456,8 @@ class NextgenstatsSpiderPipeline(object):
                 22 : 'reception',
                 10 : 'rush',
                 11 : 'rush',
+                33 : 'punt ret',
+                34 : 'punt ret',
                 39 : 'punt ret',
                 40 : 'punt ret',
                 45 : 'kickoff ret',
@@ -482,7 +487,7 @@ class NextgenstatsSpiderPipeline(object):
                         row.append(j)
                         row.append(k)
 
-                        if plays[k]['note'] == 'KICKOFF':
+                        if plays[k]['note'] == 'KICKOFF' or 'kicks' in plays[k]['desc']:
                             row.append('')
                         else:
                             row.append(plays[k]['time'])
@@ -509,12 +514,11 @@ class NextgenstatsSpiderPipeline(object):
                                     rows.append(_row)
 
             schedules = pd.DataFrame(columns=columns, data=rows)
+            schedules = schedules[['gameId', 'drive', 'playId', 'time', 'quarter', 'touchdown', 'json_desc', 'statId', 'playType', 'yards']]
             schedules['yards'] = schedules['yards'].astype('int')
 
-            schedules.to_csv('debug.csv')
+            schedules.sort_values(['gameId', 'quarter', 'time'], ascending=True).to_csv('debug.csv')
 
-            self.df = self.df.astype(str).merge(schedules.astype(str), how='left', on=['gameId', 'quarter', 'time', 'yards', 'touchdown', 'shortName', 'playType'])
-
-            spider.logger.info('Columns: {}'.format(self.df.columns))
+            self.df = self.df.astype(str).merge(schedules.astype(str), how='left', on=['gameId', 'quarter', 'time', 'yards', 'touchdown', 'playType'])
 
         return self.df

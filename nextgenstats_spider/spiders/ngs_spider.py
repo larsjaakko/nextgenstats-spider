@@ -176,7 +176,7 @@ class NGSSpider(scrapy.Spider):
 
             self.logger.info('---- CLICKED BUTTON ON ROW {} ----'.format(counter))
             counter += 1
-            time.sleep(1)
+            time.sleep(0.5)
 
             sel = Selector(text=driver.page_source)
             description = sel.xpath('//div[@class="v-dialog v-dialog--active"]//div[@class="v-card__text"]/p//text()').extract_first()
@@ -190,7 +190,7 @@ class NGSSpider(scrapy.Spider):
 
             driver.find_element_by_xpath(CLOSE_SELECTOR).click()
             self.logger.info('---- CLOSED POPUP ----')
-            time.sleep(1)
+            time.sleep(0.5)
 
 
         driver.quit()
