@@ -60,10 +60,12 @@ Most of the available data is already stored in this repository as .csv files, a
 
 ## TODO
 * Simplifying code to use pandas built-in html table parsing (how did I not know about this??)
+* Fetching NFL's official short name data — currently names are shortened by a local function
 
 ## Known issues
-* Fetching the play descriptions for the fastest ball carriers will fail at times, seemingly because the page doesn't load correctly. I've added up to 5 retries per page to combat this, but with poor luck
-*
+* Fetching the play descriptions for the fastest ball carriers will fail at times, seemingly because the page doesn't load correctly. I've added up to 5 retries per page to combat this, but with poor luck you might still get an error.
+* NFLs play descriptions will vary between sources, so sometimes the join will fail. I've tried to clean up a range of known differences, but if you find play description that hasn't joined to a playId — please let me know!
+* The spider currently doesn't have a way to fetch playIds from 2016 — looking for a source for these (the python library nflgame is an option, but it does not have postseason data).
 
 ## Feedback
 For any comments, questions or suggestions, either submit an issue or feel free to contact me on [Twitter](https://twitter.com/larsjaakko).

@@ -106,7 +106,7 @@ COL_NAMES_RUSH =  {
     'PLAYER NAME' : 'playerName',
     'TEAM' : 'team',
     'EFF' : 'efficiency',
-    '8+D%' : '8+_defendersInTheBox',
+    '8+D%' : '8+DefendersInTheBox',
     'TLOS' : 'avgTimeBehindLineOfScrimmage',
     'ATT' : 'rushingAttempts',
     'YDS' : 'rushingYards',
@@ -119,7 +119,7 @@ COL_ORDER_RUSH =  [
     'playerName',
     'team',
     'efficiency',
-    '8+_defendersInTheBox',
+    '8+DefendersInTheBox',
     'avgTimeBehindLineOfScrimmage',
     'rushingAttempts',
     'rushingYards',
@@ -241,6 +241,7 @@ class NextgenstatsSpiderPipeline(object):
     def clean_data(self, spider):
 
         self.df['shortName'] = self.df['PLAYER NAME'].apply(self.name_shortener)
+        self.df = self.df.replace('--', '')
 
         if spider.type == 'fastest':
             self.df['Play Type'] = self.df['Play Type'].apply(self.space_remover)
@@ -345,6 +346,21 @@ class NextgenstatsSpiderPipeline(object):
         elif int(week) >= 18:
             return 'POST'
 
+    def clean_descriptions(self):
+
+        self.df['desc'] = apply(lambda x: x.replace('BLT', 'BAL'))
+        self.df['desc'] = apply(lambda x: x.replace('LAR', 'LA'))
+        self.df['desc'] = apply(lambda x: x.replace('HST', 'HOU'))
+        self.df['desc'] = apply(lambda x: x.replace('CLV', 'CLE'))
+        self.df['desc'] = apply(lambda x: x.replace('ARZ', 'ARI'))
+
+        self.df['desc'] = apply(lambda x: x.replace('pushed ob at', 'to'))
+        self.df['desc'] = apply(lambda x: x.replace('ran ob at', 'to'))
+
+        return self.df
+
+
+
     def pull_ids(self, spider):
 
         #Making sure week numbers are ints
@@ -368,6 +384,8 @@ class NextgenstatsSpiderPipeline(object):
                 schedules.rename(columns={'homeTeamAbbr': 'team'}),
                 schedules.rename(columns={'visitorTeamAbbr': 'team'})
                 ])
+
+            schedules = schedules.replace('SD', 'LAC')
 
             self.df = self.df.astype(str).merge(schedules.astype(str), how='left', on=['week', 'team'])
 
@@ -400,11 +418,14 @@ class NextgenstatsSpiderPipeline(object):
                     rows.append(row)
 
             schedules = pd.DataFrame(columns=columns, data=rows)
+            schedules = schedules.replace('SD', 'LAC')
 
             schedules = pd.concat([
                 schedules.rename(columns={'homeTeamAbbr': 'team'}),
                 schedules.rename(columns={'visitorTeamAbbr': 'team'})
                 ])
+
+
 
             self.df = self.df.astype(str).merge(schedules.astype(str), how='left', on=['week', 'team'])
 

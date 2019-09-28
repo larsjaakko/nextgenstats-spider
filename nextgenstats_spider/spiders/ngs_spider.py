@@ -128,7 +128,7 @@ class NGSSpider(scrapy.Spider):
         if self.week == 'all':
             return ['all'], 'overall'
         elif self.week == 'post':
-            return list(range(18,23)), 'post'
+            return [18, 19, 20, 22], 'post'
         elif self.week == 'reg' or self.week is None:
             return list(range(1,18)), 'reg'
         elif self.week.isdigit() and (int(self.week) >= 1 and int(self.week) <= 22):
@@ -178,11 +178,6 @@ class NGSSpider(scrapy.Spider):
 
             sel = Selector(text=driver.page_source)
             description = sel.xpath('//div[@class="v-dialog v-dialog--active"]//div[@class="v-card__text"]/p//text()').extract_first()
-            description = description.replace('BLT', 'BAL')
-            description = description.replace('LAR', 'LA')
-            description = description.replace('HST', 'HOU')
-            description = description.replace('CLV', 'CLE')
-            description = description.replace('ARZ', 'ARI')
 
             descriptions.append(description)
 
