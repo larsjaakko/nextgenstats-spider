@@ -1,0 +1,101 @@
+,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week,gameId,playId,desc
+0,K.Hunt,Kareem Hunt,KC,RB,20.84,58,rush,0,0,2017,REG,1,2017090700,4465,(4:15) (Shotgun) K.Hunt left end pushed ob at NE 21 for 58 yards (D.McCourty).
+1,T.Hill,Tyreek Hill,KC,WR,20.82,75,reception,1,0,2017,REG,1,2017090700,2756,"(9:28) (Shotgun) A.Smith pass deep right to T.Hill for 75 yards, TOUCHDOWN."
+2,J.Maclin,Jeremy Maclin,BAL,WR,20.6,48,reception,1,0,2017,REG,1,2017091002,1622,"(2:00) (Shotgun) J.Flacco pass short middle to J.Maclin for 48 yards, TOUCHDOWN."
+3,T.Benjamin,Travis Benjamin,LAC,WR,20.56,38,reception,1,0,2017,REG,1,2017091101,3164,"(7:07) (Shotgun) P.Rivers pass deep left to T.Benjamin for 38 yards, TOUCHDOWN."
+4,D.Cook,Dalvin Cook,MIN,RB,20.45,33,rush,0,0,2017,REG,1,2017091100,3939,(1:42) (Shotgun) D.Cook right end to NO 12 for 33 yards (A.Klein).
+5,D.Cook,Dalvin Cook,MIN,RB,19.98,32,rush,0,0,2017,REG,1,2017091100,2998,(15:00) (Shotgun) D.Cook right end to NO 16 for 32 yards (A.Klein).
+6,B.Cooks,Brandin Cooks,NE,WR,19.9,54,reception,0,0,2017,REG,1,2017090700,3409,"(2:50) (Shotgun) T.Brady pass deep left to B.Cooks to KC 18 for 54 yards (T.Mitchell). Penalty on KC-P.Gaines, Defensive Holding, declined."
+7,C.Latimer,Cody Latimer,DEN,WR,19.84,36,kickoff ret,0,0,2017,REG,1,2017091101,3070,Y.Koo kicks 78 yards from LAC 20 to DEN 2. C.Latimer to DEN 38 for 36 yards (J.Onwualu).
+8,L.Fitzgerald,Larry Fitzgerald,ARI,WR,19.74,33,reception,0,0,2017,REG,1,2017091004,1200,(11:53) (Shotgun) C.Palmer pass short middle to L.Fitzgerald pushed ob at DET 42 for 33 yards (Q.Diggs).
+9,L.Mccoy,LeSean McCoy,BUF,RB,19.66,23,rush,0,0,2017,REG,1,2017091000,,(15:00) (Shotgun) L.McCoy right end pushed ob at NYJ 34 for 23 yards (M.Maye).
+10,L.Joyner,Lamarcus Joyner,LA,CB,19.62,29,int,1,0,2017,REG,1,2017091009,2479,"(7:23) (Shotgun) S.Tolzien pass short left intended for T.Hilton INTERCEPTED by L.Joyner at IND 29. L.Joyner for 29 yards, TOUCHDOWN."
+11,T.Gipson,Tashaun Gipson,JAX,FS,19.6,67,int,0,0,2017,REG,1,2017091005,3811,(3:45) (Shotgun) D.Watson pass short middle intended for S.Anderson INTERCEPTED by T.Gipson at JAX 6. T.Gipson to HOU 27 for 67 yards (D.Watson).
+12,J.Matthews,Jordan Matthews,BUF,WR,19.55,47,reception,0,0,2017,REG,1,2017091000,2598,"(8:36) T.Taylor pass short middle to J.Matthews pushed ob at NYJ 17 for 47 yards (M.Maye). Caught at BUF 43, crossing from right."
+13,I.Mckenzie,Isaiah McKenzie,DEN,WR,19.47,31,punt ret,0,0,2017,REG,1,2017091101,1262,"(10:20) D.Kaser punts 59 yards to DEN 13, Center-M.Windt. I.McKenzie ran ob at DEN 44 for 31 yards."
+14,K.Golladay,Kenny Golladay,DET,WR,19.43,45,reception,1,0,2017,REG,1,2017091004,4028,"(4:22) M.Stafford pass deep middle to K.Golladay for 45 yards, TOUCHDOWN."
+15,A.Roberts,Andre Roberts,ATL,WR,19.39,11,kickoff ret,0,1,2017,REG,1,2017091001,36,"C.Barth kicks 60 yards from CHI 35 to ATL 5. A.Roberts pushed ob at CHI 32 for 63 yards (C.LeBlanc). PENALTY on ATL-K.Ishmael, Illegal Block Above the Waist, 8 yards, enforced at ATL 16."
+16,R.Grant,Ryan Grant,WAS,WR,19.37,34,reception,0,0,2017,REG,1,2017091008,338,(11:23) (Shotgun) K.Cousins pass short left to R.Grant pushed ob at PHI 41 for 34 yards (R.McLeod).
+17,C.Carson,Chris Carson,SEA,RB,19.27,30,rush,0,0,2017,REG,1,2017091010,2468,"(8:28) C.Carson up the middle to GB 30 for 30 yards (Q.Rollins, K.Brice)."
+18,J.Mckinnon,Jerick McKinnon,MIN,RB,19.27,31,kickoff ret,0,0,2017,REG,1,2017091100,1415,W.Lutz kicks 70 yards from NO 35 to MIN -5. J.McKinnon to MIN 26 for 31 yards (C.Robertson).
+19,T.Lewis,Tommylee Lewis,NO,WR,19.25,52,reception,0,0,2017,REG,1,2017091100,2695,"(3:50) D.Brees pass deep right to T.Lewis to MIN 8 for 52 yards (T.Waynes). Penalty on MIN-T.Waynes, Defensive Pass Interference, declined."
+20,T.Taylor,Taywan Taylor,TEN,WR,21.44,42,reception,0,0,2017,REG,2,2017091703,2774,(4:23) M.Mariota pass deep left to T.Taylor to JAX 7 for 42 yards (A.Bouye).
+21,T.Coleman,Tevin Coleman,ATL,RB,21.05,35,rush,0,0,2017,REG,2,2017091713,1331,(7:14) T.Coleman right tackle pushed ob at ATL 44 for 35 yards (H.Clinton-Dix).
+22,T.Gurley,Todd Gurley,LA,RB,20.93,28,reception,0,0,2017,REG,2,2017091711,1622,(6:23) (Shotgun) J.Goff pass short middle to T.Gurley ran ob at WAS 29 for 28 yards (M.Nicholson).
+23,A.Green,A.J. Green,CIN,WR,20.5,50,reception,0,0,2017,REG,2,2017091400,947,(1:19) A.Dalton pass deep middle to A.Green to HOU 14 for 50 yards (J.Joseph).
+24,K.Hunt,Kareem Hunt,KC,RB,20.17,53,rush,1,1,2017,REG,2,2017091704,2617,"(1:30) (Shotgun) K.Hunt up the middle for 53 yards, TOUCHDOWN. PENALTY on KC-T.Kelce, Taunting, 15 yards, enforced between downs."
+25,M.Bryant,Martavis Bryant,PIT,WR,20.15,27,reception,1,0,2017,REG,2,2017091706,637,"(3:10) (Shotgun) B.Roethlisberger pass short right to M.Bryant for 27 yards, TOUCHDOWN."
+26,J.Richard,Jalen Richard,OAK,RB,20.07,52,rush,1,0,2017,REG,2,2017091709,2844,"(12:59) (Shotgun) J.Richard right end for 52 yards, TOUCHDOWN."
+27,T.Gurley,Todd Gurley,LA,RB,19.98,18,rush,0,0,2017,REG,2,2017091711,2510,(9:28) T.Gurley left end ran ob at WAS 18 for 18 yards (Z.Brown).
+28,C.Hyde,Carlos Hyde,SF,RB,19.96,61,rush,0,0,2017,REG,2,2017091712,,(3:54) C.Hyde left tackle pushed ob at SEA 22 for 61 yards (J.Lane).
+29,V.Bolden,Victor Bolden,SF,WR,19.92,34,kickoff ret,0,0,2017,REG,2,2017091712,951,B.Walsh kicks 67 yards from SEA 35 to SF -2. V.Bolden pushed ob at SF 32 for 34 yards (K.Chancellor).
+30,J.Nelson,J.J. Nelson,ARI,WR,19.9,45,reception,1,0,2017,REG,2,2017091702,3336,"(7:47) (Run formation) C.Palmer pass deep middle to J.Nelson for 45 yards, TOUCHDOWN."
+31,M.Mariota,Marcus Mariota,TEN,QB,19.9,7,rush,0,0,2017,REG,2,2017091703,1731,(1:09) (Shotgun) M.Mariota scrambles right end ran ob at JAX 43 for 7 yards (M.Jack).
+32,M.Bryant,Martavis Bryant,PIT,WR,19.8,51,reception,0,0,2017,REG,2,2017091706,2712,"(7:01) (No Huddle, Shotgun) B.Roethlisberger pass deep left to M.Bryant to MIN 11 for 51 yards (T.Waynes). Penalty on MIN-T.Johnson, Defensive Offside, declined."
+33,K.Stills,Kenny Stills,MIA,WR,19.8,29,reception,1,0,2017,REG,2,2017091708,2174,"(12:15) (Shotgun) J.Cutler pass deep right to K.Stills for 29 yards, TOUCHDOWN."
+34,M.Bryant,Martavis Bryant,PIT,WR,19.74,7,rush,0,0,2017,REG,2,2017091706,,(6:07) Reverse. First handoff went to 26-Bell. (Shotgun) M.Bryant left end ran ob at MIN 31 for 7 yards (A.Sendejo).
+35,S.Shepard,Sterling Shepard,NYG,WR,19.68,12,rush,0,0,2017,REG,2,2017091800,593,(4:00) S.Shepard right end to NYG 37 for 12 yards (G.Quin). End Around.
+36,J.Agnew,Jamal Agnew,DET,CB,19.66,88,punt ret,1,0,2017,REG,2,2017091800,2722,"(13:17) B.Wing punts 60 yards to DET 12, Center-Z.DeOssie. J.Agnew for 88 yards, TOUCHDOWN."
+37,A.Brown,Antonio Brown,PIT,WR,19.62,26,reception,0,0,2017,REG,2,2017091706,3822,"(6:49) (No Huddle, Shotgun) B.Roethlisberger pass short left to A.Brown pushed ob at MIN 45 for 26 yards (A.Sendejo)."
+38,R.Mcclain,Robert McClain,TB,CB,19.62,47,int,1,0,2017,REG,2,2017091707,1471,"(4:21) (Shotgun) M.Glennon pass short left intended for J.Bellamy INTERCEPTED by R.McClain [G.McCoy] at CHI 47. R.McClain for 47 yards, TOUCHDOWN. The Replay Official reviewed the runner was in bounds ruling, and the play was Upheld. The ruling on the field was confirmed."
+39,P.Dorsett,Phillip Dorsett,NE,WR,19.58,7,rush,0,0,2017,REG,2,2017091705,820,(4:09) (Shotgun) P.Dorsett left end ran ob at NE 40 for 7 yards (S.Moore).
+40,W.Jackson,William Jackson,CIN,CB,21.52,75,int,1,0,2017,REG,3,2017092411,1173,"(10:20) (Shotgun) A.Rodgers pass short left intended for J.Nelson INTERCEPTED by W.Jackson at CIN 25. W.Jackson for 75 yards, TOUCHDOWN."
+41,T.Hill,Tyreek Hill,KC,WR,21.17,30,reception,1,0,2017,REG,3,2017092412,204,"(12:09) (Shotgun) A.Smith pass deep right to T.Hill for 30 yards, TOUCHDOWN."
+42,C.Samuel,Curtis Samuel,CAR,WR,20.99,31,rush,0,0,2017,REG,3,2017092402,831,"(13:42) (No Huddle, Shotgun) C.Samuel left end to NO 32 for 31 yards (K.Vaccaro)."
+43,C.Grant,Corey Grant,JAX,RB,20.99,58,rush,0,1,2017,REG,3,2017092400,3266,"(:23) (Punt formation) Direct snap to C.Grant.  C.Grant right end pushed ob at BAL 7 for 58 yards (C.Clark). PENALTY on BAL-A.Collins, Unnecessary Roughness, 4 yards, enforced at BAL 7."
+44,R.Anderson,Robby Anderson,NYJ,WR,20.88,69,reception,1,0,2017,REG,3,2017092408,1802,"(1:51) (Shotgun) J.McCown pass deep right to R.Anderson for 69 yards, TOUCHDOWN."
+45,K.Hunt,Kareem Hunt,KC,RB,20.82,69,rush,1,0,2017,REG,3,2017092412,3767,"(2:00) K.Hunt right guard for 69 yards, TOUCHDOWN."
+46,M.Cooper,Marcus Cooper,CHI,CB,20.76,73,misc,0,1,2017,REG,3,2017092403,,"(:06) (Field Goal formation) C.Boswell 35 yard field goal is BLOCKED (S.McManis), Center-K.Canaday, Holder-J.Berry, RECOVERED by CHI-M.Cooper at CHI 26. M.Cooper to PIT 1 for 73 yards (V.McDonald). FUMBLES (V.McDonald), ball out of bounds in End Zone, Touchback. The Replay Official reviewed the penalty enforcement ruling, and the play was REVERSED. (Field Goal formation) C.Boswell 35 yard field goal is BLOCKED (S.McManis), Center-K.Canaday, Holder-J.Berry, RECOVERED by CHI-M.Cooper at CHI 26. M.Cooper to PIT 1 for 73 yards (V.McDonald). FUMBLES (V.McDonald), ball out of bounds in End Zone, Touchback. PENALTY on PIT-J.Berry, Illegal Bat, 0 yards, enforced at PIT 1."
+47,S.Diggs,Stefon Diggs,MIN,WR,20.66,47,reception,0,0,2017,REG,3,2017092406,,(2:45) C.Keenum pass deep middle to S.Diggs to TB 30 for 47 yards (R.Smith) [C.McDonald].
+48,T.Gurley,Todd Gurley,LA,RB,20.62,29,rush,0,0,2017,REG,3,2017092100,3581,(12:50) T.Gurley left end pushed ob at SF 46 for 29 yards (J.Ward).
+49,T.Gabriel,Taylor Gabriel,ATL,WR,20.58,40,reception,1,0,2017,REG,3,2017092404,2977,"(15:00) M.Ryan pass short left to T.Gabriel for 40 yards, TOUCHDOWN."
+50,M.Goodwin,Marquise Goodwin,SF,WR,20.54,50,reception,0,0,2017,REG,3,2017092100,3382,(:17) B.Hoyer pass deep middle to M.Goodwin to LA 25 for 50 yards (N.Robey). Caught at LA 25.  0-yds YAC
+51,D.Slay,Darius Slay,DET,CB,20.54,37,int,0,0,2017,REG,3,2017092404,3374,(8:14) (Shotgun) M.Ryan pass short left intended for M.Sanu INTERCEPTED by D.Slay at DET 8. D.Slay pushed ob at DET 45 for 37 yards (T.Gabriel).
+52,S.Shepard,Sterling Shepard,NYG,WR,20.52,77,reception,1,0,2017,REG,3,2017092409,3636,"(7:24) (No Huddle, Shotgun) E.Manning pass short middle to S.Shepard for 77 yards, TOUCHDOWN."
+53,B.Cooks,Brandin Cooks,NE,WR,20.48,42,reception,1,0,2017,REG,3,2017092407,2363,"(12:55) T.Brady pass deep middle to B.Cooks for 42 yards, TOUCHDOWN. NE 12-Brady 27th career game with 4+ TD passes, 3rd most all-time."
+54,A.Jackson,Adoree' Jackson,TEN,CB,20.39,22,punt ret,0,1,2017,REG,3,2017092410,1906,"(3:48) (Punt formation) J.Ryan punts 64 yards to TEN 20, Center-T.Ott. A.Jackson for 80 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on TEN-D.Fluellen, Illegal Block Above the Waist, 10 yards, enforced at TEN 42."
+55,C.Thompson,Chris Thompson,WAS,RB,20.23,74,reception,0,0,2017,REG,3,2017092413,2619,(2:36) (Shotgun) K.Cousins pass short left to C.Thompson pushed ob at OAK 10 for 74 yards (D.Amerson).
+56,C.Hogan,Chris Hogan,NE,WR,20.15,47,reception,1,0,2017,REG,3,2017092407,1812,"(4:07) (Shotgun) T.Brady pass deep middle to C.Hogan for 47 yards, TOUCHDOWN. The Replay Official reviewed the runner broke the plane ruling, and the play was Upheld. The ruling on the field stands."
+57,S.Watkins,Sammy Watkins,LA,WR,19.96,47,reception,0,0,2017,REG,3,2017092100,2401,"(13:14) J.Goff pass deep left to S.Watkins pushed ob at SF 14 for 47 yards (J.Ward, D.Johnson) [T.Carradine]. Caught at SF 15.  1-yd YAC"
+58,T.Cohen,Tarik Cohen,CHI,RB,19.82,36,rush,0,0,2017,REG,3,2017092403,,(9:14) T.Cohen right guard ran ob at PIT 37 for 36 yards.
+59,B.Powell,Bilal Powell,NYJ,RB,19.8,4,rush,0,1,2017,REG,3,2017092408,1770,"(2:00) (Shotgun) B.Powell up the middle to NYJ 41 for 4 yards (X.Howard). PENALTY on NYJ-W.Johnson, Offensive Holding, 10 yards, enforced at NYJ 41."
+60,E.Mcguire,Elijah McGuire,NYJ,RB,21.17,69,rush,1,0,2017,REG,4,2017100108,2263,"(10:13) E.McGuire left guard for 69 yards, TOUCHDOWN."
+61,T.Coleman,Tevin Coleman,ATL,RB,20.99,29,rush,0,0,2017,REG,4,2017100101,1001,(13:43) T.Coleman right end to BUF 16 for 29 yards (M.Hyde).
+62,T.Coleman,Tevin Coleman,ATL,RB,20.76,39,reception,0,0,2017,REG,4,2017100101,1606,"(3:20) (Shotgun) M.Ryan pass deep left to T.Coleman pushed ob at BUF 39 for 39 yards (L.Alexander). Buffalo challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1 at 03:12.)"
+63,T.Williams,Tyrell Williams,LAC,WR,20.74,75,reception,1,0,2017,REG,4,2017100110,1363,"(6:42) P.Rivers pass deep middle to Ty.Williams for 75 yards, TOUCHDOWN."
+64,A.Jackson,Adoree' Jackson,TEN,CB,20.09,48,kickoff ret,0,0,2017,REG,4,2017100105,3030,K.Fairbairn kicks 71 yards from HOU 35 to TEN -6. A.Jackson pushed ob at TEN 42 for 48 yards (K.Fairbairn).
+65,F.Whittaker,Fozzy Whittaker,CAR,RB,20.05,28,reception,1,0,2017,REG,4,2017100107,1234,"(9:49) (Shotgun) C.Newton pass short left to F.Whittaker for 28 yards, TOUCHDOWN."
+66,A.Morris,Alfred Morris,DAL,RB,19.92,70,rush,0,0,2017,REG,4,2017100104,1121,"(12:39) A.Morris up the middle to LA 5 for 70 yards (K.Webster). Los Angeles Rams challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #2.)"
+67,G.Bernard,Giovani Bernard,CIN,RB,19.9,61,reception,1,0,2017,REG,4,2017100103,1680,"(1:21) A.Dalton pass short right to G.Bernard for 61 yards, TOUCHDOWN. CLE-E.Ogbah was injured during the play. His return is Questionable."
+68,J.Holton,Johnny Holton,OAK,WR,19.88,64,reception,1,0,2017,REG,4,2017100112,1540,"(3:46) (Shotgun) D.Carr pass deep right to J.Holton for 64 yards, TOUCHDOWN."
+69,B.Powell,Bilal Powell,NYJ,RB,19.82,75,rush,1,0,2017,REG,4,2017100108,397,"(8:02) L.Thomas reported in as eligible.  B.Powell right tackle for 75 yards, TOUCHDOWN. The Replay Official reviewed the runner was not down by contact ruling, and the play was Upheld. The ruling on the field stands."
+70,M.Mariota,Marcus Mariota,TEN,QB,19.78,34,rush,1,0,2017,REG,4,2017100105,1076,"(11:51) (Shotgun) M.Mariota left end for 34 yards, TOUCHDOWN."
+71,A.Erickson,Alex Erickson,CIN,WR,19.68,8,punt ret,0,1,2017,REG,4,2017100103,1595,"(1:55) (Punt formation) B.Colquitt punts 51 yards to CIN 24, Center-C.Hughlett. A.Erickson to CLE 32 for 44 yards (J.Burgess). PENALTY on CIN-G.Bernard, Illegal Blindside Block, 15 yards, enforced at CIN 32. Penalty on CIN-W.Jackson, Illegal Block Above the Waist, declined."
+72,M.Breida,Matt Breida,SF,RB,19.55,8,rush,0,0,2017,REG,4,2017100109,2537,(12:54) M.Breida left end pushed ob at ARI 11 for 8 yards (D.Bucannon).
+73,W.Fuller,Will Fuller,HOU,WR,19.43,4,rush,0,0,2017,REG,4,2017100105,1166,(10:48) W.Fuller V left end pushed ob at HOU 40 for 4 yards (A.Jackson).
+74,O.Beckham,Odell Beckham,NYG,WR,19.43,42,reception,0,0,2017,REG,4,2017100111,3705,(7:38) (Shotgun) E.Manning pass deep middle to O.Beckham to TB 33 for 42 yards (V.Hargreaves III).
+75,A.Roberts,Andre Roberts,ATL,WR,19.41,61,kickoff ret,0,0,2017,REG,4,2017100101,3481,S.Hauschka kicks 68 yards from BUF 35 to ATL -3. A.Roberts pushed ob at BUF 42 for 61 yards (S.Wright).
+76,J.Nelson,Jordy Nelson,GB,WR,19.39,58,reception,0,0,2017,REG,4,2017092800,1564,(5:28) A.Rodgers pass deep middle to J.Nelson pushed ob at CHI 2 for 58 yards (A.Amos).
+77,R.Anderson,Robby Anderson,NYJ,WR,19.37,41,reception,0,0,2017,REG,4,2017100108,3101,(11:21) (Shotgun) J.McCown pass deep left to R.Anderson to JAX 14 for 41 yards (A.Bouye).
+78,P.Cooper,Pharoh Cooper,LA,WR,19.29,66,kickoff ret,0,0,2017,REG,4,2017100104,921,D.Bailey kicks 66 yards from DAL 35 to LA -1. P.Cooper to DAL 35 for 66 yards (D.Wilson).
+79,T.Gurley,Todd Gurley,LA,RB,19.27,53,reception,1,0,2017,REG,4,2017100104,,"(3:09) (Shotgun) J.Goff pass deep middle to T.Gurley for 53 yards, TOUCHDOWN. Pass complete on a ""skinny post."""
+80,L.Fournette,Leonard Fournette,JAX,RB,22.05,90,rush,1,0,2017,REG,5,2017100807,4020,"(2:00) J.Wells reported in as eligible.  L.Fournette left tackle for 90 yards, TOUCHDOWN."
+81,C.Thompson,Chris Thompson,HOU,WR,21.19,19,reception,0,0,2017,REG,5,2017100811,461,(6:17) (Shotgun) D.Watson pass short middle to C.Thompson ran ob at KC 47 for 19 yards (M.Peters).
+82,N.Agholor,Nelson Agholor,PHI,WR,20.82,72,reception,1,0,2017,REG,5,2017100806,2533,"(6:29) (Shotgun) C.Wentz pass deep left to N.Agholor for 72 yards, TOUCHDOWN."
+83,D.Jackson,DeSean Jackson,TB,WR,20.5,41,reception,0,0,2017,REG,5,2017100500,3607,(9:53) (Shotgun) J.Winston pass short middle to D.Jackson to NE 48 for 41 yards (D.McCourty).
+84,M.Wallace,Mike Wallace,BAL,WR,20.39,54,reception,0,0,2017,REG,5,2017100809,1234,(7:32) J.Flacco pass deep left to M.Wallace to OAK 8 for 54 yards (S.Smith).
+85,M.Wallace,Mike Wallace,BAL,WR,20.35,52,reception,0,0,2017,REG,5,2017100809,51,(15:00) J.Flacco pass deep left to M.Wallace to OAK 23 for 52 yards (R.Nelson).
+86,A.Green,A.J. Green,CIN,WR,20.09,77,reception,1,0,2017,REG,5,2017100800,273,"(11:39) (Shotgun) A.Dalton pass deep right to A.Green for 77 yards, TOUCHDOWN."
+87,T.Smith,Torrey Smith,PHI,WR,20,59,reception,1,0,2017,REG,5,2017100806,856,"(:54) (Shotgun) C.Wentz pass deep middle to T.Smith for 59 yards, TOUCHDOWN."
+88,T.Benjamin,Travis Benjamin,LAC,WR,19.92,14,rush,0,0,2017,REG,5,2017100805,2527,(12:58) (Shotgun) T.Benjamin right end pushed ob at NYG 17 for 14 yards (D.Thompson). End around.
+89,T.Hill,Tyreek Hill,KC,WR,19.84,82,punt ret,1,0,2017,REG,5,2017100811,3430,"(7:41) S.Lechler punts 52 yards to KC 18, Center-J.Weeks. T.Hill for 82 yards, TOUCHDOWN."
+90,J.Johnson,John Johnson,LA,SS,19.7,69,int,0,0,2017,REG,5,2017100808,1235,(10:39) (No Huddle) R.Wilson pass short right intended for L.Willson INTERCEPTED by J.Johnson at LA 12. J.Johnson to SEA 19 for 69 yards (R.Wilson).
+91,M.Goodwin,Marquise Goodwin,SF,WR,19.68,51,reception,0,0,2017,REG,5,2017100803,3441,"(9:22) (No Huddle) B.Hoyer pass deep middle to M.Goodwin to IND 8 for 51 yards (M.Farley). Penalty on IND-G.Stewart, Illegal Use of Hands, declined."
+92,W.Fuller,Will Fuller,HOU,WR,19.66,48,reception,1,0,2017,REG,5,2017100811,3095,"(12:09) D.Watson pass deep right to W.Fuller V for 48 yards, TOUCHDOWN."
+93,T.Smith,Telvin Smith,JAX,OLB,19.62,28,int,1,0,2017,REG,5,2017100807,2606,"(6:44) (Shotgun) B.Roethlisberger pass short left intended for A.Brown INTERCEPTED by T.Smith (A.Jones) at PIT 28. T.Smith for 28 yards, TOUCHDOWN."
+94,M.Trubisky,Mitchell Trubisky,CHI,QB,19.62,13,rush,0,1,2017,REG,5,2017100900,3192,"(1:02) (Shotgun) M.Trubisky scrambles right end pushed ob at MIN 49 for 13 yards (A.Sendejo). PENALTY on MIN-T.Waynes, Defensive Holding, 5 yards, enforced at MIN 49."
+95,A.Hunt,Akeem Hunt,KC,RB,19.53,34,kickoff ret,0,0,2017,REG,5,2017100811,3132,K.Fairbairn kicks 69 yards from HOU 35 to KC -4. A.Hunt pushed ob at KC 30 for 34 yards (E.Pleasant).
+96,J.Mckinnon,Jerick McKinnon,MIN,RB,19.53,58,rush,1,0,2017,REG,5,2017100900,2980,"(3:42) J.McKinnon right end for 58 yards, TOUCHDOWN."
+97,B.Cooks,Brandin Cooks,NE,WR,19.43,34,reception,0,0,2017,REG,5,2017100500,2500,(12:52) T.Brady pass deep right to B.Cooks pushed ob at TB 43 for 34 yards (J.Evans).
+98,W.Fuller,Will Fuller,HOU,WR,19.29,49,punt ret,0,0,2017,REG,5,2017100811,3796,"(3:41) D.Colquitt punts 53 yards to HOU 14, Center-J.Winchester. W.Fuller V to KC 37 for 49 yards (D.Colquitt)."
+99,J.Smith-Schuster,JuJu Smith-Schuster,PIT,WR,19.27,9,kickoff ret,0,0,2017,REG,5,2017100807,1026,J.Myers kicks 56 yards from JAX 35 to PIT 9. J.Smith-Schuster pushed ob at PIT 18 for 9 yards (B.Church).

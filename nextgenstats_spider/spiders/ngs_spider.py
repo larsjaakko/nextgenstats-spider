@@ -11,12 +11,22 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.firefox.options import Options
 
+try:
+    from tenacity import *
+except ImportError:
+    pass
+
 class NGSSpider(scrapy.Spider):
     name = "ngs_spider"
 
-    def __init__(self, week='reg', year='', type='', **kwargs):
+    def __init__(self, week='reg', year='', type='', ids=False, **kwargs):
         super().__init__(**kwargs)
         self.week = week
+
+        if ids.lower() == 'true':
+            self.ids = True
+        else:
+            self.ids = False
 
         if year == '':
             raise Exception('You have to specify the year.')
@@ -98,50 +108,9 @@ class NGSSpider(scrapy.Spider):
                 'url' : response.meta['page']
             }
 
-        if self.type == 'fastest':
+        if self.type == 'fastest' and self.ids == True:
 
-            options = Options()
-            options.headless = True
-
-            driver = webdriver.Firefox(options=options)
-            driver.get(response.url)
-            WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.CLASS_NAME, "el-table__row")))
-
-            driver.find_element_by_xpath('//a[@aria-label="dismiss cookie message"]').click()
-            time.sleep(1)
-
-            BUTTON_SELECTOR ='(.//tbody)[1]//button[@class="v-btn v-btn--flat theme--light"]'
-            CLOSE_SELECTOR ='//div[@class="v-dialog v-dialog--active"]//button[@class="green--text darken-1 v-btn v-btn--flat theme--light"]'
-
-            buttons = driver.find_elements_by_xpath(BUTTON_SELECTOR)
-
-            descriptions = []
-
-            WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="stats-top-plays-view"]/div[3]/div/div[3]/table/tbody/tr[1]/td[6]/div/button')))
-            for button in buttons:
-
-                WebDriverWait(driver, 20).until(EC.invisibility_of_element_located((By.CLASS_NAME, 'cc-window cc-banner cc-type-info cc-theme-block cc-bottom cc-color-override-382972913 ')))
-                WebDriverWait(driver, 20).until(EC.invisibility_of_element_located((By.CLASS_NAME, 'cc-window cc-banner cc-type-info cc-theme-block cc-bottom cc-color-override-382972913  cc-invisible')))
-                button.click()
-
-                self.logger.info('---- CLICKED BUTTON ----')
-                time.sleep(1)
-
-                sel = Selector(text=driver.page_source)
-                description = sel.xpath('//div[@class="v-dialog v-dialog--active"]//div[@class="v-card__text"]/p//text()').extract_first()
-                description = description.replace('BLT', 'BAL')
-                description = description.replace('LAR', 'LA')
-                description = description.replace('HST', 'HOU')
-                description = description.replace('CLV', 'CLE')
-                description = description.replace('ARZ', 'ARI')
-
-                descriptions.append(description)
-
-                self.logger.info('Added description: {}'.format(description))
-
-                driver.find_element_by_xpath(CLOSE_SELECTOR).click()
-                self.logger.info('---- CLOSED POPUP ----')
-                time.sleep(1)
+            descriptions = self.fetch_descriptions(response)
 
             yield{
                 'type' : 'descriptions',
@@ -151,7 +120,6 @@ class NGSSpider(scrapy.Spider):
             }
 
             self.logger.info('Parsing: {}'.format(descriptions))
-            driver.quit()
 
 
 
@@ -176,3 +144,58 @@ class NGSSpider(scrapy.Spider):
             return self.week.split(','), self.week.replace(',', '_')
         else:
             raise Exception('Week parameter was incorrectly given.')
+
+
+    @retry(stop=stop_after_attempt(5), wait=wait_fixed(2))
+    def fetch_descriptions(self, response):
+
+        options = Options()
+        options.headless = True
+
+        driver = webdriver.Firefox(options=options)
+        driver.get(response.url)
+        WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.CLASS_NAME, "el-table__row")))
+
+        driver.find_element_by_xpath('//a[@aria-label="dismiss cookie message"]').click()
+        time.sleep(3)
+
+        BUTTON_SELECTOR ='(.//tbody)[1]//button[@class="v-btn v-btn--flat theme--light"]'
+        CLOSE_SELECTOR ='//div[@class="v-dialog v-dialog--active"]//button[@class="green--text darken-1 v-btn v-btn--flat theme--light"]'
+
+        buttons = driver.find_elements_by_xpath(BUTTON_SELECTOR)
+
+        descriptions = []
+
+        WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="stats-top-plays-view"]/div[3]/div/div[3]/table/tbody/tr[1]/td[6]/div/button')))
+        for button in buttons:
+
+            WebDriverWait(driver, 20).until(EC.invisibility_of_element_located((By.CLASS_NAME, 'cc-window cc-banner cc-type-info cc-theme-block cc-bottom cc-color-override-382972913 ')))
+            WebDriverWait(driver, 20).until(EC.invisibility_of_element_located((By.CLASS_NAME, 'cc-window cc-banner cc-type-info cc-theme-block cc-bottom cc-color-override-382972913  cc-invisible')))
+            button.click()
+
+            self.logger.info('---- CLICKED BUTTON ----')
+            time.sleep(1)
+
+            sel = Selector(text=driver.page_source)
+            description = sel.xpath('//div[@class="v-dialog v-dialog--active"]//div[@class="v-card__text"]/p//text()').extract_first()
+            description = description.replace('BLT', 'BAL')
+            description = description.replace('LAR', 'LA')
+            description = description.replace('HST', 'HOU')
+            description = description.replace('CLV', 'CLE')
+            description = description.replace('ARZ', 'ARI')
+
+            descriptions.append(description)
+
+            self.logger.info('Added description: {}'.format(description))
+
+            WebDriverWait(driver, 20).until(EC.invisibility_of_element_located((By.CLASS_NAME, 'cc-window cc-banner cc-type-info cc-theme-block cc-bottom cc-color-override-382972913 ')))
+            WebDriverWait(driver, 20).until(EC.invisibility_of_element_located((By.CLASS_NAME, 'cc-window cc-banner cc-type-info cc-theme-block cc-bottom cc-color-override-382972913  cc-invisible')))
+
+            driver.find_element_by_xpath(CLOSE_SELECTOR).click()
+            self.logger.info('---- CLOSED POPUP ----')
+            time.sleep(1)
+
+
+        driver.quit()
+
+        return descriptions

@@ -8,7 +8,13 @@
 import pandas as pd
 from collections import defaultdict
 import logging
-import requests
+
+try:
+    import requests
+except ImportError:
+    pass
+
+
 
 COL_NAMES_PASS = {
 
@@ -53,8 +59,7 @@ COL_ORDER_PASS = [
     'passerRating',
     'season',
     'seasonType',
-    'week',
-    'gameId',
+    'week'
 ]
 
 COL_NAMES_REC = {
@@ -94,8 +99,7 @@ COL_ORDER_REC = [
     'avgYACAboveExpectation',
     'season',
     'seasonType',
-    'week',
-    'gameId',
+    'week'
     ]
 
 COL_NAMES_RUSH =  {
@@ -123,8 +127,7 @@ COL_ORDER_RUSH =  [
     'rushingTouchdowns',
     'season',
     'seasonType',
-    'week',
-    'gameId',
+    'week'
 ]
 
 COL_NAMES_FASTEST = {
@@ -149,10 +152,7 @@ COL_ORDER_FASTEST =  [
     'penalty',
     'season',
     'seasonType',
-    'week',
-    'gameId',
-    'playId',
-    'desc'
+    'week'
 ]
 
 class NextgenstatsSpiderPipeline(object):
@@ -269,9 +269,16 @@ class NextgenstatsSpiderPipeline(object):
                 spider.logger.info('Failed to prune a play description.')
 
         self.df['season'] = spider.year
+        self.df.loc[self.df['team'] == 'LAR', ['team']] = 'LA'
 
         #Pulling NFL game IDs
-        self.df = self.pull_ids(spider)
+        if spider.ids == True:
+            self.df = self.pull_ids(spider)
+
+            COL_ORDER_PASS.append('gameId')
+            COL_ORDER_REC.append('gameId')
+            COL_ORDER_RUSH.append('gameId')
+            COL_ORDER_FASTEST.extend(['gameId', 'playId', 'desc'])
 
         if spider.week != 'all':
 
@@ -339,9 +346,6 @@ class NextgenstatsSpiderPipeline(object):
             return 'POST'
 
     def pull_ids(self, spider):
-
-        #Changing LAR to LA for joining purposes
-        self.df.loc[self.df['team'] == 'LAR', ['team']] = 'LA'
 
         #Making sure week numbers are ints
         self.df['week'] = self.df['week'].astype('int32')
@@ -442,7 +446,7 @@ class NextgenstatsSpiderPipeline(object):
 
 
             schedules = pd.DataFrame(columns=columns, data=rows)
-            #schedules.to_csv('debug.csv')
+            schedules.to_csv('debug.csv')
 
             self.df = self.df.astype(str).merge(schedules.astype(str), how='left', on=['gameId', 'desc'])
 
