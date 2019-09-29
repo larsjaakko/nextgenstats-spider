@@ -1,7 +1,7 @@
 #!/bin/bash
 
-years='2018 2017 2016'
-types='passing rushing receiving'
+years='2016'
+types='fastest'
 weeks='all post reg'
 
 for year in $years

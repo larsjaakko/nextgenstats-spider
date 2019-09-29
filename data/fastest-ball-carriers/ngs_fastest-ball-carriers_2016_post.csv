@@ -1,0 +1,82 @@
+,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week,gameId,playId,quarter,time,desc
+0,P.Richardson,Paul Richardson,SEA,WR,20.25,27,reception,0,0,2016,POST,18,2017010701,3318,4,04:44,"(4:44) (Shotgun) R.Wilson pass deep left to P.Richardson to DET 40 for 27 yards (N.Lawson) [D.Taylor]. Penalty on DET-N.Lawson, Defensive Pass Interference, declined."
+1,A.Brown,Antonio Brown,PIT,WR,20.21,50,reception,1,0,2016,POST,18,2017010800,149,1,12:25,"(12:25) (Shotgun) B.Roethlisberger pass short left to A.Brown for 50 yards, TOUCHDOWN."
+2,A.Cooper,Amari Cooper,OAK,WR,19.98,0,rush,0,0,2016,POST,18,2017010700,2993,3,03:18,(3:18) A.Cooper right end pushed ob at OAK 11 for no gain (J.Joseph). HOU-K.Jackson was injured during the play. His return is Probable.
+3,A.Brown,Antonio Brown,PIT,WR,19.92,62,reception,1,0,2016,POST,18,2017010800,472,1,07:02,"(7:02) (No Huddle, Shotgun) B.Roethlisberger pass short middle to A.Brown for 62 yards, TOUCHDOWN."
+4,L.Miller,Lamar Miller,HOU,RB,19.7,19,rush,0,0,2016,POST,18,2017010700,1209,2,12:17,(12:17) L.Miller right tackle ran ob at HOU 48 for 19 yards (R.Nelson).
+5,T.King,Tavarres King,NYG,WR,19.68,41,reception,1,0,2016,POST,18,2017010801,2598,3,05:23,"(5:23) (No Huddle, Shotgun) E.Manning pass deep middle to T.King for 41 yards, TOUCHDOWN."
+6,D.Hopkins,DeAndre Hopkins,HOU,WR,19.62,38,reception,0,0,2016,POST,18,2017010700,1923,2,02:00,(2:00) (Shotgun) B.Osweiler pass deep right to D.Hopkins ran ob at OAK 3 for 38 yards.
+7,D.Randall,Damarious Randall,GB,CB,19.58,78,int,0,0,2016,POST,18,2017010801,4043,4,00:34,"(:34) (No Huddle, Shotgun) E.Manning pass deep right intended for S.Shepard INTERCEPTED by D.Randall at GB -7. D.Randall to NYG 29 for 78 yards (T.King)."
+8,D.Baldwin,Doug Baldwin,SEA,WR,19.33,42,reception,0,0,2016,POST,18,2017010701,2929,4,11:09,(11:09) R.Wilson pass deep left to D.Baldwin ran ob at DET 23 for 42 yards [H.Ngata].
+9,D.Adams,Davante Adams,GB,WR,19.25,23,reception,0,0,2016,POST,18,2017010801,2879,3,01:50,(1:50) A.Rodgers pass deep left to D.Adams pushed ob at NYG 14 for 23 yards (E.Apple).
+10,D.Adams,Davante Adams,GB,WR,19.21,31,reception,0,0,2016,POST,18,2017010801,1633,2,03:45,(3:45) (Shotgun) A.Rodgers pass deep right to D.Adams ran ob at NYG 7 for 31 yards (E.Apple).
+11,L.Miller,Lamar Miller,HOU,RB,19.1,4,rush,1,0,2016,POST,18,2017010700,531,1,06:20,"(6:20) L.Miller left end for 4 yards, TOUCHDOWN."
+12,J.Richard,Jalen Richard,OAK,RB,18.82,37,punt ret,0,0,2016,POST,18,2017010700,768,1,03:10,"(3:10) S.Lechler punts 51 yards to OAK 25, Center-J.Weeks. J.Richard pushed ob at HOU 38 for 37 yards (S.Lechler). (The punt hang time was 4.32 seconds.)"
+13,O.Beckham,Odell Beckham,NYG,WR,18.31,24,kickoff ret,0,0,2016,POST,18,2017010801,3416,4,,M.Crosby kicks 56 yards from GB 35 to NYG 9. O.Beckham ran ob at NYG 33 for 24 yards (J.Tripp).
+14,O.Beckham,Odell Beckham,NYG,WR,18.31,24,kickoff ret,0,0,2016,POST,18,2017010801,3748,4,,M.Crosby kicks 56 yards from GB 35 to NYG 9. O.Beckham ran ob at NYG 33 for 24 yards (J.Tripp).
+15,K.Stills,Kenny Stills,MIA,WR,18.18,36,reception,0,0,2016,POST,18,2017010800,572,1,05:20,(5:20) (Shotgun) M.Moore pass deep right to K.Stills to PIT 26 for 36 yards (W.Gay) [R.Shazier].
+16,P.Richardson,Paul Richardson,SEA,WR,18.02,2,reception,1,0,2016,POST,18,2017010701,1200,2,07:14,"(7:14) R.Wilson pass short right to P.Richardson for 2 yards, TOUCHDOWN. Penalty on DET-T.Wilson, Defensive Pass Interference, declined."
+17,F.Toussaint,Fitzgerald Toussaint,PIT,RB,17.94,12,kickoff ret,0,0,2016,POST,18,2017010800,686,1,,A.Franks kicks 60 yards from MIA 35 to PIT 5. F.Toussaint to PIT 17 for 12 yards (S.Paysinger).
+18,T.King,Tavarres King,NYG,WR,17.82,18,reception,0,0,2016,POST,18,2017010801,3884,4,02:00,(2:00) (Shotgun) E.Manning pass short left to T.King to GB 37 for 18 yards (M.Hyde).
+19,M.Jones,Marvin Jones,DET,WR,17.8,30,reception,0,0,2016,POST,18,2017010701,1669,2,01:28,"(1:28) (Shotgun) M.Stafford pass deep left to M.Jones ran ob at SEA 34 for 30 yards. The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed."
+20,K.Drake,Kenyan Drake,MIA,RB,17.8,58,kickoff ret,0,0,2016,POST,18,2017010800,2647,3,,C.Boswell kicks 71 yards from PIT 35 to MIA -6. K.Drake to PIT 48 for 58 yards (A.Shabazz).
+21,R.Allen,Ricardo Allen,ATL,FS,20.7,45,int,0,0,2016,POST,19,2017011400,3215,4,08:31,(8:31) (Shotgun) R.Wilson pass deep left intended for A.Collins INTERCEPTED by R.Allen [K.Neal] at ATL 9. R.Allen pushed ob at SEA 46 for 45 yards (G.Fant).
+22,D.Hester,Devin Hester,SEA,WR,20.62,0,punt ret,0,1,2016,POST,19,2017011400,1065,2,10:34,"(10:34) M.Bosher punts 60 yards to SEA 13, Center-J.Harris. D.Hester ran ob at ATL 7 for 80 yards (C.Goodwin). PENALTY on SEA-K.Pierre-Louis, Offensive Holding, 6 yards, enforced at SEA 13."
+23,P.Richardson,Paul Richardson,SEA,WR,20.52,33,reception,0,0,2016,POST,19,2017011400,813,2,13:22,"(13:22) (Shotgun) R.Wilson pass deep left to P.Richardson for 52 yards, TOUCHDOWN. The Replay Official reviewed the runner was not down by contact ruling, and the play was REVERSED. (Shotgun) R.Wilson pass deep left to P.Richardson to ATL 19 for 33 yards (J.Collins). Penalty on ATL-B.Poole, Defensive Holding, declined."
+24,D.Freeman,Devonta Freeman,ATL,RB,19.96,53,reception,0,0,2016,POST,19,2017011400,2577,3,02:17,(2:17) (Shotgun) M.Ryan pass short middle to D.Freeman to SEA 16 for 53 yards (K.Chancellor; D.Elliott).
+25,T.Coleman,Tevin Coleman,ATL,RB,19.82,6,rush,0,0,2016,POST,19,2017011400,2551,3,02:56,(2:56) T.Coleman right end ran ob at ATL 31 for 6 yards (J.Lane).
+26,D.Hester,Devin Hester,SEA,WR,19.51,78,kickoff ret,0,0,2016,POST,19,2017011400,3435,4,,M.Bosher kicks 74 yards from ATL 35 to SEA -9. D.Hester to ATL 31 for 78 yards (R.Alford).
+27,P.Richardson,Paul Richardson,SEA,WR,19.49,40,reception,0,0,2016,POST,19,2017011400,2325,3,06:06,(6:06) (Shotgun) R.Wilson pass deep right to P.Richardson to ATL 28 for 40 yards (B.Poole).
+28,D.Lewis,Dion Lewis,NE,RB,19.49,98,kickoff ret,1,0,2016,POST,19,2017011401,826,1,,"N.Novak kicks 63 yards from HOU 35 to NE 2. D.Lewis for 98 yards, TOUCHDOWN. 1st postseason kickoff return TD in franchise history."
+29,C.Hogan,Chris Hogan,NE,WR,19.33,45,reception,0,0,2016,POST,19,2017011401,1559,2,07:37,(7:37) (Shotgun) T.Brady pass deep middle to C.Hogan to HOU 37 for 45 yards (C.Moore).
+30,D.Baldwin,Doug Baldwin,SEA,WR,19,18,reception,0,0,2016,POST,19,2017011400,223,1,10:24,(10:24) (Shotgun) R.Wilson pass deep left to D.Baldwin to ATL 26 for 18 yards (R.Alford).
+31,D.Hester,Devin Hester,SEA,WR,18.92,26,kickoff ret,0,1,2016,POST,19,2017011400,36,1,,"M.Bosher kicks 70 yards from ATL 35 to SEA -5. D.Hester ran ob at SEA 26 for 31 yards (R.Alford). PENALTY on SEA-D.McDonald, Offensive Holding, 10 yards, enforced at SEA 21."
+32,A.Brown,Antonio Brown,PIT,WR,18.92,52,reception,0,0,2016,POST,19,2017011500,559,1,05:28,(5:28) (Shotgun) B.Roethlisberger pass deep left to A.Brown to KC 23 for 52 yards (J.Houston).
+33,A.Brown,Antonio Brown,PIT,WR,18.9,7,reception,0,0,2016,POST,19,2017011500,3592,4,02:00,(2:00) (Shotgun) B.Roethlisberger pass short right to A.Brown ran ob at PIT 19 for 7 yards.
+34,E.Elliott,Ezekiel Elliott,DAL,RB,18.65,9,rush,0,0,2016,POST,19,2017011501,2524,3,07:54,(7:54) E.Elliott right end pushed ob at GB 19 for 9 yards (L.Gunter).
+35,T.Coleman,Tevin Coleman,ATL,RB,18.63,7,rush,0,0,2016,POST,19,2017011400,1999,3,10:33,"(10:33) (Shotgun) T.Coleman left end to SEA 7 for 7 yards (D.Elliott). 51-A.Mack fumbled the snap. Recovered by 2-M.Ryan, who handed off to 26-T.Coleman. Penalty on SEA-T.McDaniel, Defensive Offside, declined."
+36,A.Smith,Alex Smith,KC,QB,18.47,5,rush,0,0,2016,POST,19,2017011500,2603,3,02:52,(2:52) (Shotgun) A.Smith scrambles right end ran ob at PIT 41 for 5 yards (B.Dupree).
+37,D.Bryant,Dez Bryant,DAL,WR,18.35,40,reception,1,0,2016,POST,19,2017011501,1591,2,06:10,"(6:10) (Shotgun) D.Prescott pass deep left to D.Bryant for 40 yards, TOUCHDOWN [J.Thomas]. Pass complete on a ""go"" pattern."
+38,T.Hill,Tyreek Hill,KC,WR,18.12,7,rush,0,0,2016,POST,19,2017011500,364,1,09:01,(9:01) (No Huddle) T.Hill right end to PIT 41 for 7 yards (R.Shazier).
+39,D.Baldwin,Doug Baldwin,SEA,WR,18.1,31,reception,1,0,2016,POST,19,2017011400,3457,4,03:29,"(3:29) (Shotgun) R.Wilson pass deep left to D.Baldwin for 31 yards, TOUCHDOWN. Penalty on ATL-R.Alford, Defensive Holding, declined."
+40,E.Elliott,Ezekiel Elliott,DAL,RB,18.02,9,rush,0,0,2016,POST,19,2017011501,539,1,08:14,(8:14) E.Elliott right end pushed ob at DAL 44 for 9 yards (M.Burnett; D.Randall).
+41,T.Coleman,Tevin Coleman,ATL,RB,20.09,3,rush,1,0,2016,POST,20,2017012200,3365,4,12:11,"(12:11) T.Coleman left end for 3 yards, TOUCHDOWN."
+42,J.Jones,Julio Jones,ATL,WR,20.05,73,reception,1,0,2016,POST,20,2017012200,2172,3,14:03,"(14:03) (Shotgun) M.Ryan pass short middle to J.Jones for 73 yards, TOUCHDOWN. Penalty on GB-L.Gunter, Defensive Holding, declined."
+43,T.Coleman,Tevin Coleman,ATL,RB,19.08,10,reception,0,0,2016,POST,20,2017012200,778,1,01:44,(1:44) (Shotgun) M.Ryan pass short left to T.Coleman ran ob at GB 12 for 10 yards (H.Clinton-Dix).
+44,C.Hamilton,Cobi Hamilton,PIT,WR,18.92,30,reception,1,0,2016,POST,20,2017012201,4018,4,03:42,"(3:42) (Shotgun) B.Roethlisberger pass deep right to C.Hamilton for 30 yards, TOUCHDOWN."
+45,A.Brown,Antonio Brown,PIT,WR,18.78,11,reception,0,0,2016,POST,20,2017012201,1045,2,14:30,"(14:30) (No Huddle, Shotgun) B.Roethlisberger pass short middle to A.Brown pushed ob at NE 26 for 11 yards (L.Ryan)."
+46,J.Gilbert,Justin Gilbert,PIT,DB,18.29,17,kickoff ret,0,0,2016,POST,20,2017012201,203,1,,S.Gostkowski kicks 60 yards from NE 35 to PIT 5. J.Gilbert pushed ob at PIT 22 for 17 yards (J.Jones).
+47,C.Hogan,Chris Hogan,NE,WR,18,34,reception,1,0,2016,POST,20,2017012201,1419,2,07:54,"(7:54) Flea flicker-handoff to 33-Lewis then pitch back to Brady. T.Brady pass deep right to C.Hogan for 34 yards, TOUCHDOWN. NE 12-Brady 19th career postseason game with 2 pass TD, extends his NFL record (Favre, 15). NE 15-Hogan 1st career postseason 100-yard game."
+48,B.Hundley,Brett Hundley,GB,QB,17.84,14,rush,0,0,2016,POST,20,2017012200,4123,4,01:28,(1:28) (Shotgun) B.Hundley right end to GB 24 for 14 yards (P.Worrilow).
+49,R.Cobb,Randall Cobb,GB,WR,17.78,34,reception,0,0,2016,POST,20,2017012200,3500,4,10:37,(10:37) (Shotgun) A.Rodgers pass deep middle to R.Cobb to ATL 29 for 34 yards (D.Olatoye).
+50,R.Cobb,Randall Cobb,GB,WR,17.61,17,reception,0,0,2016,POST,20,2017012200,977,2,15:00,"(15:00) A.Rodgers pass short left to R.Cobb to GB 44 for 17 yards (D.Jones, R.Allen)."
+51,E.Rowe,Eric Rowe,NE,CB,17.53,37,int,0,0,2016,POST,20,2017012201,3543,4,10:26,(10:26) (Shotgun) B.Roethlisberger pass deep right intended for D.Heyward-Bey INTERCEPTED by E.Rowe at NE 31. E.Rowe pushed ob at PIT 32 for 37 yards (M.Pouncey).
+52,C.Hogan,Chris Hogan,NE,WR,17.51,22,reception,0,0,2016,POST,20,2017012201,1394,2,08:25,(8:25) (Shotgun) T.Brady pass short left to C.Hogan pushed ob at PIT 34 for 22 yards (S.Davis).
+53,C.Hogan,Chris Hogan,NE,WR,17.39,39,reception,0,0,2016,POST,20,2017012201,2830,3,04:01,"(4:01) T.Brady pass deep middle to C.Hogan to PIT 19 for 39 yards (M.Mitchell). NE 12-Brady 11th career 300-yard postseason game, extends NFL record (Peyton Manning 9). NE 15-Hogan 180 receiving yards, new franchise postseason record (153, Branch 1/14/06 at Denver)."
+54,J.Jones,Julio Jones,ATL,WR,17.14,23,reception,0,0,2016,POST,20,2017012200,2654,3,08:23,(8:23) M.Ryan pass deep middle to J.Jones to GB 42 for 23 yards (L.Gunter) [M.Daniels]. GB-J.Ryan was injured during the play. His return is Questionable.
+55,J.Nelson,Jordy Nelson,GB,WR,16.9,27,reception,0,0,2016,POST,20,2017012200,442,1,07:44,(7:44) (Shotgun) A.Rodgers pass deep left to J.Nelson pushed ob at ATL 44 for 27 yards (R.Allen).
+56,P.DiMarco,Patrick DiMarco,ATL,FB,16.81,31,reception,0,0,2016,POST,20,2017012200,289,1,10:29,"(10:29) M.Ryan pass short right to P.DiMarco pushed ob at GB 5 for 31 yards (J.Ryan, M.Burnett)."
+57,S.Coates,Sammie Coates,PIT,WR,16.67,31,kickoff ret,0,0,2016,POST,20,2017012201,2107,3,,S.Gostkowski kicks 65 yards from NE 35 to PIT 0. S.Coates pushed ob at PIT 31 for 31 yards (P.Chung).
+58,A.Rodgers,Aaron Rodgers,GB,QB,16.57,4,rush,0,1,2016,POST,20,2017012200,3713,4,07:25,"(7:25) (Shotgun) A.Rodgers scrambles right end ran ob at ATL 3 for 4 yards (R.Alford). ATL-R.Hageman was injured during the play.  PENALTY on GB-A.Rodgers, Face Mask (15 Yards), 15 yards, enforced at ATL 3."
+59,J.Edelman,Julian Edelman,NE,WR,16.49,18,reception,0,0,2016,POST,20,2017012201,2975,3,02:36,(2:36) (Shotgun) T.Brady pass short left to J.Edelman pushed ob at PIT 10 for 18 yards (A.Burns).
+60,J.Jones,Julio Jones,ATL,WR,16.4,19,reception,0,0,2016,POST,20,2017012200,1268,2,08:10,(8:10) (Shotgun) M.Ryan pass short left to J.Jones to GB 14 for 19 yards (J.Thomas).
+61,R.Alford,Robert Alford,ATL,CB,21.64,82,int,1,0,2016,POST,22,2017020500,1587,2,02:36,"(2:36) (Shotgun) T.Brady pass short left intended for D.Amendola INTERCEPTED by R.Alford at ATL 18. R.Alford for 82 yards, TOUCHDOWN."
+62,T.Coleman,Tevin Coleman,ATL,RB,19.43,5,rush,0,0,2016,POST,22,2017020500,561,1,03:04,(3:04) (Shotgun) T.Coleman left end pushed ob at ATL 38 for 5 yards (L.Ryan).
+63,T.Gabriel,Taylor Gabriel,ATL,WR,18.37,35,reception,0,0,2016,POST,22,2017020500,2328,3,11:36,(11:36) M.Ryan pass deep middle to T.Gabriel to NE 28 for 35 yards (D.Harmon).
+64,D.Freeman,Devonta Freeman,ATL,RB,18.1,5,rush,1,0,2016,POST,22,2017020500,888,2,12:20,"(12:20) (Shotgun) D.Freeman left end for 5 yards, TOUCHDOWN."
+65,T.Coleman,Tevin Coleman,ATL,RB,17.96,0,rush,0,0,2016,POST,22,2017020500,2352,3,11:06,(11:06) T.Coleman left end pushed ob at NE 28 for no gain (P.Chung).
+66,D.Freeman,Devonta Freeman,ATL,RB,17.73,37,rush,0,0,2016,POST,22,2017020500,161,1,13:37,(13:37) D.Freeman left end to ATL 45 for 37 yards (M.Butler; D.McCourty).
+67,P.Chung,Patrick Chung,NE,SS,17.55,-1,punt ret,0,0,2016,POST,22,2017020500,3031,4,15:00,"(15:00) M.Bosher punts 42 yards to NE 14, Center-J.Harris. P.Chung to NE 13 for -1 yards (J.Hardy)."
+68,D.Amendola,Danny Amendola,NE,WR,17.43,20,reception,0,0,2016,POST,22,2017020500,3925,4,02:03,(2:03) (Shotgun) T.Brady pass deep right to D.Amendola to ATL 21 for 20 yards (B.Poole).
+69,T.Coleman,Tevin Coleman,ATL,RB,17.43,6,reception,1,0,2016,POST,22,2017020500,2472,3,08:36,"(8:36) (Shotgun) M.Ryan pass short right to T.Coleman for 6 yards, TOUCHDOWN."
+70,T.Coleman,Tevin Coleman,ATL,RB,17.06,8,rush,0,0,2016,POST,22,2017020500,3344,4,09:40,(9:40) T.Coleman right end to ATL 35 for 8 yards (P.Chung).
+71,J.Jones,Julio Jones,ATL,WR,17.02,23,reception,0,0,2016,POST,22,2017020500,805,2,13:29,(13:29) M.Ryan pass deep left to J.Jones ran ob at NE 29 for 23 yards.
+72,J.White,James White,NE,RB,16.81,5,reception,0,1,2016,POST,22,2017020500,1874,2,00:18,"(:18) (Shotgun) T.Brady pass short left to J.White pushed ob at ATL 3 for 12 yards (K.Neal). PENALTY on NE-M.Bennett, Offensive Holding, 10 yards, enforced at ATL 10."
+73,J.White,James White,NE,RB,16.77,28,reception,0,0,2016,POST,22,2017020500,1741,2,01:37,(1:37) (Shotgun) T.Brady pass short right to J.White to ATL 29 for 28 yards (R.Allen).
+74,D.Lewis,Dion Lewis,NE,RB,16.75,13,rush,0,0,2016,POST,22,2017020500,4243,4,00:03,(:03) D.Lewis left end ran ob at NE 48 for 13 yards. NE-D.Lewis was injured during the play. His return is Questionable.
+75,M.Bennett,Martellus Bennett,NE,TE,16.71,25,reception,0,0,2016,POST,22,2017020500,3217,4,12:20,(12:20) (Shotgun) T.Brady pass deep right to M.Bennett to ATL 7 for 25 yards (K.Neal).
+76,J.Jones,Julio Jones,ATL,WR,16.34,18,reception,0,0,2016,POST,22,2017020500,1057,2,10:11,(10:11) M.Ryan pass deep left to J.Jones pushed ob at NE 20 for 18 yards (E.Rowe) [S.McClellin].
+77,T.Coleman,Tevin Coleman,ATL,RB,16.34,9,rush,0,0,2016,POST,22,2017020500,495,1,05:08,(5:08) (Shotgun) T.Coleman right end to ATL 21 for 9 yards (D.McCourty).
+78,D.Lewis,Dion Lewis,NE,RB,16.28,8,rush,0,0,2016,POST,22,2017020500,2571,3,07:13,(7:13) (Shotgun) D.Lewis up the middle pushed ob at NE 47 for 8 yards (J.Collins).
+79,J.Edelman,Julian Edelman,NE,WR,16.26,2,rush,0,0,2016,POST,22,2017020500,271,1,10:28,(10:28) J.Edelman right end pushed ob at NE 12 for 2 yards (K.Neal; D.Jones).
+80,D.Freeman,Devonta Freeman,ATL,RB,16.22,3,rush,0,0,2016,POST,22,2017020500,182,1,12:55,"(12:55) D.Freeman left end to ATL 48 for 3 yards (T.Flowers, M.Brown)."

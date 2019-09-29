@@ -12,8 +12,8 @@ Nextgenstats-spider is built using Python 3.7 and requires the following Python 
 * [pandas](https://github.com/pandas-dev/pandas)
 
 If you want to include game and play IDs (for easier joining with nflscrapR data), you will also need to install the following packages:
-* [requests](https://github.com/psf/requests). Used to pull json data from NFL to join game IDs.
-* [tenacity](https://github.com/jd/tenacity). Used for retry logic, as pulling play descriptions is pretty flaky.
+* [requests](https://github.com/psf/requests). Used to pull json data from NFL.
+* [tenacity](https://github.com/jd/tenacity). Used for retry logic, as pulling play descriptions is pretty flaky and can fail.
 
 To install the respective libraries, please follow instructions provided by their maintainers.
 
@@ -22,9 +22,9 @@ To use Selenium with Scrapy, you also need to install a [supported browser](http
 ## Usage notes
 To run nextgenstats-spider, open a terminal and navigate to the nextgenstat-spider folder.
 
-To get all passing data in week 8 of the 2018 regular season:
+To get all passing data in week 8 of the 2018 regular season, with game IDs:
 <br>
-```scrapy crawl ngs_spider -a type=passing -a year=2018 -a week=8```
+```scrapy crawl ngs_spider -a type=passing -a year=2018 -a week=8 -a ids=true```
 
 ## Parameters
 Nextgenstats-spider supports a few parameters, to allow for scraping of specific tables. Note that all parameters must be passed with the `-a` option preceding, lest an error be raised.
@@ -39,7 +39,7 @@ The `type` parameter is required, and can take the following values:
 * `receiving`
 * `fastest`
 
-The `fastest` type will fetch the [Fastest Ball Carriers](https://nextgenstats.nfl.com/stats/top-plays/fastest-ball-carriers) data. Do note: to be able to join the plays back to nflscrapR gameIDs, nextgenstats-spider needs to open all the popups with the game descriptions, one by one — this can be a slow process (about 20mins for a full regular season), and can also consume a lot of memory, as a separate browser instance needs to be launched for each URL.
+The `fastest` type will fetch the [Fastest Ball Carriers](https://nextgenstats.nfl.com/stats/top-plays/fastest-ball-carriers) data.
 
 **Week**<br>
 The 'week' parameter is optional and can take the following values:
@@ -51,7 +51,7 @@ The 'week' parameter is optional and can take the following values:
 * A range of weeks expressed by the first and last weeks, separated by a colon, e.g. `5:10`. Do not include any spaces.
 
 **IDs**<br>
-To fetch NFL game IDs or play IDs (for the fastest ball carriers), you need to set this parameter to 'true'. By default it will be set to 'false'.
+To fetch NFL game IDs or play IDs (for the fastest ball carriers), you need to set this parameter to `true`. By default it will be set to `false`. Please note: getting play IDs for the `fastest` option can take a long time, as the scraper will need to fetch the play descriptions by clicking a button and dismissing a pop-up for each row of data. For a full 17 week season, this can take around 15-20 minutes to complete.
 
 ## Data
 Once executed, Nextgenstats-spider will fetch your data and store it in an aptly named .csv file in the `data` folder.
@@ -60,12 +60,11 @@ Most of the available data is already stored in this repository as .csv files, a
 
 ## TODO
 * Simplifying code to use pandas built-in html table parsing (how did I not know about this??)
-* Fetching NFL's official short name data — currently names are shortened by a local function
+* Fetching NFL's official short name data — currently names are shortened by a local function which can miss in cases where NFL adds prefixes to separate between identical names, for instance
 
 ## Known issues
 * Fetching the play descriptions for the fastest ball carriers will fail at times, seemingly because the page doesn't load correctly. I've added up to 5 retries per page to combat this, but with poor luck you might still get an error.
-* NFLs play descriptions will vary between sources, so sometimes the join will fail. I've tried to clean up a range of known differences, but if you find play description that hasn't joined to a playId — please let me know!
-* The spider currently doesn't have a way to fetch playIds from 2016 — looking for a source for these (the python library nflgame is an option, but it does not have postseason data).
+* NFLs play-by-play descriptions will vary slightly between sources, so sometimes the join will fail. I've tried to clean up a range of known differences, but if you find play description that hasn't joined to a playId — please let me know!
 
 ## Feedback
 For any comments, questions or suggestions, either submit an issue or feel free to contact me on [Twitter](https://twitter.com/larsjaakko).

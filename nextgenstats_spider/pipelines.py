@@ -226,12 +226,8 @@ class NextgenstatsSpiderPipeline(object):
         else:
 
             if item['type'] == 'columns':
-                if spider.week != 'all':
-                    self.df = pd.DataFrame(columns = item['cells'])
-                    self.datadict[item['url']] = self.datadict[item['url']].reindex(columns=item['cells'])
-                else:
-                    self.df = pd.DataFrame(columns = item['cells'])
-                    self.datadict[item['url']] = self.datadict[item['url']].reindex(columns=item['cells'])
+                self.df = pd.DataFrame(columns = item['cells'])
+                self.datadict[item['url']] = self.datadict[item['url']].reindex(columns=item['cells'])
             elif item['type'] == 'rows':
                 self.datadict[item['url']].loc[len(self.datadict[item['url']])] = item['cells']
             elif item['type'] == 'descriptions':
@@ -354,7 +350,7 @@ class NextgenstatsSpiderPipeline(object):
 
     def parse_descriptions(self, df):
 
-        df['quarter'] = self.df['desc'].apply(lambda x: x[1])
+        df['quarter'] = self.df['desc'].apply(lambda x: '' if x is None else x[1])
 
         df['time'] = self.df['desc'].apply(lambda x: re.findall('\((.*?)\)',x))
         df['time'] = self.df['time'].apply(lambda x: '--' if x == [] else x[0])
@@ -379,14 +375,18 @@ class NextgenstatsSpiderPipeline(object):
 
     def pull_ids(self, spider):
 
-        if spider.week == 'all':
+        if spider.week == 'all' and spider.type != 'fastest':
             return self.df
 
         spider.logger.info('Fetching game IDs and play-by-play data from NFL.')
 
         #Making sure week numbers are ints
         self.df['week'] = self.df['week'].astype('int32')
-        spider.week_list = [int(i) for i in spider.week_list]
+
+        if spider.week == 'all':
+            spider.week_list = list(range(1,18))
+        else:
+            spider.week_list = [int(i) for i in spider.week_list]
 
         if min(spider.week_list) <= 17:
             #make call to shcedule feed
@@ -401,7 +401,7 @@ class NextgenstatsSpiderPipeline(object):
             schedules = pd.concat([
                 schedules.rename(columns={'homeTeamAbbr': 'team'}),
                 schedules.rename(columns={'visitorTeamAbbr': 'team'})
-                ], sort=False)
+                ], sort=True)
 
             schedules = schedules.replace('SD', 'LAC')
 
@@ -441,7 +441,7 @@ class NextgenstatsSpiderPipeline(object):
             schedules = pd.concat([
                 schedules.rename(columns={'homeTeamAbbr': 'team'}),
                 schedules.rename(columns={'visitorTeamAbbr': 'team'})
-                ], sort=False)
+                ], sort=True)
 
 
 
@@ -526,6 +526,6 @@ class NextgenstatsSpiderPipeline(object):
 
             schedules.sort_values(['gameId', 'quarter', 'time'], ascending=True).to_csv('debug.csv')
 
-            self.df = self.df.astype(str).merge(schedules.astype(str), how='left', on=['gameId', 'quarter', 'time', 'yards', 'touchdown', 'playType'])
+            self.df = self.df.astype(str).merge(schedules.astype(str), how='left', on=['gameId', 'quarter', 'time', 'yards', 'touchdown', 'playType'], sort=False)
 
         return self.df

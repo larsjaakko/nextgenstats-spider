@@ -3,6 +3,7 @@ from scrapy import Selector
 from scrapy_selenium import SeleniumRequest
 
 import time
+import pandas as pd
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -75,11 +76,14 @@ class NGSSpider(scrapy.Spider):
         # First, we get the column headers
         # For some reason the entire table seems to be repeated,
         # so we'll only grab the first instance.
+
         HEAD_CAT_SELECTOR = '(.//thead)[1]//div[@class="cell"]//text()'
         HEAD_NUM_SELECTOR = '(.//thead)[1]//div[@class="cell tooltip-column"]/span/span[1]/text()'
 
         head_cat = response.xpath(HEAD_CAT_SELECTOR).getall()
         head_num = response.xpath(HEAD_NUM_SELECTOR).getall()
+
+
 
         columns = head_cat + head_num
 
@@ -98,6 +102,10 @@ class NGSSpider(scrapy.Spider):
 
             CELL_SELECTOR = './/div[@class="cell"]//text()[not(ancestor::i)]'
             cells = row.xpath(CELL_SELECTOR).getall()
+
+            if cells[0] == 'No Results':
+                self.logger.info('URL {} had no results. On to the next one!'.format(response.meta['page']))
+                return
 
             self.logger.info('Parsing: {}'.format(cells))
 
@@ -149,6 +157,8 @@ class NGSSpider(scrapy.Spider):
     @retry(stop=stop_after_attempt(5), wait=wait_fixed(2))
     def fetch_descriptions(self, response):
 
+        self.logger.info('Opening URL: {}'.format(response.meta['page']))
+
         options = Options()
         options.headless = True
 
@@ -176,7 +186,7 @@ class NGSSpider(scrapy.Spider):
 
             self.logger.info('---- CLICKED BUTTON ON ROW {} ----'.format(counter))
             counter += 1
-            time.sleep(0.5)
+            time.sleep(0.3)
 
             sel = Selector(text=driver.page_source)
             description = sel.xpath('//div[@class="v-dialog v-dialog--active"]//div[@class="v-card__text"]/p//text()').extract_first()
@@ -190,7 +200,7 @@ class NGSSpider(scrapy.Spider):
 
             driver.find_element_by_xpath(CLOSE_SELECTOR).click()
             self.logger.info('---- CLOSED POPUP ----')
-            time.sleep(0.5)
+            time.sleep(0.3)
 
 
         driver.quit()

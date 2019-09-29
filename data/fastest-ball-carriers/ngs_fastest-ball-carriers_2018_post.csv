@@ -1,0 +1,81 @@
+,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week,gameId,playId,quarter,time,desc
+0,E.Elliott,Ezekiel Elliott,DAL,RB,21.27,44,rush,0,0,2018,POST,18,2019010501,1774,2,01:11,(1:11) E.Elliott right end ran ob at SEA 22 for 44 yards (J.Coleman).
+1,L.Jackson,Lamar Jackson,BAL,QB,19.9,17,rush,0,0,2018,POST,18,2019010600,1123,2,10:10,(10:10) (Shotgun) L.Jackson scrambles left end pushed ob at BAL 40 for 17 yards (M.Davis).
+2,E.Elliott,Ezekiel Elliott,DAL,RB,19.86,3,rush,0,0,2018,POST,18,2019010501,390,1,08:17,(8:17) (Shotgun) E.Elliott right end pushed ob at DAL 26 for 3 yards (K.Wright).
+3,T.Lockett,Tyler Lockett,SEA,WR,19.72,40,reception,0,0,2018,POST,18,2019010501,1176,2,09:13,(9:13) R.Wilson pass deep left to T.Lockett pushed ob at DAL 12 for 40 yards (X.Woods).
+4,T.Lockett,Tyler Lockett,SEA,WR,19.62,52,kickoff ret,0,0,2018,POST,18,2019010501,1916,2,,B.Maher kicks 66 yards from DAL 35 to SEA -1. T.Lockett to DAL 49 for 52 yards (B.Maher).
+5,A.Cooper,Amari Cooper,DAL,WR,19.62,27,reception,0,0,2018,POST,18,2019010501,3312,4,10:51,"(10:51) (Shotgun) D.Prescott pass deep left to A.Cooper to SEA 11 for 27 yards (J.Coleman). Seattle challenged the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)"
+6,M.Mack,Marlon Mack,IND,RB,19.58,25,rush,0,0,2018,POST,18,2019010500,464,1,09:28,(9:28) (Shotgun) M.Mack left end pushed ob at HOU 49 for 25 yards (J.Reid).
+7,T.Austin,Tavon Austin,DAL,WR,19.55,4,punt ret,0,1,2018,POST,18,2019010501,859,1,00:14,"(:14) (Punt formation) M.Dickson punts 56 yards to DAL 20, Center-T.Ott. T.Austin for 80 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on DAL-C.Goodwin, Offensive Holding, 10 yards, enforced at DAL 24."
+8,M.Mack,Marlon Mack,IND,RB,19.29,5,rush,0,0,2018,POST,18,2019010500,1079,2,14:24,(14:24) (Shotgun) M.Mack left end pushed ob at HOU 23 for 5 yards (Z.Cunningham).
+9,T.Cohen,Tarik Cohen,CHI,RB,19.29,7,reception,0,0,2018,POST,18,2019010601,3885,4,05:38,(5:38) (Shotgun) M.Trubisky pass short middle to T.Cohen pushed ob at CHI 24 for 7 yards (C.LeBlanc).
+10,D.King,Desmond King,LAC,CB,19.17,33,punt ret,0,0,2018,POST,18,2019010600,694,1,03:35,"(3:35) (Punt formation) S.Koch punts 43 yards to LAC 25, Center-M.Cox. D.King to BAL 42 for 33 yards (S.Koch; A.Levine Sr.)."
+11,A.Jeffery,Alshon Jeffery,PHI,WR,19.15,30,reception,0,0,2018,POST,18,2019010601,991,2,15:00,(15:00) N.Foles pass deep right to A.Jeffery ran ob at CHI 40 for 30 yards.
+12,T.Benjamin,Travis Benjamin,LAC,WR,19.06,4,reception,0,0,2018,POST,18,2019010600,2854,3,02:54,(2:54) (Shotgun) P.Rivers pass short middle to T.Benjamin pushed ob at BAL 43 for 4 yards (E.Weddle). Shovel pass
+13,A.Luck,Andrew Luck,IND,QB,19.06,9,rush,0,0,2018,POST,18,2019010500,2364,3,12:15,(12:15) (Shotgun) A.Luck scrambles left end ran ob at IND 25 for 9 yards (B.McKinney).
+14,M.Williams,Mike Williams,LAC,WR,19.04,28,reception,0,0,2018,POST,18,2019010600,2889,3,02:16,(2:16) (Shotgun) P.Rivers pass deep middle to M.Williams to BAL 15 for 28 yards (J.Smith).
+15,T.Hilton,T.Y. Hilton,IND,WR,18.98,38,reception,0,0,2018,POST,18,2019010500,242,1,11:14,(11:14) (Shotgun) A.Luck pass deep middle to T.Hilton to HOU 6 for 38 yards (B.McKinney) [J.Watt].
+16,T.Lockett,Tyler Lockett,SEA,WR,18.98,53,reception,0,0,2018,POST,18,2019010501,4005,4,02:00,(2:00) (Shotgun) R.Wilson pass deep left to T.Lockett to DAL 13 for 53 yards (B.Jones).
+17,K.Coutee,Keke Coutee,HOU,WR,18.96,5,reception,0,0,2018,POST,18,2019010500,372,1,10:24,(10:24) (Shotgun) D.Watson pass short middle to K.Coutee pushed ob at HOU 30 for 5 yards (D.Leonard).
+18,L.Jackson,Lamar Jackson,BAL,QB,18.88,15,rush,0,0,2018,POST,18,2019010600,608,1,05:48,(5:48) (Shotgun) L.Jackson scrambles left end to BAL 39 for 15 yards (J.Addae; D.King).
+19,A.Luck,Andrew Luck,IND,QB,18.86,3,rush,0,0,2018,POST,18,2019010500,1997,2,00:33,(:33) (Shotgun) A.Luck scrambles left end ran ob at IND 48 for 3 yards (Z.Cunningham).
+20,A.Cooper,Amari Cooper,DAL,WR,20.45,29,reception,1,0,2018,POST,19,2019011201,531,1,06:10,"(6:10) (Shotgun) D.Prescott pass short middle to A.Cooper for 29 yards, TOUCHDOWN."
+21,T.Hill,Tyreek Hill,KC,WR,20.17,0,punt ret,0,1,2018,POST,19,2019011200,127,1,13:22,"(13:22) R.Sanchez punts 53 yards to KC 20, Center-L.Rhodes. T.Hill pushed ob at KC 46 for 26 yards (N.Goode). PENALTY on KC-Tr. Smith, Offensive Holding, 10 yards, enforced at KC 20."
+22,T.Lewis,Tommylee Lewis,NO,WR,20.17,0,punt ret,0,1,2018,POST,19,2019011301,2504,3,13:22,"(13:22) C.Johnston punts 54 yards to NO 15, Center-R.Lovato. T.Lewis pushed ob at NO 30 for 15 yards (N.Gerry). PENALTY on NO-Z.Line, Offensive Holding, 7 yards, enforced at NO 15."
+23,T.Hill,Tyreek Hill,KC,WR,19.94,36,rush,1,0,2018,POST,19,2019011200,661,1,06:39,"(6:39) T.Hill left end for 36 yards, TOUCHDOWN."
+24,T.Gurley,Todd Gurley,LA,RB,19.86,18,rush,0,0,2018,POST,19,2019011201,2442,3,12:50,(12:50) T.Gurley left end ran ob at DAL 29 for 18 yards (J.Heath).
+25,S.Michel,Sony Michel,NE,RB,19.76,14,rush,1,0,2018,POST,19,2019011300,847,1,01:42,"(1:42) S.Michel right tackle for 14 yards, TOUCHDOWN."
+26,T.Hill,Tyreek Hill,KC,WR,19.72,3,punt ret,0,0,2018,POST,19,2019011200,1325,2,10:19,"(10:19) R.Sanchez punts 51 yards to KC 15, Center-L.Rhodes. T.Hill to KC 18 for 3 yards (N.Hairston)."
+27,T.Gurley,Todd Gurley,LA,RB,19.39,35,rush,1,0,2018,POST,19,2019011201,1745,2,03:35,"(3:35) (No Huddle) T.Gurley right guard for 35 yards, TOUCHDOWN."
+28,T.Hill,Tyreek Hill,KC,WR,19.37,4,punt ret,0,0,2018,POST,19,2019011200,3516,4,10:55,"(10:55) R.Sanchez punts 43 yards to KC 34, Center-L.Rhodes. T.Hill ran ob at KC 38 for 4 yards."
+29,J.Reynolds,Josh Reynolds,LA,WR,19.37,9,rush,0,0,2018,POST,19,2019011201,772,1,02:44,(2:44) (No Huddle) J.Reynolds left end to DAL 43 for 9 yards (J.Heath).
+30,T.Smith,Tre'Quan Smith,NO,WR,19.37,5,rush,0,0,2018,POST,19,2019011301,2874,3,06:48,(6:48) T.Smith left end to PHI 31 for 5 yards (R.Douglas).
+31,T.Hill,Tyreek Hill,KC,WR,19.31,7,reception,0,0,2018,POST,19,2019011200,940,1,02:35,(2:35) (Shotgun) P.Mahomes pass short middle to T.Hill pushed ob at IND 37 for 7 yards (A.Muhammad).
+32,S.Watkins,Sammy Watkins,KC,WR,19.23,-2,rush,0,0,2018,POST,19,2019011200,1880,2,01:50,(1:50) S.Watkins right end to IND 4 for -2 yards (G.Odum).
+33,A.Kamara,Alvin Kamara,NO,RB,19.21,15,rush,0,0,2018,POST,19,2019011301,3080,3,02:14,(2:14) (Shotgun) A.Kamara right tackle pushed ob at PHI 2 for 15 yards (A.Maddox).
+34,B.Cooks,Brandin Cooks,LA,WR,19.13,5,rush,0,0,2018,POST,19,2019011201,3475,4,09:54,"(9:54) B.Cooks left end to DAL 6 for 5 yards (C.Awuzie, X.Woods)."
+35,J.Reynolds,Josh Reynolds,LA,WR,19.04,19,reception,0,0,2018,POST,19,2019011201,2936,3,04:41,(4:41) (Shotgun) J.Goff pass short left to J.Reynolds to LA 45 for 19 yards (X.Woods).
+36,N.Agholor,Nelson Agholor,PHI,WR,18.94,12,rush,0,0,2018,POST,19,2019011301,422,1,09:51,"(9:51) N.Agholor right end to PHI 37 for 12 yards (M.Lattimore, D.Davis)."
+37,M.Thomas,Michael Thomas,NO,WR,18.82,42,reception,0,0,2018,POST,19,2019011301,1277,2,11:20,"(11:20) D.Brees pass deep middle to M.Thomas pushed ob at PHI 24 for 42 yards (A.Maddox). Pass 21, YAC 21 Penalty on PHI-T.Hester, Defensive Offside, declined."
+38,T.Hilton,T.Y. Hilton,IND,WR,18.74,29,reception,1,0,2018,POST,19,2019011200,3853,4,05:37,"(5:37) (No Huddle, Shotgun) A.Luck pass deep left to T.Hilton for 29 yards, TOUCHDOWN."
+39,A.Kamara,Alvin Kamara,NO,RB,18.72,23,reception,0,0,2018,POST,19,2019011301,2165,2,00:48,"(:48) (No Huddle, Shotgun) D.Brees pass short right to A.Kamara to PHI 32 for 23 yards (T.Sullivan). Pass 2, YAC 21"
+40,D.Williams,Damien Williams,KC,RB,20.11,23,reception,1,0,2018,POST,20,2019012001,3282,4,07:52,"(7:52) (Shotgun) P.Mahomes pass short left to Dam. Williams for 23 yards, TOUCHDOWN."
+41,J.Reynolds,Josh Reynolds,LA,WR,20.07,16,rush,0,0,2018,POST,20,2019012000,2876,3,04:55,"(4:55) J.Reynolds left end to NO 1 for 16 yards (M.Lattimore, M.Williams)."
+42,B.Cooks,Brandin Cooks,LA,WR,19.8,36,reception,0,0,2018,POST,20,2019012000,2070,2,00:48,"(:48) (Shotgun) J.Goff pass deep left to B.Cooks to NO 6 for 36 yards (P.Williams). Pass 31, YAC 5"
+43,R.Woods,Robert Woods,LA,WR,19.45,1,rush,0,0,2018,POST,20,2019012000,3501,4,10:20,(10:20) R.Woods left end pushed ob at LA 16 for 1 yard (M.Lattimore).
+44,D.Williams,Damien Williams,KC,RB,19.45,33,reception,0,0,2018,POST,20,2019012001,2675,3,00:44,(:44) (Shotgun) P.Mahomes pass short right to Dam. Williams to NE 14 for 33 yards (D.McCourty).
+45,M.Thomas,Michael Thomas,NO,WR,19.31,19,reception,0,0,2018,POST,20,2019012000,761,1,03:46,"(3:46) (Shotgun) D.Brees pass short middle to M.Thomas ran ob at LA 18 for 19 yards (M.Peters). Pass 5, YAC 14"
+46,C.Patterson,Cordarrelle Patterson,NE,WR,19.17,38,kickoff ret,0,0,2018,POST,20,2019012001,3957,4,,H.Butker kicks 68 yards from KC 35 to NE -3. C.Patterson pushed ob at NE 35 for 38 yards (Dar.Williams).
+47,T.Hill,Tyreek Hill,KC,WR,18.98,42,reception,0,0,2018,POST,20,2019012001,1331,2,05:29,(5:29) (Shotgun) P.Mahomes pass deep right to T.Hill to NE 23 for 42 yards (K.Crossen).
+48,A.Kamara,Alvin Kamara,NO,RB,18.86,27,kickoff ret,0,0,2018,POST,20,2019012000,2138,2,,G.Zuerlein kicks 72 yards from LA 35 to NO -7. A.Kamara to NO 20 for 27 yards (M.Kiser).
+49,T.Smith,Tremon Smith,KC,DB,18.86,26,kickoff ret,0,0,2018,POST,20,2019012001,4294,4,,S.Gostkowski kicks 60 yards from NE 35 to KC 5. Tr. Smith to KC 31 for 26 yards (B.King).
+50,T.Ginn,Ted Ginn,NO,WR,18.74,43,reception,0,0,2018,POST,20,2019012000,3882,4,02:07,"(2:07) (Shotgun) D.Brees pass deep right to T.Ginn to LA 13 for 43 yards (L.Joyner). Pass 42, YAC 1"
+51,D.Robinson,Demarcus Robinson,KC,WR,18.59,27,reception,0,0,2018,POST,20,2019012001,4361,4,00:23,"(:23) (Shotgun) P.Mahomes pass deep left to D.Robinson to NE 21 for 27 yards (J.Jackson) [D.Hightower]. Penalty on NE-T.Flowers, Defensive Offside, declined."
+52,A.Kamara,Alvin Kamara,NO,RB,18.57,21,reception,0,0,2018,POST,20,2019012000,168,1,12:31,"(12:31) (Shotgun) D.Brees pass short right to A.Kamara ran ob at LA 36 for 21 yards (J.Franklin). Pass 13, YAC 8"
+53,D.Williams,Damien Williams,KC,RB,18.45,1,reception,1,0,2018,POST,20,2019012001,2779,4,14:56,"(14:56) P.Mahomes pass short right to Dam. Williams for 1 yard, TOUCHDOWN."
+54,A.Kamara,Alvin Kamara,NO,RB,18.39,28,kickoff ret,0,0,2018,POST,20,2019012000,4387,5,,G.Zuerlein kicks 67 yards from LA 35 to NO -2. A.Kamara ran ob at NO 26 for 28 yards (B.Hager).
+55,A.Kamara,Alvin Kamara,NO,RB,18.04,30,kickoff ret,0,0,2018,POST,20,2019012000,3750,4,,"G.Zuerlein kicks 65 yards from LA 35 to NO 0. A.Kamara to NO 30 for 30 yards (K.Hodge, B.Hager)."
+56,T.Smith,Tremon Smith,KC,DB,18.04,19,kickoff ret,0,0,2018,POST,20,2019012001,424,1,,S.Gostkowski kicks 68 yards from NE 35 to KC -3. Tr. Smith to KC 16 for 19 yards (K.Crossen).
+57,A.Kamara,Alvin Kamara,NO,RB,18,6,rush,0,0,2018,POST,20,2019012000,2391,3,12:32,(12:32) A.Kamara right end pushed ob at LA 42 for 6 yards (C.Littleton).
+58,R.Woods,Robert Woods,LA,WR,17.96,0,reception,0,0,2018,POST,20,2019012000,593,1,07:06,"(7:06) J.Goff pass short left to R.Woods to LA 25 for no gain (A.Klein). Pass -2, YAC 2"
+59,C.Patterson,Cordarrelle Patterson,NE,WR,17.84,15,reception,0,0,2018,POST,20,2019012001,717,1,02:25,(2:25) (Shotgun) T.Brady pass short middle to C.Patterson to KC 18 for 15 yards (D.Sorensen; C.Ward).
+60,T.Gurley,Todd Gurley,LA,RB,19.78,5,rush,0,0,2018,POST,22,2019020300,2153,3,14:15,(14:15) T.Gurley left end to LA 46 for 5 yards (P.Chung; J.Jones). NE-P.Chung was injured during the play. He is Out.
+61,C.Patterson,Cordarrelle Patterson,NE,WR,19.51,38,kickoff ret,0,0,2018,POST,22,2019020300,38,1,,G.Zuerlein kicks 64 yards from LA 35 to NE 1. C.Patterson pushed ob at NE 39 for 38 yards (G.Zuerlein).
+62,J.Natson,JoJo Natson,LA,WR,18.39,13,punt ret,0,1,2018,POST,22,2019020300,1574,2,06:24,"(6:24) R.Allen punts 53 yards to LA 22, Center-J.Cardona. J.Natson ran ob at LA 35 for 13 yards (K.Van Noy). PENALTY on NE-A.McClellan, Offensive Holding, 10 yards, enforced at LA 35."
+63,J.Reynolds,Josh Reynolds,LA,WR,18.08,11,reception,0,0,2018,POST,22,2019020300,3712,4,05:29,(5:29) (Shotgun) J.Goff pass short left to J.Reynolds to NE 44 for 11 yards (J.McCourty).
+64,B.Cooks,Brandin Cooks,LA,WR,17.78,15,reception,0,0,2018,POST,22,2019020300,2705,3,05:41,(5:41) (No Huddle) J.Goff pass short left to B.Cooks to LA 49 for 15 yards (S.Gilmore).
+65,R.Woods,Robert Woods,LA,WR,17.73,5,rush,0,0,2018,POST,22,2019020300,631,1,05:35,(5:35) R.Woods right end to LA 41 for 5 yards (D.Wise; P.Chung).
+66,R.Gronkowski,Rob Gronkowski,NE,TE,17.53,29,reception,0,0,2018,POST,22,2019020300,3556,4,07:43,(7:43) (Shotgun) T.Brady pass deep left to R.Gronkowski to LA 2 for 29 yards (C.Littleton).
+67,R.Woods,Robert Woods,LA,WR,17.49,18,reception,0,0,2018,POST,22,2019020300,2774,3,04:25,(4:25) (Shotgun) J.Goff pass deep middle to R.Woods to NE 29 for 18 yards (J.Jones) [T.Flowers].
+68,R.Burkhead,Rex Burkhead,NE,RB,17.33,26,rush,0,0,2018,POST,22,2019020300,3927,4,02:42,(2:42) R.Burkhead left tackle to LA 33 for 26 yards (M.Peters).
+69,R.Woods,Robert Woods,LA,WR,17.18,18,reception,0,0,2018,POST,22,2019020300,1362,2,09:48,(9:48) (No Huddle) J.Goff pass deep left to R.Woods ran ob at NE 49 for 18 yards.
+70,J.Edelman,Julian Edelman,NE,WR,16.71,9,reception,0,0,2018,POST,22,2019020300,1748,2,02:42,(2:42) (Shotgun) T.Brady pass short middle to J.Edelman ran ob at NE 49 for 9 yards (J.Johnson).
+71,S.Michel,Sony Michel,NE,RB,16.49,26,rush,0,0,2018,POST,22,2019020300,3833,4,03:38,(3:38) S.Michel right tackle to NE 31 for 26 yards (S.Ebukam).
+72,B.Cooks,Brandin Cooks,LA,WR,16.43,14,reception,0,0,2018,POST,22,2019020300,1988,2,00:51,"(:51) (No Huddle, Shotgun) J.Goff pass short left to B.Cooks to LA 40 for 14 yards (S.Gilmore)."
+73,J.Edelman,Julian Edelman,NE,WR,16.22,27,reception,0,0,2018,POST,22,2019020300,2286,3,11:45,(11:45) (Shotgun) T.Brady pass short left to J.Edelman to NE 41 for 27 yards (L.Joyner).
+74,T.Gurley,Todd Gurley,LA,RB,16.06,16,rush,0,0,2018,POST,22,2019020300,2131,3,14:56,(14:56) T.Gurley right tackle to LA 41 for 16 yards (D.McCourty; J.McCourty).
+75,B.Cooks,Brandin Cooks,LA,WR,16,19,reception,0,0,2018,POST,22,2019020300,3642,4,07:00,(7:00) J.Goff pass short left to B.Cooks to LA 44 for 19 yards (J.McCourty).
+76,R.Burkhead,Rex Burkhead,NE,RB,15.87,8,reception,0,0,2018,POST,22,2019020300,442,1,08:14,(8:14) (Shotgun) T.Brady pass short left to R.Burkhead pushed ob at NE 48 for 8 yards (J.Johnson).
+77,R.Gronkowski,Rob Gronkowski,NE,TE,15.87,18,reception,0,0,2018,POST,22,2019020300,3475,4,09:49,(9:49) T.Brady pass short right to R.Gronkowski to NE 49 for 18 yards (S.Ebukam).
+78,B.Cooks,Brandin Cooks,LA,WR,15.81,16,reception,0,0,2018,POST,22,2019020300,3334,4,12:14,(12:14) J.Goff pass deep left to B.Cooks to LA 43 for 16 yards (S.Gilmore).
+79,R.Gronkowski,Rob Gronkowski,NE,TE,15.79,19,reception,0,0,2018,POST,22,2019020300,490,1,07:39,(7:39) T.Brady pass short left to R.Gronkowski pushed ob at LA 33 for 19 yards (M.Peters).
