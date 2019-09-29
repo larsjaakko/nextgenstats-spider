@@ -24,7 +24,9 @@ To run nextgenstats-spider, open a terminal and navigate to the nextgenstat-spid
 
 To get all passing data in week 8 of the 2018 regular season, with game IDs:
 <br>
-```scrapy crawl ngs_spider -a type=passing -a year=2018 -a week=8 -a ids=true```
+```
+scrapy crawl ngs_spider -a type=passing -a year=2018 -a week=8 -a ids=true
+```
 
 ## Parameters
 Nextgenstats-spider supports a few parameters, to allow for scraping of specific tables. Note that all parameters must be passed with the `-a` option preceding, lest an error be raised.
