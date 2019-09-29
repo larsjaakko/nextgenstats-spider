@@ -1,10 +1,10 @@
 ,shortName,playerName,team,position,averageCushion,averageSeparation,averageTargetedAirYards,shareOfTeamAirYards,receptions,targets,catchPercentage,receivingYards,receivingTouchdowns,avgYAC,expectedAvgYAC,avgYACAboveExpectation,season
-0,J.Reynolds,Josh Reynolds,LAR,WR,7.5,3,12.9,13.64,29,52,55.77,402,5,4.8,4.4,0.3,2018
+0,J.Reynolds,Josh Reynolds,LA,WR,7.5,3,12.9,13.64,29,52,55.77,402,5,4.8,4.4,0.3,2018
 1,D.Jackson,DeSean Jackson,TB,WR,7.3,2.7,19.1,21.43,41,74,55.41,774,4,4.6,4.5,0,2018
 2,T.Taylor,Taywan Taylor,TEN,WR,7.1,3.2,13.2,22.99,37,56,66.07,466,1,4.7,4.3,0.4,2018
 3,T.Gabriel,Taylor Gabriel,CHI,WR,7,3.5,11,23.01,67,93,72.04,688,2,3.6,4.3,-0.7,2018
 4,C.Samuel,Curtis Samuel,CAR,WR,6.7,2.4,12.2,19.14,39,65,60,494,5,2.9,3.5,-0.6,2018
-5,C.Kupp,Cooper Kupp,LAR,WR,6.7,3.5,8.6,9.62,40,55,72.73,566,6,7.7,7,0.8,2018
+5,C.Kupp,Cooper Kupp,LA,WR,6.7,3.5,8.6,9.62,40,55,72.73,566,6,7.7,7,0.8,2018
 6,K.Cole,Keelan Cole,JAX,WR,6.6,2.9,9.7,18.34,38,70,54.29,491,1,3.9,4.5,-0.6,2018
 7,J.Reed,Jordan Reed,WAS,TE,6.6,3.3,6.6,13.36,54,84,64.29,558,2,4.5,4.9,-0.4,2018
 8,T.Lockett,Tyler Lockett,SEA,WR,6.6,3.3,13.5,24.44,57,70,81.43,965,10,4.2,4.7,-0.5,2018
@@ -17,13 +17,13 @@
 15,R.Anderson,Robby Anderson,NYJ,WR,6.4,2.3,16.5,33.58,50,94,53.19,752,6,3.6,3.9,-0.3,2018
 16,S.Roberts,Seth Roberts,OAK,WR,6.4,3.2,8.3,14.48,45,64,70.31,494,2,5.7,4.5,1.2,2018
 17,J.Crowder,Jamison Crowder,WAS,WR,6.4,2.9,9.1,10.71,29,49,59.18,388,2,7.6,5.9,1.8,2018
-18,R.Woods,Robert Woods,LAR,WR,6.4,3,11.3,29.84,86,130,66.15,1219,6,5.3,5.1,0.2,2018
+18,R.Woods,Robert Woods,LA,WR,6.4,3,11.3,29.84,86,130,66.15,1219,6,5.3,5.1,0.2,2018
 19,J.Kearse,Jermaine Kearse,NYJ,WR,6.4,2.7,9.3,15.33,37,76,48.68,371,1,3.7,3.9,-0.2,2018
 20,L.Fitzgerald,Larry Fitzgerald,ARI,WR,6.3,2.3,9.6,27,69,112,61.61,734,6,3.2,3.2,0.1,2018
 21,L.Treadwell,Laquon Treadwell,MIN,WR,6.3,2.9,6,7.05,35,53,66.04,302,1,3.4,3,0.4,2018
 22,C.Ridley,Calvin Ridley,ATL,WR,6.3,3.2,10,17.68,64,92,69.57,821,10,5.8,5.1,0.7,2018
 23,R.Foster,Robert Foster,BUF,WR,6.3,2.7,20.6,17.78,26,43,60.47,526,3,6.5,5.9,0.6,2018
-24,G.Tate,Golden Tate,PHI,WR,6.3,3,6.3,16.13,74,113,65.49,789,4,5.8,4.6,1.2,2018
+24,G.Tate,Golden Tate,PHI,WR,6.3,3,6.3,17.77,74,113,65.49,789,4,5.8,4.6,1.2,2018
 25,M.Valdes-Scantling,Marquez Valdes-Scantling,GB,WR,6.3,3.3,12.6,16.26,38,73,52.05,581,2,6.2,6.7,-0.5,2018
 26,D.Amendola,Danny Amendola,MIA,WR,6.3,3.2,7,15.57,59,79,74.68,575,1,4.2,4.8,-0.7,2018
 27,J.Graham,Jimmy Graham,GB,TE,6.3,2.9,9.3,14.67,55,89,61.8,636,2,5.1,5,0.1,2018
@@ -43,7 +43,7 @@
 41,Z.Ertz,Zach Ertz,PHI,TE,6.1,3.2,7.3,25.82,116,156,74.36,1163,8,3.3,4.2,-0.9,2018
 42,C.Davis,Corey Davis,TEN,WR,6.1,3.1,10.3,35.83,65,112,58.04,891,4,4.3,4,0.3,2018
 43,E.Engram,Evan Engram,NYG,TE,6.1,4.4,5.1,7.62,45,64,70.31,577,3,9,6.7,2.3,2018
-44,G.Everett,Gerald Everett,LAR,TE,6,3.9,6.6,6.56,32,49,65.31,313,3,4.5,5,-0.5,2018
+44,G.Everett,Gerald Everett,LA,TE,6,3.9,6.6,6.56,32,49,65.31,313,3,4.5,5,-0.5,2018
 45,A.Cooper,Amari Cooper,DAL,WR,6,2.9,9.9,26.5,75,107,70.09,1005,7,5.7,4.2,1.6,2018
 46,I.Thomas,Ian Thomas,CAR,TE,6,3.4,6.3,7.46,36,49,73.47,333,2,4.4,5,-0.5,2018
 47,J.Wright,Jarius Wright,CAR,WR,6,3.2,5.7,8.17,43,59,72.88,447,1,5,4.9,0.1,2018
@@ -69,7 +69,7 @@
 67,M.Evans,Mike Evans,TB,WR,5.7,2.1,15.7,32.8,86,138,62.32,1524,8,3.8,3.6,0.1,2018
 68,J.Brown,John Brown,BAL,WR,5.7,2.3,16.3,33.83,42,97,43.3,717,5,4.1,3.5,0.6,2018
 69,C.Rogers,Chester Rogers,IND,WR,5.7,3.6,6.4,9.34,53,72,73.61,485,2,5.1,5.9,-0.8,2018
-70,B.Cooks,Brandin Cooks,LAR,WR,5.7,2.7,12.9,30.8,80,117,68.38,1204,5,4.5,4.8,-0.3,2018
+70,B.Cooks,Brandin Cooks,LA,WR,5.7,2.7,12.9,30.8,80,117,68.38,1204,5,4.5,4.8,-0.3,2018
 71,J.Heuerman,Jeff Heuerman,DEN,TE,5.7,3.3,5.7,6.24,31,48,64.58,281,2,5,5.7,-0.7,2018
 72,R.Grant,Ryan Grant,IND,WR,5.7,2.6,9.5,10.05,35,52,67.31,334,1,2.7,3.4,-0.7,2018
 73,J.Landry,Jarvis Landry,CLE,WR,5.7,3.3,10.8,30.3,81,149,54.36,976,4,3.8,4.7,-0.9,2018
@@ -84,9 +84,9 @@
 82,T.Williams,Tyrell Williams,LAC,WR,5.6,2.8,12.5,20.15,41,65,63.08,653,5,5.1,6,-0.8,2018
 83,D.Njoku,David Njoku,CLE,TE,5.6,3.1,8.5,14.12,56,88,63.64,639,4,6,5.1,1,2018
 84,A.Robinson,Allen Robinson,CHI,WR,5.5,2,11.9,25.02,55,94,58.51,754,4,4.5,3.9,0.6,2018
-85,V.Mcdonald,Vance McDonald,PIT,TE,5.5,3.3,5.7,7.85,50,72,69.44,610,4,7.9,5.6,2.4,2018
+85,V.McDonald,Vance McDonald,PIT,TE,5.5,3.3,5.7,7.85,50,72,69.44,610,4,7.9,5.6,2.4,2018
 86,S.Watkins,Sammy Watkins,KC,WR,5.5,3.5,8.4,8.74,40,55,72.73,519,3,6.2,6.2,0,2018
-87,K.Benjamin,Kelvin Benjamin,KC,WR,5.5,1.7,15.9,21.41,25,67,37.31,380,1,2.8,2.8,0,2018
+87,K.Benjamin,Kelvin Benjamin,KC,WR,5.5,1.7,15.9,20.2,25,67,37.31,380,1,2.8,2.8,0,2018
 88,A.Jeffery,Alshon Jeffery,PHI,WR,5.5,2.5,10.8,22.68,65,92,70.65,840,6,4.7,3.8,0.9,2018
 89,W.Fuller,Will Fuller,HOU,WR,5.4,3.3,14.6,14.93,32,45,71.11,503,4,5.5,4.7,0.8,2018
 90,C.Williams,Chad Williams,ARI,WR,5.4,1.9,13.2,15.29,17,46,36.96,171,1,0.9,1.4,-0.5,2018

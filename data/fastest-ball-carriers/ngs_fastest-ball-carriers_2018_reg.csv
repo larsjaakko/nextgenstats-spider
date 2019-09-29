@@ -1,341 +1,282 @@
-,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week
-0,A.Green,A.J. Green,CIN,WR,20.95,38,reception,1,0,2018,REG,1
-1,D.Jennings,Darius Jennings,TEN,WR,20.64,94,kickoff ret,1,0,2018,REG,1
-2,D.Jackson,DeSean Jackson,TB,WR,20.45,58,reception,1,0,2018,REG,1
-3,D.Jackson,DeSean Jackson,TB,WR,20.41,36,reception,1,1,2018,REG,1
-4,D.Henry,Derrick Henry,TEN,RB,21.46,2,rush,0,1,2018,REG,1
-5,I.Crowell,Isaiah Crowell,NYJ,RB,20.95,62,rush,1,0,2018,REG,1
-6,J.Grant,Jakeem Grant,MIA,WR,20.93,102,kickoff ret,1,0,2018,REG,1
-7,J.Conner,James Conner,PIT,RB,21.03,22,rush,1,0,2018,REG,1
-8,J.Smith-Schuster,JuJu Smith-Schuster,PIT,WR,20.93,67,reception,0,0,2018,REG,1
-9,K.Stills,Kenny Stills,MIA,WR,20.25,75,reception,1,0,2018,REG,1
-10,M.Breida,Matt Breida,SF,RB,20.19,-1,rush,0,0,2018,REG,1
-11,M.Evans,Mike Evans,TB,WR,20.15,50,reception,1,0,2018,REG,1
-12,N.Hines,Nyheim Hines,IND,RB,20.05,4,rush,0,0,2018,REG,1
-13,P.Cooper,Pharoh Cooper,LAR,WR,20.03,12,punt ret,0,0,2018,REG,1
-14,S.Barkley,Saquon Barkley,NYG,RB,19.82,68,rush,1,0,2018,REG,1
-15,T.Cohen,Tarik Cohen,CHI,RB,19.96,42,punt ret,0,0,2018,REG,1
-16,T.Coleman,Tevin Coleman,ATL,RB,19.76,26,reception,0,0,2018,REG,1
-17,T.Lockett,Tyler Lockett,SEA,WR,20.35,51,reception,1,0,2018,REG,1
-18,T.Hill,Tyreek Hill,KC,WR,21.95,58,reception,1,0,2018,REG,1
-19,T.Hill,Tyreek Hill,KC,WR,21.78,91,punt ret,1,0,2018,REG,1
-20,A.Callaway,Antonio Callaway,CLE,WR,21.48,47,reception,1,0,2018,REG,2
-21,B.Cooks,Brandin Cooks,LAR,WR,20.35,57,reception,0,0,2018,REG,2
-22,C.Newton,Cam Newton,CAR,QB,20.07,10,rush,0,0,2018,REG,2
-23,C.Hogan,Chris Hogan,NE,WR,20.29,29,reception,1,0,2018,REG,2
-24,D.Cruikshank,Dane Cruikshank,TEN,DB,20.15,66,reception,1,0,2018,REG,2
-25,D.Jackson,DeSean Jackson,TB,WR,20.5,75,reception,1,0,2018,REG,2
-26,E.Elliott,Ezekiel Elliott,DAL,RB,20.15,19,rush,0,0,2018,REG,2
-27,J.Agnew,Jamal Agnew,DET,CB,19.98,4,punt ret,0,1,2018,REG,2
-28,J.Crowder,Jamison Crowder,WAS,WR,20.68,25,rush,0,0,2018,REG,2
-29,J.Natson,JoJo Natson,LAR,WR,20.93,60,punt ret,0,0,2018,REG,2
-30,J.Natson,JoJo Natson,LAR,WR,20.39,17,punt ret,0,0,2018,REG,2
-31,O.Howard,O.J. Howard,TB,TE,20.31,75,reception,1,0,2018,REG,2
-32,P.Lindsay,Phillip Lindsay,DEN,RB,20.76,53,rush,0,0,2018,REG,2
-33,P.Amukamara,Prince Amukamara,CHI,CB,20.09,49,int,1,0,2018,REG,2
-34,R.Anderson,Robby Anderson,NYJ,WR,20.03,17,reception,0,0,2018,REG,2
-35,S.Diggs,Stefon Diggs,MIN,WR,20.48,75,reception,1,0,2018,REG,2
-36,T.Ginn,Ted Ginn,NO,WR,20.35,42,reception,0,0,2018,REG,2
-37,T.Pryor,Terrelle Pryor,NYJ,WR,20.35,44,reception,0,0,2018,REG,2
-38,T.Coleman,Tevin Coleman,ATL,RB,20.31,36,rush,0,0,2018,REG,2
-39,T.Williams,Tyrell Williams,LAC,WR,20.23,18,reception,0,0,2018,REG,2
-40,A.Green,A.J. Green,CIN,WR,20.88,31,reception,0,0,2018,REG,3
-41,A.Peterson,Adrian Peterson,WAS,RB,20.25,41,rush,0,0,2018,REG,3
-42,A.Wilson,Albert Wilson,MIA,WR,21.74,74,reception,1,0,2018,REG,3
-43,C.Ridley,Calvin Ridley,ATL,WR,20.9,75,reception,1,0,2018,REG,3
-44,C.Mccaffrey,Christian McCaffrey,CAR,RB,20.48,45,rush,0,0,2018,REG,3
-45,D.Jackson,DeSean Jackson,TB,WR,21.48,0,punt ret,0,1,2018,REG,3
-46,D.Rodgers-Cromartie,Dominique Rodgers-Cromartie,OAK,CB,21.07,0,punt ret,0,1,2018,REG,3
-47,J.Nelson,Jordy Nelson,OAK,WR,21.05,61,reception,0,0,2018,REG,3
-48,J.Nelson,Jordy Nelson,OAK,WR,20.97,66,reception,0,0,2018,REG,3
-49,J.Allen,Josh Allen,BUF,QB,20.6,10,rush,1,0,2018,REG,3
-50,J.Jones,Julio Jones,ATL,WR,21.33,58,reception,0,0,2018,REG,3
-51,M.Breida,Matt Breida,SF,RB,20.8,26,rush,0,0,2018,REG,3
-52,M.Williams,Mike Williams,LAC,WR,21.05,42,reception,1,0,2018,REG,3
-53,S.Barkley,Saquon Barkley,NYG,RB,20.66,24,rush,0,0,2018,REG,3
-54,S.Shepard,Sterling Shepard,NYG,WR,20.25,23,reception,0,0,2018,REG,3
-55,T.Hilton,T.Y. Hilton,IND,WR,20.15,2,punt ret,0,1,2018,REG,3
-56,T.Austin,Tavon Austin,DAL,WR,20.25,18,rush,0,0,2018,REG,3
-57,T.Ginn,Ted Ginn,NO,WR,21.27,20,rush,0,0,2018,REG,3
-58,T.Gurley,Todd Gurley,LAR,RB,20.72,25,reception,0,1,2018,REG,3
-59,T.Williams,Tyrell Williams,LAC,WR,20.41,14,rush,0,0,2018,REG,3
-60,A.Thielen,Adam Thielen,MIN,WR,20.09,27,reception,0,0,2018,REG,4
-61,A.Exum,Antone Exum,SF,FS,20.05,32,int,1,0,2018,REG,4
-62,B.Cooks,Brandin Cooks,LAR,WR,21.23,47,reception,1,0,2018,REG,4
-63,C.Kupp,Cooper Kupp,LAR,WR,20.7,70,reception,1,0,2018,REG,4
-64,C.Kupp,Cooper Kupp,LAR,WR,20.58,19,reception,1,0,2018,REG,4
-65,C.Patterson,Cordarrelle Patterson,NE,WR,20.21,11,rush,0,0,2018,REG,4
-66,C.Patterson,Cordarrelle Patterson,NE,WR,20.19,55,reception,1,0,2018,REG,4
-67,C.Davis,Corey Davis,TEN,WR,20.19,51,reception,0,0,2018,REG,4
-68,D.Hopkins,DeAndre Hopkins,HOU,WR,20,30,reception,0,0,2018,REG,4
-69,D.Jackson,DeSean Jackson,TB,WR,20.29,48,reception,0,0,2018,REG,4
-70,D.Jackson,DeSean Jackson,TB,WR,20.09,42,reception,0,0,2018,REG,4
-71,D.Moncrief,Donte Moncrief,JAX,WR,21.23,67,reception,1,0,2018,REG,4
-72,J.White,James White,NE,RB,20.13,4,reception,0,1,2018,REG,4
-73,J.Brown,John Brown,BAL,WR,20.35,33,reception,1,0,2018,REG,4
-74,J.Ross,John Ross,CIN,WR,20.11,39,reception,1,0,2018,REG,4
-75,M.Valdes-Scantling,Marquez Valdes-Scantling,GB,WR,20.39,38,reception,0,0,2018,REG,4
-76,N.Chubb,Nick Chubb,CLE,RB,21.15,63,rush,1,0,2018,REG,4
-77,S.Barkley,Saquon Barkley,NYG,RB,20.86,28,rush,0,0,2018,REG,4
-78,T.Hilton,T.Y. Hilton,IND,WR,20.54,42,reception,0,0,2018,REG,4
-79,T.Gabriel,Taylor Gabriel,CHI,WR,20.33,30,reception,0,0,2018,REG,4
-80,A.Brown,Antonio Brown,PIT,WR,20.33,47,reception,1,0,2018,REG,5
-81,A.Ekeler,Austin Ekeler,LAC,RB,20.8,44,reception,1,0,2018,REG,5
-82,C.Kirk,Christian Kirk,ARI,WR,20.43,75,reception,1,0,2018,REG,5
-83,C.Kirk,Christian Kirk,ARI,WR,20.23,5,rush,0,0,2018,REG,5
-84,D.Adams,Davante Adams,GB,WR,20.23,30,reception,0,0,2018,REG,5
-85,D.Westbrook,Dede Westbrook,JAX,WR,20.5,23,reception,0,0,2018,REG,5
-86,D.Westbrook,Dede Westbrook,JAX,WR,20,30,reception,0,0,2018,REG,5
-87,D.Johnson,Duke Johnson,CLE,RB,20.03,8,rush,0,0,2018,REG,5
-88,I.Crowell,Isaiah Crowell,NYJ,RB,20.43,77,rush,1,0,2018,REG,5
-89,J.Grant,Jakeem Grant,MIA,WR,21.58,71,punt ret,1,0,2018,REG,5
-90,J.Hardee,Justin Hardee,NO,DB,20.13,77,int,0,0,2018,REG,5
-91,M.Bryant,Martavis Bryant,OAK,WR,20.11,47,reception,0,0,2018,REG,5
-92,R.Anderson,Robby Anderson,NYJ,WR,21.5,76,reception,1,0,2018,REG,5
-93,R.Anderson,Robby Anderson,NYJ,WR,20.39,35,reception,1,0,2018,REG,5
-94,R.Shepard,Russell Shepard,NYG,WR,20.37,40,reception,0,0,2018,REG,5
-95,T.Smith,Tre'Quan Smith,NO,WR,20.15,62,reception,1,1,2018,REG,5
-96,T.Lockett,Tyler Lockett,SEA,WR,20,39,reception,1,0,2018,REG,5
-97,T.Hill,Tyreek Hill,KC,WR,21.11,5,rush,0,0,2018,REG,5
-98,T.Hill,Tyreek Hill,KC,WR,20.45,36,reception,0,1,2018,REG,5
-99,T.Hill,Tyreek Hill,KC,WR,20.13,21,rush,0,1,2018,REG,5
-100,A.Humphries,Adam Humphries,TB,WR,20.37,51,reception,0,0,2018,REG,6
-101,A.Brown,Antonio Brown,PIT,WR,21.13,31,reception,1,0,2018,REG,6
-102,A.Brown,Antonio Brown,PIT,WR,20.54,48,reception,0,0,2018,REG,6
-103,D.Adams,Davante Adams,GB,WR,20.19,38,reception,0,0,2018,REG,6
-104,D.Jackson,DeSean Jackson,TB,WR,20.05,7,rush,0,0,2018,REG,6
-105,D.Westbrook,Dede Westbrook,JAX,WR,20.41,34,reception,1,0,2018,REG,6
-106,J.Heath,Jeff Heath,DAL,SS,20.09,49,int,0,0,2018,REG,6
-107,K.Fuller,Kyle Fuller,CHI,CB,21.4,35,int,0,0,2018,REG,6
-108,L.Mccoy,LeSean McCoy,BUF,RB,20.15,6,rush,0,0,2018,REG,6
-109,M.Goodwin,Marquise Goodwin,SF,WR,21.01,67,reception,1,0,2018,REG,6
-110,N.Agholor,Nelson Agholor,PHI,WR,20.13,58,reception,0,0,2018,REG,6
-111,S.Barkley,Saquon Barkley,NYG,RB,21.07,46,rush,0,0,2018,REG,6
-112,S.Barkley,Saquon Barkley,NYG,RB,20.74,50,rush,1,0,2018,REG,6
-113,T.Gabriel,Taylor Gabriel,CHI,WR,21.23,47,reception,0,0,2018,REG,6
-114,T.Gabriel,Taylor Gabriel,CHI,WR,20.33,54,reception,0,0,2018,REG,6
-115,T.Gurley,Todd Gurley,LAR,RB,20.72,26,rush,0,0,2018,REG,6
-116,T.Smith,Tremon Smith,KC,DB,20.37,97,kickoff ret,0,0,2018,REG,6
-117,T.Hill,Tyreek Hill,KC,WR,21.31,75,reception,1,0,2018,REG,6
-118,T.Hill,Tyreek Hill,KC,WR,20.43,14,reception,1,0,2018,REG,6
-119,T.Williams,Tyrell Williams,LAC,WR,20.33,44,reception,0,0,2018,REG,6
-120,A.Thielen,Adam Thielen,MIN,WR,20.03,34,reception,1,0,2018,REG,7
-121,A.Peterson,Adrian Peterson,WAS,RB,20.29,23,rush,0,0,2018,REG,7
-122,A.Roberts,Andre Roberts,NYJ,WR,20.17,53,kickoff ret,0,0,2018,REG,7
-123,C.Patterson,Cordarrelle Patterson,NE,WR,20.82,95,kickoff ret,1,0,2018,REG,7
-124,D.Jennings,Darius Jennings,TEN,WR,20.39,37,kickoff ret,0,1,2018,REG,7
-125,J.Brown,John Brown,BAL,WR,20.7,56,reception,0,0,2018,REG,7
-126,K.Drake,Kenyan Drake,MIA,RB,20.6,54,rush,1,0,2018,REG,7
-127,K.Johnson,Kerryon Johnson,DET,RB,21.21,71,rush,0,0,2018,REG,7
-128,L.Murray,Latavius Murray,MIN,RB,19.84,38,rush,1,0,2018,REG,7
-129,M.Mack,Marlon Mack,IND,RB,19.94,29,reception,1,0,2018,REG,7
-130,M.Hall,Marvin Hall,ATL,WR,20.43,47,reception,1,0,2018,REG,7
-131,M.Breida,Matt Breida,SF,RB,20,7,rush,0,0,2018,REG,7
-132,P.Lindsay,Phillip Lindsay,DEN,RB,19.98,22,rush,0,0,2018,REG,7
-133,R.Mostert,Raheem Mostert,SF,RB,20.66,11,rush,0,0,2018,REG,7
-134,R.Parker,Ron Parker,KC,FS,19.92,33,int,1,0,2018,REG,7
-135,T.Cohen,Tarik Cohen,CHI,RB,20.76,16,reception,0,0,2018,REG,7
-136,T.Coleman,Tevin Coleman,ATL,RB,20.88,30,rush,1,0,2018,REG,7
-137,T.Hill,Tyreek Hill,KC,WR,21.03,2,punt ret,0,1,2018,REG,7
-138,T.Williams,Tyrell Williams,LAC,WR,20.7,75,reception,1,0,2018,REG,7
-139,W.Smallwood,Wendell Smallwood,PHI,RB,20.52,7,reception,0,1,2018,REG,7
-140,A.Peterson,Adrian Peterson,WAS,RB,20.37,64,rush,1,1,2018,REG,8
-141,C.Patterson,Cordarrelle Patterson,NE,WR,20.09,22,rush,0,0,2018,REG,8
-142,D.Jackson,DeSean Jackson,TB,WR,21.19,60,reception,1,0,2018,REG,8
-143,D.Mccourty,Devin McCourty,NE,FS,22.05,84,int,1,0,2018,REG,8
-144,J.Grant,Jakeem Grant,MIA,WR,21.07,21,punt ret,0,0,2018,REG,8
-145,J.Franks,Jordan Franks,CIN,HB,20.76,32,reception,0,0,2018,REG,8
-146,K.Fuller,Kendall Fuller,KC,CB,20.15,0,int,0,0,2018,REG,8
-147,L.Miller,Lamar Miller,HOU,RB,20.35,58,rush,0,0,2018,REG,8
-148,M.Mack,Marlon Mack,IND,RB,21.35,49,rush,0,0,2018,REG,8
-149,M.Valdes-Scantling,Marquez Valdes-Scantling,GB,WR,19.94,40,reception,1,0,2018,REG,8
-150,M.Goodwin,Marquise Goodwin,SF,WR,20.74,55,reception,1,0,2018,REG,8
-151,M.Evans,Mike Evans,TB,WR,19.84,72,reception,1,0,2018,REG,8
-152,O.Beckham,Odell Beckham,NYG,WR,20.31,44,reception,0,0,2018,REG,8
-153,P.Lindsay,Phillip Lindsay,DEN,RB,20.58,14,rush,0,0,2018,REG,8
-154,S.Williams,Shawn Williams,CIN,SS,21.33,29,int,0,0,2018,REG,8
-155,T.Hilton,T.Y. Hilton,IND,WR,19.84,34,reception,0,0,2018,REG,8
-156,T.Cohen,Tarik Cohen,CHI,RB,21.42,70,reception,1,0,2018,REG,8
-157,T.Patrick,Tim Patrick,DEN,WR,19.8,13,rush,0,0,2018,REG,8
-158,W.Fuller,Will Fuller,HOU,WR,21.15,73,reception,1,0,2018,REG,8
-159,W.Fuller,Will Fuller,HOU,WR,20.39,34,reception,0,0,2018,REG,8
-160,C.Ridley,Calvin Ridley,ATL,WR,20.97,40,reception,1,0,2018,REG,9
-161,C.Samuel,Curtis Samuel,CAR,WR,20.45,33,rush,1,0,2018,REG,9
-162,D.Cook,Dalvin Cook,MIN,RB,22.07,70,rush,0,0,2018,REG,9
-163,D.Jennings,Darius Jennings,TEN,WR,20.11,36,reception,0,0,2018,REG,9
-164,D.King,Desmond King,LAC,CB,20.41,42,int,1,0,2018,REG,9
-165,G.Kittle,George Kittle,SF,TE,20,71,reception,0,0,2018,REG,9
-166,M.Mariota,Marcus Mariota,TEN,QB,20.23,6,rush,0,0,2018,REG,9
-167,M.Valdes-Scantling,Marquez Valdes-Scantling,GB,WR,21.13,51,reception,0,0,2018,REG,9
-168,M.Bryant,Martavis Bryant,OAK,WR,20.37,17,rush,0,0,2018,REG,9
-169,M.Gordon,Melvin Gordon,LAC,RB,20.15,34,rush,1,0,2018,REG,9
-170,M.Thomas,Michael Thomas,NO,WR,20.17,72,reception,1,1,2018,REG,9
-171,P.Lindsay,Phillip Lindsay,DEN,RB,20.56,22,rush,0,0,2018,REG,9
-172,R.Mostert,Raheem Mostert,SF,RB,20.93,52,rush,1,0,2018,REG,9
-173,R.James,Richie James,SF,WR,21.11,53,reception,0,0,2018,REG,9
-174,T.Cohen,Tarik Cohen,CHI,RB,20.29,7,rush,0,0,2018,REG,9
-175,T.Cohen,Tarik Cohen,CHI,RB,20.19,36,punt ret,0,0,2018,REG,9
-176,T.Coleman,Tevin Coleman,ATL,RB,21.48,3,rush,0,1,2018,REG,9
-177,T.Coleman,Tevin Coleman,ATL,RB,20.03,39,reception,1,0,2018,REG,9
-178,T.Gurley,Todd Gurley,LAR,RB,19.98,8,rush,1,0,2018,REG,9
-179,T.Hill,Tyreek Hill,KC,WR,21.38,12,rush,0,0,2018,REG,9
-180,A.Jones,Aaron Jones,GB,RB,21.33,67,rush,0,0,2018,REG,10
-181,A.Roberts,Andre Roberts,NYJ,WR,20.52,35,kickoff ret,0,0,2018,REG,10
-182,B.Cooks,Brandin Cooks,LAR,WR,20.8,9,rush,1,0,2018,REG,10
-183,C.Patterson,Cordarrelle Patterson,NE,WR,20.41,23,kickoff ret,0,0,2018,REG,10
-184,D.Jennings,Darius Jennings,TEN,WR,21.05,58,kickoff ret,0,0,2018,REG,10
-185,D.Fluellen,David Fluellen,TEN,RB,20.43,13,rush,0,0,2018,REG,10
-186,D.Moncrief,Donte Moncrief,JAX,WR,20.21,80,reception,1,0,2018,REG,10
-187,J.Driskel,Jeff Driskel,CIN,QB,21.03,27,rush,1,0,2018,REG,10
-188,J.Ross,John Ross,CIN,WR,20.23,37,reception,0,0,2018,REG,10
-189,J.Townsend,Johnny Townsend,OAK,P,20.48,42,rush,0,0,2018,REG,10
-190,J.Wilkins,Jordan Wilkins,IND,RB,20.78,53,rush,0,0,2018,REG,10
-191,L.Mccoy,LeSean McCoy,BUF,RB,20.23,28,rush,1,0,2018,REG,10
-192,M.Gordon,Melvin Gordon,LAC,RB,20.6,66,reception,1,0,2018,REG,10
-193,N.Agholor,Nelson Agholor,PHI,WR,20.76,51,reception,0,0,2018,REG,10
-194,N.Chubb,Nick Chubb,CLE,RB,20.68,92,rush,1,0,2018,REG,10
-195,R.Foster,Robert Foster,BUF,WR,21.48,47,reception,0,0,2018,REG,10
-196,R.Foster,Robert Foster,BUF,WR,20.64,43,reception,0,0,2018,REG,10
-197,T.Cohen,Tarik Cohen,CHI,RB,20.19,2,reception,0,0,2018,REG,10
-198,T.Hill,Tyreek Hill,KC,WR,21.07,20,rush,0,0,2018,REG,10
-199,T.Hill,Tyreek Hill,KC,WR,20.48,16,reception,0,0,2018,REG,10
-200,B.Cooks,Brandin Cooks,LAR,WR,20.15,30,reception,0,0,2018,REG,11
-201,C.Rogers,Chester Rogers,IND,WR,19.98,51,punt ret,0,1,2018,REG,11
-202,C.Kirk,Christian Kirk,ARI,WR,20.99,59,reception,1,0,2018,REG,11
-203,C.Mccoy,Colt McCoy,WAS,QB,20.31,15,rush,0,0,2018,REG,11
-204,D.Moore,D.J. Moore,CAR,WR,20.15,82,reception,0,0,2018,REG,11
-205,D.Adams,Davante Adams,GB,WR,20.58,57,reception,0,0,2018,REG,11
-206,D.Johnson,David Johnson,ARI,RB,20.64,53,rush,0,0,2018,REG,11
-207,D.Johnson,David Johnson,ARI,RB,20.43,7,rush,0,1,2018,REG,11
-208,J.Adams,Josh Adams,PHI,RB,20.17,28,rush,1,0,2018,REG,11
-209,J.Jones,Julio Jones,ATL,WR,20.56,34,reception,1,0,2018,REG,11
-210,J.Reid,Justin Reid,HOU,DB,20.68,101,int,1,0,2018,REG,11
-211,O.Beckham,Odell Beckham,NYG,WR,20.25,41,reception,0,0,2018,REG,11
-212,O.Beckham,Odell Beckham,NYG,WR,20.03,11,rush,0,0,2018,REG,11
-213,P.Lindsay,Phillip Lindsay,DEN,RB,20.41,41,rush,1,0,2018,REG,11
-214,T.Logan,T.J. Logan,ARI,RB,20.09,32,kickoff ret,0,0,2018,REG,11
-215,T.Hilton,T.Y. Hilton,IND,WR,20.86,68,reception,1,0,2018,REG,11
-216,T.Davis,Trevor Davis,GB,WR,20.35,20,kickoff ret,0,1,2018,REG,11
-217,T.Lockett,Tyler Lockett,SEA,WR,20.39,34,reception,0,0,2018,REG,11
-218,T.Hill,Tyreek Hill,KC,WR,20.21,14,punt ret,0,0,2018,REG,11
-219,T.Hill,Tyreek Hill,KC,WR,20.19,25,reception,1,0,2018,REG,11
-220,A.Cooper,Amari Cooper,DAL,WR,20.82,90,reception,1,0,2018,REG,12
-221,C.Ridley,Calvin Ridley,ATL,WR,21.29,50,reception,0,0,2018,REG,12
-222,C.Mccaffrey,Christian McCaffrey,CAR,RB,21.27,59,rush,0,0,2018,REG,12
-223,C.Mccaffrey,Christian McCaffrey,CAR,RB,20.07,38,reception,0,0,2018,REG,12
-224,C.Davis,Corey Davis,TEN,WR,20.39,39,rush,0,0,2018,REG,12
-225,C.Samuel,Curtis Samuel,CAR,WR,21.56,25,rush,0,0,2018,REG,12
-226,D.Johnson,Danny Johnson,WAS,DB,20.93,44,kickoff ret,0,0,2018,REG,12
-227,J.Smith,Jonnu Smith,TEN,TE,20.72,61,reception,1,0,2018,REG,12
-228,J.Adams,Josh Adams,PHI,RB,20.68,2,rush,0,1,2018,REG,12
-229,J.Smith-Schuster,JuJu Smith-Schuster,PIT,WR,20.45,97,reception,1,0,2018,REG,12
-230,L.Jackson,Lamar Jackson,BAL,QB,20.05,39,rush,0,0,2018,REG,12
-231,L.Miller,Lamar Miller,HOU,RB,21.05,97,rush,1,0,2018,REG,12
-232,M.Breida,Matt Breida,SF,RB,22.09,33,rush,0,0,2018,REG,12
-233,M.Gordon,Melvin Gordon,LAC,RB,20.33,28,rush,1,0,2018,REG,12
-234,M.Evans,Mike Evans,TB,WR,20.78,42,reception,0,0,2018,REG,12
-235,P.Lindsay,Phillip Lindsay,DEN,RB,21.91,32,rush,0,0,2018,REG,12
-236,R.Foster,Robert Foster,BUF,WR,21.11,75,reception,1,0,2018,REG,12
-237,S.Barkley,Saquon Barkley,NYG,RB,20.19,51,rush,1,0,2018,REG,12
-238,S.Roberts,Seth Roberts,OAK,WR,20.15,11,rush,0,0,2018,REG,12
-239,V.Davis,Vernon Davis,WAS,TE,21.44,53,reception,1,0,2018,REG,12
-240,A.Peterson,Adrian Peterson,WAS,RB,20.84,90,rush,1,0,2018,REG,13
-241,A.Roberts,Andre Roberts,NYJ,WR,20.84,59,kickoff ret,0,0,2018,REG,13
-242,B.Wagner,Bobby Wagner,SEA,MLB,20.09,98,int,1,0,2018,REG,13
-243,C.Godwin,Chris Godwin,TB,WR,20.93,48,reception,0,0,2018,REG,13
-244,C.Kirk,Christian Kirk,ARI,WR,20.48,23,rush,0,0,2018,REG,13
-245,C.Mccaffrey,Christian McCaffrey,CAR,RB,20.9,53,rush,0,0,2018,REG,13
-246,D.Cook,Dalvin Cook,MIN,RB,20.31,5,rush,0,0,2018,REG,13
-247,D.Cook,Dalvin Cook,MIN,RB,20.27,18,rush,0,0,2018,REG,13
-248,D.Pettis,Dante Pettis,SF,WR,20.27,75,reception,1,0,2018,REG,13
-249,I.Mckenzie,Isaiah McKenzie,BUF,WR,19.9,19,reception,0,0,2018,REG,13
-250,J.Howard,Jordan Howard,CHI,RB,20.58,25,rush,0,0,2018,REG,13
-251,J.Reynolds,Josh Reynolds,LAR,WR,20.5,14,reception,0,0,2018,REG,13
-252,L.Mccoy,LeSean McCoy,BUF,RB,20.33,18,rush,0,0,2018,REG,13
-253,M.Valdes-Scantling,Marquez Valdes-Scantling,GB,WR,20.76,21,rush,0,0,2018,REG,13
-254,P.Lindsay,Phillip Lindsay,DEN,RB,20.37,65,rush,1,0,2018,REG,13
-255,P.Lindsay,Phillip Lindsay,DEN,RB,20.23,11,rush,0,0,2018,REG,13
-256,R.Penny,Rashaad Penny,SEA,RB,20.19,20,rush,1,0,2018,REG,13
-257,T.Taylor,Taywan Taylor,TEN,WR,20.62,55,reception,0,0,2018,REG,13
-258,T.Benjamin,Travis Benjamin,LAC,WR,20.5,46,reception,1,0,2018,REG,13
-259,T.Hill,Tyreek Hill,KC,WR,21.19,33,rush,0,0,2018,REG,13
-260,A.Cooper,Amari Cooper,DAL,WR,21.27,75,reception,1,0,2018,REG,14
-261,A.Roberts,Andre Roberts,NYJ,WR,20.72,13,kickoff ret,0,1,2018,REG,14
-262,A.Roberts,Andre Roberts,NYJ,WR,20.25,86,kickoff ret,0,0,2018,REG,14
-263,B.Bolden,Brandon Bolden,MIA,RB,20.97,54,rush,1,0,2018,REG,14
-264,B.Perriman,Breshad Perriman,CLE,WR,20.76,66,reception,0,0,2018,REG,14
-265,B.Perriman,Breshad Perriman,CLE,WR,19.88,15,reception,0,0,2018,REG,14
-266,D.Slay,Darius Slay,DET,CB,21.29,67,int,1,0,2018,REG,14
-267,D.Henry,Derrick Henry,TEN,RB,21.74,54,rush,1,0,2018,REG,14
-268,D.Henry,Derrick Henry,TEN,RB,20.29,99,rush,1,0,2018,REG,14
-269,E.Engram,Evan Engram,NYG,TE,20,39,reception,0,0,2018,REG,14
-270,E.Elliott,Ezekiel Elliott,DAL,RB,19.98,10,rush,0,0,2018,REG,14
-271,G.Kittle,George Kittle,SF,TE,20.39,85,reception,1,0,2018,REG,14
-272,I.Mckenzie,Isaiah McKenzie,BUF,WR,20.7,15,rush,1,0,2018,REG,14
-273,J.Crowder,Jamison Crowder,WAS,WR,20.43,79,reception,1,0,2018,REG,14
-274,J.Smith-Schuster,JuJu Smith-Schuster,PIT,WR,20.17,5,reception,0,0,2018,REG,14
-275,N.Agholor,Nelson Agholor,PHI,WR,20.45,42,reception,0,0,2018,REG,14
-276,R.Foster,Robert Foster,BUF,WR,21.62,12,reception,0,0,2018,REG,14
-277,S.Barkley,Saquon Barkley,NYG,RB,21.91,78,rush,1,0,2018,REG,14
-278,S.Diggs,Stefon Diggs,MIN,WR,20.27,48,reception,0,0,2018,REG,14
-279,T.Cohen,Tarik Cohen,CHI,RB,19.98,32,rush,0,0,2018,REG,14
-280,A.Robinson,Aldrick Robinson,MIN,WR,20.8,40,reception,1,0,2018,REG,15
-281,A.Erickson,Alex Erickson,CIN,WR,21.52,77,kickoff ret,0,0,2018,REG,15
-282,D.Williams,Damien Williams,KC,RB,20.93,32,reception,0,0,2018,REG,15
-283,D.Waller,Darren Waller,OAK,TE,20.33,44,reception,0,0,2018,REG,15
-284,D.Carter,DeAndre Carter,HOU,WR,19.94,50,reception,0,0,2018,REG,15
-285,D.Westbrook,Dede Westbrook,JAX,WR,21.8,74,punt ret,1,0,2018,REG,15
-286,J.Driskel,Jeff Driskel,CIN,QB,20.03,13,rush,0,0,2018,REG,15
-287,J.Mixon,Joe Mixon,CIN,HB,20.78,15,rush,1,0,2018,REG,15
-288,J.Nelson,Jordy Nelson,OAK,WR,19.82,44,reception,0,0,2018,REG,15
-289,K.Ballage,Kalen Ballage,MIA,RB,21.87,75,rush,1,0,2018,REG,15
-290,M.Mariota,Marcus Mariota,TEN,QB,20.09,11,rush,0,0,2018,REG,15
-291,M.Sherels,Marcus Sherels,MIN,CB,20.39,70,punt ret,0,0,2018,REG,15
-292,M.Fitzpatrick,Minkah Fitzpatrick,MIA,S,21.85,50,int,1,0,2018,REG,15
-293,N.Chubb,Nick Chubb,CLE,RB,20.45,40,rush,0,0,2018,REG,15
-294,T.Coleman,Tevin Coleman,ATL,RB,21.19,28,rush,0,1,2018,REG,15
-295,T.Coleman,Tevin Coleman,ATL,RB,20.41,65,rush,0,0,2018,REG,15
-296,T.Coleman,Tevin Coleman,ATL,RB,20.29,43,rush,1,0,2018,REG,15
-297,T.Patrick,Tim Patrick,DEN,WR,19.8,24,reception,0,0,2018,REG,15
-298,T.Gurley,Todd Gurley,LAR,RB,19.82,9,rush,0,0,2018,REG,15
-299,T.Benjamin,Travis Benjamin,LAC,WR,20.03,8,rush,0,0,2018,REG,15
-300,A.Jeffery,Alshon Jeffery,PHI,WR,20.25,52,reception,0,0,2018,REG,16
-301,A.Kamara,Alvin Kamara,NO,RB,20.52,42,reception,0,0,2018,REG,16
-302,A.Roberts,Andre Roberts,NYJ,WR,21.31,99,kickoff ret,1,0,2018,REG,16
-303,A.Roberts,Andre Roberts,NYJ,WR,20.21,51,kickoff ret,0,0,2018,REG,16
-304,B.Cooks,Brandin Cooks,LAR,WR,20.15,17,rush,0,1,2018,REG,16
-305,B.Perriman,Breshad Perriman,CLE,WR,20,63,reception,0,0,2018,REG,16
-306,B.Hill,Brian Hill,ATL,HB,21.35,60,rush,0,0,2018,REG,16
-307,C.Ridley,Calvin Ridley,ATL,WR,20.6,75,reception,1,0,2018,REG,16
-308,C.Patterson,Cordarrelle Patterson,NE,WR,21.29,15,rush,0,0,2018,REG,16
-309,C.Patterson,Cordarrelle Patterson,NE,WR,20.15,27,rush,0,0,2018,REG,16
-310,E.Elliott,Ezekiel Elliott,DAL,RB,20.05,12,rush,0,0,2018,REG,16
-311,G.Edwards,Gus Edwards,BAL,RB,20.13,43,rush,0,0,2018,REG,16
-312,J.Natson,JoJo Natson,LAR,WR,20.41,26,punt ret,0,0,2018,REG,16
-313,J.Jones,Julio Jones,ATL,WR,21.35,1,reception,1,0,2018,REG,16
-314,K.Ballage,Kalen Ballage,MIA,RB,20.09,31,reception,0,0,2018,REG,16
-315,K.Golladay,Kenny Golladay,DET,WR,20.29,21,reception,0,0,2018,REG,16
-316,M.Sanu,Mohamed Sanu,ATL,WR,20.21,44,reception,1,0,2018,REG,16
-317,N.Agholor,Nelson Agholor,PHI,WR,20.78,83,reception,1,0,2018,REG,16
-318,T.Hilton,T.Y. Hilton,IND,WR,20.05,55,reception,0,0,2018,REG,16
-319,T.Hill,Tyreek Hill,KC,WR,20.25,32,reception,0,0,2018,REG,16
-320,A.Hurns,Allen Hurns,DAL,WR,19.98,49,reception,0,0,2018,REG,17
-321,B.Perriman,Breshad Perriman,CLE,WR,20.9,5,rush,0,0,2018,REG,17
-322,B.Perriman,Breshad Perriman,CLE,WR,20.03,28,reception,1,0,2018,REG,17
-323,C.Carson,Chris Carson,SEA,RB,20.93,61,rush,0,0,2018,REG,17
-324,C.Coleman,Corey Coleman,NYG,WR,19.9,38,kickoff ret,0,0,2018,REG,17
-325,C.Samuel,Curtis Samuel,CAR,WR,20.15,53,reception,1,0,2018,REG,17
-326,D.Cook,Dalvin Cook,MIN,RB,20.03,5,rush,0,0,2018,REG,17
-327,D.Sorensen,Daniel Sorensen,KC,SS,20.86,54,int,1,0,2018,REG,17
-328,D.Henry,Derrick Henry,TEN,RB,20.17,33,rush,0,0,2018,REG,17
-329,G.Conley,Gareon Conley,OAK,CB,20.37,0,int,0,0,2018,REG,17
-330,J.Mixon,Joe Mixon,CIN,HB,19.9,21,rush,0,0,2018,REG,17
-331,K.Allen,Kyle Allen,CAR,QB,21.35,10,rush,0,0,2018,REG,17
-332,P.Dorsett,Phillip Dorsett,NE,WR,20.64,11,rush,0,0,2018,REG,17
-333,R.Jones,Reshad Jones,MIA,SS,20.03,29,int,1,0,2018,REG,17
-334,S.Barkley,Saquon Barkley,NYG,RB,20.78,68,rush,0,0,2018,REG,17
-335,T.Gabriel,Taylor Gabriel,CHI,WR,20.27,40,reception,0,0,2018,REG,17
-336,T.Hill,Tyreek Hill,KC,WR,20.54,67,reception,1,0,2018,REG,17
-337,T.Hill,Tyreek Hill,KC,WR,19.98,5,reception,0,0,2018,REG,17
-338,Z.Jones,Zay Jones,BUF,WR,20.97,18,reception,1,0,2018,REG,17
-339,Z.Jones,Zay Jones,BUF,WR,20.19,26,reception,1,0,2018,REG,17
+,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week,gameId,playId,quarter,time,desc
+0,T.Hill,Tyreek Hill,KC,WR,21.95,58,reception,1,0,2018,REG,1,2018090908,507,1,06:50,"(6:50) (Shotgun) P.Mahomes pass short middle to T.Hill for 58 yards, TOUCHDOWN [B.Mebane]."
+1,T.Hill,Tyreek Hill,KC,WR,21.78,91,punt ret,1,0,2018,REG,1,2018090908,117,1,13:24,"(13:24) D.Kaser punts 57 yards to KC 9, Center-M.Windt. T.Hill for 91 yards, TOUCHDOWN."
+2,D.Henry,Derrick Henry,TEN,RB,21.46,2,rush,0,1,2018,REG,1,2018090903,3053,4,13:23,"(13:23) D.Henry right end for 62 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on TEN-D.Walker, Offensive Holding, 10 yards, enforced at TEN 40."
+3,J.Conner,James Conner,PIT,RB,21.03,22,rush,1,0,2018,REG,1,2018090901,2686,3,05:29,"(5:29) J.Conner left guard for 22 yards, TOUCHDOWN."
+4,A.Green,A.J. Green,CIN,WR,20.95,38,reception,1,0,2018,REG,1,2018090902,2824,3,04:18,"(4:18) A.Dalton pass deep left to A.Green for 38 yards, TOUCHDOWN."
+5,I.Crowell,Isaiah Crowell,NYJ,RB,20.95,62,rush,1,0,2018,REG,1,2018091000,3079,3,01:04,"(1:04) I.Crowell right end for 62 yards, TOUCHDOWN."
+6,J.Smith-Schuster,JuJu Smith-Schuster,PIT,WR,20.93,67,reception,0,0,2018,REG,1,2018090901,2324,3,09:59,(9:59) (Shotgun) B.Roethlisberger pass short right to J.Smith-Schuster pushed ob at CLE 7 for 67 yards (D.Randall).
+7,J.Grant,Jakeem Grant,MIA,WR,20.93,102,kickoff ret,1,0,2018,REG,1,2018090903,2956,4,,"R.Succop kicks 67 yards from TEN 35 to MIA -2. J.Grant for 102 yards, TOUCHDOWN."
+8,D.Jennings,Darius Jennings,TEN,WR,20.64,94,kickoff ret,1,0,2018,REG,1,2018090903,3300,4,,"J.Sanders kicks 59 yards from MIA 35 to TEN 6. D.Jennings for 94 yards, TOUCHDOWN."
+9,D.Jackson,DeSean Jackson,TB,WR,20.45,58,reception,1,0,2018,REG,1,2018090906,354,1,09:51,"(9:51) R.Fitzpatrick pass deep right to D.Jackson for 58 yards, TOUCHDOWN. Pass 38, YAC 20"
+10,D.Jackson,DeSean Jackson,TB,WR,20.41,36,reception,1,1,2018,REG,1,2018090906,3466,4,12:24,"(12:24) R.Fitzpatrick pass deep middle to D.Jackson for 36 yards, TOUCHDOWN. PENALTY on NO-D.Onyemata, Roughing the Passer, 15 yards, enforced between downs. Pass 36, YAC 0"
+11,T.Lockett,Tyler Lockett,SEA,WR,20.35,51,reception,1,0,2018,REG,1,2018090911,3196,4,14:55,"(14:55) (Shotgun) R.Wilson pass deep middle to T.Lockett for 51 yards, TOUCHDOWN."
+12,K.Stills,Kenny Stills,MIA,WR,20.25,75,reception,1,0,2018,REG,1,2018090903,3264,4,10:33,"(10:33) (No Huddle) R.Tannehill pass deep middle to K.Stills for 75 yards, TOUCHDOWN."
+13,M.Breida,Matt Breida,SF,RB,20.19,-1,rush,0,0,2018,REG,1,2018090904,372,1,08:12,(8:12) (Shotgun) M.Breida right end to SF 22 for -1 yards (D.Hunter).
+14,M.Evans,Mike Evans,TB,WR,20.15,50,reception,1,0,2018,REG,1,2018090906,3051,3,03:06,"(3:06) (Shotgun) R.Fitzpatrick pass deep right to M.Evans for 50 yards, TOUCHDOWN. Pass 36, YAC 14"
+15,N.Hines,Nyheim Hines,IND,RB,20.05,4,rush,0,0,2018,REG,1,2018090902,931,2,15:00,(15:00) N.Hines right end pushed ob at CIN 47 for 4 yards (J.Bates).
+16,P.Cooper,Pharoh Cooper,LA,WR,20.03,12,punt ret,0,0,2018,REG,1,2018091001,499,1,06:20,"(6:20) J.Townsend punts 55 yards to LA 38, Center-A.DePaola. P.Cooper ran ob at 50 for 12 yards (M.Lee). OAK-A.DePaola was injured during the play. He is Out."
+17,T.Cohen,Tarik Cohen,CHI,RB,19.96,42,punt ret,0,0,2018,REG,1,2018090912,1149,2,09:05,"(9:05) J.Scott punts 58 yards to CHI 15, Center-H.Bradley. T.Cohen pushed ob at GB 43 for 42 yards (H.Bradley)."
+18,S.Barkley,Saquon Barkley,NYG,RB,19.82,68,rush,1,0,2018,REG,1,2018090907,3361,4,10:51,"(10:51) (Shotgun) S.Barkley right tackle for 68 yards, TOUCHDOWN."
+19,T.Coleman,Tevin Coleman,ATL,RB,19.76,26,reception,0,0,2018,REG,1,2018090600,492,1,07:01,(7:01) M.Ryan pass short left to T.Coleman pushed ob at PHI 10 for 26 yards (R.McLeod).
+20,A.Callaway,Antonio Callaway,CLE,WR,21.48,47,reception,1,0,2018,REG,2,2018091603,3816,4,01:24,"(1:24) (Shotgun) T.Taylor pass deep middle to A.Callaway for 47 yards, TOUCHDOWN. Pass 47, YAC 0"
+21,J.Natson,JoJo Natson,LA,WR,20.93,60,punt ret,0,0,2018,REG,2,2018091609,1552,2,04:33,"(4:33) A.Lee punts 58 yards to LA 8, Center-A.Brewer. J.Natson to ARI 32 for 60 yards (A.Lee)."
+22,P.Lindsay,Phillip Lindsay,DEN,RB,20.76,53,rush,0,0,2018,REG,2,2018091611,1115,2,11:42,(11:42) P.Lindsay up the middle pushed ob at OAK 22 for 53 yards (M.Gilchrist).
+23,J.Crowder,Jamison Crowder,WAS,WR,20.68,25,rush,0,0,2018,REG,2,2018091608,360,1,09:25,(9:25) J.Crowder left end pushed ob at 50 for 25 yards (M.Hooker). End around
+24,D.Jackson,DeSean Jackson,TB,WR,20.5,75,reception,1,0,2018,REG,2,2018091606,51,1,15:00,"(15:00) R.Fitzpatrick pass deep middle to D.Jackson for 75 yards, TOUCHDOWN."
+25,S.Diggs,Stefon Diggs,MIN,WR,20.48,75,reception,1,0,2018,REG,2,2018091602,3122,4,07:29,"(7:29) (Shotgun) K.Cousins pass deep middle to S.Diggs for 75 yards, TOUCHDOWN."
+26,J.Natson,JoJo Natson,LA,WR,20.39,17,punt ret,0,0,2018,REG,2,2018091609,2352,3,06:02,"(6:02) A.Lee punts 58 yards to LA 27, Center-A.Brewer. J.Natson ran ob at LA 44 for 17 yards (G.Hodges)."
+27,B.Cooks,Brandin Cooks,LA,WR,20.35,57,reception,0,0,2018,REG,2,2018091609,2057,3,12:39,(12:39) J.Goff pass deep middle to B.Cooks to ARI 22 for 57 yards (J.Taylor).
+28,T.Pryor,Terrelle Pryor,NYJ,WR,20.35,44,reception,0,0,2018,REG,2,2018091604,1875,2,00:41,(:41) (Shotgun) S.Darnold pass deep middle to T.Pryor to MIA 31 for 44 yards (R.Jones).
+29,T.Ginn,Ted Ginn,NO,WR,20.35,42,reception,0,0,2018,REG,2,2018091603,3904,4,00:53,"(:53) (No Huddle, Shotgun) D.Brees pass deep middle to T.Ginn ran ob at CLE 25 for 42 yards (D.Randall). Pass 16, YAC 26"
+30,T.Coleman,Tevin Coleman,ATL,RB,20.31,36,rush,0,0,2018,REG,2,2018091600,1284,2,07:13,"(7:13) T.Coleman right tackle to CAR 24 for 36 yards (D.Jackson). FUMBLES (D.Jackson), ball out of bounds at CAR 24."
+31,O.Howard,O.J. Howard,TB,TE,20.31,75,reception,1,0,2018,REG,2,2018091606,1640,2,04:51,"(4:51) (Shotgun) R.Fitzpatrick pass short middle to O.Howard for 75 yards, TOUCHDOWN."
+32,C.Hogan,Chris Hogan,NE,WR,20.29,29,reception,1,0,2018,REG,2,2018091612,3733,4,03:48,"(3:48) (Shotgun) T.Brady pass short middle to C.Hogan for 29 yards, TOUCHDOWN."
+33,T.Williams,Tyrell Williams,LAC,WR,20.23,18,reception,0,0,2018,REG,2,2018091601,3235,4,12:39,"(12:39) (Shotgun) P.Rivers pass short right to Ty.Williams pushed ob at LAC 38 for 18 yards (J.Poyer). Caught at LAC 21, crossing from middle."
+34,E.Elliott,Ezekiel Elliott,DAL,RB,20.15,19,rush,0,0,2018,REG,2,2018091613,343,1,09:26,(9:26) E.Elliott left tackle to DAL 48 for 19 yards (L.Collins).
+35,D.Cruikshank,Dane Cruikshank,TEN,DB,20.15,66,reception,1,0,2018,REG,2,2018091607,329,1,10:00,"(10:00) (Punt formation) K.Byard pass deep right to D.Cruikshank for 66 yards, TOUCHDOWN."
+36,P.Amukamara,Prince Amukamara,CHI,CB,20.09,49,int,1,0,2018,REG,2,2018091700,3637,4,06:47,"(6:47) (Shotgun) R.Wilson pass short left intended for R.Penny INTERCEPTED by P.Amukamara at SEA 49. P.Amukamara for 49 yards, TOUCHDOWN."
+37,C.Newton,Cam Newton,CAR,QB,20.07,10,rush,0,0,2018,REG,2,2018091600,2953,4,13:35,(13:35) (Shotgun) C.Newton right end ran ob at ATL 17 for 10 yards (D.Riley).
+38,R.Anderson,Robby Anderson,NYJ,WR,20.03,17,reception,0,0,2018,REG,2,2018091604,1225,2,07:19,(7:19) S.Darnold pass short left to R.Anderson pushed ob at NYJ 25 for 17 yards (J.Baker).
+39,J.Agnew,Jamal Agnew,DET,CB,19.98,4,punt ret,0,1,2018,REG,2,2018091610,3871,4,06:31,"(6:31) B.Pinion punts 49 yards to DET 27, Center-K.Nelson. J.Agnew for 73 yards, TOUCHDOWN NULLIFIED by Penalty. Penalty on DET-T.Walker, Illegal Block Above the Waist, declined. PENALTY on DET-N.Bellore, Illegal Block Above the Waist, 10 yards, enforced at DET 31. Agnew credited with a 4-yd. return."
+40,A.Wilson,Albert Wilson,MIA,WR,21.74,74,reception,1,0,2018,REG,3,2018092306,3553,4,02:11,"(2:11) (Shotgun) R.Tannehill pass short middle to A.Wilson for 74 yards, TOUCHDOWN."
+41,D.Jackson,DeSean Jackson,TB,WR,21.48,0,punt ret,0,1,2018,REG,3,2018092400,3619,4,08:57,"(8:57) J.Berry punts 46 yards to TB 17, Center-K.Canaday. D.Jackson for 83 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on TB-I.Johnson, Offensive Holding, 9 yards, enforced at TB 17."
+42,J.Jones,Julio Jones,ATL,WR,21.33,58,reception,0,0,2018,REG,3,2018092300,3658,4,09:35,(9:35) M.Ryan pass deep middle to J.Jones to NO 12 for 58 yards (K.Crawley).
+43,T.Ginn,Ted Ginn,NO,WR,21.27,20,rush,0,0,2018,REG,3,2018092300,3954,4,04:17,(4:17) T.Ginn right end ran ob at ATL 33 for 20 yards (R.Allen).
+44,D.Rodgers-Cromartie,Dominique Rodgers-Cromartie,OAK,CB,21.07,0,punt ret,0,1,2018,REG,3,2018092306,250,1,12:06,"(12:06) (Punt formation) M.Haack punts 59 yards to OAK 9, Center-J.Denney. D.Rodgers-Cromartie to OAK 8 for -1 yards (J.Denney). PENALTY on OAK-D.Harris, Illegal Block Above the Waist, 4 yards, enforced at OAK 8."
+45,J.Nelson,Jordy Nelson,OAK,WR,21.05,61,reception,0,0,2018,REG,3,2018092306,80,1,14:56,(14:56) D.Carr pass short middle to J.Nelson pushed ob at MIA 14 for 61 yards (J.Baker) [A.Spence].
+46,M.Williams,Mike Williams,LAC,WR,21.05,42,reception,1,0,2018,REG,3,2018092310,758,1,04:50,"(4:50) P.Rivers pass deep middle to M.Williams for 42 yards, TOUCHDOWN."
+47,J.Nelson,Jordy Nelson,OAK,WR,20.97,66,reception,0,0,2018,REG,3,2018092306,425,1,09:08,(9:08) (Shotgun) D.Carr pass deep left to J.Nelson to MIA 8 for 66 yards (M.Fitzpatrick).
+48,C.Ridley,Calvin Ridley,ATL,WR,20.9,75,reception,1,0,2018,REG,3,2018092300,1783,2,02:23,"(2:23) (Shotgun) M.Ryan pass deep right to C.Ridley for 75 yards, TOUCHDOWN."
+49,A.Green,A.J. Green,CIN,WR,20.88,31,reception,0,0,2018,REG,3,2018092302,749,1,03:02,"(3:02) A.Dalton pass incomplete deep left to A.Green. Cincinnati challenged the incomplete pass ruling, and the play was REVERSED. A.Dalton pass deep left to A.Green ran ob at CAR 44 for 31 yards."
+50,M.Breida,Matt Breida,SF,RB,20.8,26,rush,0,0,2018,REG,3,2018092305,500,1,08:24,(8:24) M.Breida left tackle pushed ob at KC 49 for 26 yards (E.Murray).
+51,T.Gurley,Todd Gurley,LA,RB,20.72,25,reception,0,1,2018,REG,3,2018092310,2760,3,06:58,"(6:58) J.Goff pass short left to T.Gurley pushed ob at LAC 15 for 45 yards (C.Hayward). PENALTY on LA-R.Woods, Offensive Holding, 10 yards, enforced at LAC 35."
+52,S.Barkley,Saquon Barkley,NYG,RB,20.66,24,rush,0,0,2018,REG,3,2018092303,1293,2,09:19,(9:19) (Run formation) S.Barkley right guard pushed ob at HOU 24 for 24 yards (T.Mathieu).
+53,J.Allen,Josh Allen,BUF,QB,20.6,10,rush,1,0,2018,REG,3,2018092307,277,1,10:11,"(10:11) (Shotgun) J.Allen scrambles left end for 10 yards, TOUCHDOWN."
+54,C.McCaffrey,Christian McCaffrey,CAR,RB,20.48,45,rush,0,0,2018,REG,3,2018092302,631,1,05:22,(5:22) (Shotgun) C.McCaffrey up the middle to CIN 6 for 45 yards (J.Bates).
+55,T.Williams,Tyrell Williams,LAC,WR,20.41,14,rush,0,0,2018,REG,3,2018092310,3210,4,13:36,(13:36) Ty.Williams left end to LA 10 for 14 yards (N.Robey; S.Ebukam).
+56,T.Austin,Tavon Austin,DAL,WR,20.25,18,rush,0,0,2018,REG,3,2018092312,528,1,06:09,(6:09) T.Austin right end pushed ob at DAL 40 for 18 yards (M.Kendricks).
+57,A.Peterson,Adrian Peterson,WAS,RB,20.25,41,rush,0,0,2018,REG,3,2018092309,1488,2,06:28,(6:28) A.Peterson right end pushed ob at GB 19 for 41 yards (H.Clinton-Dix; B.Martinez).
+58,S.Shepard,Sterling Shepard,NYG,WR,20.25,23,reception,0,0,2018,REG,3,2018092303,3340,4,07:31,(7:31) (Shotgun) E.Manning pass short left to S.Shepard pushed ob at NYG 46 for 23 yards (J.Joseph).
+59,T.Hilton,T.Y. Hilton,IND,WR,20.15,2,punt ret,0,1,2018,REG,3,2018092308,4183,4,00:53,"(:53) C.Johnston punts 52 yards to IND 19, Center-R.Lovato. T.Hilton ran ob at IND 29 for 10 yards. PENALTY on IND-G.Odum, Offensive Holding, 10 yards, enforced at IND 21. Penalty on IND-G.Odum, Illegal Block Above the Waist, declined."
+60,B.Cooks,Brandin Cooks,LA,WR,21.23,47,reception,1,0,2018,REG,4,2018092700,1960,2,01:33,"(1:33) (Shotgun) J.Goff pass deep middle to B.Cooks for 47 yards, TOUCHDOWN."
+61,D.Moncrief,Donte Moncrief,JAX,WR,21.23,67,reception,1,0,2018,REG,4,2018093005,2872,3,03:47,"(3:47) (Shotgun) B.Bortles pass deep right to D.Moncrief for 67 yards, TOUCHDOWN."
+62,N.Chubb,Nick Chubb,CLE,RB,21.15,63,rush,1,0,2018,REG,4,2018093009,1111,2,12:46,"(12:46) N.Chubb right guard for 63 yards, TOUCHDOWN."
+63,S.Barkley,Saquon Barkley,NYG,RB,20.86,28,rush,0,0,2018,REG,4,2018093011,2547,3,05:53,(5:53) S.Barkley right guard pushed ob at NO 49 for 28 yards (M.Williams).
+64,C.Kupp,Cooper Kupp,LA,WR,20.7,70,reception,1,0,2018,REG,4,2018092700,1148,2,09:40,"(9:40) (No Huddle) J.Goff pass deep right to C.Kupp for 70 yards, TOUCHDOWN."
+65,C.Kupp,Cooper Kupp,LA,WR,20.58,19,reception,1,0,2018,REG,4,2018092700,1600,2,03:55,"(3:55) (Shotgun) J.Goff pass deep right to C.Kupp for 19 yards, TOUCHDOWN."
+66,T.Hilton,T.Y. Hilton,IND,WR,20.54,42,reception,0,0,2018,REG,4,2018093004,3008,3,05:58,"(5:58) (Shotgun) A.Luck pass deep right to T.Hilton ran ob at HOU 19 for 42 yards (J.Joseph). Penalty on HOU-J.Clowney, Defensive Holding, declined."
+67,M.Valdes-Scantling,Marquez Valdes-Scantling,GB,WR,20.39,38,reception,0,0,2018,REG,4,2018093003,3637,4,04:09,(4:09) (Shotgun) A.Rodgers pass deep right to M.Valdes-Scantling to BUF 28 for 38 yards (R.Lewis).
+68,J.Brown,John Brown,BAL,WR,20.35,33,reception,1,0,2018,REG,4,2018093012,245,1,10:52,"(10:52) (Shotgun) J.Flacco pass deep right to J.Brown for 33 yards, TOUCHDOWN."
+69,T.Gabriel,Taylor Gabriel,CHI,WR,20.33,30,reception,0,0,2018,REG,4,2018093001,1679,2,08:08,(8:08) (Shotgun) M.Trubisky pass deep left to T.Gabriel to TB 40 for 30 yards (M.Stewart).
+70,D.Jackson,DeSean Jackson,TB,WR,20.29,48,reception,0,0,2018,REG,4,2018093001,933,1,01:27,(1:27) R.Fitzpatrick pass deep middle to D.Jackson pushed ob at CHI 17 for 48 yards (K.Fuller).
+71,C.Patterson,Cordarrelle Patterson,NE,WR,20.21,11,rush,0,0,2018,REG,4,2018093006,3049,3,01:41,(1:41) C.Patterson left end ran ob at MIA 30 for 11 yards (M.Fitzpatrick). reverse
+72,C.Davis,Corey Davis,TEN,WR,20.19,51,reception,0,0,2018,REG,4,2018093007,3138,4,07:55,(7:55) M.Mariota pass deep middle to C.Davis to PHI 24 for 51 yards (J.Mills).
+73,C.Patterson,Cordarrelle Patterson,NE,WR,20.19,55,reception,1,0,2018,REG,4,2018093006,1120,2,12:11,"(12:11) (Shotgun) T.Brady pass deep left to C.Patterson for 55 yards, TOUCHDOWN. NE 12-Brady 70th different career TD target, ties NFL record (Testaverde)."
+74,J.White,James White,NE,RB,20.13,4,reception,0,1,2018,REG,4,2018093006,2517,3,11:50,"(11:50) T.Brady pass short left to J.White pushed ob at MIA 20 for 39 yards (M.Smith). PENALTY on NE-J.Thuney, Offensive Holding, 10 yards, enforced at NE 45."
+75,J.Ross,John Ross,CIN,WR,20.11,39,reception,1,0,2018,REG,4,2018093000,1321,2,08:18,"(8:18) (Shotgun) A.Dalton pass deep right to J.Ross for 39 yards, TOUCHDOWN."
+76,D.Jackson,DeSean Jackson,TB,WR,20.09,42,reception,0,0,2018,REG,4,2018093001,1883,2,03:49,"(3:49) (No Huddle, Shotgun) R.Fitzpatrick pass deep left to D.Jackson pushed ob at CHI 15 for 42 yards (A.Amos). Chicago challenged the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)"
+77,A.Thielen,Adam Thielen,MIN,WR,20.09,27,reception,0,0,2018,REG,4,2018092700,902,2,15:00,(15:00) (Shotgun) K.Cousins pass deep right to A.Thielen to LA 38 for 27 yards (M.Peters).
+78,A.Exum,Antone Exum,SF,FS,20.05,32,int,1,0,2018,REG,4,2018093010,94,1,14:12,"(14:12) (Shotgun) P.Rivers pass short right intended for K.Allen INTERCEPTED by A.Exum at LAC 32. A.Exum for 32 yards, TOUCHDOWN."
+79,D.Hopkins,DeAndre Hopkins,HOU,WR,20,30,reception,0,0,2018,REG,4,2018093004,788,1,02:50,(2:50) (Shotgun) D.Watson pass deep right to D.Hopkins pushed ob at IND 10 for 30 yards (P.Desir).
+80,J.Grant,Jakeem Grant,MIA,WR,21.58,71,punt ret,1,0,2018,REG,5,2018100702,1828,2,00:40,"(:40) K.Huber punts 50 yards to MIA 29, Center-C.Harris. J.Grant pushed ob at CIN 2 for 69 yards (C.Core). The Replay Official reviewed the runner was out of bounds ruling, and the play was REVERSED. K.Huber punts 50 yards to MIA 29, Center-C.Harris. J.Grant for 71 yards, TOUCHDOWN."
+81,R.Anderson,Robby Anderson,NYJ,WR,21.5,76,reception,1,0,2018,REG,5,2018100706,1174,2,10:57,"(10:57) (Shotgun) S.Darnold pass deep left to R.Anderson for 76 yards, TOUCHDOWN."
+82,T.Hill,Tyreek Hill,KC,WR,21.11,5,rush,0,0,2018,REG,5,2018100705,2651,3,08:19,(8:19) T.Hill left end to KC 34 for 5 yards (M.Jack).
+83,A.Ekeler,Austin Ekeler,LAC,RB,20.8,44,reception,1,0,2018,REG,5,2018100708,1464,2,04:14,"(4:14) (Shotgun) P.Rivers pass short left to A.Ekeler for 44 yards, TOUCHDOWN [M.Lee]."
+84,D.Westbrook,Dede Westbrook,JAX,WR,20.5,23,reception,0,0,2018,REG,5,2018100705,2924,3,04:52,(4:52) (Shotgun) B.Bortles pass deep right to D.Westbrook to JAX 49 for 23 yards (J.Lucas).
+85,T.Hill,Tyreek Hill,KC,WR,20.45,36,reception,0,1,2018,REG,5,2018100705,3155,3,01:03,"(1:03) (Shotgun) P.Mahomes pass deep left to T.Hill pushed ob at JAX 29 for 36 yards (J.Ramsey) [M.Jackson]. PENALTY on JAX-M.Jackson, Roughing the Passer, 15 yards, enforced at JAX 29."
+86,I.Crowell,Isaiah Crowell,NYJ,RB,20.43,77,rush,1,0,2018,REG,5,2018100706,959,2,13:59,"(13:59) I.Crowell left end for 77 yards, TOUCHDOWN."
+87,C.Kirk,Christian Kirk,ARI,WR,20.43,75,reception,1,0,2018,REG,5,2018100710,355,1,09:49,"(9:49) J.Rosen pass deep middle to C.Kirk for 75 yards, TOUCHDOWN. Caught at SF 22.  22-YAC"
+88,R.Anderson,Robby Anderson,NYJ,WR,20.39,35,reception,1,0,2018,REG,5,2018100706,1999,2,01:17,"(1:17) S.Darnold pass deep left to R.Anderson for 35 yards, TOUCHDOWN."
+89,R.Shepard,Russell Shepard,NYG,WR,20.37,40,reception,0,0,2018,REG,5,2018100701,3987,4,01:39,"(1:39) (No Huddle, Shotgun) E.Manning pass deep right to R.Shepard for 55 yards, TOUCHDOWN. The Replay Official reviewed the runner was not down by contact ruling, and the play was REVERSED. (No Huddle, Shotgun) E.Manning pass deep right to R.Shepard to CAR 15 for 40 yards (D.Jackson)."
+90,A.Brown,Antonio Brown,PIT,WR,20.33,47,reception,1,0,2018,REG,5,2018100707,3273,4,09:49,"(9:49) B.Roethlisberger pass deep left to A.Brown for 47 yards, TOUCHDOWN."
+91,C.Kirk,Christian Kirk,ARI,WR,20.23,5,rush,0,0,2018,REG,5,2018100710,4159,4,03:35,(3:35) C.Kirk left end pushed ob at SF 12 for 5 yards (G.Mabin).
+92,D.Adams,Davante Adams,GB,WR,20.23,30,reception,0,0,2018,REG,5,2018100704,1686,2,05:13,(5:13) (Shotgun) A.Rodgers pass deep left to D.Adams pushed ob at DET 9 for 30 yards (D.Slay).
+93,T.Smith,Tre'Quan Smith,NO,WR,20.15,62,reception,1,1,2018,REG,5,2018100800,1829,2,02:46,"(2:46) (Shotgun) D.Brees pass deep right to T.Smith for 62 yards, TOUCHDOWN. Pass 24, YAC 38 PENALTY on NO-M.Thomas, Taunting, 15 yards, enforced between downs. With this TD pass completion, NO #9 D.Brees becomes the NFL's all-time leader in passing yardage."
+94,J.Hardee,Justin Hardee,NO,DB,20.13,77,int,0,0,2018,REG,5,2018100800,2814,3,07:59,(7:59) A.Smith pass short right intended for M.Harris INTERCEPTED by J.Hardee at NO 19. J.Hardee to WAS 4 for 77 yards (J.Reed).
+95,T.Hill,Tyreek Hill,KC,WR,20.13,21,rush,0,1,2018,REG,5,2018100705,218,1,12:02,"(12:02) (Shotgun) T.Hill right end to JAX 33 for 40 yards (M.Dareus). PENALTY on KC-S.Watkins, Offensive Holding, 10 yards, enforced at KC 48."
+96,M.Bryant,Martavis Bryant,OAK,WR,20.11,47,reception,0,0,2018,REG,5,2018100708,3148,4,09:36,(9:36) (Shotgun) D.Carr pass deep left to M.Bryant to LAC 27 for 47 yards (J.Addae).
+97,D.Johnson,Duke Johnson,CLE,RB,20.03,8,rush,0,0,2018,REG,5,2018100703,1725,2,01:14,(1:14) (Shotgun) D.Johnson right end ran ob at CLE 38 for 8 yards (E.Weddle). Direct snap to 29 D. Johnson out of shotgun
+98,T.Lockett,Tyler Lockett,SEA,WR,20,39,reception,1,0,2018,REG,5,2018100711,1330,2,09:19,"(9:19) G.Fant reported in as eligible.  R.Wilson pass deep left to T.Lockett for 39 yards, TOUCHDOWN."
+99,D.Westbrook,Dede Westbrook,JAX,WR,20,30,reception,0,0,2018,REG,5,2018100705,2434,3,13:13,(13:13) (Shotgun) B.Bortles pass short right to D.Westbrook to KC 47 for 30 yards (K.Fuller).
+100,K.Fuller,Kyle Fuller,CHI,CB,21.4,35,int,0,0,2018,REG,6,2018101404,2046,3,11:40,"(11:40) (No Huddle, Shotgun) B.Osweiler pass short right intended for A.Wilson INTERCEPTED by K.Fuller at MIA 47. K.Fuller to MIA 12 for 35 yards (M.Gesicki)."
+101,T.Hill,Tyreek Hill,KC,WR,21.31,75,reception,1,0,2018,REG,6,2018101412,3776,4,03:15,"(3:15) P.Mahomes pass deep left to T.Hill for 75 yards, TOUCHDOWN."
+102,T.Gabriel,Taylor Gabriel,CHI,WR,21.23,47,reception,0,0,2018,REG,6,2018101404,1298,2,06:18,(6:18) (Shotgun) M.Trubisky pass deep left to T.Gabriel to MIA 18 for 47 yards (T.McTyer).
+103,A.Brown,Antonio Brown,PIT,WR,21.13,31,reception,1,0,2018,REG,6,2018101401,4061,4,00:15,"(:15) (Shotgun) B.Roethlisberger pass short middle to A.Brown for 31 yards, TOUCHDOWN."
+104,S.Barkley,Saquon Barkley,NYG,RB,21.07,46,rush,0,0,2018,REG,6,2018101100,311,1,11:50,(11:50) (Shotgun) S.Barkley right tackle to PHI 18 for 46 yards (A.Maddox).
+105,M.Goodwin,Marquise Goodwin,SF,WR,21.01,67,reception,1,0,2018,REG,6,2018101500,913,1,00:36,"(:36) C.Beathard pass deep middle to M.Goodwin for 67 yards, TOUCHDOWN."
+106,S.Barkley,Saquon Barkley,NYG,RB,20.74,50,rush,1,0,2018,REG,6,2018101100,2858,3,06:19,"(6:19) (No Huddle, Shotgun) S.Barkley right tackle for 50 yards, TOUCHDOWN."
+107,T.Gurley,Todd Gurley,LA,RB,20.72,26,rush,0,0,2018,REG,6,2018101409,3648,4,05:46,(5:46) T.Gurley left end pushed ob at DEN 24 for 26 yards (D.Stewart).
+108,A.Brown,Antonio Brown,PIT,WR,20.54,48,reception,0,0,2018,REG,6,2018101401,3333,4,06:22,(6:22) (Shotgun) B.Roethlisberger pass short right to A.Brown pushed ob at CIN 14 for 48 yards (W.Jackson). CIN-W.Jackson was injured during the play. CIN-D.Kirkpatrick was injured during the play.
+109,T.Hill,Tyreek Hill,KC,WR,20.43,14,reception,1,0,2018,REG,6,2018101412,2851,3,01:03,"(1:03) (Shotgun) P.Mahomes pass short right to T.Hill for 14 yards, TOUCHDOWN."
+110,D.Westbrook,Dede Westbrook,JAX,WR,20.41,34,reception,1,0,2018,REG,6,2018101410,2460,3,07:39,"(7:39) (Shotgun) B.Bortles pass deep right to D.Westbrook for 34 yards, TOUCHDOWN."
+111,A.Humphries,Adam Humphries,TB,WR,20.37,51,reception,0,0,2018,REG,6,2018101400,2287,3,12:29,(12:29) (Shotgun) J.Winston pass short right to A.Humphries to ATL 2 for 51 yards (D.Kazee).
+112,T.Smith,Tremon Smith,KC,DB,20.37,97,kickoff ret,0,0,2018,REG,6,2018101412,3195,4,,S.Gostkowski kicks 65 yards from NE 35 to KC 0. Tr. Smith to NE 3 for 97 yards (D.McCourty).
+113,T.Williams,Tyrell Williams,LAC,WR,20.33,44,reception,0,0,2018,REG,6,2018101402,1506,2,07:46,(7:46) P.Rivers pass deep middle to Ty.Williams to CLE 45 for 44 yards (E.Gaines).
+114,T.Gabriel,Taylor Gabriel,CHI,WR,20.33,54,reception,0,0,2018,REG,6,2018101404,2312,3,07:50,(7:50) (Shotgun) M.Trubisky pass deep left to T.Gabriel to MIA 21 for 54 yards (T.McTyer).
+115,D.Adams,Davante Adams,GB,WR,20.19,38,reception,0,0,2018,REG,6,2018101500,3495,4,03:00,(3:00) (Shotgun) A.Rodgers pass deep left to D.Adams to SF 20 for 38 yards (A.Colbert).
+116,L.McCoy,LeSean McCoy,BUF,RB,20.15,6,rush,0,0,2018,REG,6,2018101403,1979,3,14:23,(14:23) (Shotgun) L.McCoy left end pushed ob at HOU 24 for 6 yards (B.McKinney).
+117,N.Agholor,Nelson Agholor,PHI,WR,20.13,58,reception,0,0,2018,REG,6,2018101100,1726,2,05:13,"(5:13) C.Wentz pass deep right to N.Agholor pushed ob at NYG 10 for 58 yards (C.Riley). Penalty on NYG-L.Carter, Illegal Use of Hands, declined."
+118,J.Heath,Jeff Heath,DAL,SS,20.09,49,int,0,0,2018,REG,6,2018101410,2750,3,03:06,(3:06) (Shotgun) B.Bortles pass deep left intended for D.Westbrook INTERCEPTED by J.Heath (B.Jones) at DAL 43. J.Heath to JAX 8 for 49 yards (J.Parnell).
+119,D.Jackson,DeSean Jackson,TB,WR,20.05,7,rush,0,0,2018,REG,6,2018101400,2261,3,13:05,(13:05) D.Jackson right end ran ob at TB 47 for 7 yards (B.Carter).
+120,K.Johnson,Kerryon Johnson,DET,RB,21.21,71,rush,0,0,2018,REG,7,2018102106,782,2,15:00,(15:00) (Shotgun) K.Johnson right guard pushed ob at MIA 20 for 71 yards (R.Jones).
+121,T.Hill,Tyreek Hill,KC,WR,21.03,2,punt ret,0,1,2018,REG,7,2018102105,124,1,13:43,"(13:43) K.Huber punts 60 yards to KC 8, Center-C.Harris. T.Hill ran ob at KC 27 for 19 yards. PENALTY on KC-J.Shaw, Offensive Holding, 5 yards, enforced at KC 10."
+122,T.Coleman,Tevin Coleman,ATL,RB,20.88,30,rush,1,0,2018,REG,7,2018102200,3269,4,07:55,"(7:55) T.Coleman right tackle for 30 yards, TOUCHDOWN."
+123,C.Patterson,Cordarrelle Patterson,NE,WR,20.82,95,kickoff ret,1,0,2018,REG,7,2018102102,1452,2,,"C.Parkey kicks 60 yards from CHI 35 to NE 5. C.Patterson for 95 yards, TOUCHDOWN."
+124,T.Cohen,Tarik Cohen,CHI,RB,20.76,16,reception,0,0,2018,REG,7,2018102102,2536,3,14:16,(14:16) (Shotgun) M.Trubisky pass short left to T.Cohen pushed ob at NE 40 for 16 yards (E.Rowe).
+125,J.Brown,John Brown,BAL,WR,20.7,56,reception,0,0,2018,REG,7,2018102101,1832,2,01:17,"(1:17) (No Huddle, Shotgun) J.Flacco pass short middle to J.Brown to NO 02 for 56 yards (M.Williams)."
+126,T.Williams,Tyrell Williams,LAC,WR,20.7,75,reception,1,0,2018,REG,7,2018102100,324,1,09:44,"(9:44) P.Rivers pass deep left to Ty.Williams for 75 yards, TOUCHDOWN."
+127,R.Mostert,Raheem Mostert,SF,RB,20.66,11,rush,0,0,2018,REG,7,2018102111,618,1,05:01,(5:01) R.Mostert left end ran ob at LA 26 for 11 yards.
+128,K.Drake,Kenyan Drake,MIA,RB,20.6,54,rush,1,0,2018,REG,7,2018102106,2125,3,07:15,"(7:15) K.Drake left tackle for 54 yards, TOUCHDOWN."
+129,W.Smallwood,Wendell Smallwood,PHI,RB,20.52,7,reception,0,1,2018,REG,7,2018102108,1647,2,01:10,"(1:10) (Shotgun) C.Wentz pass short right to W.Smallwood pushed ob at CAR 35 for 51 yards (E.Reid). PENALTY on PHI-B.Brooks, Offensive Holding, 10 yards, enforced at PHI 21."
+130,M.Hall,Marvin Hall,ATL,WR,20.43,47,reception,1,0,2018,REG,7,2018102200,1309,2,05:00,"(5:00) (No Huddle) M.Ryan pass deep middle to M.Hall for 47 yards, TOUCHDOWN."
+131,D.Jennings,Darius Jennings,TEN,WR,20.39,37,kickoff ret,0,1,2018,REG,7,2018102100,1762,3,,"M.Badgley kicks 59 yards from LAC 35 to TEN 6. D.Jennings to TEN 43 for 37 yards (M.Badgley, J.Jackson). PENALTY on LAC-R.Jenkins, Unnecessary Roughness, 15 yards, enforced at TEN 43."
+132,A.Peterson,Adrian Peterson,WAS,RB,20.29,23,rush,0,0,2018,REG,7,2018102110,1962,3,13:40,(13:40) (Shotgun) A.Peterson left end pushed ob at DAL 38 for 23 yards (L.Vander Esch).
+133,A.Roberts,Andre Roberts,NYJ,WR,20.17,53,kickoff ret,0,0,2018,REG,7,2018102107,2847,3,,D.Bailey kicks 64 yards from MIN 35 to NYJ 1. A.Roberts ran ob at MIN 46 for 53 yards.
+134,A.Thielen,Adam Thielen,MIN,WR,20.03,34,reception,1,0,2018,REG,7,2018102107,163,1,13:28,"(13:28) (Shotgun) K.Cousins pass deep right to A.Thielen for 34 yards, TOUCHDOWN."
+135,M.Breida,Matt Breida,SF,RB,20,7,rush,0,0,2018,REG,7,2018102111,1740,2,01:51,(1:51) M.Breida right end pushed ob at LA 10 for 7 yards (C.Littleton). LA-T.Hill was injured during the play.
+136,P.Lindsay,Phillip Lindsay,DEN,RB,19.98,22,rush,0,0,2018,REG,7,2018101800,427,1,09:40,(9:40) (Shotgun) P.Lindsay up the middle pushed ob at ARI 33 for 22 yards (P.Peterson).
+137,M.Mack,Marlon Mack,IND,RB,19.94,29,reception,1,0,2018,REG,7,2018102103,1202,2,09:35,"(9:35) (Shotgun) A.Luck pass short right to M.Mack for 29 yards, TOUCHDOWN."
+138,R.Parker,Ron Parker,KC,FS,19.92,33,int,1,0,2018,REG,7,2018102105,2612,3,11:19,"(11:19) A.Dalton pass short left intended for A.Green INTERCEPTED by R.Parker at CIN 33. R.Parker for 33 yards, TOUCHDOWN."
+139,L.Murray,Latavius Murray,MIN,RB,19.84,38,rush,1,0,2018,REG,7,2018102107,3292,4,13:46,"(13:46) L.Murray right guard for 38 yards, TOUCHDOWN."
+140,D.McCourty,Devin McCourty,NE,FS,22.05,84,int,1,0,2018,REG,8,2018102900,4364,4,06:09,"(6:09) (Shotgun) D.Anderson pass short right intended for C.Clay INTERCEPTED by D.McCourty at NE 16. D.McCourty for 84 yards, TOUCHDOWN."
+141,T.Cohen,Tarik Cohen,CHI,RB,21.42,70,reception,1,0,2018,REG,8,2018102802,608,1,05:35,"(5:35) (Shotgun) M.Trubisky pass short middle to T.Cohen for 70 yards, TOUCHDOWN."
+142,M.Mack,Marlon Mack,IND,RB,21.35,49,rush,0,0,2018,REG,8,2018102808,2457,3,09:49,(9:49) M.Mack left tackle pushed ob at OAK 26 for 49 yards (K.Joseph).
+143,S.Williams,Shawn Williams,CIN,SS,21.33,29,int,0,0,2018,REG,8,2018102803,466,1,07:39,(7:39) (Shotgun) J.Winston pass deep middle intended for M.Evans INTERCEPTED by S.Williams at CIN -4. S.Williams pushed ob at CIN 25 for 29 yards (C.Godwin).
+144,D.Jackson,DeSean Jackson,TB,WR,21.19,60,reception,1,0,2018,REG,8,2018102803,1753,2,04:43,"(4:43) J.Winston pass deep middle to D.Jackson for 60 yards, TOUCHDOWN."
+145,W.Fuller,Will Fuller,HOU,WR,21.15,73,reception,1,0,2018,REG,8,2018102500,2910,3,04:31,"(4:31) D.Watson pass deep right to W.Fuller for 73 yards, TOUCHDOWN."
+146,J.Grant,Jakeem Grant,MIA,WR,21.07,21,punt ret,0,0,2018,REG,8,2018102500,2736,3,06:55,"(6:55) T.Daniel punts 53 yards to MIA 28, Center-J.Weeks. J.Grant pushed ob at MIA 49 for 21 yards (J.Reid)."
+147,J.Franks,Jordan Franks,CIN,HB,20.76,32,reception,0,0,2018,REG,8,2018102803,698,1,04:26,(4:26) A.Dalton pass deep right to J.Franks pushed ob at TB 31 for 32 yards (D.Bond).
+148,M.Goodwin,Marquise Goodwin,SF,WR,20.74,55,reception,1,0,2018,REG,8,2018102809,2545,3,06:32,"(6:32) (Shotgun) C.Beathard pass short middle to M.Goodwin for 55 yards, TOUCHDOWN. Penalty on ARI-C.Jones, Defensive Offside, declined."
+149,P.Lindsay,Phillip Lindsay,DEN,RB,20.58,14,rush,0,0,2018,REG,8,2018102805,1437,2,08:12,(8:12) (Shotgun) P.Lindsay left end pushed ob at DEN 49 for 14 yards (E.Murray).
+150,W.Fuller,Will Fuller,HOU,WR,20.39,34,reception,0,0,2018,REG,8,2018102500,814,1,02:58,(2:58) D.Watson pass short left to W.Fuller pushed ob at MIA 22 for 34 yards (R.Jones).
+151,A.Peterson,Adrian Peterson,WAS,RB,20.37,64,rush,1,1,2018,REG,8,2018102806,3696,4,03:16,"(3:16) A.Peterson right tackle for 64 yards, TOUCHDOWN. PENALTY on NYG-S.Chandler, Horse Collar Tackle, 15 yards, enforced between downs."
+152,L.Miller,Lamar Miller,HOU,RB,20.35,58,rush,0,0,2018,REG,8,2018102500,2204,3,14:29,(14:29) (Shotgun) L.Miller up the middle pushed ob at MIA 9 for 58 yards (R.McMillan).
+153,O.Beckham,Odell Beckham,NYG,WR,20.31,44,reception,0,0,2018,REG,8,2018102806,785,1,01:19,"(1:19) (Shotgun) E.Manning pass deep left to O.Beckham to WAS 38 for 44 yards (G.Stroman). Penalty on WAS-G.Stroman, Defensive Pass Interference, declined."
+154,K.Fuller,Kendall Fuller,KC,CB,20.15,0,int,0,0,2018,REG,8,2018102805,3491,4,08:08,(8:08) C.Keenum pass short left intended for De.Thomas INTERCEPTED by K.Fuller at KC 45. K.Fuller to KC 45 for no gain (De.Thomas).
+155,C.Patterson,Cordarrelle Patterson,NE,WR,20.09,22,rush,0,0,2018,REG,8,2018102900,3863,4,11:30,(11:30) C.Patterson right end pushed ob at BUF 22 for 22 yards (P.Gaines).
+156,M.Valdes-Scantling,Marquez Valdes-Scantling,GB,WR,19.94,40,reception,1,0,2018,REG,8,2018102810,3529,4,08:57,"(8:57) (No Huddle, Shotgun) A.Rodgers pass deep right to M.Valdes-Scantling for 40 yards, TOUCHDOWN."
+157,T.Hilton,T.Y. Hilton,IND,WR,19.84,34,reception,0,0,2018,REG,8,2018102808,3134,4,13:22,(13:22) (Shotgun) A.Luck pass deep middle to T.Hilton to OAK 15 for 34 yards (E.Harris).
+158,M.Evans,Mike Evans,TB,WR,19.84,72,reception,1,0,2018,REG,8,2018102803,3804,4,10:07,"(10:07) (Shotgun) R.Fitzpatrick pass deep right to M.Evans for 72 yards, TOUCHDOWN."
+159,T.Patrick,Tim Patrick,DEN,WR,19.8,13,rush,0,0,2018,REG,8,2018102805,940,1,00:12,(:12) T.Patrick left end pushed ob at KC 45 for 13 yards (R.Ragland).
+160,D.Cook,Dalvin Cook,MIN,RB,22.07,70,rush,0,0,2018,REG,9,2018110405,1337,2,04:45,(4:45) (Shotgun) D.Cook left tackle to DET 5 for 70 yards (G.Quin).
+161,T.Coleman,Tevin Coleman,ATL,RB,21.48,3,rush,0,1,2018,REG,9,2018110406,3255,4,11:53,"(11:53) T.Coleman up the middle pushed ob at WAS 31 for 25 yards (M.Nicholson). PENALTY on ATL-B.Garland, Offensive Holding, 10 yards, enforced at ATL 47."
+162,T.Hill,Tyreek Hill,KC,WR,21.38,12,rush,0,0,2018,REG,9,2018110403,938,2,15:00,(15:00) T.Hill left end pushed ob at CLE 17 for 12 yards (D.Kindred).
+163,M.Valdes-Scantling,Marquez Valdes-Scantling,GB,WR,21.13,51,reception,0,0,2018,REG,9,2018110410,2435,3,14:14,(14:14) (Shotgun) A.Rodgers pass deep middle to M.Valdes-Scantling to NE 21 for 51 yards (J.McCourty).
+164,R.James,Richie James,SF,WR,21.11,53,reception,0,0,2018,REG,9,2018110100,1753,2,01:10,(1:10) (Shotgun) N.Mullens pass short middle to R.James to OAK 23 for 53 yards (R.Nelson). Caught at SF 30.  47-YAC
+165,C.Ridley,Calvin Ridley,ATL,WR,20.97,40,reception,1,0,2018,REG,9,2018110406,1807,2,00:36,"(:36) (Shotgun) M.Ryan pass short middle to C.Ridley for 40 yards, TOUCHDOWN."
+166,R.Mostert,Raheem Mostert,SF,RB,20.93,52,rush,1,0,2018,REG,9,2018110100,2318,3,09:28,"(9:28) R.Mostert right end for 52 yards, TOUCHDOWN."
+167,P.Lindsay,Phillip Lindsay,DEN,RB,20.56,22,rush,0,0,2018,REG,9,2018110407,3249,4,08:53,(8:53) P.Lindsay left end pushed ob at HOU 40 for 22 yards (J.Reid).
+168,C.Samuel,Curtis Samuel,CAR,WR,20.45,33,rush,1,0,2018,REG,9,2018110402,1175,2,11:36,"(11:36) C.Samuel left end for 33 yards, TOUCHDOWN. Play was a double reverse"
+169,D.King,Desmond King,LAC,CB,20.41,42,int,1,0,2018,REG,9,2018110408,3403,4,06:52,"(6:52) (No Huddle, Shotgun) R.Wilson pass short left intended for D.Moore INTERCEPTED by D.King at SEA 42. D.King for 42 yards, TOUCHDOWN."
+170,M.Bryant,Martavis Bryant,OAK,WR,20.37,17,rush,0,0,2018,REG,9,2018110100,212,1,11:37,(11:37) M.Bryant right end pushed ob at SF 13 for 17 yards (J.Ward). OAK-K.Miller was injured during the play.
+171,T.Cohen,Tarik Cohen,CHI,RB,20.29,7,rush,0,0,2018,REG,9,2018110401,589,1,04:45,(4:45) (Shotgun) T.Cohen right end pushed ob at CHI 49 for 7 yards (T.Johnson).
+172,M.Mariota,Marcus Mariota,TEN,QB,20.23,6,rush,0,0,2018,REG,9,2018110500,3392,4,04:51,(4:51) M.Mariota right end pushed ob at DAL 9 for 6 yards (L.Vander Esch).
+173,T.Cohen,Tarik Cohen,CHI,RB,20.19,36,punt ret,0,0,2018,REG,9,2018110401,2180,2,01:46,"(1:46) C.Schmidt punts 46 yards to CHI 41, Center-R.Ferguson. T.Cohen to BUF 23 for 36 yards (P.DiMarco). FUMBLES (P.DiMarco), ball out of bounds at BUF 23."
+174,M.Thomas,Michael Thomas,NO,WR,20.17,72,reception,1,1,2018,REG,9,2018110409,3891,4,04:02,"(4:02) (Shotgun) D.Brees pass deep left to M.Thomas for 72 yards, TOUCHDOWN. Pass 24, YAC 48. PENALTY on NO-M.Thomas, Unsportsmanlike Conduct, 15 yards, enforced between downs."
+175,M.Gordon,Melvin Gordon,LAC,RB,20.15,34,rush,1,0,2018,REG,9,2018110408,995,2,11:44,"(11:44) M.Gordon right end for 34 yards, TOUCHDOWN. Penalty on SEA-S.Stephen, Defensive Holding, declined."
+176,D.Jennings,Darius Jennings,TEN,WR,20.11,36,reception,0,0,2018,REG,9,2018110500,1599,2,04:56,(4:56) (Shotgun) M.Mariota pass deep middle to D.Jennings to DAL 18 for 36 yards (X.Woods).
+177,T.Coleman,Tevin Coleman,ATL,RB,20.03,39,reception,1,0,2018,REG,9,2018110406,326,1,09:56,"(9:56) (Shotgun) M.Ryan pass short left to T.Coleman for 39 yards, TOUCHDOWN."
+178,G.Kittle,George Kittle,SF,TE,20,71,reception,0,0,2018,REG,9,2018110100,2056,3,14:14,(14:14) (Shotgun) N.Mullens pass short middle to G.Kittle to OAK 6 for 71 yards (G.Conley). Caught at SF 36.  58-YAC
+179,T.Gurley,Todd Gurley,LA,RB,19.98,8,rush,1,0,2018,REG,9,2018110409,465,1,06:11,"(6:11) T.Gurley right end for 8 yards, TOUCHDOWN."
+180,C.Kirk,Christian Kirk,ARI,WR,20.99,59,reception,1,0,2018,REG,11,2018111807,973,1,00:27,"(:27) (Shotgun) J.Rosen pass short left to C.Kirk for 59 yards, TOUCHDOWN."
+181,T.Hilton,T.Y. Hilton,IND,WR,20.86,68,reception,1,0,2018,REG,11,2018111804,1442,2,07:37,"(7:37) A.Luck pass deep middle to T.Hilton for 68 yards, TOUCHDOWN."
+182,J.Reid,Justin Reid,HOU,DB,20.68,101,int,1,0,2018,REG,11,2018111806,1838,2,02:38,"(2:38) (Shotgun) A.Smith pass short left intended for J.Reed INTERCEPTED by J.Reid [C.Covington] at HOU -1. J.Reid for 101 yards, TOUCHDOWN."
+183,D.Johnson,David Johnson,ARI,RB,20.64,53,rush,0,0,2018,REG,11,2018111807,3385,4,07:03,(7:03) D.Johnson up the middle pushed ob at OAK 17 for 53 yards (K.Joseph).
+184,D.Adams,Davante Adams,GB,WR,20.58,57,reception,0,0,2018,REG,11,2018111500,3367,4,11:23,(11:23) (Shotgun) A.Rodgers pass deep right to D.Adams to SEA 17 for 57 yards (SL.Griffin) [J.Reed].
+185,J.Jones,Julio Jones,ATL,WR,20.56,34,reception,1,0,2018,REG,11,2018111800,3407,4,01:59,"(1:59) (Shotgun) M.Ryan pass deep right to J.Jones for 34 yards, TOUCHDOWN."
+186,D.Johnson,David Johnson,ARI,RB,20.43,7,rush,0,1,2018,REG,11,2018111807,3961,4,02:23,"(2:23) (Shotgun) D.Johnson up the middle for 57 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on ARI-R.Seals-Jones, Offensive Holding, 10 yards, enforced at 50."
+187,P.Lindsay,Phillip Lindsay,DEN,RB,20.41,41,rush,1,0,2018,REG,11,2018111808,1196,2,12:14,"(12:14) P.Lindsay up the middle for 41 yards, TOUCHDOWN."
+188,T.Lockett,Tyler Lockett,SEA,WR,20.39,34,reception,0,0,2018,REG,11,2018111500,3594,4,06:41,(6:41) G.Fant reported in as eligible.  R.Wilson pass deep left to T.Lockett to GB 16 for 34 yards (T.Williams). GB-K.Clark was injured during the play.
+189,T.Davis,Trevor Davis,GB,WR,20.35,20,kickoff ret,0,1,2018,REG,11,2018111500,1557,2,,"S.Janikowski kicks 65 yards from SEA 35 to GB 0. T.Davis to SEA 47 for 53 yards (T.Thompson). PENALTY on GB-K.Toomer, Offensive Holding, 10 yards, enforced at GB 20."
+190,T.Davis,Trevor Davis,GB,WR,20.35,20,kickoff ret,0,1,2018,REG,11,2018111500,2028,2,,"S.Janikowski kicks 65 yards from SEA 35 to GB 0. T.Davis to SEA 47 for 53 yards (T.Thompson). PENALTY on GB-K.Toomer, Offensive Holding, 10 yards, enforced at GB 20."
+191,C.McCoy,Colt McCoy,WAS,QB,20.31,15,rush,0,0,2018,REG,11,2018111806,3443,4,12:37,(12:37) (Shotgun) C.McCoy scrambles right end pushed ob at HOU 7 for 15 yards (B.McKinney).
+192,O.Beckham,Odell Beckham,NYG,WR,20.25,41,reception,0,0,2018,REG,11,2018111805,133,1,13:10,(13:10) E.Manning pass deep left to O.Beckham to TB 7 for 41 yards (I.Johnson).
+193,T.Hill,Tyreek Hill,KC,WR,20.21,14,punt ret,0,0,2018,REG,11,2018111900,5456,4,01:04,"(1:04) J.Hekker punts 68 yards to KC -2, Center-J.McQuaide. T.Hill ran ob at KC 12 for 14 yards (J.McQuaide)."
+194,T.Hill,Tyreek Hill,KC,WR,20.19,25,reception,1,0,2018,REG,11,2018111900,1032,1,03:33,"(3:33) (Shotgun) P.Mahomes pass deep left to T.Hill for 25 yards, TOUCHDOWN."
+195,J.Adams,Josh Adams,PHI,RB,20.17,28,rush,1,0,2018,REG,11,2018111809,1376,2,08:49,"(8:49) (Shotgun) J.Adams left guard for 28 yards, TOUCHDOWN."
+196,D.Moore,D.J. Moore,CAR,WR,20.15,82,reception,0,0,2018,REG,11,2018111803,2119,3,12:09,(12:09) (Shotgun) C.Newton pass short left to D.Moore to DET 12 for 82 yards (D.Slay). DET-D.Slay was injured during the play.
+197,B.Cooks,Brandin Cooks,LA,WR,20.15,30,reception,0,0,2018,REG,11,2018111900,137,1,14:00,"(14:00) (No Huddle, Shotgun) J.Goff pass short right to B.Cooks to KC 26 for 30 yards (S.Nelson)."
+198,T.Logan,T.J. Logan,ARI,RB,20.09,32,kickoff ret,0,0,2018,REG,11,2018111807,247,1,,D.Carlson kicks 61 yards from OAK 35 to ARI 4. T.Logan pushed ob at ARI 36 for 32 yards (R.Nelson).
+199,O.Beckham,Odell Beckham,NYG,WR,20.03,11,rush,0,0,2018,REG,11,2018111805,652,1,01:53,(1:53) O.Beckham left end ran ob at TB 42 for 11 yards (I.Johnson). Reverse involving #26-S. Barkley.
+200,C.Rogers,Chester Rogers,IND,WR,19.98,51,punt ret,0,1,2018,REG,11,2018111804,595,1,05:09,"(5:09) B.Kern punts 58 yards to IND 26, Center-B.Brinkley. C.Rogers for 74 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on IND-A.Maulet, Offensive Holding, 10 yards, enforced at TEN 23."
+201,M.Breida,Matt Breida,SF,RB,22.09,33,rush,0,0,2018,REG,12,2018112507,153,1,13:35,(13:35) M.Breida left end pushed ob at SF 43 for 33 yards (J.Whitehead).
+202,P.Lindsay,Phillip Lindsay,DEN,RB,21.91,32,rush,0,0,2018,REG,12,2018112509,1576,2,06:29,(6:29) P.Lindsay right guard pushed ob at PIT 38 for 32 yards (T.Edmunds).
+203,C.Samuel,Curtis Samuel,CAR,WR,21.56,25,rush,0,0,2018,REG,12,2018112502,1352,2,07:37,(7:37) (Shotgun) C.Samuel right end pushed ob at SEA 14 for 25 yards (T.Thompson; T.Flowers).
+204,V.Davis,Vernon Davis,WAS,TE,21.44,53,reception,1,0,2018,REG,12,2018112201,1292,2,07:12,"(7:12) (Shotgun) C.McCoy pass deep left to V.Davis for 53 yards, TOUCHDOWN."
+205,C.Ridley,Calvin Ridley,ATL,WR,21.29,50,reception,0,0,2018,REG,12,2018112202,2804,3,02:07,"(2:07) (Shotgun) M.Ryan pass deep left to C.Ridley pushed ob at NO 2 for 50 yards (M.Williams). Pass 23, YAC 27"
+206,C.McCaffrey,Christian McCaffrey,CAR,RB,21.27,59,rush,0,0,2018,REG,12,2018112502,3206,4,09:27,(9:27) (Shotgun) C.McCaffrey up the middle to SEA 16 for 59 yards (SL.Griffin).
+207,R.Foster,Robert Foster,BUF,WR,21.11,75,reception,1,0,2018,REG,12,2018112501,875,1,02:49,"(2:49) J.Allen pass deep right to R.Foster for 75 yards, TOUCHDOWN [Y.Ngakoue]. Caught in flat at JAX 37, slanting from middle."
+208,L.Miller,Lamar Miller,HOU,RB,21.05,97,rush,1,0,2018,REG,12,2018112600,1222,2,09:36,"(9:36) L.Miller right guard for 97 yards, TOUCHDOWN."
+209,D.Johnson,Danny Johnson,WAS,DB,20.93,44,kickoff ret,0,0,2018,REG,12,2018112201,3194,4,,B.Maher kicks 68 yards from DAL 20 to WAS 12. D.Johnson pushed ob at DAL 44 for 44 yards (J.Heath). Return right side
+210,A.Cooper,Amari Cooper,DAL,WR,20.82,90,reception,1,0,2018,REG,12,2018112201,2897,3,02:27,"(2:27) (Shotgun) D.Prescott pass deep middle to A.Cooper for 90 yards, TOUCHDOWN."
+211,M.Evans,Mike Evans,TB,WR,20.78,42,reception,0,0,2018,REG,12,2018112507,366,1,10:25,(10:25) (Shotgun) J.Winston pass deep right to M.Evans ran ob at SF 18 for 42 yards [C.Marsh].
+212,J.Smith,Jonnu Smith,TEN,TE,20.72,61,reception,1,0,2018,REG,12,2018112600,377,1,09:31,"(9:31) M.Mariota pass short middle to J.Smith for 61 yards, TOUCHDOWN."
+213,J.Adams,Josh Adams,PHI,RB,20.68,2,rush,0,1,2018,REG,12,2018112506,390,1,09:56,"(9:56) (No Huddle, Shotgun) J.Adams up the middle for 52 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on PHI-J.Kelce, Offensive Holding, 10 yards, enforced at 50."
+214,J.Smith-Schuster,JuJu Smith-Schuster,PIT,WR,20.45,97,reception,1,0,2018,REG,12,2018112509,2475,3,10:47,"(10:47) B.Roethlisberger pass deep middle to J.Smith-Schuster for 97 yards, TOUCHDOWN [S.Harris]."
+215,C.Davis,Corey Davis,TEN,WR,20.39,39,rush,0,0,2018,REG,12,2018112600,1016,2,14:15,(14:15) (Shotgun) Direct snap to D.Henry.  C.Davis left end to HOU 34 for 39 yards (J.Reid).
+216,M.Gordon,Melvin Gordon,LAC,RB,20.33,28,rush,1,0,2018,REG,12,2018112508,1315,2,07:05,"(7:05) (Shotgun) M.Gordon right end for 28 yards, TOUCHDOWN."
+217,S.Barkley,Saquon Barkley,NYG,RB,20.19,51,rush,1,0,2018,REG,12,2018112506,1625,2,04:16,"(4:16) S.Barkley up the middle for 51 yards, TOUCHDOWN."
+218,S.Roberts,Seth Roberts,OAK,WR,20.15,11,rush,0,0,2018,REG,12,2018112500,106,1,13:56,"(13:56) (No Huddle, Shotgun) S.Roberts right end pushed ob at OAK 42 for 11 yards (C.Mosley). End around play."
+219,C.McCaffrey,Christian McCaffrey,CAR,RB,20.07,38,reception,0,0,2018,REG,12,2018112502,1704,2,02:00,"(2:00) (Shotgun) C.Newton pass short right to C.McCaffrey ran ob at SEA 20 for 38 yards (J.Coleman). Penalty on SEA-J.Coleman, Defensive Holding, declined."
+220,L.Jackson,Lamar Jackson,BAL,QB,20.05,39,rush,0,0,2018,REG,12,2018112500,4024,4,02:22,(2:22) (Shotgun) L.Jackson right end ran ob at OAK 33 for 39 yards (J.Cabinda).
+221,T.Hill,Tyreek Hill,KC,WR,21.19,33,rush,0,0,2018,REG,13,2018120210,233,1,13:03,(13:03) T.Hill left end ran ob at OAK 32 for 33 yards (G.Conley).
+222,C.Godwin,Chris Godwin,TB,WR,20.93,48,reception,0,0,2018,REG,13,2018120209,969,2,13:29,(13:29) (Shotgun) J.Winston pass short middle to C.Godwin to CAR 25 for 48 yards (D.Jackson).
+223,C.McCaffrey,Christian McCaffrey,CAR,RB,20.9,53,rush,0,0,2018,REG,13,2018120209,604,1,05:02,(5:02) (Shotgun) C.McCaffrey up the middle pushed ob at TB 8 for 53 yards (J.Evans).
+224,A.Peterson,Adrian Peterson,WAS,RB,20.84,90,rush,1,0,2018,REG,13,2018120300,1224,2,09:36,"(9:36) A.Peterson up the middle for 90 yards, TOUCHDOWN."
+225,A.Roberts,Andre Roberts,NYJ,WR,20.84,59,kickoff ret,0,0,2018,REG,13,2018120211,2044,3,,R.Succop kicks 66 yards from TEN 35 to NYJ -1. A.Roberts pushed ob at TEN 42 for 59 yards (L.Sims).
+226,M.Valdes-Scantling,Marquez Valdes-Scantling,GB,WR,20.76,21,rush,0,0,2018,REG,13,2018120203,3504,4,10:01,(10:01) M.Valdes-Scantling right end to GB 43 for 21 yards (A.Bethea).
+227,T.Taylor,Taywan Taylor,TEN,WR,20.62,55,reception,0,0,2018,REG,13,2018120211,3538,4,07:22,(7:22) (Shotgun) M.Mariota pass deep left to T.Taylor pushed ob at NYJ 10 for 55 yards (D.Roberts).
+228,J.Howard,Jordan Howard,CHI,RB,20.58,25,rush,0,0,2018,REG,13,2018120207,1495,2,09:01,(9:01) (Shotgun) J.Howard left tackle pushed ob at NYG 49 for 25 yards (M.Thomas).
+229,J.Reynolds,Josh Reynolds,LA,WR,20.5,14,reception,0,0,2018,REG,13,2018120202,526,1,06:31,(6:31) J.Goff pass short left to J.Reynolds ran ob at DET 46 for 14 yards.
+230,T.Benjamin,Travis Benjamin,LAC,WR,20.5,46,reception,1,0,2018,REG,13,2018120208,810,1,01:12,"(1:12) (Shotgun) P.Rivers pass deep right to T.Benjamin for 46 yards, TOUCHDOWN."
+231,C.Kirk,Christian Kirk,ARI,WR,20.48,23,rush,0,0,2018,REG,13,2018120203,2611,3,07:42,(7:42) C.Kirk right end ran ob at ARI 36 for 23 yards (I.Campbell).
+232,P.Lindsay,Phillip Lindsay,DEN,RB,20.37,65,rush,1,0,2018,REG,13,2018120201,2902,3,07:45,"(7:45) P.Lindsay left end for 65 yards, TOUCHDOWN."
+233,L.McCoy,LeSean McCoy,BUF,RB,20.33,18,rush,0,0,2018,REG,13,2018120206,2084,2,00:16,(:16) (Shotgun) L.McCoy right guard ran ob at BUF 40 for 18 yards (R.Jones).
+234,D.Cook,Dalvin Cook,MIN,RB,20.31,5,rush,0,0,2018,REG,13,2018120212,417,1,08:54,(8:54) (Shotgun) R.Hill reported in as eligible.  D.Cook left end ran ob at MIN 35 for 5 yards.
+235,D.Cook,Dalvin Cook,MIN,RB,20.27,18,rush,0,0,2018,REG,13,2018120212,2762,3,03:51,(3:51) (Shotgun) D.Cook right guard ran ob at NE 22 for 18 yards.
+236,D.Pettis,Dante Pettis,SF,WR,20.27,75,reception,1,0,2018,REG,13,2018120213,3315,4,14:17,"(14:17) N.Mullens pass deep middle to D.Pettis for 75 yards, TOUCHDOWN."
+237,P.Lindsay,Phillip Lindsay,DEN,RB,20.23,11,rush,0,0,2018,REG,13,2018120201,73,1,14:23,(14:23) P.Lindsay right end pushed ob at DEN 42 for 11 yards (S.Williams).
+238,R.Penny,Rashaad Penny,SEA,RB,20.19,20,rush,1,0,2018,REG,13,2018120213,2252,3,14:50,"(14:50) R.Penny left end for 20 yards, TOUCHDOWN."
+239,B.Wagner,Bobby Wagner,SEA,MLB,20.09,98,int,1,0,2018,REG,13,2018120213,3952,4,04:20,"(4:20) (Shotgun) N.Mullens pass short middle intended for J.Wilson INTERCEPTED by B.Wagner at SEA 2. B.Wagner for 98 yards, TOUCHDOWN."
+240,I.McKenzie,Isaiah McKenzie,BUF,WR,19.9,19,reception,0,0,2018,REG,13,2018120206,2112,2,00:09,(:09) (Shotgun) J.Allen pass deep right to I.McKenzie ran ob at MIA 41 for 19 yards.
+241,S.Barkley,Saquon Barkley,NYG,RB,21.91,78,rush,1,0,2018,REG,14,2018120908,1494,2,08:54,"(8:54) S.Barkley right guard for 78 yards, TOUCHDOWN."
+242,D.Henry,Derrick Henry,TEN,RB,21.74,54,rush,1,0,2018,REG,14,2018120600,2726,3,05:41,"(5:41) D.Henry right end for 54 yards, TOUCHDOWN."
+243,R.Foster,Robert Foster,BUF,WR,21.62,12,reception,0,0,2018,REG,14,2018120900,1481,2,09:19,"(9:19) (Shotgun) J.Allen pass short middle to R.Foster pushed ob at NYJ 20 for 12 yards (B.Skrine). Shovel pass, caught at NYJ 35"
+244,D.Slay,Darius Slay,DET,CB,21.29,67,int,1,0,2018,REG,14,2018120911,2792,3,03:16,"(3:16) (Shotgun) J.Rosen pass short right intended for T.Sherfield INTERCEPTED by D.Slay [R.Okwara] at DET 33. D.Slay for 67 yards, TOUCHDOWN."
+245,A.Cooper,Amari Cooper,DAL,WR,21.27,75,reception,1,0,2018,REG,14,2018120912,3723,4,03:12,"(3:12) (Shotgun) D.Prescott pass deep right to A.Cooper for 75 yards, TOUCHDOWN."
+246,B.Bolden,Brandon Bolden,MIA,RB,20.97,54,rush,1,0,2018,REG,14,2018120906,971,2,13:36,"(13:36) B.Bolden right tackle for 54 yards, TOUCHDOWN."
+247,B.Perriman,Breshad Perriman,CLE,WR,20.76,66,reception,0,0,2018,REG,14,2018120902,365,1,09:17,(9:17) B.Mayfield pass deep left to B.Perriman to CAR 9 for 66 yards (D.Jackson).
+248,A.Roberts,Andre Roberts,NYJ,WR,20.72,13,kickoff ret,0,1,2018,REG,14,2018120900,400,1,,"S.Hauschka kicks 50 yards from BUF 35 to NYJ 15. A.Roberts ran ob at NYJ 41 for 26 yards. Return credited to NYJ 28 (spot of foul). PENALTY on NYJ-E.Tomlinson, Unnecessary Roughness, 14 yards, enforced at NYJ 28."
+249,I.McKenzie,Isaiah McKenzie,BUF,WR,20.7,15,rush,1,0,2018,REG,14,2018120900,1012,1,01:15,"(1:15) I.McKenzie left end for 15 yards, TOUCHDOWN. End-around, handoff from J.Allen."
+250,N.Agholor,Nelson Agholor,PHI,WR,20.45,42,reception,0,0,2018,REG,14,2018120912,3978,4,02:00,(2:00) (Shotgun) C.Wentz pass deep left to N.Agholor ran ob at DAL 2 for 42 yards.
+251,J.Crowder,Jamison Crowder,WAS,WR,20.43,79,reception,1,0,2018,REG,14,2018120908,3577,4,09:02,"(9:02) (Shotgun) J.Johnson pass short middle to J.Crowder for 79 yards, TOUCHDOWN."
+252,G.Kittle,George Kittle,SF,TE,20.39,85,reception,1,0,2018,REG,14,2018120910,1384,2,10:00,"(10:00) (Shotgun) N.Mullens pass short right to G.Kittle for 85 yards, TOUCHDOWN. Caught at SF 30.  70-YAC"
+253,D.Henry,Derrick Henry,TEN,RB,20.29,99,rush,1,0,2018,REG,14,2018120600,1238,2,07:25,"(7:25) D.Henry up the middle for 99 yards, TOUCHDOWN. TEN-J.Smith was injured during the play. His return is Questionable."
+254,S.Diggs,Stefon Diggs,MIN,WR,20.27,48,reception,0,0,2018,REG,14,2018121000,2862,4,12:43,(12:43) K.Cousins pass deep left to S.Diggs to SEA 17 for 48 yards (T.Flowers).
+255,A.Roberts,Andre Roberts,NYJ,WR,20.25,86,kickoff ret,0,0,2018,REG,14,2018120900,1617,2,,S.Hauschka kicks 59 yards from BUF 35 to NYJ 6. A.Roberts to BUF 8 for 86 yards (D.Rice).
+256,J.Smith-Schuster,JuJu Smith-Schuster,PIT,WR,20.17,5,reception,0,0,2018,REG,14,2018120913,4221,4,00:15,(:15) (Shotgun) B.Roethlisberger pass short left to J.Washington to PIT 35 for 5 yards. Lateral to J.Smith-Schuster ran ob at OAK 22 for 43 yards (K.Joseph).
+257,E.Engram,Evan Engram,NYG,TE,20,39,reception,0,0,2018,REG,14,2018120908,2207,2,00:22,(:22) (Shotgun) E.Manning pass short right to E.Engram pushed ob at WAS 5 for 39 yards (J.Harvey-Clemons).
+258,E.Elliott,Ezekiel Elliott,DAL,RB,19.98,10,rush,0,0,2018,REG,14,2018120912,1278,2,06:38,(6:38) E.Elliott right end ran ob at DAL 40 for 10 yards (N.Bradham).
+259,T.Cohen,Tarik Cohen,CHI,RB,19.98,32,rush,0,0,2018,REG,14,2018120901,605,1,05:01,(5:01) (Shotgun) T.Cohen right tackle pushed ob at LA 16 for 32 yards (L.Joyner).
+260,B.Perriman,Breshad Perriman,CLE,WR,19.88,15,reception,0,0,2018,REG,14,2018120902,3899,4,02:31,(2:31) B.Mayfield pass short right to B.Perriman pushed ob at CLE 17 for 15 yards (D.Jackson).
+261,B.Hill,Brian Hill,ATL,HB,21.35,60,rush,0,0,2018,REG,16,2018122304,4312,4,01:25,(1:25) B.Hill left guard to CAR 20 for 60 yards (E.Reid).
+262,J.Jones,Julio Jones,ATL,WR,21.35,1,reception,1,0,2018,REG,16,2018122304,807,1,00:44,"(:44) M.Ryan pass short right to J.Jones for 1 yard, TOUCHDOWN."
+263,A.Roberts,Andre Roberts,NYJ,WR,21.31,99,kickoff ret,1,0,2018,REG,16,2018122309,1461,2,,"M.Crosby kicks 64 yards from GB 35 to NYJ 1. A.Roberts for 99 yards, TOUCHDOWN."
+264,C.Patterson,Cordarrelle Patterson,NE,WR,21.29,15,rush,0,0,2018,REG,16,2018122308,1284,2,11:49,(11:49) C.Patterson left end pushed ob at BUF 35 for 15 yards (L.Wallace).
+265,N.Agholor,Nelson Agholor,PHI,WR,20.78,83,reception,1,0,2018,REG,16,2018122310,3026,3,02:32,"(2:32) (Shotgun) N.Foles pass deep middle to N.Agholor for 83 yards, TOUCHDOWN."
+266,C.Ridley,Calvin Ridley,ATL,WR,20.6,75,reception,1,0,2018,REG,16,2018122304,2305,3,15:00,"(15:00) (Shotgun) M.Ryan pass deep left to C.Ridley for 75 yards, TOUCHDOWN [M.Addison]."
+267,A.Kamara,Alvin Kamara,NO,RB,20.52,42,reception,0,0,2018,REG,16,2018122313,2419,3,14:20,"(14:20) (Shotgun) D.Brees pass short left to A.Kamara pushed ob at PIT 34 for 42 yards (J.Haden). Pass 0, YAC 42"
+268,J.Natson,JoJo Natson,LA,WR,20.41,26,punt ret,0,0,2018,REG,16,2018122311,3616,4,08:26,"(8:26) A.Lee punts 55 yards to LA 23, Center-A.Brewer. J.Natson to LA 49 for 26 yards (A.Brewer)."
+269,K.Golladay,Kenny Golladay,DET,WR,20.29,21,reception,0,0,2018,REG,16,2018122307,371,1,10:10,(10:10) (Shotgun) M.Stafford pass short middle to K.Golladay pushed ob at MIN 36 for 21 yards (A.Harris).
+270,A.Jeffery,Alshon Jeffery,PHI,WR,20.25,52,reception,0,0,2018,REG,16,2018122310,2642,3,09:26,(9:26) (Shotgun) N.Foles pass deep middle to A.Jeffery pushed ob at HOU 36 for 52 yards (T.Mathieu).
+271,T.Hill,Tyreek Hill,KC,WR,20.25,32,reception,0,0,2018,REG,16,2018122314,3451,4,11:42,(11:42) (Shotgun) P.Mahomes pass deep left to T.Hill ran ob at SEA 4 for 32 yards (J.Coleman).
+272,A.Roberts,Andre Roberts,NYJ,WR,20.21,51,kickoff ret,0,0,2018,REG,16,2018122309,4703,4,,M.Crosby kicks 54 yards from GB 35 to NYJ 11. A.Roberts pushed ob at GB 38 for 51 yards (J.Crawford).
+273,M.Sanu,Mohamed Sanu,ATL,WR,20.21,44,reception,1,0,2018,REG,16,2018122304,2955,3,04:45,"(4:45) (Shotgun) M.Ryan pass deep left to M.Sanu for 44 yards, TOUCHDOWN."
+274,B.Cooks,Brandin Cooks,LA,WR,20.15,17,rush,0,1,2018,REG,16,2018122311,510,1,06:27,"(6:27) B.Cooks right end ran ob at LA 48 for 17 yards (T.Boston). PENALTY on ARI-T.Boston, Lowering the Head to Initiate Contact, 15 yards, enforced at LA 48."
+275,C.Patterson,Cordarrelle Patterson,NE,WR,20.15,27,rush,0,0,2018,REG,16,2018122308,1833,2,02:23,(2:23) C.Patterson left end pushed ob at BUF 48 for 27 yards (M.Hyde).
+276,G.Edwards,Gus Edwards,BAL,RB,20.13,43,rush,0,0,2018,REG,16,2018122201,89,1,14:47,(14:47) (Shotgun) G.Edwards up the middle to LAC 9 for 43 yards (M.Davis; C.Hayward).
+277,K.Ballage,Kalen Ballage,MIA,RB,20.09,31,reception,0,0,2018,REG,16,2018122302,207,1,11:18,(11:18) (Shotgun) R.Tannehill pass short right to K.Ballage to JAX 11 for 31 yards (T.Gipson).
+278,T.Hilton,T.Y. Hilton,IND,WR,20.05,55,reception,0,0,2018,REG,16,2018122300,2397,3,10:30,(10:30) L.Clark reported in as eligible.  A.Luck pass deep right to T.Hilton pushed ob at NYG 17 for 55 yards (C.Riley).
+279,E.Elliott,Ezekiel Elliott,DAL,RB,20.05,12,rush,0,0,2018,REG,16,2018122306,3683,4,05:50,(5:50) E.Elliott right end pushed ob at DAL 27 for 12 yards (A.Adams).
+280,B.Perriman,Breshad Perriman,CLE,WR,20,63,reception,0,0,2018,REG,16,2018122305,1246,2,08:45,"(8:45) J.Landry pass deep right to B.Perriman to CIN 7 for 63 yards (S.Williams, J.Bates). 6 B Mayfield handed off to 11 A Calloway who pitched to 80 J Landry"

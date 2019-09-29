@@ -1,5 +1,5 @@
 ,shortName,playerName,team,position,averageCushion,averageSeparation,averageTargetedAirYards,shareOfTeamAirYards,receptions,targets,catchPercentage,receivingYards,receivingTouchdowns,avgYAC,expectedAvgYAC,avgYACAboveExpectation,season
-0,C.Kupp,Cooper Kupp,LAR,WR,7.4,3.1,9.3,21.25,62,94,65.96,869,5,6,5.4,0.6,2017
+0,C.Kupp,Cooper Kupp,LA,WR,7.4,3.1,9.3,21.25,62,94,65.96,869,5,6,5.4,0.6,2017
 1,T.Smith,Torrey Smith,PHI,WR,7.4,2.3,12.7,16.33,36,68,52.94,430,2,3.8,4,-0.2,2017
 2,T.Gabriel,Taylor Gabriel,ATL,WR,7.3,3,10,10.96,33,51,64.71,378,1,6.9,5.8,1.1,2017
 3,T.Benjamin,Travis Benjamin,LAC,WR,7.3,3.5,15.3,20.87,34,65,52.31,567,4,6.2,5.6,0.6,2017
@@ -19,7 +19,7 @@
 17,D.Funchess,Devin Funchess,CAR,WR,6.6,2.5,12.9,34.63,63,111,56.76,840,8,4.8,4.5,0.3,2017
 18,J.Brown,Jaron Brown,ARI,WR,6.6,2.4,15.3,18.32,31,69,44.93,477,4,3.3,3,0.3,2017
 19,D.Walker,Delanie Walker,TEN,TE,6.6,2.6,9.2,23.89,74,111,66.67,807,3,3.7,4.3,-0.6,2017
-20,R.Woods,Robert Woods,LAR,WR,6.5,3,10.8,22.34,56,85,65.88,781,5,5.5,5.2,0.3,2017
+20,R.Woods,Robert Woods,LA,WR,6.5,3,10.8,22.34,56,85,65.88,781,5,5.5,5.2,0.3,2017
 21,R.Louis,Ricardo Louis,CLE,WR,6.5,2.4,13.8,15.66,27,61,44.26,357,0,3.6,4.5,-0.9,2017
 22,J.Crowder,Jamison Crowder,WAS,WR,6.5,3.2,7.4,18.11,66,103,64.08,789,3,5.8,6.3,-0.5,2017
 23,C.Godwin,Chris Godwin,TB,WR,6.5,2.2,12.3,11.22,34,55,61.82,525,1,5.5,3.4,2.1,2017
@@ -29,12 +29,12 @@
 27,J.Nelson,J.J. Nelson,ARI,WR,6.3,2.3,18.1,19.18,29,61,47.54,508,2,2.4,2.9,-0.6,2017
 28,E.Ebron,Eric Ebron,DET,TE,6.3,3.3,7.6,14.39,53,86,61.63,574,4,5.1,4.9,0.2,2017
 29,C.Beasley,Cole Beasley,DAL,WR,6.3,2.4,7.7,11.71,36,63,57.14,314,4,3.4,3.4,0.1,2017
-30,B.Lafell,Brandon LaFell,CIN,WR,6.3,2.7,8.4,18.19,52,89,58.43,548,3,5.1,5.1,0,2017
+30,B.LaFell,Brandon LaFell,CIN,WR,6.3,2.7,8.4,18.19,52,89,58.43,548,3,5.1,5.1,0,2017
 31,J.Bellamy,Josh Bellamy,CHI,WR,6.2,2.8,13,17.22,24,46,52.17,376,1,5,3.8,1.1,2017
 32,T.Taylor,Trent Taylor,SF,WR,6.2,2.7,6.4,7.8,43,60,71.67,430,2,4.9,4.8,0.1,2017
 33,D.Westbrook,Dede Westbrook,JAX,WR,6.2,3,11.1,14.08,27,51,52.94,339,1,4.4,4.5,-0.1,2017
 34,M.Wallace,Mike Wallace,BAL,WR,6.2,2.6,13,32.26,52,92,56.52,748,4,3.6,3.8,-0.2,2017
-35,T.Higbee,Tyler Higbee,LAR,TE,6.2,2.6,10,10.96,25,45,55.56,295,1,3.6,3,0.6,2017
+35,T.Higbee,Tyler Higbee,LA,TE,6.2,2.6,10,10.96,25,45,55.56,295,1,3.6,3,0.6,2017
 36,K.Stills,Kenny Stills,MIA,WR,6.2,2.7,14.6,32.38,58,105,55.24,847,6,3.2,3.6,-0.4,2017
 37,P.Garcon,Pierre Garcon,SF,WR,6.2,2.7,9.6,13.1,40,67,59.7,500,0,4.8,4.1,0.7,2017
 38,J.Gresham,Jermaine Gresham,ARI,TE,6.2,2.9,5.9,4.74,33,46,71.74,322,2,4.7,3.9,0.8,2017
@@ -69,7 +69,7 @@
 67,K.Golladay,Kenny Golladay,DET,WR,5.7,2.2,14.8,15.54,28,48,58.33,477,3,7,7.1,-0.1,2017
 68,J.Landry,Jarvis Landry,MIA,WR,5.7,3.2,6.1,20.7,112,161,69.57,987,9,4.8,4.7,0,2017
 69,D.Baldwin,Doug Baldwin,SEA,WR,5.7,2.8,12.5,26.77,75,116,64.66,991,8,3.7,3.9,-0.2,2017
-70,K.Britt,Kenny Britt,NE,WR,5.7,2.3,12.1,9.94,20,43,46.51,256,2,4.2,3.6,0.6,2017
+70,K.Britt,Kenny Britt,NE,WR,5.7,2.3,12.1,9.73,20,43,46.51,256,2,4.2,3.6,0.6,2017
 71,J.Brown,John Brown,ARI,WR,5.7,2.4,15.7,14.93,21,55,38.18,299,3,3,3.7,-0.7,2017
 72,J.Maclin,Jeremy Maclin,BAL,WR,5.7,2.3,9.6,18.6,40,72,55.56,440,3,3.1,2.8,0.3,2017
 73,M.Thomas,Michael Thomas,NO,WR,5.7,2.6,9.3,41.35,104,148,70.27,1245,5,4.6,4.3,0.3,2017
@@ -78,14 +78,14 @@
 76,V.Davis,Vernon Davis,WAS,TE,5.7,3.3,10.6,17.31,43,69,62.32,648,3,7.4,6.7,0.7,2017
 77,C.Clay,Charles Clay,BUF,TE,5.7,3.1,6.7,12.33,49,74,66.22,558,2,5.8,6.3,-0.5,2017
 78,A.Hurns,Allen Hurns,JAX,WR,5.6,2.5,9.8,13.66,39,56,69.64,484,2,4.9,5,-0.2,2017
-79,S.Devalve,Seth DeValve,CLE,TE,5.6,2.9,8.7,9.44,33,58,56.9,395,1,5.3,5.3,0,2017
+79,S.DeValve,Seth DeValve,CLE,TE,5.6,2.9,8.7,9.44,33,58,56.9,395,1,5.3,5.3,0,2017
 80,D.Moncrief,Donte Moncrief,IND,WR,5.6,2.2,14.1,17.79,26,47,55.32,391,2,3.2,3,0.2,2017
 81,D.Adams,Davante Adams,GB,WR,5.6,2.8,9.4,27.93,74,117,63.25,885,10,5,4.6,0.4,2017
 82,J.Kearse,Jermaine Kearse,NYJ,WR,5.6,2.8,8.9,23.97,65,102,63.73,810,5,5.1,4.4,0.7,2017
 83,C.Brate,Cameron Brate,TB,TE,5.6,2.7,9.3,11.91,48,77,62.34,591,6,3.7,4,-0.3,2017
 84,H.Henry,Hunter Henry,LAC,TE,5.5,3,9.3,12.12,45,62,72.58,579,4,4.9,4,0.9,2017
 85,S.Roberts,Seth Roberts,OAK,WR,5.5,2.7,9.4,13.63,43,65,66.15,455,1,2.9,3.5,-0.6,2017
-86,K.Benjamin,Kelvin Benjamin,BUF,WR,5.5,2,11.5,21.73,48,78,61.54,692,3,3.3,3,0.2,2017
+86,K.Benjamin,Kelvin Benjamin,BUF,WR,5.5,2,11.5,22.27,48,78,61.54,692,3,3.3,3,0.2,2017
 87,K.Allen,Keenan Allen,LAC,WR,5.5,2.7,9.5,31.63,102,159,64.15,1393,6,5.3,4.8,0.5,2017
 88,E.Sanders,Emmanuel Sanders,DEN,WR,5.5,2.4,10.6,21.06,47,92,51.09,555,2,4,3.1,0.9,2017
 89,T.Kroft,Tyler Kroft,CIN,TE,5.4,2.9,7.8,11.82,42,62,67.74,404,7,4.9,4.1,0.8,2017
@@ -114,7 +114,7 @@
 112,M.Lewis,Marcedes Lewis,JAX,TE,4.9,3.3,8.4,10.04,24,48,50,318,5,7.1,6.2,0.9,2017
 113,K.Rudolph,Kyle Rudolph,MIN,TE,4.9,3,7.5,15.2,57,81,70.37,532,8,4.2,4.4,-0.2,2017
 114,J.Witten,Jason Witten,DAL,TE,4.8,2.5,7.4,15.66,63,87,72.41,560,5,1.8,2.8,-1,2017
-115,S.Watkins,Sammy Watkins,LAR,WR,4.8,2.5,14.4,24.67,39,70,55.71,593,8,5.2,4.7,0.4,2017
+115,S.Watkins,Sammy Watkins,LA,WR,4.8,2.5,14.4,24.67,39,70,55.71,593,8,5.2,4.7,0.4,2017
 116,R.Higgins,Rashard Higgins,CLE,WR,4.8,3,9.7,9.05,27,50,54,312,2,5.3,4.4,1,2017
 117,A.Gates,Antonio Gates,LAC,TE,4.7,2.6,8.6,9.36,30,52,57.69,316,3,3.2,3.3,-0.2,2017
 118,J.Thomas,Julius Thomas,MIA,TE,4.7,3.2,7.5,9.76,41,62,66.13,388,3,4,4,0,2017

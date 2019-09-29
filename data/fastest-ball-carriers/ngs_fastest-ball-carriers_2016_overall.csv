@@ -1,21 +1,21 @@
-,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week
-0,B.Cooks,Brandin Cooks,NO,WR,22.13,98,reception,1,0,2016,REG,1
-1,T.Williams,Tyrell Williams,LAC,WR,21.91,38,reception,0,0,2016,REG,1
-2,I.Crowell,Isaiah Crowell,CLE,RB,21.97,85,rush,1,0,2016,REG,2
-3,M.Goodwin,Marquise Goodwin,BUF,WR,22.25,84,reception,1,1,2016,REG,2
-4,S.Diggs,Stefon Diggs,MIN,WR,22.5,44,reception,0,0,2016,REG,2
-5,T.Ginn,Ted Ginn,CAR,WR,22.11,52,reception,0,0,2016,REG,2
-6,T.Benjamin,Travis Benjamin,LAC,WR,22.17,45,reception,1,0,2016,REG,2
-7,T.Hill,Tyreek Hill,KC,WR,23.24,27,kickoff ret,0,1,2016,REG,2
-8,J.Howard,Jordan Howard,CHI,RB,22.03,57,rush,0,0,2016,REG,5
-9,T.Coleman,Tevin Coleman,ATL,RB,22.25,49,reception,0,0,2016,REG,5
-10,M.Wallace,Mike Wallace,BAL,WR,22.34,70,reception,0,1,2016,REG,6
-11,W.Smallwood,Wendell Smallwood,PHI,RB,21.93,86,kickoff ret,1,0,2016,REG,6
-12,J.Holton,Johnny Holton,OAK,WR,22.23,29,rush,0,0,2016,REG,7
-13,M.Gordon,Melvin Gordon,LAC,RB,21.95,43,rush,0,0,2016,REG,9
-14,X.Rhodes,Xavier Rhodes,MIN,CB,22.4,100,int,1,0,2016,REG,11
-15,T.Hill,Tyreek Hill,KC,WR,22.77,86,kickoff ret,1,0,2016,REG,12
-16,D.Jackson,DeSean Jackson,WAS,WR,22.6,59,reception,0,0,2016,REG,13
-17,J.Nelson,J.J. Nelson,ARI,WR,21.91,42,reception,1,0,2016,REG,13
-18,T.Ginn,Ted Ginn,CAR,WR,21.95,55,reception,1,0,2016,REG,13
-19,B.Cooks,Brandin Cooks,NO,WR,22.4,45,reception,1,0,2016,REG,15
+,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week,gameId,playId,quarter,time,desc
+0,T.Hill,Tyreek Hill,KC,WR,23.24,27,kickoff ret,0,1,2016,REG,2,2016091803,3901,4,,"N.Novak kicks 70 yards from HOU 35 to KC -5. T.Hill for 105 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on KC, Offensive Holding, 10 yards, enforced at KC 22."
+1,T.Hill,Tyreek Hill,KC,WR,22.77,86,kickoff ret,1,0,2016,REG,12,2016112709,1526,2,,"R.Dixon kicks 66 yards from DEN 20 to KC 14. T.Hill for 86 yards, TOUCHDOWN."
+2,D.Jackson,DeSean Jackson,WAS,WR,22.6,59,reception,0,0,2016,REG,13,2016120409,2340,3,14:15,(14:15) (Shotgun) K.Cousins pass deep middle to D.Jackson to ARI 5 for 59 yards (T.Branch). ARI-C.Campbell was injured during the play.
+3,S.Diggs,Stefon Diggs,MIN,WR,22.5,44,reception,0,0,2016,REG,2,2016091813,1730,2,02:36,(2:36) S.Bradford pass deep right to S.Diggs to GB 32 for 44 yards (D.Randall).
+4,B.Cooks,Brandin Cooks,NO,WR,22.4,45,reception,1,0,2016,REG,15,2016121808,1966,2,02:00,"(2:00) (Shotgun) D.Brees pass short right to B.Cooks for 45 yards, TOUCHDOWN."
+5,X.Rhodes,Xavier Rhodes,MIN,CB,22.4,100,int,1,0,2016,REG,11,2016112006,1622,2,03:23,"(3:23) (Shotgun) C.Palmer pass short left intended for Jo.Brown INTERCEPTED by X.Rhodes at MIN 0. X.Rhodes for 100 yards, TOUCHDOWN."
+6,M.Wallace,Mike Wallace,BAL,WR,22.34,70,reception,0,1,2016,REG,6,2016101606,3322,3,02:10,"(2:10) (Shotgun) J.Flacco pass deep right to M.Wallace to NYG 5 for 70 yards (J.Jenkins) [J.Pierre-Paul]. PENALTY on NYG-J.Jenkins, Face Mask (15 Yards), 2 yards, enforced at NYG 5."
+7,M.Goodwin,Marquise Goodwin,BUF,WR,22.25,84,reception,1,1,2016,REG,2,2016091500,656,1,05:26,"(5:26) (Shotgun) T.Taylor pass deep right to M.Goodwin for 84 yards, TOUCHDOWN. Caught near sideline at NYJ 30. PENALTY on NYJ-S.Richardson, Taunting, 15 yards, enforced between downs."
+8,T.Coleman,Tevin Coleman,ATL,RB,22.25,49,reception,0,0,2016,REG,5,2016100907,3176,4,11:01,(11:01) (Shotgun) M.Ryan pass deep right to T.Coleman pushed ob at DEN 26 for 49 yards (T.Ward) [S.Williams].
+9,J.Holton,Johnny Holton,OAK,WR,22.23,29,rush,0,0,2016,REG,7,2016102303,1353,2,12:38,(12:38) J.Holton left end pushed ob at JAX 46 for 29 yards (J.Cyprien).
+10,T.Benjamin,Travis Benjamin,LAC,WR,22.17,45,reception,1,0,2016,REG,2,2016091812,2783,3,02:57,"(2:57) (Shotgun) P.Rivers pass deep right to T.Benjamin for 45 yards, TOUCHDOWN."
+11,B.Cooks,Brandin Cooks,NO,WR,22.13,98,reception,1,0,2016,REG,1,2016091105,2762,3,08:03,"(8:03) T.Lelito reported in as eligible.  D.Brees pass deep left to B.Cooks for 98 yards, TOUCHDOWN. Pass 29, YAC 69"
+12,T.Ginn,Ted Ginn,CAR,WR,22.11,52,reception,0,0,2016,REG,2,2016091800,2987,3,07:50,"(7:50) C.Newton pass deep right to T.Ginn pushed ob at SF 23 for 52 yards (T.Brock). San Francisco challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+13,J.Howard,Jordan Howard,CHI,RB,22.03,57,rush,0,0,2016,REG,5,2016100903,1540,2,06:08,(6:08) (Shotgun) J.Howard right end to IND 18 for 57 yards (M.Adams). IND-M.Adams was injured during the play.
+14,I.Crowell,Isaiah Crowell,CLE,RB,21.97,85,rush,1,0,2016,REG,2,2016091801,504,1,06:58,"(6:58) I.Crowell left guard for 85 yards, TOUCHDOWN."
+15,T.Ginn,Ted Ginn,CAR,WR,21.95,55,reception,1,0,2016,REG,13,2016120412,1255,2,10:40,"(10:40) (Shotgun) C.Newton pass deep middle to T.Ginn for 55 yards, TOUCHDOWN."
+16,M.Gordon,Melvin Gordon,LAC,RB,21.95,43,rush,0,0,2016,REG,9,2016110610,932,2,15:00,(15:00) M.Gordon up the middle pushed ob at TEN 6 for 43 yards (K.Byard).
+17,W.Smallwood,Wendell Smallwood,PHI,RB,21.93,86,kickoff ret,1,0,2016,REG,6,2016101608,1344,2,,"D.Hopkins kicks 66 yards from WAS 20 to PHI 14. W.Smallwood for 86 yards, TOUCHDOWN."
+18,J.Nelson,J.J. Nelson,ARI,WR,21.91,42,reception,1,0,2016,REG,13,2016120409,4085,4,02:03,"(2:03) C.Palmer pass deep middle to J.Nelson for 42 yards, TOUCHDOWN. The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands."
+19,T.Williams,Tyrell Williams,LAC,WR,21.91,38,reception,0,0,2016,REG,1,2016091104,2836,3,00:26,(:26) (Shotgun) P.Rivers pass short right to Ty.Williams pushed ob at KC 19 for 38 yards (P.Gaines).
