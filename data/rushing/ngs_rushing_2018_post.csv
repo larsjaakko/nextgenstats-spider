@@ -1,0 +1,21 @@
+,shortName,playerName,team,efficiency,8+DefendersInTheBox,avgTimeBehindLineOfScrimmage,rushingAttempts,rushingYards,averageRushYards,rushingTouchdowns,season,seasonType,week,gameId
+0,C.Carson,Chris Carson,SEA,7.17,23.08,2.76,13,20,1.5,0,2018,POST,18,2019010501
+1,A.Ekeler,Austin Ekeler,LAC,5.45,27.27,2.59,11,29,2.6,0,2018,POST,18,2019010600
+2,J.Howard,Jordan Howard,CHI,3.78,20,2.52,10,35,3.5,0,2018,POST,18,2019010601
+3,D.Sproles,Darren Sproles,PHI,7.74,,2.92,13,21,1.6,0,2018,POST,18,2019010601
+4,M.Mack,Marlon Mack,IND,3.06,20.83,2.72,24,148,6.2,1,2018,POST,18,2019010500
+5,E.Elliott,Ezekiel Elliott,DAL,3.38,38.46,2.86,26,137,5.3,1,2018,POST,18,2019010501
+6,M.Gordon,Melvin Gordon,LAC,7.19,47.06,2.54,17,40,2.4,1,2018,POST,18,2019010600
+7,C.Anderson,C.J. Anderson,LA,3.12,17.39,2.64,23,123,5.3,2,2018,POST,19,2019011201
+8,D.Williams,Damien Williams,KC,3.65,8,2.96,25,129,5.2,1,2018,POST,19,2019011200
+9,A.Kamara,Alvin Kamara,NO,3.65,37.5,2.68,16,71,4.4,0,2018,POST,19,2019011301
+10,T.Gurley,Todd Gurley,LA,3.21,6.25,3,16,115,7.2,1,2018,POST,19,2019011201
+11,E.Elliott,Ezekiel Elliott,DAL,7.09,40,3.2,20,47,2.4,1,2018,POST,19,2019011201
+12,W.Smallwood,Wendell Smallwood,PHI,4.19,,2.51,10,33,3.3,0,2018,POST,19,2019011301
+13,S.Michel,Sony Michel,NE,3.29,4.17,2.58,24,129,5.4,3,2018,POST,19,2019011300
+14,R.Burkhead,Rex Burkhead,NE,3.74,50,2.42,12,41,3.4,2,2018,POST,20,2019012001
+15,C.Anderson,C.J. Anderson,LA,4.53,18.75,2.52,16,44,2.8,0,2018,POST,20,2019012000
+16,D.Williams,Damien Williams,KC,4.39,,2.78,10,30,3,1,2018,POST,20,2019012001
+17,S.Michel,Sony Michel,NE,3.66,58.62,2.62,29,113,3.9,2,2018,POST,20,2019012001
+18,S.Michel,Sony Michel,NE,2.96,58.82,2.45,17,90,5.3,1,2018,POST,22,2019020300
+19,T.Gurley,Todd Gurley,LA,4.25,,2.98,10,35,3.5,0,2018,POST,22,2019020300
