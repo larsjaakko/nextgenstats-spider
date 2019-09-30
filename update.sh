@@ -1,8 +1,8 @@
 #!/bin/bash
 
-years='2018 2017 2016'
-types='passing rushing receiving'
-weeks='all post reg'
+years='2019'
+types='passing rushing receiving fastest'
+weeks='all reg'
 
 for year in $years
 do
