@@ -75,6 +75,7 @@
 73,N.Chubb,Nick Chubb,CLE,RB,19.84,10,reception,0,0,2019,REG,4,2019092901,412,1,07:22,(7:22) (Shotgun) B.Mayfield pass short middle to N.Chubb pushed ob at BAL 43 for 10 yards (E.Thomas).
 74,J.Jackson,J.C. Jackson,NE,DB,19.78,19,int,0,0,2019,REG,4,2019092902,1139,1,00:14,(:14) J.Allen pass deep right intended for Z.Jones INTERCEPTED by J.Jackson at NE 10. J.Jackson to NE 29 for 19 yards (L.Smith).
 75,J.Gordon,Josh Gordon,NE,WR,19.78,31,reception,0,0,2019,REG,4,2019092902,3374,3,03:20,"(3:20) (Shotgun) T.Brady pass short right to J.Gordon pushed ob at BUF 7 for 31 yards (J.Poyer). Caught at BUF 30, crossing to sideline. Buffalo challenged the play for possible offensive pass interference, and the play was Upheld. The ruling on the field stands. (Timeout #2.)"
+<<<<<<< HEAD
 76,D.Johnson,Diontae Johnson,PIT,WR,19.74,43,reception,1,0,2019,REG,4,2019093000,2380,3,09:32,"(9:32) (Shotgun) M.Rudolph pass deep left to D.Johnson for 43 yards, TOUCHDOWN."
 77,R.Seals-Jones,Ricky Seals-Jones,CLE,TE,19.74,59,reception,0,0,2019,REG,4,2019092901,2194,3,10:33,(10:33) (Shotgun) B.Mayfield pass deep right to R.Seals-Jones pushed ob at BAL 14 for 59 yards (E.Thomas).
 78,C.McCaffrey,Christian McCaffrey,CAR,RB,19.66,21,reception,0,0,2019,REG,4,2019092904,1454,2,05:31,"(5:31) (Shotgun) K.Allen pass short left to C.McCaffrey pushed ob at HOU 34 for 21 yards (J.Reid) [J.Watt]. Penalty on HOU-J.Joseph, Defensive Holding, declined."
@@ -100,3 +101,10 @@
 98,C.Kupp,Cooper Kupp,LA,WR,16.36,26,reception,0,0,2019,REG,5,2019100300,3646,4,10:48,(10:48) (Shotgun) J.Goff pass deep right to C.Kupp ran ob at SEA 21 for 26 yards (Sq.Griffin).
 99,R.Wilson,Russell Wilson,SEA,QB,16.34,12,rush,0,0,2019,REG,5,2019100300,2794,3,07:30,(7:30) R.Wilson scrambles left tackle to LA 23 for 12 yards (E.Weddle).
 100,C.Carson,Chris Carson,SEA,RB,16.32,6,rush,0,0,2019,REG,5,2019100300,4086,4,03:21,(3:21) (Shotgun) C.Carson right end to LA 5 for 6 yards (E.Weddle; M.Christian).
+=======
+76,R.Seals-Jones,Ricky Seals-Jones,CLE,TE,19.74,59,reception,0,0,2019,REG,4,2019092901,2194,3,10:33,(10:33) (Shotgun) B.Mayfield pass deep right to R.Seals-Jones to BAL 14 for 59 yards (E.Thomas).
+77,D.Johnson,Diontae Johnson,PIT,WR,19.74,43,reception,1,0,2019,REG,4,2019093000,2380,3,09:32,"(9:32) (Shotgun) M.Rudolph pass deep left to D.Johnson for 43 yards, TOUCHDOWN."
+78,C.McCaffrey,Christian McCaffrey,CAR,RB,19.66,21,reception,0,0,2019,REG,4,2019092904,1454,2,05:31,"(5:31) (Shotgun) K.Allen pass short left to C.McCaffrey pushed ob at HOU 34 for 21 yards (J.Reid) [J.Watt]. Penalty on HOU-J.Joseph, Defensive Holding, declined."
+79,S.Diggs,Stefon Diggs,MIN,WR,19.62,39,reception,0,0,2019,REG,4,2019092910,2950,3,01:49,(1:49) (Shotgun) K.Cousins pass deep right to S.Diggs pushed ob at CHI 30 for 39 yards (K.Fuller).
+80,R.Jones,Ronald Jones,TB,RB,19.6,3,rush,0,1,2019,REG,4,2019092909,3135,3,07:10,"(7:10) (Shotgun) R.Jones up the middle to LA 3 for 54 yards (N.Robey). PENALTY on TB-O.Howard, Offensive Holding, 10 yards, enforced at TB 46. Penalty on TB-B.Wilson, Offensive Holding, declined."
+>>>>>>> 2ef5f8b8324085fbf4241dd0dd365f3bb1edbd4d

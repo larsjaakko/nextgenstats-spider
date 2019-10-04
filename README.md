@@ -9,7 +9,7 @@ A Scrapy spider using Selenium to scrape NFL's Next Gen Stats website, inspired 
 Nextgenstats-spider is built using Python 3.7 and requires the following Python libraries:
 * [scrapy](https://github.com/scrapy/scrapy)
 * [scrapy-selenium](https://github.com/clemfromspace/scrapy-selenium)
-* [pandas](https://github.com/pandas-dev/pandas)
+* [pandas >0.25](https://github.com/pandas-dev/pandas)
 
 If you want to include game and play IDs (for easier joining with nflscrapR data), you will also need to install the following packages:
 * [requests](https://github.com/psf/requests). Used to pull json data from NFL.
