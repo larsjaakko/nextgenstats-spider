@@ -237,6 +237,9 @@ class NextgenstatsSpiderPipeline(object):
 
     def clean_data(self, spider):
 
+        if spider.type == 'fastest':
+            self.df = self.digit_remover(self.df)
+
         self.df['shortName'] = self.df['PLAYER NAME'].apply(self.name_shortener)
 
         if spider.type == 'passing':
@@ -316,6 +319,15 @@ class NextgenstatsSpiderPipeline(object):
         self.df = self.df.replace('--', '')
 
         return self.df.reset_index(drop=True)
+
+    def digit_remover(self, df):
+
+        #Removes rank number and point from fastest ball carrier name_shortener
+        df['PLAYER NAME'] = df['PLAYER NAME'].apply(lambda x: ''.join(i for i in x if not i.isdigit()))
+        df['PLAYER NAME'] = df['PLAYER NAME'].apply(lambda x: x.replace('. ', ''))
+
+        return df
+
 
     def name_shortener(self, name):
         # split the string into a list
