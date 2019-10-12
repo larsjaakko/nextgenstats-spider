@@ -4,6 +4,7 @@ from scrapy_selenium import SeleniumRequest
 
 import time
 import pandas as pd
+import requests
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -56,8 +57,23 @@ class NGSSpider(scrapy.Spider):
                 self.year,
                 self.week_list[i]) for i, j in enumerate(self.week_list)}
 
+        try:
+            current = requests.get('http://www.nfl.com/feeds-rs/currentWeek.json').json()
+        except requests.exceptions.RequestException as e:
+            print(e)
+
+        current_seasonid = current['seasonId']
+        current_seasontype = current['seasonType']
+        current_week = current['week']
+
 
         for week, url in urls.items():
+
+            if week != 'all':
+                if current_seasonid == int(self.year) and current_week < int(week):
+                    self.logger.warning("You've requested data from the future! Impossible!")
+                    continue
+
             yield SeleniumRequest(
                 url=url,
                 callback=self.parse,
@@ -177,7 +193,7 @@ class NGSSpider(scrapy.Spider):
         descriptions = []
         counter = 1
 
-        WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="stats-top-plays-view"]/div[3]/div/div[3]/table/tbody/tr[1]/td[6]/div/button')))
+        WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//*[@id="stats-top-plays-view"]/div[3]/div/div[3]/table/tbody/tr[1]/td[7]/div/button')))
         for button in buttons:
 
             WebDriverWait(driver, 20).until(EC.invisibility_of_element_located((By.CLASS_NAME, 'cc-window cc-banner cc-type-info cc-theme-block cc-bottom cc-color-override-382972913 ')))

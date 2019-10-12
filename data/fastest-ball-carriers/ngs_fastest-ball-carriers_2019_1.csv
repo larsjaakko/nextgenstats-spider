@@ -1,0 +1,21 @@
+,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week,gameId,playId,quarter,time,desc
+0,S.Barkley,Saquon Barkley,NYG,RB,21.76,59,rush,0,0,2019,REG,1,2019090810,249,1,11:25,(11:25) S.Barkley up the middle pushed ob at DAL 23 for 59 yards (C.Awuzie).
+1,M.Butler,Malcolm Butler,TEN,CB,21.5,38,int,1,0,2019,REG,1,2019090801,4040,4,03:11,"(3:11) (Shotgun) B.Mayfield pass short left intended for J.Landry INTERCEPTED by M.Butler at CLE 38. M.Butler for 38 yards, TOUCHDOWN."
+2,D.Jackson,DeSean Jackson,PHI,WR,21.4,51,reception,1,0,2019,REG,1,2019090806,1496,2,04:27,"(4:27) (Shotgun) C.Wentz pass deep middle to D.Jackson for 51 yards, TOUCHDOWN."
+3,S.Watkins,Sammy Watkins,KC,WR,21.33,68,reception,1,0,2019,REG,1,2019090802,103,1,13:36,"(13:36) (Shotgun) P.Mahomes pass short middle to S.Watkins for 68 yards, TOUCHDOWN."
+4,T.McLaurin,Terry McLaurin,WAS,WR,21.23,69,reception,1,0,2019,REG,1,2019090806,1117,2,10:07,"(10:07) C.Keenum pass deep middle to T.McLaurin for 69 yards, TOUCHDOWN."
+5,W.Fuller,Will Fuller,HOU,WR,21.03,54,reception,0,0,2019,REG,1,2019090900,750,1,02:55,"(2:55) (Shotgun) D.Watson pass deep middle to W.Fuller to NO 40 for 54 yards (E.Apple). Pass 50, YAC 4"
+6,R.Mostert,Raheem Mostert,SF,RB,21.03,3,rush,0,1,2019,REG,1,2019090811,1663,2,04:34,"(4:34) R.Mostert right end for 15 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on SF-R.James, Offensive Holding, 10 yards, enforced at TB 12."
+7,A.Kamara,Alvin Kamara,NO,RB,20.93,41,reception,0,0,2019,REG,1,2019090900,2254,3,13:47,"(13:47) (Shotgun) D.Brees pass short middle to A.Kamara ran ob at HOU 30 for 41 yards (J.Reid). Pass 6, YAC 35"
+8,D.Henry,Derrick Henry,TEN,RB,20.93,75,reception,1,0,2019,REG,1,2019090801,3074,3,02:10,"(2:10) M.Mariota pass short left to D.Henry for 75 yards, TOUCHDOWN. The Replay Official reviewed the play for possible offensive pass interference, and the play was Upheld. The ruling on the field stands."
+9,D.Jackson,DeSean Jackson,PHI,WR,20.86,53,reception,1,0,2019,REG,1,2019090806,2602,3,05:15,"(5:15) (Shotgun) C.Wentz pass deep right to D.Jackson for 53 yards, TOUCHDOWN."
+10,D.Johnson,David Johnson,ARI,RB,20.84,7,rush,0,0,2019,REG,1,2019090809,1988,2,01:40,"(1:40) (Shotgun) D.Johnson left end pushed ob at DET 1 for 7 yards (Q.Diggs). The Replay Official reviewed the runner was out of bounds ruling, and the play was Upheld. The ruling on the field stands."
+11,T.Coleman,Tevin Coleman,SF,RB,20.62,5,rush,0,0,2019,REG,1,2019090811,1862,2,02:49,(2:49) T.Coleman right end ran ob at TB 24 for 5 yards (J.Whitehead).
+12,D.Cook,Dalvin Cook,MIN,RB,20.5,19,rush,1,0,2019,REG,1,2019090804,472,1,08:28,"(8:28) D.Cook left end for 19 yards, TOUCHDOWN."
+13,M.Brown,Marquise Brown,BAL,WR,20.33,83,reception,1,0,2019,REG,1,2019090803,683,1,04:28,"(4:28) (Shotgun) L.Jackson pass deep middle to M.Brown for 83 yards, TOUCHDOWN."
+14,J.Brown,John Brown,BUF,WR,20.25,28,reception,0,0,2019,REG,1,2019090805,1901,2,01:18,(1:18) (Shotgun) J.Allen pass short left to J.Brown pushed ob at BUF 48 for 28 yards (R.Miles) [H.Anderson].
+15,D.Cook,Dalvin Cook,MIN,RB,20.17,8,rush,0,1,2019,REG,1,2019090804,2806,3,00:53,"(:53) D.Cook left end pushed ob at ATL 15 for 8 yards (K.Neal). PENALTY on ATL-K.Neal, Lowering the Head to Initiate Contact, 8 yards, enforced at ATL 15."
+16,T.Ginn,Ted Ginn,NO,WR,20.05,41,reception,0,0,2019,REG,1,2019090900,3903,4,02:05,"(2:05) (Shotgun) D.Brees pass deep left to T.Ginn to HOU 44 for 41 yards (A.Colvin). Pass 35, YAC 6"
+17,A.Levine,Anthony Levine,BAL,DB,20.03,60,rush,0,0,2019,REG,1,2019090803,1763,2,02:59,(2:59) (Punt formation) Direct snap to A.Levine.  A.Levine up the middle to MIA 10 for 60 yards (J.Grant).
+18,I.Smith,Ito Smith,ATL,RB,19.96,16,rush,0,0,2019,REG,1,2019090804,1596,2,04:40,(4:40) I.Smith left end pushed ob at ATL 41 for 16 yards (H.Smith).
+19,R.James,Richie James,SF,WR,19.96,39,reception,1,0,2019,REG,1,2019090811,2284,3,12:38,"(12:38) (Shotgun) J.Garoppolo pass deep left to R.James for 39 yards, TOUCHDOWN."
