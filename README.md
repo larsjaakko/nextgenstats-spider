@@ -10,9 +10,9 @@ Nextgenstats-spider is built using Python 3.7 and requires the following Python 
 * [scrapy](https://github.com/scrapy/scrapy)
 * [scrapy-selenium](https://github.com/clemfromspace/scrapy-selenium)
 * [pandas >0.25](https://github.com/pandas-dev/pandas)
-
-If you want to include game and play IDs (for easier joining with nflscrapR data), you will also need to install the following packages:
 * [requests](https://github.com/psf/requests). Used to pull json data from NFL.
+
+If you want to include game and play IDs (for easier joining with nflscrapR data), you will also need to install the following package:
 * [tenacity](https://github.com/jd/tenacity). Used for retry logic, as pulling play descriptions is pretty flaky and can fail.
 
 To install the respective libraries, please follow instructions provided by their maintainers.

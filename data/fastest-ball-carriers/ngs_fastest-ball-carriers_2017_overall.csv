@@ -1,21 +1,21 @@
-,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week,gameId,playId,quarter,time,desc
-0,L.Fournette,Leonard Fournette,JAX,RB,22.05,90,rush,1,0,2017,REG,5,2017100807,4020,4,02:00,"(2:00) J.Wells reported in as eligible.  L.Fournette left tackle for 90 yards, TOUCHDOWN."
-1,L.Fournette,Leonard Fournette,JAX,RB,21.76,75,rush,1,0,2017,REG,6,2017101508,95,1,14:46,"(14:46) L.Fournette up the middle for 75 yards, TOUCHDOWN."
-2,M.Bryant,Martavis Bryant,PIT,WR,21.72,22,kickoff ret,0,1,2017,REG,13,2017120400,2656,3,,"R.Bullock kicks 61 yards from CIN 35 to PIT 4. M.Bryant for 96 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on PIT-J.Wilcox, Offensive Holding, 10 yards, enforced at PIT 26. {M.Bryant credited with 22 return yards due to the penalty}"
-3,M.Goodwin,Marquise Goodwin,SF,WR,21.68,55,reception,0,0,2017,REG,9,2017110507,983,1,01:38,(1:38) C.Beathard pass deep right to M.Goodwin to ARI 27 for 55 yards (T.Mathieu).
-4,T.Hill,Tyreek Hill,KC,WR,21.64,64,reception,1,0,2017,REG,7,2017101900,1301,2,08:59,"(8:59) (Shotgun) A.Smith pass deep right to T.Hill for 64 yards, TOUCHDOWN."
-5,D.Henry,Derrick Henry,TEN,RB,21.64,75,rush,1,1,2017,REG,13,2017120309,4238,4,00:57,"(:57) D.Henry left end for 75 yards, TOUCHDOWN. PENALTY on TEN-B.Jones, Taunting, 15 yards, enforced between downs."
-6,W.Jackson,William Jackson,CIN,CB,21.52,75,int,1,0,2017,REG,3,2017092411,1173,2,10:20,"(10:20) (Shotgun) A.Rodgers pass short left intended for J.Nelson INTERCEPTED by W.Jackson at CIN 25. W.Jackson for 75 yards, TOUCHDOWN."
-7,T.Taylor,Taywan Taylor,TEN,WR,21.44,42,reception,0,0,2017,REG,2,2017091703,2774,3,04:23,(4:23) M.Mariota pass deep left to T.Taylor to JAX 7 for 42 yards (A.Bouye).
-8,M.Wallace,Mike Wallace,BAL,WR,21.42,66,reception,0,0,2017,REG,13,2017120301,1074,2,12:50,(12:50) J.Flacco pass deep right to M.Wallace to DET 1 for 66 yards (M.Killebrew). Ravens' longest passing play and offensive play of season.
-9,T.Hill,Tyreek Hill,KC,WR,21.35,52,reception,0,0,2017,REG,16,2017122403,942,2,15:00,(15:00) (Shotgun) A.Smith pass deep middle to T.Hill to MIA 13 for 52 yards (B.McCain).
-10,T.Gurley,Todd Gurley,LA,RB,21.23,80,reception,1,0,2017,REG,16,2017122407,1660,2,04:38,"(4:38) (Shotgun) J.Goff pass short left to T.Gurley for 80 yards, TOUCHDOWN."
-11,C.Thompson,Chris Thompson,HOU,WR,21.19,19,reception,0,0,2017,REG,5,2017100811,461,1,06:17,(6:17) (Shotgun) D.Watson pass short middle to C.Thompson ran ob at KC 47 for 19 yards (M.Peters).
-12,T.Hill,Tyreek Hill,KC,WR,21.19,64,reception,1,0,2017,REG,15,2017121601,1236,2,06:39,"(6:39) (Shotgun) A.Smith pass deep right to T.Hill for 64 yards, TOUCHDOWN."
-13,E.McGuire,Elijah McGuire,NYJ,RB,21.17,69,rush,1,0,2017,REG,4,2017100108,2263,3,10:13,"(10:13) E.McGuire left guard for 69 yards, TOUCHDOWN."
-14,T.Hill,Tyreek Hill,KC,WR,21.17,30,reception,1,0,2017,REG,3,2017092412,204,1,12:09,"(12:09) (Shotgun) A.Smith pass deep right to T.Hill for 30 yards, TOUCHDOWN."
-15,T.Benjamin,Travis Benjamin,LAC,WR,21.17,14,punt ret,0,1,2017,REG,16,2017122406,3195,4,14:32,"(14:32) L.Edwards punts 46 yards to LAC 9, Center-T.Hennessy. T.Benjamin for 91 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on LAC-N.Dzubnar, Offensive Holding, 10 yards, enforced at LAC 23."
-16,J.Jones,Julio Jones,ATL,WR,21.13,53,reception,0,0,2017,REG,8,2017102905,2542,3,07:16,(7:16) M.Ryan pass deep middle to Ju.Jones to NYJ 27 for 53 yards (D.Roberts).
-17,T.Gurley,Todd Gurley,LA,RB,21.09,57,rush,1,0,2017,REG,15,2017121708,2101,2,00:37,"(:37) T.Gurley left tackle for 57 yards, TOUCHDOWN."
-18,J.McCourty,Jason McCourty,CLE,CB,21.07,56,int,1,0,2017,REG,6,2017101502,3279,4,13:40,"(13:40) D.Watson pass deep left intended for W.Fuller V INTERCEPTED by J.McCourty [M.Garrett] at CLE 44. J.McCourty for 56 yards, TOUCHDOWN."
-19,T.Coleman,Tevin Coleman,ATL,RB,21.05,35,rush,0,0,2017,REG,2,2017091713,1331,2,07:14,(7:14) T.Coleman right tackle pushed ob at ATL 44 for 35 yards (H.Clinton-Dix).
+,rank,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week,gameId,playId,quarter,time,desc
+0,1,L.Fournette,Leonard Fournette,JAX,RB,22.05,90,rush,1,0,2017,REG,5,2017100807,4020,4,02:00,"(2:00) J.Wells reported in as eligible.  L.Fournette left tackle for 90 yards, TOUCHDOWN."
+1,2,L.Fournette,Leonard Fournette,JAX,RB,21.76,75,rush,1,0,2017,REG,6,2017101508,95,1,14:46,"(14:46) L.Fournette up the middle for 75 yards, TOUCHDOWN."
+2,3,M.Bryant,Martavis Bryant,PIT,WR,21.72,22,kickoff ret,0,1,2017,REG,13,2017120400,2656,3,,"R.Bullock kicks 61 yards from CIN 35 to PIT 4. M.Bryant for 96 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on PIT-J.Wilcox, Offensive Holding, 10 yards, enforced at PIT 26. {M.Bryant credited with 22 return yards due to the penalty}"
+3,4,M.Goodwin,Marquise Goodwin,SF,WR,21.68,55,reception,0,0,2017,REG,9,2017110507,983,1,01:38,(1:38) C.Beathard pass deep right to M.Goodwin to ARI 27 for 55 yards (T.Mathieu).
+4,5,T.Hill,Tyreek Hill,KC,WR,21.64,64,reception,1,0,2017,REG,7,2017101900,1301,2,08:59,"(8:59) (Shotgun) A.Smith pass deep right to T.Hill for 64 yards, TOUCHDOWN."
+5,6,D.Henry,Derrick Henry,TEN,RB,21.64,75,rush,1,1,2017,REG,13,2017120309,4238,4,00:57,"(:57) D.Henry left end for 75 yards, TOUCHDOWN. PENALTY on TEN-B.Jones, Taunting, 15 yards, enforced between downs."
+6,7,W.Jackson,William Jackson,CIN,CB,21.52,75,int,1,0,2017,REG,3,2017092411,1173,2,10:20,"(10:20) (Shotgun) A.Rodgers pass short left intended for J.Nelson INTERCEPTED by W.Jackson at CIN 25. W.Jackson for 75 yards, TOUCHDOWN."
+7,8,T.Taylor,Taywan Taylor,TEN,WR,21.44,42,reception,0,0,2017,REG,2,2017091703,2774,3,04:23,(4:23) M.Mariota pass deep left to T.Taylor to JAX 7 for 42 yards (A.Bouye).
+8,9,M.Wallace,Mike Wallace,BAL,WR,21.42,66,reception,0,0,2017,REG,13,2017120301,1074,2,12:50,(12:50) J.Flacco pass deep right to M.Wallace to DET 1 for 66 yards (M.Killebrew). Ravens' longest passing play and offensive play of season.
+9,10,T.Hill,Tyreek Hill,KC,WR,21.35,52,reception,0,0,2017,REG,16,2017122403,942,2,15:00,(15:00) (Shotgun) A.Smith pass deep middle to T.Hill to MIA 13 for 52 yards (B.McCain).
+10,11,T.Gurley,Todd Gurley,LA,RB,21.23,80,reception,1,0,2017,REG,16,2017122407,1660,2,04:38,"(4:38) (Shotgun) J.Goff pass short left to T.Gurley for 80 yards, TOUCHDOWN."
+11,12,C.Thompson,Chris Thompson,HOU,WR,21.19,19,reception,0,0,2017,REG,5,2017100811,461,1,06:17,(6:17) (Shotgun) D.Watson pass short middle to C.Thompson ran ob at KC 47 for 19 yards (M.Peters).
+12,13,T.Hill,Tyreek Hill,KC,WR,21.19,64,reception,1,0,2017,REG,15,2017121601,1236,2,06:39,"(6:39) (Shotgun) A.Smith pass deep right to T.Hill for 64 yards, TOUCHDOWN."
+13,14,E.McGuire,Elijah McGuire,NYJ,RB,21.17,69,rush,1,0,2017,REG,4,2017100108,2263,3,10:13,"(10:13) E.McGuire left guard for 69 yards, TOUCHDOWN."
+14,15,T.Hill,Tyreek Hill,KC,WR,21.17,30,reception,1,0,2017,REG,3,2017092412,204,1,12:09,"(12:09) (Shotgun) A.Smith pass deep right to T.Hill for 30 yards, TOUCHDOWN."
+15,16,T.Benjamin,Travis Benjamin,LAC,WR,21.17,14,punt ret,0,1,2017,REG,16,2017122406,3195,4,14:32,"(14:32) L.Edwards punts 46 yards to LAC 9, Center-T.Hennessy. T.Benjamin for 91 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on LAC-N.Dzubnar, Offensive Holding, 10 yards, enforced at LAC 23."
+16,17,J.Jones,Julio Jones,ATL,WR,21.13,53,reception,0,0,2017,REG,8,2017102905,2542,3,07:16,(7:16) M.Ryan pass deep middle to Ju.Jones to NYJ 27 for 53 yards (D.Roberts).
+17,18,T.Gurley,Todd Gurley,LA,RB,21.09,57,rush,1,0,2017,REG,15,2017121708,2101,2,00:37,"(:37) T.Gurley left tackle for 57 yards, TOUCHDOWN."
+18,19,J.McCourty,Jason McCourty,CLE,CB,21.07,56,int,1,0,2017,REG,6,2017101502,3279,4,13:40,"(13:40) D.Watson pass deep left intended for W.Fuller V INTERCEPTED by J.McCourty [M.Garrett] at CLE 44. J.McCourty for 56 yards, TOUCHDOWN."
+19,20,T.Coleman,Tevin Coleman,ATL,RB,21.05,35,rush,0,0,2017,REG,2,2017091713,1331,2,07:14,(7:14) T.Coleman right tackle pushed ob at ATL 44 for 35 yards (H.Clinton-Dix).

@@ -17,8 +17,8 @@
 15,16,D.Cook,Dalvin Cook,MIN,RB,20.17,8,rush,0,1,2019,REG,1,2019090804,2806,3,00:53,"(:53) D.Cook left end pushed ob at ATL 15 for 8 yards (K.Neal). PENALTY on ATL-K.Neal, Lowering the Head to Initiate Contact, 8 yards, enforced at ATL 15."
 16,17,T.Ginn,Ted Ginn,NO,WR,20.05,41,reception,0,0,2019,REG,1,2019090900,3903,4,02:05,"(2:05) (Shotgun) D.Brees pass deep left to T.Ginn to HOU 44 for 41 yards (A.Colvin). Pass 35, YAC 6"
 17,18,A.Levine,Anthony Levine,BAL,DB,20.03,60,rush,0,0,2019,REG,1,2019090803,1763,2,02:59,(2:59) (Punt formation) Direct snap to A.Levine.  A.Levine up the middle to MIA 10 for 60 yards (J.Grant).
-18,19,I.Smith,Ito Smith,ATL,RB,19.96,16,rush,0,0,2019,REG,1,2019090804,1596,2,04:40,(4:40) I.Smith left end pushed ob at ATL 41 for 16 yards (H.Smith).
-19,20,R.James,Richie James,SF,WR,19.96,39,reception,1,0,2019,REG,1,2019090811,2284,3,12:38,"(12:38) (Shotgun) J.Garoppolo pass deep left to R.James for 39 yards, TOUCHDOWN."
+18,19,R.James,Richie James,SF,WR,19.96,39,reception,1,0,2019,REG,1,2019090811,2284,3,12:38,"(12:38) (Shotgun) J.Garoppolo pass deep left to R.James for 39 yards, TOUCHDOWN."
+19,20,I.Smith,Ito Smith,ATL,RB,19.96,16,rush,0,0,2019,REG,1,2019090804,1596,2,04:40,(4:40) I.Smith left end pushed ob at ATL 41 for 16 yards (H.Smith).
 20,1,C.Patterson,Cordarrelle Patterson,CHI,WR,22.23,46,rush,0,0,2019,REG,2,2019091511,2545,3,06:01,(6:01) (Shotgun) C.Patterson left end pushed ob at DEN 22 for 46 yards (J.Simmons).
 21,2,O.Beckham,Odell Beckham,CLE,WR,21.7,89,reception,1,0,2019,REG,2,2019091600,2893,3,03:43,"(3:43) (Shotgun) B.Mayfield pass short middle to O.Beckham for 89 yards, TOUCHDOWN."
 22,3,W.Jackson,William Jackson,CIN,CB,21.33,19,int,0,0,2019,REG,2,2019091501,1098,2,14:15,(14:15) J.Garoppolo pass deep left intended for R.James Jr. INTERCEPTED by W.Jackson III at SF 45. W.Jackson III pushed ob at SF 26 for 19 yards (G.Kittle).
@@ -100,23 +100,43 @@
 98,18,S.Miller,Scott Miller,TB,WR,19.98,18,rush,0,0,2019,REG,5,2019100603,1403,2,08:22,(8:22) S.Miller left end ran ob at NO 30 for 18 yards (D.Davis).
 99,19,A.Jones,Aaron Jones,GB,RB,19.98,16,rush,0,0,2019,REG,5,2019100611,1412,2,08:22,(8:22) (Shotgun) A.Jones right end pushed ob at GB 35 for 16 yards (X.Woods; J.Smith).
 100,20,C.Samuel,Curtis Samuel,CAR,WR,19.96,9,rush,0,0,2019,REG,5,2019100600,3465,4,12:41,(12:41) (Shotgun) C.Samuel right end pushed ob at JAX 5 for 9 yards (N.Goode).
-101,1,G.Tate,Golden Tate,NYG,WR,19.33,64,reception,1,0,2019,REG,6,2019101000,1586,2,06:15,"(6:15) (No Huddle, Shotgun) D.Jones pass deep right to G.Tate for 64 yards, TOUCHDOWN."
-102,2,C.Ballentine,Corey Ballentine,NYG,CB,18.78,29,kickoff ret,0,0,2019,REG,6,2019101000,2155,2,,J.Bailey kicks 73 yards from NE 35 to NYG -8. C.Ballentine to NYG 21 for 29 yards (C.Winovich).
-103,3,J.Meyers,Jakobi Meyers,NE,WR,18.65,23,reception,0,0,2019,REG,6,2019101000,1909,2,02:00,(2:00) T.Brady pass deep right to J.Meyers to NYG 28 for 23 yards (G.Haley).
-104,4,B.Bolden,Brandon Bolden,NE,RB,18.12,28,kickoff ret,0,0,2019,REG,6,2019101000,36,1,,A.Rosas kicks 65 yards from NYG 35 to NE 0. B.Bolden to NE 28 for 28 yards (A.Rosas).
-105,5,J.Jenkins,Janoris Jenkins,NYG,CB,17.9,62,int,0,1,2019,REG,6,2019101000,455,1,07:07,"(7:07) T.Brady pass deep middle intended for J.Edelman INTERCEPTED by Ja.Jenkins at NYG 3. Ja.Jenkins pushed ob at NE 35 for 62 yards (J.Thuney). PENALTY on NYG-M.Golden, Unnecessary Roughness, 15 yards, enforced at NE 35."
-106,6,G.Tate,Golden Tate,NYG,WR,17.53,7,reception,0,0,2019,REG,6,2019101000,1541,2,07:11,(7:11) (Shotgun) D.Jones pass short right to G.Tate to NYG 32 for 7 yards (J.Jones).
-107,7,G.Tate,Golden Tate,NYG,WR,17.47,5,reception,0,0,2019,REG,6,2019101000,2928,3,01:45,"(1:45) (No Huddle, Shotgun) D.Jones pass short right to G.Tate to NYG 34 for 5 yards (J.Jones)."
-108,8,S.Michel,Sony Michel,NE,RB,17.43,26,rush,0,0,2019,REG,6,2019101000,3997,4,02:00,(2:00) S.Michel left guard to NYG 9 for 26 yards (J.Peppers).
-109,9,J.Edelman,Julian Edelman,NE,WR,17.28,12,reception,0,0,2019,REG,6,2019101000,2633,3,06:22,(6:22) T.Brady pass short right to J.Edelman to NYG 32 for 12 yards (D.Baker).
-110,10,J.Edelman,Julian Edelman,NE,WR,17.22,36,reception,0,0,2019,REG,6,2019101000,3646,4,04:48,"(4:48) (Shotgun) T.Brady pass deep right to J.Edelman to NYG 3 for 36 yards (Ja.Jenkins). NE 12-Brady 91st career 300-yard game, 3rd-most all-time. NE 11-Edelman 13th career 100-yard game."
-111,11,J.Meyers,Jakobi Meyers,NE,WR,17.2,23,reception,0,0,2019,REG,6,2019101000,1420,2,09:19,(9:19) (Shotgun) T.Brady pass deep left to J.Meyers to NYG 2 for 23 yards (G.Haley).
-112,12,J.Hilliman,Jon Hilliman,NYG,RB,17.14,10,rush,0,0,2019,REG,6,2019101000,2241,3,14:54,(14:54) J.Hilliman right end to NYG 32 for 10 yards (S.Gilmore).
-113,13,B.Bolden,Brandon Bolden,NE,RB,16.51,21,rush,0,0,2019,REG,6,2019101000,108,1,13:51,(13:51) B.Bolden up the middle to NYG 28 for 21 yards (A.Bethea).
-114,14,D.Harmon,Duron Harmon,NE,FS,16.49,27,int,0,0,2019,REG,6,2019101000,1320,2,09:40,(9:40) D.Jones pass short left INTERCEPTED by D.Harmon [D.Shelton] at NYG 47. D.Harmon pushed ob at NYG 20 for 27 yards (R.Ellison).
-115,15,C.Ballentine,Corey Ballentine,NYG,CB,16.49,24,kickoff ret,0,0,2019,REG,6,2019101000,2215,3,,"J.Bailey kicks 67 yards from NE 35 to NYG -2. C.Ballentine to NYG 22 for 24 yards (G.Olszewski, J.McCourty)."
-116,16,J.White,James White,NE,RB,16.28,11,reception,0,0,2019,REG,6,2019101000,2027,2,00:43,"(:43) (Shotgun) T.Brady pass short middle to J.White for 12 yards, TOUCHDOWN. shovel pass The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED. (Shotgun) T.Brady pass short middle to J.White to NYG 1 for 11 yards (O.Pierre). shovel pass"
-117,17,S.Michel,Sony Michel,NE,RB,16.2,13,rush,0,0,2019,REG,6,2019101000,3542,4,06:58,"(6:58) S.Michel right end to 50 for 13 yards (D.Mayo, M.Golden)."
-118,18,D.Jones,Daniel Jones,NYG,QB,16.18,9,rush,0,0,2019,REG,6,2019101000,2907,3,02:18,(2:18) (Shotgun) D.Jones scrambles left guard to NYG 29 for 9 yards (J.Collins).
-119,19,G.Olszewski,Gunner Olszewski,NE,WR,16.12,29,reception,0,0,2019,REG,6,2019101000,3104,4,14:19,"(14:19) (Shotgun) T.Brady pass deep middle to G.Olszewski to NYG 49 for 29 yards (A.Bethea, M.Thomas)."
-120,20,J.Edelman,Julian Edelman,NE,WR,16.06,15,reception,0,0,2019,REG,6,2019101000,1097,2,13:58,"(13:58) T.Brady pass short right to J.Edelman to NE 30 for 15 yards (J.Peppers). NE 11-Edelman 5,756 career rec yds, passes Fryar for 5th in franchise history."
+101,1,B.Wilson,Brandon Wilson,CIN,S,22.03,92,kickoff ret,1,0,2019,REG,6,2019101301,36,1,,"J.Tucker kicks 57 yards from BAL 35 to CIN 8. B.Wilson for 92 yards, TOUCHDOWN."
+102,2,N.Chubb,Nick Chubb,CLE,RB,21.31,52,rush,0,0,2019,REG,6,2019101302,912,1,00:35,(:35) (Shotgun) N.Chubb left guard to SEA 31 for 52 yards (T.Flowers).
+103,3,C.Sutton,Courtland Sutton,DEN,WR,21.07,41,reception,0,0,2019,REG,6,2019101309,1428,2,07:24,(7:24) J.Flacco pass deep left to C.Sutton to TEN 44 for 41 yards (L.Ryan).
+104,4,T.Ginn,Ted Ginn,NO,WR,20.86,12,rush,0,0,2019,REG,6,2019101303,2221,3,12:49,(12:49) T.Ginn left end pushed ob at JAX 42 for 12 yards (A.Bouye).
+105,5,J.Agnew,Jamal Agnew,DET,CB,20.8,9,rush,0,0,2019,REG,6,2019101400,2657,3,05:31,(5:31) J.Agnew left end ran ob at GB 38 for 9 yards (O.Burks).
+106,6,D.Spencer,Diontae Spencer,DEN,WR,20.76,42,punt ret,0,0,2019,REG,6,2019101309,113,1,13:37,"(13:37) B.Kern punts 59 yards to DEN 13, Center-B.Brinkley. D.Spencer to TEN 45 for 42 yards (K.Byard)."
+107,7,S.Diggs,Stefon Diggs,MIN,WR,20.64,62,reception,1,0,2019,REG,6,2019101306,1101,2,11:47,"(11:47) K.Cousins pass deep middle to S.Diggs for 62 yards, TOUCHDOWN."
+108,8,K.Golladay,Kenny Golladay,DET,WR,20.6,66,reception,0,0,2019,REG,6,2019101400,59,1,14:55,(14:55) M.Stafford pass deep right to K.Golladay to GB 11 for 66 yards (J.Alexander).
+109,9,T.Hill,Tyreek Hill,KC,WR,20.58,46,reception,1,0,2019,REG,6,2019101304,291,1,11:53,"(11:53) (Shotgun) P.Mahomes pass deep middle to T.Hill for 46 yards, TOUCHDOWN. Penalty on HOU-W.Mercilus, Defensive Offside, declined."
+110,10,T.Thompson,Tedric Thompson,SEA,FS,20.58,18,int,0,0,2019,REG,6,2019101302,1940,2,01:36,(1:36) (No Huddle) B.Mayfield pass deep right intended for J.Landry INTERCEPTED by T.Thompson (Sq.Griffin) at SEA -6. T.Thompson pushed ob at SEA 12 for 18 yards (O.Beckham).
+111,11,M.Hall,Marvin Hall,DET,WR,20.5,58,reception,0,0,2019,REG,6,2019101400,288,1,11:12,(11:12) M.Stafford pass deep right to M.Hall pushed ob at GB 16 for 58 yards (C.Sullivan).
+112,12,B.Cooks,Brandin Cooks,LA,WR,20.35,5,rush,0,0,2019,REG,6,2019101308,1205,2,11:03,(11:03) B.Cooks right end pushed ob at SF 41 for 5 yards (F.Warner).
+113,13,D.Cook,Dalvin Cook,MIN,RB,20.33,14,rush,0,0,2019,REG,6,2019101306,236,1,11:10,(11:10) D.Cook right end to PHI 15 for 14 yards (R.McLeod).
+114,14,P.Lindsay,Phillip Lindsay,DEN,RB,20.29,30,rush,0,0,2019,REG,6,2019101309,3523,4,07:12,(7:12) P.Lindsay up the middle ran ob at TEN 25 for 30 yards (K.Byard).
+115,15,D.Hilliard,Dontrell Hilliard,CLE,RB,20.23,74,kickoff ret,0,0,2019,REG,6,2019101302,36,1,,J.Myers kicks 62 yards from SEA 35 to CLE 3. D.Hilliard to SEA 23 for 74 yards (U.Amadi).
+116,16,R.Anderson,Robby Anderson,NYJ,WR,20.13,92,reception,1,0,2019,REG,6,2019101310,1630,2,03:46,"(3:46) S.Darnold pass deep right to Ro.Anderson for 92 yards, TOUCHDOWN."
+117,17,K.Ballage,Kalen Ballage,MIA,RB,20.13,6,rush,0,0,2019,REG,6,2019101305,737,1,02:40,(2:40) (Punt formation) Direct snap to K.Ballage.  K.Ballage right end pushed ob at WAS 39 for 6 yards (J.Reaves).
+118,18,D.Byrd,Damiere Byrd,ARI,WR,20.09,58,reception,0,0,2019,REG,6,2019101307,1076,2,15:00,"(15:00) (Shotgun) K.Murray pass deep middle to D.Byrd to ATL 1 for 58 yards (I.Oliver). Atlanta challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)"
+119,19,K.Murray,Kyler Murray,ARI,QB,20.09,5,rush,0,0,2019,REG,6,2019101307,4567,4,01:45,"(1:45) K.Murray scrambles right end pushed ob at ARI 35 for 5 yards (K.Ishmael). The Replay Official reviewed the first down ruling, and the play was Upheld. The ruling on the field stands."
+120,20,C.Samuel,Curtis Samuel,CAR,WR,20.05,8,rush,1,0,2019,REG,6,2019101300,2524,3,08:10,"(8:10) C.Samuel right end for 8 yards, TOUCHDOWN."
+121,1,T.Hill,Tyreek Hill,KC,WR,20.93,57,reception,1,0,2019,REG,7,2019101700,2794,3,04:30,"(4:30) M.Moore pass deep right to T.Hill for 57 yards, TOUCHDOWN."
+122,2,M.Hardman,Mecole Hardman,KC,WR,20.33,36,punt ret,0,0,2019,REG,7,2019101700,717,1,02:47,"(2:47) C.Wadman punts 48 yards to KC 43, Center-C.Kreiter. M.Hardman ran ob at DEN 21 for 36 yards (T.Marshall)."
+123,3,C.Sutton,Courtland Sutton,DEN,WR,20.11,41,reception,0,0,2019,REG,7,2019101700,1399,2,07:10,(7:10) J.Flacco pass deep right to C.Sutton to KC 34 for 41 yards (J.Thornhill).
+124,4,P.Lindsay,Phillip Lindsay,DEN,RB,18.12,1,rush,0,0,2019,REG,7,2019101700,51,1,15:00,(15:00) P.Lindsay up the middle to DEN 26 for 1 yard (C.Ward).
+125,5,P.Lindsay,Phillip Lindsay,DEN,RB,18.08,3,rush,0,0,2019,REG,7,2019101700,3248,4,13:44,(13:44) P.Lindsay left end pushed ob at DEN 37 for 3 yards (T.Kpassagnon).
+126,6,M.Hardman,Mecole Hardman,KC,WR,17.3,21,reception,1,0,2019,REG,7,2019101700,538,1,04:19,"(4:19) (Shotgun) P.Mahomes pass short left to M.Hardman for 21 yards, TOUCHDOWN."
+127,7,D.Thomas,De'Anthony Thomas,KC,WR,17.22,8,punt ret,0,1,2019,REG,7,2019101700,2724,3,05:10,"(5:10) C.Wadman punts 47 yards to KC 29, Center-C.Kreiter. D.Thomas pushed ob at KC 37 for 8 yards (J.Jones). PENALTY on KC-T.Kpassagnon, Illegal Block Above the Waist, 10 yards, enforced at KC 37."
+128,8,A.Janovich,Andy Janovich,DEN,RB,17.16,22,reception,0,0,2019,REG,7,2019101700,232,1,11:15,(11:15) J.Flacco pass short right to A.Janovich to KC 13 for 22 yards (A.Hitchens).
+129,9,D.Spencer,Diontae Spencer,DEN,WR,16.49,1,punt ret,0,0,2019,REG,7,2019101700,3923,4,01:17,"(1:17) D.Colquitt punts 48 yards to DEN 25, Center-J.Winchester. D.Spencer to DEN 26 for 1 yard (B.Pringle)."
+130,10,R.Freeman,Royce Freeman,DEN,RB,16.45,11,reception,0,0,2019,REG,7,2019101700,1955,2,00:18,(:18) (Shotgun) J.Flacco pass short right to R.Freeman to DEN 44 for 11 yards (B.Niemann).
+131,11,D.Robinson,Demarcus Robinson,KC,WR,16.4,6,reception,0,0,2019,REG,7,2019101700,1031,2,14:20,(14:20) (Shotgun) P.Mahomes pass short left to D.Robinson to DEN 28 for 6 yards (K.Jackson).
+132,12,E.Sanders,Emmanuel Sanders,DEN,WR,15.98,16,reception,0,0,2019,REG,7,2019101700,1819,2,00:55,(:55) (Shotgun) J.Flacco pass short middle to E.Sanders to DEN 39 for 16 yards (T.Mathieu).
+133,13,T.Kelce,Travis Kelce,KC,TE,15.89,8,reception,0,0,2019,REG,7,2019101700,1129,2,11:58,(11:58) (Shotgun) P.Mahomes pass short middle to T.Kelce to DEN 6 for 8 yards (W.Parks).
+134,14,E.Sanders,Emmanuel Sanders,DEN,WR,15.89,13,reception,0,0,2019,REG,7,2019101700,3224,4,14:25,(14:25) (Shotgun) J.Flacco pass short right to E.Sanders to DEN 34 for 13 yards (R.Fenton).
+135,15,L.McCoy,LeSean McCoy,KC,RB,15.85,19,rush,0,0,2019,REG,7,2019101700,400,1,08:27,(8:27) (Shotgun) L.McCoy right tackle to DEN 49 for 19 yards (J.Simmons).
+136,16,L.McCoy,LeSean McCoy,KC,RB,15.83,2,rush,0,0,2019,REG,7,2019101700,493,1,05:44,(5:44) (Shotgun) L.McCoy left end to DEN 27 for 2 yards (A.Johnson).
+137,17,L.McCoy,LeSean McCoy,KC,RB,15.75,22,rush,0,0,2019,REG,7,2019101700,3592,4,08:10,(8:10) L.McCoy up the middle to DEN 29 for 22 yards (J.Simmons; D.Harris).
+138,18,D.Spencer,Diontae Spencer,DEN,WR,15.4,5,reception,0,1,2019,REG,7,2019101700,93,1,13:40,"(13:40) (Shotgun) J.Flacco pass short right to D.Spencer pushed ob at DEN 33 for 5 yards (F.Clark). PENALTY on KC-F.Clark, Face Mask (15 Yards), 15 yards, enforced at DEN 33."
+139,19,C.Sutton,Courtland Sutton,DEN,WR,15.24,18,reception,0,0,2019,REG,7,2019101700,1488,2,05:44,(5:44) (Shotgun) J.Flacco pass short middle to C.Sutton to KC 20 for 18 yards (J.Thornhill).
+140,20,E.Sanders,Emmanuel Sanders,DEN,WR,15.01,16,reception,0,0,2019,REG,7,2019101700,2248,3,12:14,(12:14) (Shotgun) J.Flacco pass short right to E.Sanders to DEN 44 for 16 yards (D.Wilson).

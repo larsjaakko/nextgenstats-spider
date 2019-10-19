@@ -1,341 +1,341 @@
-,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week,gameId,playId,quarter,time,desc
-0,B.Cooks,Brandin Cooks,NO,WR,22.13,98,reception,1,0,2016,REG,1,2016091105,2762,3,08:03,"(8:03) T.Lelito reported in as eligible.  D.Brees pass deep left to B.Cooks for 98 yards, TOUCHDOWN. Pass 29, YAC 69"
-1,T.Williams,Tyrell Williams,LAC,WR,21.91,38,reception,0,0,2016,REG,1,2016091104,2836,3,00:26,(:26) (Shotgun) P.Rivers pass short right to Ty.Williams pushed ob at KC 19 for 38 yards (P.Gaines).
-2,C.Patterson,Cordarrelle Patterson,MIN,WR,21.66,61,kickoff ret,0,0,2016,REG,1,2016091108,2022,3,,R.Succop kicks 60 yards from TEN 35 to MIN 5. C.Patterson pushed ob at TEN 34 for 61 yards (B.McCain).
-3,P.Dorsett,Phillip Dorsett,IND,WR,21.11,51,reception,0,0,2016,REG,1,2016091111,2298,3,10:33,(10:33) (Shotgun) A.Luck pass deep right to P.Dorsett to DET 31 for 51 yards (D.Slay).
-4,T.Coleman,Tevin Coleman,ATL,RB,20.88,47,reception,0,0,2016,REG,1,2016091100,1544,2,04:15,(4:15) (Shotgun) M.Ryan pass short right to T.Coleman to TB 10 for 47 yards (C.Conte).
-5,O.Beckham,Odell Beckham,NYG,WR,20.74,45,reception,0,0,2016,REG,1,2016091110,1095,2,10:15,"(10:15) (No Huddle, Shotgun) E.Manning pass deep left to O.Beckham ran ob at DAL 15 for 45 yards. Go route on left sideline."
-6,T.Ginn,Ted Ginn,CAR,WR,20.66,20,rush,0,0,2016,REG,1,2016090800,368,1,08:55,(8:55) (Shotgun) T.Ginn left end to DEN 16 for 20 yards (D.Stewart).
-7,M.Wallace,Mike Wallace,BAL,WR,20.58,66,reception,1,0,2016,REG,1,2016091101,1153,2,10:22,"(10:22) (No Huddle, Shotgun) J.Flacco pass deep middle to M.Wallace for 66 yards, TOUCHDOWN."
-8,A.Cooper,Amari Cooper,OAK,WR,20.41,34,reception,0,0,2016,REG,1,2016091105,813,1,02:35,"(2:35) D.Carr pass deep left to A.Cooper to NO 6 for 34 yards (J.Byrd). Pass 28, YAC 6"
-9,J.Richard,Jalen Richard,OAK,RB,20.29,75,rush,1,0,2016,REG,1,2016091105,3869,4,08:38,"(8:38) J.Richard left guard for 75 yards, TOUCHDOWN."
-10,C.Grant,Corey Grant,JAX,RB,20.25,32,kickoff ret,0,0,2016,REG,1,2016091103,3273,4,,M.Crosby kicks 66 yards from GB 35 to JAX -1. C.Grant pushed ob at JAX 31 for 32 yards (D.Randall).
-11,J.Grant,Jakeem Grant,MIA,WR,20.25,45,kickoff ret,0,0,2016,REG,1,2016091109,2171,3,,S.Hauschka kicks 69 yards from SEA 35 to MIA -4. J.Grant pushed ob at MIA 41 for 45 yards (S.Hauschka).
-12,N.Agholor,Nelson Agholor,PHI,WR,20.17,35,reception,1,0,2016,REG,1,2016091107,2562,3,06:23,"(6:23) (Shotgun) C.Wentz pass deep right to N.Agholor for 35 yards, TOUCHDOWN."
-13,A.Green,A.J. Green,CIN,WR,20.15,54,reception,1,0,2016,REG,1,2016091106,1241,2,11:31,"(11:31) A.Dalton pass deep middle to A.Green for 54 yards, TOUCHDOWN."
-14,J.Jones,Julio Jones,ATL,WR,20.07,25,reception,1,0,2016,REG,1,2016091100,2865,3,01:42,"(1:42) (No Huddle) M.Ryan pass short middle to J.Jones for 25 yards, TOUCHDOWN."
-15,E.Royal,Eddie Royal,CHI,WR,20.03,31,punt ret,0,0,2016,REG,1,2016091102,613,1,04:30,"(4:30) S.Lechler punts 49 yards to CHI 29, Center-J.Weeks. E.Royal pushed ob at HOU 40 for 31 yards (S.Lechler)."
-16,T.Austin,Tavon Austin,LA,WR,19.9,8,punt ret,0,0,2016,REG,1,2016091201,2267,3,13:16,"(13:16) B.Pinion punts 52 yards to LA 33, Center-K.Nelson. T.Austin to LA 41 for 8 yards (J.Tartt)."
-17,A.Hurns,Allen Hurns,JAX,WR,19.88,38,reception,0,0,2016,REG,1,2016091103,2596,3,09:29,(9:29) (Shotgun) B.Bortles pass deep middle to A.Hurns ran ob at GB 34 for 38 yards (H.Clinton-Dix).
-18,A.Brown,Antonio Brown,PIT,WR,19.88,26,reception,1,1,2016,REG,1,2016091200,2375,3,07:08,"(7:08) (Shotgun) B.Roethlisberger pass deep left to A.Brown for 26 yards, TOUCHDOWN. PENALTY on PIT-A.Brown, Unsportsmanlike Conduct, 15 yards, enforced between downs."
-19,T.Austin,Tavon Austin,LA,WR,19.88,28,punt ret,0,0,2016,REG,1,2016091201,2893,3,04:07,"(4:07) B.Pinion punts 48 yards to LA 34, Center-K.Nelson. T.Austin pushed ob at SF 38 for 28 yards (J.Tartt)."
-20,T.Hill,Tyreek Hill,KC,WR,23.24,27,kickoff ret,0,1,2016,REG,2,2016091803,3901,4,,"N.Novak kicks 70 yards from HOU 35 to KC -5. T.Hill for 105 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on KC, Offensive Holding, 10 yards, enforced at KC 22."
-21,S.Diggs,Stefon Diggs,MIN,WR,22.5,44,reception,0,0,2016,REG,2,2016091813,1730,2,02:36,(2:36) S.Bradford pass deep right to S.Diggs to GB 32 for 44 yards (D.Randall).
-22,M.Goodwin,Marquise Goodwin,BUF,WR,22.25,84,reception,1,1,2016,REG,2,2016091500,656,1,05:26,"(5:26) (Shotgun) T.Taylor pass deep right to M.Goodwin for 84 yards, TOUCHDOWN. Caught near sideline at NYJ 30. PENALTY on NYJ-S.Richardson, Taunting, 15 yards, enforced between downs."
-23,T.Benjamin,Travis Benjamin,LAC,WR,22.17,45,reception,1,0,2016,REG,2,2016091812,2783,3,02:57,"(2:57) (Shotgun) P.Rivers pass deep right to T.Benjamin for 45 yards, TOUCHDOWN."
-24,T.Ginn,Ted Ginn,CAR,WR,22.11,52,reception,0,0,2016,REG,2,2016091800,2987,3,07:50,"(7:50) C.Newton pass deep right to T.Ginn pushed ob at SF 23 for 52 yards (T.Brock). San Francisco challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
-25,I.Crowell,Isaiah Crowell,CLE,RB,21.97,85,rush,1,0,2016,REG,2,2016091801,504,1,06:58,"(6:58) I.Crowell left guard for 85 yards, TOUCHDOWN."
-26,D.Murray,DeMarco Murray,TEN,RB,21.35,67,rush,0,0,2016,REG,2,2016091802,1506,2,07:27,(7:27) D.Murray up the middle to DET 26 for 67 yards (D.Slay).
-27,D.Johnson,David Johnson,ARI,RB,21.31,58,reception,0,0,2016,REG,2,2016091808,2776,3,10:01,(10:01) C.Palmer pass short right to D.Johnson pushed ob at TB 17 for 58 yards (B.Grimes).
-28,M.Cooper,Marcus Cooper,ARI,DB,21.07,60,int,1,0,2016,REG,2,2016091808,3060,3,05:15,"(5:15) (Shotgun) J.Winston pass short left intended for C.Sims INTERCEPTED by M.Cooper (J.Mauro) at ARI 40. M.Cooper for 60 yards, TOUCHDOWN."
-29,T.Benjamin,Travis Benjamin,LAC,WR,20.84,43,reception,0,0,2016,REG,2,2016091812,942,2,12:05,(12:05) (Shotgun) P.Rivers pass deep right to T.Benjamin pushed ob at JAX 13 for 43 yards (T.Gipson).
-30,T.Benjamin,Travis Benjamin,LAC,WR,20.68,12,punt ret,0,0,2016,REG,2,2016091812,2362,3,09:52,"(9:52) B.Nortman punts 56 yards to SD 7, Center-C.Tinker. T.Benjamin ran ob at SD 19 for 12 yards (B.Koyack)."
-31,D.Thomas,Demaryius Thomas,DEN,WR,20.64,44,reception,0,0,2016,REG,2,2016091810,447,1,07:00,(7:00) T.Siemian pass short left to D.Thomas to IND 10 for 44 yards (M.Adams).
-32,T.Hill,Tyreek Hill,KC,WR,20.54,16,punt ret,0,0,2016,REG,2,2016091803,675,1,04:33,"(4:33) S.Lechler punts 62 yards to KC 20, Center-J.Weeks. T.Hill pushed ob at KC 36 for 16 yards (B.Peters)."
-33,V.McDonald,Vance McDonald,SF,TE,20.54,75,reception,1,0,2016,REG,2,2016091800,4045,4,08:03,"(8:03) (No Huddle, Shotgun) B.Gabbert pass short left to V.McDonald for 75 yards, TOUCHDOWN."
-34,C.Michael,Christine Michael,SEA,RB,20.33,16,rush,0,0,2016,REG,2,2016091809,2535,3,05:47,(5:47) (Shotgun) C.Michael right end pushed ob at SEA 36 for 16 yards (A.Ogletree).
-35,T.Lockett,Tyler Lockett,SEA,WR,20.31,35,reception,0,0,2016,REG,2,2016091809,646,1,04:59,(4:59) (Shotgun) R.Wilson pass deep left to T.Lockett to LA 34 for 35 yards (M.Alexander).
-36,A.Humphries,Adam Humphries,TB,WR,20.31,25,punt ret,0,0,2016,REG,2,2016091808,4319,4,01:18,"(1:18) D.Butler punts 44 yards to TB 34, Center-K.Canaday. A.Humphries pushed ob at ARI 41 for 25 yards (J.Bethel)."
-37,S.Coates,Sammie Coates,PIT,WR,20.31,53,reception,0,0,2016,REG,2,2016091806,2943,3,07:12,(7:12) (Shotgun) B.Roethlisberger pass deep right to S.Coates to CIN 9 for 53 yards (D.Dennard).
-38,T.Williams,Tyrell Williams,LAC,WR,20.23,44,reception,1,0,2016,REG,2,2016091812,2191,3,11:06,"(11:06) (Shotgun) P.Rivers pass short right to Ty.Williams for 44 yards, TOUCHDOWN."
-39,F.Whittaker,Fozzy Whittaker,CAR,RB,20.15,24,reception,0,0,2016,REG,2,2016091800,1055,2,14:26,"(14:26) (No Huddle, Shotgun) C.Newton pass short right to F.Whittaker pushed ob at SF 47 for 24 yards (A.Brooks)."
-40,D.Jones,Deion Jones,ATL,OLB,21.72,90,int,1,0,2016,REG,3,2016092600,3455,4,13:51,"(13:51) (Shotgun) D.Brees pass short right intended for M.Thomas INTERCEPTED by D.Jones (B.Poole) at ATL 10. D.Jones for 90 yards, TOUCHDOWN."
-41,S.Coates,Sammie Coates,PIT,WR,21.27,41,reception,0,0,2016,REG,3,2016092510,1051,2,11:12,"(11:12) (No Huddle, Shotgun) B.Roethlisberger pass deep right to S.Coates to PHI 36 for 41 yards (R.McLeod)."
-42,M.Sherels,Marcus Sherels,MIN,CB,21.17,54,punt ret,1,0,2016,REG,3,2016092501,1708,2,03:37,"(3:37) A.Lee punts 48 yards to MIN 46, Center-J.Jansen. M.Sherels for 54 yards, TOUCHDOWN."
-43,J.Howard,Jordan Howard,CHI,RB,21.07,36,rush,0,0,2016,REG,3,2016092513,1103,2,11:11,(11:11) J.Howard right end pushed ob at DAL 39 for 36 yards (J.Wilcox).
-44,C.Michael,Christine Michael,SEA,RB,21.03,41,rush,1,0,2016,REG,3,2016092508,118,1,14:24,"(14:24) C.Michael left tackle for 41 yards, TOUCHDOWN."
-45,D.Sproles,Darren Sproles,PHI,RB,21.03,40,reception,0,0,2016,REG,3,2016092510,344,1,07:31,(7:31) C.Wentz pass short left to D.Sproles pushed ob at PIT 14 for 40 yards (R.Golden).
-46,P.Peterson,Patrick Peterson,ARI,CB,20.95,0,int,0,0,2016,REG,3,2016092500,1313,2,14:14,(14:14) (Shotgun) T.Taylor pass deep right intended for M.Goodwin INTERCEPTED by P.Peterson at ARI 10. P.Peterson ran ob at ARI 10 for no gain. Intercepted along sideline.
-47,D.Jackson,DeSean Jackson,WAS,WR,20.95,44,reception,1,0,2016,REG,3,2016092506,1726,2,03:49,"(3:49) (Shotgun) K.Cousins pass deep middle to D.Jackson for 44 yards, TOUCHDOWN. The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands."
-48,J.Brown,John Brown,ARI,WR,20.93,51,kickoff ret,0,0,2016,REG,3,2016092500,4957,4,,C.Schmidt kicks 45 yards from BUF 20 to ARI 35. Jo.Brown pushed ob at BUF 14 for 51 yards (J.Meeks).
-49,D.Baldwin,Doug Baldwin,SEA,WR,20.9,59,reception,0,0,2016,REG,3,2016092508,1360,2,08:48,(8:48) (Shotgun) R.Wilson pass deep middle to D.Baldwin to SF 18 for 59 yards (E.Reid).
-50,J.Hill,Jeremy Hill,CIN,RB,20.64,50,rush,0,0,2016,REG,3,2016092502,227,1,12:05,(12:05) J.Hill left tackle to DEN 3 for 50 yards (D.Stewart).
-51,L.McCoy,LeSean McCoy,BUF,RB,20.37,6,rush,0,0,2016,REG,3,2016092500,838,1,02:25,(2:25) (Shotgun) L.McCoy left end pushed ob at ARI 47 for 6 yards (K.Minter).
-52,L.McCoy,LeSean McCoy,BUF,RB,20.33,24,rush,1,0,2016,REG,3,2016092500,1017,1,00:59,"(:59) (No Huddle, Shotgun) L.McCoy up the middle for 24 yards, TOUCHDOWN."
-53,J.Brissett,Jacoby Brissett,NE,QB,20.33,27,rush,1,0,2016,REG,3,2016092200,860,1,02:01,"(2:01) J.Brissett right end for 27 yards, TOUCHDOWN."
-54,K.Alexander,Kwon Alexander,TB,MLB,20.23,38,int,1,0,2016,REG,3,2016092509,442,1,08:54,"(8:54) (Shotgun) C.Keenum pass short right intended for T.Austin INTERCEPTED by K.Alexander at LA 38. K.Alexander for 38 yards, TOUCHDOWN."
-55,S.Roberts,Seth Roberts,OAK,WR,20.15,19,reception,1,0,2016,REG,3,2016092507,1967,2,00:40,"(:40) (No Huddle, Shotgun) D.Carr pass to S.Roberts for 19 yards, TOUCHDOWN."
-56,J.Marshall,Jalin Marshall,NYJ,WR,20.13,34,kickoff ret,0,0,2016,REG,3,2016092512,36,1,,C.Santos kicks 60 yards from KC 35 to NYJ 5. J.Marshall ran ob at NYJ 39 for 34 yards (D.Harris).
-57,J.Crowder,Jamison Crowder,WAS,WR,20.07,55,reception,1,0,2016,REG,3,2016092506,2650,3,09:55,"(9:55) (Shotgun) K.Cousins pass short left to J.Crowder for 55 yards, TOUCHDOWN."
-58,P.Dorsett,Phillip Dorsett,IND,WR,20.03,18,reception,0,0,2016,REG,3,2016092511,148,1,12:14,(12:14) (Shotgun) A.Luck pass short left to P.Dorsett ran ob at SD 35 for 18 yards (B.Flowers).
-59,D.Henry,Derrick Henry,TEN,RB,19.98,13,rush,0,0,2016,REG,3,2016092507,2900,3,01:25,(1:25) D.Henry left end pushed ob at TEN 23 for 13 yards (K.Joseph).
-60,W.Fuller,Will Fuller,HOU,WR,21.62,67,punt ret,1,0,2016,REG,4,2016100204,2968,3,01:12,"(1:12) B.Kern punts 45 yards to HOU 33, Center-B.Brinkley. W.Fuller for 67 yards, TOUCHDOWN. (The Punt Hangtime Was 3.65 seconds.)"
-61,S.Coates,Sammie Coates,PIT,WR,21.6,47,reception,0,0,2016,REG,4,2016100212,229,1,12:28,(12:28) B.Roethlisberger pass deep right to S.Coates to KC 48 for 47 yards (M.Peters).
-62,A.Roberts,Andre Roberts,DET,WR,21.58,85,punt ret,1,0,2016,REG,4,2016100203,4230,4,02:12,"(2:12) (Punt formation) P.O'Donnell punts 48 yards to DET 15, Center-P.Scales. A.Roberts for 85 yards, TOUCHDOWN. Penalty on CHI, Illegal Formation, declined."
-63,T.Hill,Tyreek Hill,KC,WR,21.31,6,punt ret,0,1,2016,REG,4,2016100212,1377,2,11:20,"(11:20) (Punt formation) J.Berry punts 52 yards to KC 22, Center-G.Warren. T.Hill for 78 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on KC-D.Harris, Illegal Block Above the Waist, 10 yards, enforced at KC 28."
-64,J.Jones,Julio Jones,ATL,WR,21.09,53,reception,0,0,2016,REG,4,2016100201,1236,2,08:46,(8:46) (Shotgun) M.Ryan pass deep right to J.Jones to CAR 15 for 53 yards (K.Coleman).
-65,J.Jones,Julio Jones,ATL,WR,21.09,75,reception,1,0,2016,REG,4,2016100201,3569,4,03:58,"(3:58) M.Ryan pass short middle to J.Jones for 75 yards, TOUCHDOWN."
-66,B.Quick,Brian Quick,LA,WR,20.76,65,reception,1,0,2016,REG,4,2016100209,696,1,02:11,"(2:11) (Shotgun) C.Keenum pass short right to B.Quick for 65 yards, TOUCHDOWN."
-67,M.Wallace,Mike Wallace,BAL,WR,20.74,3,rush,0,0,2016,REG,4,2016100202,935,1,01:16,(1:16) M.Wallace left end pushed ob at OAK 44 for 3 yards (K.Mack). End Around
-68,J.Jones,Julio Jones,ATL,WR,20.72,43,reception,0,0,2016,REG,4,2016100201,750,1,01:51,(1:51) M.Ryan pass deep right to J.Jones ran ob at CAR 32 for 43 yards (D.Worley) [C.Johnson].
-69,A.Green,A.J. Green,CIN,WR,20.66,43,reception,0,0,2016,REG,4,2016092900,2250,3,09:28,(9:28) A.Dalton pass deep left to A.Green to MIA 16 for 43 yards (T.Lippett; R.Jones).
-70,K.Drake,Kenyan Drake,MIA,RB,20.64,17,kickoff ret,0,0,2016,REG,4,2016092900,343,1,,M.Nugent kicks 48 yards from 50 to MIA 2. K.Drake pushed ob at MIA 19 for 17 yards (J.Shaw).
-71,E.Royal,Eddie Royal,CHI,WR,20.62,64,reception,0,0,2016,REG,4,2016100203,3009,3,05:42,(5:42) (Shotgun) B.Hoyer pass deep middle to E.Royal pushed ob at DET 12 for 64 yards (G.Quin).
-72,T.Benjamin,Travis Benjamin,LAC,WR,20.6,10,punt ret,0,1,2016,REG,4,2016100210,3038,3,03:48,"(3:48) T.Morstead punts 59 yards to SD 11, Center-J.Drescher. T.Benjamin ran ob at SD 21 for 10 yards (N.Stupar). PENALTY on NO-D.Harris, Player Out of Bounds on Punt, 5 yards, enforced at SD 21."
-73,T.Benjamin,Travis Benjamin,LAC,WR,20.54,25,reception,0,0,2016,REG,4,2016100210,1351,2,06:55,(6:55) (Shotgun) P.Rivers pass deep right to T.Benjamin ran ob at NO 16 for 25 yards (B.Webb) [D.Tapp].
-74,P.Perkins,Paul Perkins,NYG,RB,20.43,67,reception,0,0,2016,REG,4,2016100300,3063,4,15:00,(15:00) (Shotgun) E.Manning pass short right to P.Perkins to MIN 4 for 67 yards (A.Sendejo).
-75,D.Heyward-Bey,Darrius Heyward-Bey,PIT,WR,20.33,31,reception,1,0,2016,REG,4,2016100212,544,1,07:34,"(7:34) (Shotgun) B.Roethlisberger pass deep left to D.Heyward-Bey for 31 yards, TOUCHDOWN."
-76,B.LaFell,Brandon LaFell,CIN,WR,20.09,23,reception,0,0,2016,REG,4,2016092900,2688,3,00:59,(:59) A.Dalton pass deep right to B.LaFell ran ob at MIA 20 for 23 yards.
-77,T.Lewis,Tommylee Lewis,NO,WR,20.05,3,rush,0,0,2016,REG,4,2016100210,2463,3,10:22,(10:22) T.Lewis right end pushed ob at SD 5 for 3 yards (D.McCoil).
-78,J.Richard,Jalen Richard,OAK,RB,19.92,47,punt ret,0,0,2016,REG,4,2016100202,852,1,01:49,"(1:49) (Punt formation) S.Koch punts 47 yards to OAK 47, Center-M.Cox. J.Richard pushed ob at BAL 6 for 47 yards (S.Koch)."
-79,K.Stills,Kenny Stills,MIA,WR,19.8,74,reception,1,0,2016,REG,4,2016092900,389,1,09:15,"(9:15) (Shotgun) R.Tannehill pass deep left to K.Stills for 74 yards, TOUCHDOWN."
-80,T.Coleman,Tevin Coleman,ATL,RB,22.25,49,reception,0,0,2016,REG,5,2016100907,3176,4,11:01,(11:01) (Shotgun) M.Ryan pass deep right to T.Coleman pushed ob at DEN 26 for 49 yards (T.Ward) [S.Williams].
-81,J.Howard,Jordan Howard,CHI,RB,22.03,57,rush,0,0,2016,REG,5,2016100903,1540,2,06:08,(6:08) (Shotgun) J.Howard right end to IND 18 for 57 yards (M.Adams). IND-M.Adams was injured during the play.
-82,S.Coates,Sammie Coates,PIT,WR,21.78,72,reception,1,0,2016,REG,5,2016100906,323,1,10:25,"(10:25) (Shotgun) B.Roethlisberger pass deep right to S.Coates for 72 yards, TOUCHDOWN."
-83,T.Benjamin,Travis Benjamin,LAC,WR,21.54,54,reception,0,0,2016,REG,5,2016100910,1476,2,07:13,(7:13) (Shotgun) P.Rivers pass short right to T.Benjamin pushed ob at OAK 26 for 54 yards (R.Nelson).
-84,T.Austin,Tavon Austin,LA,WR,21.5,9,rush,0,0,2016,REG,5,2016100909,3265,4,08:17,(8:17) T.Austin left end ran ob at BUF 10 for 9 yards (C.Graham).
-85,E.Elliott,Ezekiel Elliott,DAL,RB,21.5,60,rush,1,0,2016,REG,5,2016100908,2224,3,11:47,"(11:47) E.Elliott right guard for 60 yards, TOUCHDOWN."
-86,T.Pryor,Terrelle Pryor,CLE,WR,20.99,2,rush,0,0,2016,REG,5,2016100901,3986,4,03:51,(3:51) (Shotgun) T.Pryor scrambles left end ran ob at NE 48 for 2 yards (P.Chung).
-87,M.Mariota,Marcus Mariota,TEN,QB,20.95,21,rush,0,0,2016,REG,5,2016100904,1684,2,01:28,(1:28) (Shotgun) M.Mariota scrambles right end to MIA 27 for 21 yards (I.Abdul-Quddus).
-88,T.Coleman,Tevin Coleman,ATL,RB,20.88,16,rush,0,0,2016,REG,5,2016100907,1505,2,08:14,(8:14) T.Coleman right end pushed ob at ATL 27 for 16 yards (D.Stewart).
-89,B.Gabbert,Blaine Gabbert,SF,QB,20.76,9,rush,0,0,2016,REG,5,2016100600,1499,2,06:34,"(6:34) (No Huddle, Shotgun) B.Gabbert scrambles left end ran ob at ARI 38 for 9 yards (T.Mathieu)."
-90,C.Hogan,Chris Hogan,NE,WR,20.68,43,reception,0,0,2016,REG,5,2016100901,1100,2,14:29,(14:29) T.Brady pass deep left to C.Hogan to CLE 7 for 43 yards (I.Campbell).
-91,J.Haden,Joe Haden,CLE,CB,20.5,5,punt ret,0,0,2016,REG,5,2016100901,3077,3,02:36,"(2:36) (Punt formation) R.Allen punts 46 yards to CLE 15, Center-J.Cardona. J.Haden to CLE 20 for 5 yards (N.Ebner)."
-92,T.Williams,Tyrell Williams,LAC,WR,20.5,29,reception,1,0,2016,REG,5,2016100910,1089,2,13:13,"(13:13) P.Rivers pass deep middle to Ty.Williams for 29 yards, TOUCHDOWN."
-93,M.Sherels,Marcus Sherels,MIN,CB,20.37,79,punt ret,1,0,2016,REG,5,2016100905,1488,2,09:05,"(9:05) (Punt formation) S.Lechler punts 57 yards to MIN 21, Center-J.Weeks. M.Sherels for 79 yards, TOUCHDOWN."
-94,T.Hilton,T.Y. Hilton,IND,WR,20.31,35,reception,1,0,2016,REG,5,2016100903,3755,4,03:51,"(3:51) (No Huddle, Shotgun) A.Luck pass deep middle to T.Hilton for 35 yards, TOUCHDOWN [S.Acho]."
-95,T.Williams,Tyrell Williams,LAC,WR,20.29,50,reception,0,0,2016,REG,5,2016100910,2245,3,11:19,"(11:19) P.Rivers pass deep middle to Ty.Williams to OAK 25 for 50 yards (D.Amerson). Penalty on OAK-S.Smith, Defensive Holding, declined."
-96,N.Robey-Coleman,Nickell Robey-Coleman,BUF,DB,20.13,41,int,1,0,2016,REG,5,2016100909,2682,3,04:05,"(4:05) (Shotgun) C.Keenum pass short right intended for P.Cooper INTERCEPTED by N.Robey-Coleman at LA 41. N.Robey-Coleman for 41 yards, TOUCHDOWN."
-97,J.Grant,Jakeem Grant,MIA,WR,20,74,punt ret,1,0,2016,REG,5,2016100904,1033,2,12:44,"(12:44) (Punt formation) B.Kern punts 51 yards to MIA 26, Center-B.Brinkley. J.Grant for 74 yards, TOUCHDOWN."
-98,M.Cooper,Marcus Cooper,ARI,CB,19.9,12,int,0,0,2016,REG,5,2016100600,3315,4,15:00,(15:00) (Shotgun) B.Gabbert pass short left intended for J.Kerley INTERCEPTED by M.Cooper at SF 36. M.Cooper pushed ob at SF 24 for 12 yards (G.Celek).
-99,M.Gordon,Melvin Gordon,LAC,RB,19.9,24,rush,0,0,2016,REG,5,2016100910,2280,3,10:53,(10:53) M.Gordon right end pushed ob at OAK 1 for 24 yards (S.Smith).
-100,M.Wallace,Mike Wallace,BAL,WR,22.34,70,reception,0,1,2016,REG,6,2016101606,3322,3,02:10,"(2:10) (Shotgun) J.Flacco pass deep right to M.Wallace to NYG 5 for 70 yards (J.Jenkins) [J.Pierre-Paul]. PENALTY on NYG-J.Jenkins, Face Mask (15 Yards), 2 yards, enforced at NYG 5."
-101,W.Smallwood,Wendell Smallwood,PHI,RB,21.93,86,kickoff ret,1,0,2016,REG,6,2016101608,1344,2,,"D.Hopkins kicks 66 yards from WAS 20 to PHI 14. W.Smallwood for 86 yards, TOUCHDOWN."
-102,B.Cooks,Brandin Cooks,NO,WR,21.89,87,reception,1,0,2016,REG,6,2016101605,937,1,02:43,"(2:43) (Shotgun) D.Brees pass deep right to B.Cooks for 87 yards, TOUCHDOWN. Pass 33, YAC 54"
-103,M.Mariota,Marcus Mariota,TEN,QB,21.5,41,rush,0,0,2016,REG,6,2016101607,51,1,15:00,(15:00) (Shotgun) M.Mariota left end pushed ob at CLE 34 for 41 yards (J.Poyer).
-104,M.Gillislee,Mike Gillislee,BUF,RB,21.46,44,rush,1,0,2016,REG,6,2016101600,4206,4,05:47,"(5:47) (Shotgun) M.Gillislee left guard for 44 yards, TOUCHDOWN."
-105,L.Miller,Lamar Miller,HOU,RB,21.29,23,rush,0,0,2016,REG,6,2016101612,2088,3,12:19,(12:19) L.Miller left end pushed ob at HOU 41 for 23 yards (C.Geathers).
-106,D.Heyward-Bey,Darrius Heyward-Bey,PIT,WR,21.13,60,rush,1,0,2016,REG,6,2016101603,602,1,05:52,"(5:52) D.Heyward-Bey right end for 60 yards, TOUCHDOWN."
-107,O.Beckham,Odell Beckham,NYG,WR,21.03,75,reception,1,0,2016,REG,6,2016101606,3255,3,02:22,"(2:22) (Shotgun) E.Manning pass deep right to O.Beckham for 75 yards, TOUCHDOWN."
-108,T.Hill,Tyreek Hill,KC,WR,21.01,50,punt ret,0,1,2016,REG,6,2016101609,2125,3,10:53,"(10:53) M.King punts 58 yards to KC 9, Center-J.Condo. T.Hill to OAK 41 for 50 yards (B.Trawick). PENALTY on OAK, Illegal Formation, 5 yards, enforced at OAK 41."
-109,M.Gordon,Melvin Gordon,LAC,RB,20.93,48,rush,0,0,2016,REG,6,2016101300,1921,3,12:51,"(12:51) M.Gordon left tackle to DEN 6 for 48 yards (C.Harris Jr., D.Stewart)."
-110,M.Jones,Matt Jones,WAS,RB,20.86,57,rush,0,0,2016,REG,6,2016101608,4006,4,01:27,(1:27) M.Jones left end to PHI 17 for 57 yards (R.McLeod).
-111,O.Beckham,Odell Beckham,NYG,WR,20.74,66,reception,1,1,2016,REG,6,2016101606,4379,4,01:36,"(1:36) (No Huddle, Shotgun) E.Manning pass short middle to O.Beckham for 66 yards, TOUCHDOWN. BAL-T.Young was injured during the play.  PENALTY on NYG-O.Beckham, Unsportsmanlike Conduct, 15 yards, enforced between downs."
-112,E.Elliott,Ezekiel Elliott,DAL,RB,20.74,25,rush,0,0,2016,REG,6,2016101610,2496,3,10:03,(10:03) E.Elliott right end pushed ob at GB 26 for 25 yards (L.Gunter).
-113,R.Woods,Robert Woods,BUF,WR,20.74,6,rush,0,0,2016,REG,6,2016101600,1956,2,01:22,(1:22) R.Woods left tackle to SF 24 for 6 yards (E.Reid). End-around.
-114,J.Nelson,J.J. Nelson,ARI,WR,20.72,14,rush,0,0,2016,REG,6,2016101700,1377,2,10:46,(10:46) J.Nelson left end pushed ob at NYJ 49 for 14 yards (S.Richardson).
-115,D.Johnson,David Johnson,ARI,RB,20.62,58,rush,1,0,2016,REG,6,2016101700,326,1,10:03,"(10:03) (Shotgun) D.Johnson left end for 58 yards, TOUCHDOWN."
-116,L.Whitehead,Lucky Whitehead,DAL,WR,20.6,26,rush,0,0,2016,REG,6,2016101610,2034,2,00:45,(:45) L.Whitehead left end pushed ob at DAL 38 for 26 yards (H.Clinton-Dix).
-117,J.Matthews,Jordan Matthews,PHI,WR,20.58,54,reception,0,0,2016,REG,6,2016101608,2966,4,14:55,(14:55) (Shotgun) C.Wentz pass deep right to J.Matthews to WAS 26 for 54 yards (W.Blackmon).
-118,T.Ginn,Ted Ginn,CAR,WR,20.52,35,kickoff ret,0,0,2016,REG,6,2016101605,974,1,,W.Lutz kicks 64 yards from NO 35 to CAR 1. T.Ginn pushed ob at CAR 36 for 35 yards (M.Mauti).
-119,T.Smith,Torrey Smith,SF,WR,20.41,53,reception,1,0,2016,REG,6,2016101600,1138,2,14:07,"(14:07) (No Huddle, Shotgun) C.Kaepernick pass deep right to T.Smith for 53 yards, TOUCHDOWN. Caught near sideline at BUF 25, crossed to middle after catch."
-120,J.Holton,Johnny Holton,OAK,WR,22.23,29,rush,0,0,2016,REG,7,2016102303,1353,2,12:38,(12:38) J.Holton left end pushed ob at JAX 46 for 29 yards (J.Cyprien).
-121,A.Green,A.J. Green,CIN,WR,21.4,48,reception,0,0,2016,REG,7,2016102301,2556,3,07:35,(7:35) (Shotgun) A.Dalton pass deep right to A.Green to CLE 36 for 48 yards (B.Boddy-Calhoun).
-122,Q.Enunwa,Quincy Enunwa,NYJ,WR,21.33,69,reception,1,0,2016,REG,7,2016102306,873,1,01:24,"(1:24) (Shotgun) G.Smith pass short middle to Q.Enunwa for 69 yards, TOUCHDOWN."
-123,J.Huff,Josh Huff,PHI,WR,21.21,98,kickoff ret,1,0,2016,REG,7,2016102307,1514,2,,"B.Walsh kicks 63 yards from MIN 35 to PHI 2. J.Huff for 98 yards, TOUCHDOWN."
-124,M.Jones,Marvin Jones,DET,WR,21.17,52,reception,0,0,2016,REG,7,2016102302,2044,3,08:49,"(8:49) C.Lucas reported in as eligible.  M.Stafford pass deep middle to M.Jones to WAS 14 for 52 yards (J.Norman). WAS-J.Norman was injured during the play. He is Out.  Penalty on WAS-J.Norman, Defensive Pass Interference, declined."
-125,M.Wallace,Mike Wallace,BAL,WR,21.03,53,reception,0,0,2016,REG,7,2016102306,585,1,06:30,(6:30) J.Flacco pass deep middle to M.Wallace to NYJ 37 for 53 yards (B.Skrine).
-126,M.Goodwin,Marquise Goodwin,BUF,WR,20.99,67,reception,1,0,2016,REG,7,2016102305,2446,3,06:00,"(6:00) (Shotgun) T.Taylor pass deep right to M.Goodwin for 67 yards, TOUCHDOWN [N.Suh]."
-127,C.Ivory,Chris Ivory,JAX,RB,20.99,42,rush,0,0,2016,REG,7,2016102303,1214,2,14:41,(14:41) C.Ivory up the middle pushed ob at OAK 8 for 42 yards (R.Nelson).
-128,T.Hill,Tyreek Hill,KC,WR,20.95,38,reception,1,0,2016,REG,7,2016102304,1348,2,07:09,"(7:09) (Shotgun) A.Smith pass deep left to T.Hill for 38 yards, TOUCHDOWN."
-129,T.Williams,Tyrell Williams,LAC,WR,20.84,49,reception,0,0,2016,REG,7,2016102309,145,1,12:17,(12:17) P.Rivers pass deep right to Ty.Williams pushed ob at ATL 10 for 49 yards (R.Allen).
-130,T.Hill,Tyreek Hill,KC,WR,20.76,18,rush,0,0,2016,REG,7,2016102304,594,1,05:01,(5:01) T.Hill left end to NO 46 for 18 yards (N.Stupar).
-131,P.Barber,Peyton Barber,TB,RB,20.76,44,rush,1,0,2016,REG,7,2016102310,4028,4,04:51,"(4:51) G.Cherilus reported in as eligible.  P.Barber left guard for 44 yards, TOUCHDOWN."
-132,J.Jones,Julio Jones,ATL,WR,20.68,50,reception,0,0,2016,REG,7,2016102309,1099,2,11:41,(11:41) M.Ryan pass deep right to J.Jones to SD 14 for 50 yards (D.Lowery).
-133,C.Kaepernick,Colin Kaepernick,SF,QB,20.66,8,rush,0,0,2016,REG,7,2016102310,3701,4,11:04,(11:04) (Shotgun) C.Kaepernick scrambles right end pushed ob at TB 34 for 8 yards (J.Adjei-Barimah).
-134,M.Gilchrist,Marcus Gilchrist,NYJ,FS,20.52,25,int,0,0,2016,REG,7,2016102306,2647,3,04:11,(4:11) (Shotgun) J.Flacco pass deep middle intended for B.Perriman INTERCEPTED by M.Gilchrist at BAL 49. M.Gilchrist ran ob at BAL 24 for 25 yards.
-135,T.Hill,Tyreek Hill,KC,WR,20.48,5,rush,0,1,2016,REG,7,2016102304,3771,4,02:26,"(2:26) T.Hill right end pushed ob at NO 44 for 5 yards (V.Bell; N.Stupar). PENALTY on NO-N.Fairley, Unnecessary Roughness, 15 yards, enforced at NO 44."
-136,A.Brown,Antonio Brown,PIT,WR,20.43,13,rush,0,0,2016,REG,7,2016102311,2357,3,12:54,(12:54) (Shotgun) A.Brown left end ran ob at PIT 44 for 13 yards.
-137,T.Coleman,Tevin Coleman,ATL,RB,20.35,30,rush,1,0,2016,REG,7,2016102309,1452,2,06:15,"(6:15) T.Coleman right tackle for 30 yards, TOUCHDOWN."
-138,B.Skrine,Buster Skrine,NYJ,CB,20.25,51,int,0,0,2016,REG,7,2016102306,2453,3,07:16,(7:16) J.Flacco pass short left intended for B.Perriman INTERCEPTED by B.Skrine at NYJ 46. B.Skrine pushed ob at BAL 3 for 51 yards (R.Jensen).
-139,J.Hill,Jeremy Hill,CIN,RB,20.17,74,rush,1,0,2016,REG,7,2016102301,2359,3,09:59,"(9:59) J.Hill right tackle for 74 yards, TOUCHDOWN."
-140,T.Hill,Tyreek Hill,KC,WR,21.91,49,reception,0,0,2016,REG,8,2016103005,932,1,01:26,(1:26) (Run formation) N.Foles pass deep middle to T.Hill to IND 31 for 49 yards (T.Green).
-141,T.Gabriel,Taylor Gabriel,ATL,WR,21.5,47,reception,1,0,2016,REG,8,2016103001,591,1,04:36,"(4:36) M.Ryan pass deep middle to T.Gabriel for 47 yards, TOUCHDOWN."
-142,B.Roby,Bradley Roby,DEN,FS,21.44,51,int,1,0,2016,REG,8,2016103008,,2,09:22,"(9:22) (Shotgun) P.Rivers pass short middle intended for Ty.Williams INTERCEPTED by B.Roby at DEN 49. B.Roby for 51 yards, TOUCHDOWN. Coach Wade Phillips hurt on the play.  Game was delayed."
-143,J.Taylor,Jordan Taylor,DEN,WR,21.17,35,reception,0,0,2016,REG,8,2016103008,101,1,14:09,(14:09) (Shotgun) T.Siemian pass short middle to J.Taylor pushed ob at SD 37 for 35 yards (A.Phillips) [J.Bosa].
-144,J.Howard,Jordan Howard,CHI,RB,20.76,69,rush,0,0,2016,REG,8,2016103100,302,1,10:55,(10:55) (Shotgun) J.Howard left tackle pushed ob at MIN 13 for 69 yards (X.Rhodes).
-145,J.Nelson,Jordy Nelson,GB,WR,20.7,58,reception,0,0,2016,REG,8,2016103001,435,1,07:37,(7:37) (Shotgun) A.Rodgers pass deep right to J.Nelson pushed ob at ATL 7 for 58 yards (R.Allen) [G.Jarrett].
-146,C.Jones,Chris Jones,DAL,P,20.68,30,rush,0,0,2016,REG,8,2016103010,2828,3,04:55,(4:55) (Punt formation) C.Jones left end to PHI 43 for 30 yards (D.Sproles). Fake punt run around left end.
-147,D.Freeman,Devonta Freeman,ATL,RB,20.62,17,rush,0,0,2016,REG,8,2016103001,237,1,11:47,(11:47) D.Freeman left end pushed ob at GB 25 for 17 yards (B.Martinez).
-148,J.Marshall,Jalin Marshall,NYJ,WR,20.56,15,punt ret,0,0,2016,REG,8,2016103003,1282,2,11:53,"(11:53) (Punt formation) B.Colquitt punts 52 yards to NYJ 19, Center-C.Hughlett. J.Marshall pushed ob at NYJ 34 for 15 yards (G.Atkinson III)."
-149,R.Bush,Reggie Bush,BUF,RB,20.56,35,kickoff ret,0,0,2016,REG,8,2016103002,3692,3,,S.Gostkowski kicks 60 yards from NE 35 to BUF 5. R.Bush pushed ob at BUF 40 for 35 yards (D.McCourty).
-150,K.Wright,Kendall Wright,TEN,WR,20.39,36,reception,1,0,2016,REG,8,2016102700,875,2,15:00,"(15:00) M.Mariota pass deep right to K.Wright for 36 yards, TOUCHDOWN."
-151,D.Walker,Delanie Walker,TEN,TE,20.37,3,rush,0,0,2016,REG,8,2016102700,1392,2,08:52,(8:52) (Shotgun) D.Walker right end pushed ob at TEN 41 for 3 yards (T.Smith).
-152,T.Pryor,Terrelle Pryor,CLE,WR,20.25,35,reception,0,0,2016,REG,8,2016103003,573,1,06:53,(6:53) J.McCown pass deep middle to T.Pryor Sr. to NYJ 47 for 35 yards (D.Revis).
-153,A.Green,A.J. Green,CIN,WR,20.19,40,reception,0,0,2016,REG,8,2016103000,3567,4,08:04,"(8:04) (No Huddle) A.Dalton pass deep left to A.Green to WAS 7 for 40 yards (J.Norman). Penalty on WAS-J.Norman, Defensive Pass Interference, declined."
-154,Q.Enunwa,Quincy Enunwa,NYJ,WR,20.11,57,reception,0,0,2016,REG,8,2016103003,2871,3,03:49,(3:49) R.Fitzpatrick pass deep middle to Q.Enunwa to CLE 13 for 57 yards (J.Taylor).
-155,T.Hill,Tyreek Hill,KC,WR,20.09,28,punt ret,0,0,2016,REG,8,2016103005,3282,4,13:22,"(13:22) P.McAfee punts 58 yards to KC 22, Center-M.Overton. T.Hill pushed ob at 50 for 28 yards (J.Doyle)."
-156,A.Roberts,Andre Roberts,DET,WR,20.09,20,kickoff ret,0,1,2016,REG,8,2016103004,908,2,,"N.Novak kicks 61 yards from HOU 35 to DET 4. A.Roberts pushed ob at HOU 40 for 56 yards (A.Hal). PENALTY on DET-A.Williams, Offensive Holding, 10 yards, enforced at DET 24."
-157,D.Murray,DeMarco Murray,TEN,RB,19.72,19,rush,0,0,2016,REG,8,2016102700,1879,2,01:59,(1:59) D.Murray left end ran ob at TEN 22 for 19 yards (P.Amukamara).
-158,A.Rodgers,Aaron Rodgers,GB,QB,19.72,23,rush,0,0,2016,REG,8,2016103001,1906,2,00:27,(:27) (Shotgun) A.Rodgers scrambles right end ran ob at GB 48 for 23 yards (R.Allen).
-159,C.Newton,Cam Newton,CAR,QB,19.7,19,rush,0,0,2016,REG,8,2016103009,748,1,04:08,(4:08) (Shotgun) C.Newton up the middle pushed ob at ARI 11 for 19 yards (P.Peterson).
-160,M.Gordon,Melvin Gordon,LAC,RB,21.95,43,rush,0,0,2016,REG,9,2016110610,932,2,15:00,(15:00) M.Gordon up the middle pushed ob at TEN 6 for 43 yards (K.Byard).
-161,J.Todman,Jordan Todman,IND,RB,21.4,99,kickoff ret,1,0,2016,REG,9,2016110609,36,1,,"M.Crosby kicks 64 yards from GB 35 to IND 1. J.Todman for 99 yards, TOUCHDOWN."
-162,M.Ingram,Mark Ingram,NO,RB,21.31,75,rush,1,0,2016,REG,9,2016110608,1784,2,05:56,"(5:56) M.Ingram right tackle for 75 yards, TOUCHDOWN."
-163,R.Hillman,Ronnie Hillman,MIN,RB,21.27,32,reception,0,0,2016,REG,9,2016110605,3014,4,10:30,(10:30) S.Bradford pass short right to R.Hillman pushed ob at DET 14 for 32 yards (J.Bademosi).
-164,B.Treggs,Bryce Treggs,PHI,WR,21.25,58,reception,0,0,2016,REG,9,2016110606,1055,2,13:44,(13:44) C.Wentz pass deep middle to B.Treggs to NYG 12 for 58 yards (N.Berhe).
-165,T.Hill,Tyreek Hill,KC,WR,21.19,16,rush,0,0,2016,REG,9,2016110603,658,1,04:35,(4:35) T.Hill left end pushed ob at KC 27 for 16 yards (T.Smith).
-166,M.Gordon,Melvin Gordon,LAC,RB,20.97,35,reception,0,0,2016,REG,9,2016110610,3715,4,08:20,(8:20) (Shotgun) P.Rivers pass short left to M.Gordon pushed ob at TEN 27 for 35 yards (D.Stafford).
-167,M.Forte,Matt Forte,NYJ,RB,20.95,31,rush,1,0,2016,REG,9,2016110604,860,1,00:42,"(:42) D.Dozier reported in as eligible.  M.Forte left tackle for 31 yards, TOUCHDOWN."
-168,M.Wallace,Mike Wallace,BAL,WR,20.9,95,reception,1,0,2016,REG,9,2016110601,812,1,01:21,"(1:21) (No Huddle, Shotgun) J.Flacco pass short middle to M.Wallace for 95 yards, TOUCHDOWN. Flacco's 95-yard TD pass to Wallace is the longest pass play in Ravens history."
-169,L.Murray,Latavius Murray,OAK,RB,20.9,42,rush,0,0,2016,REG,9,2016110600,1892,2,02:00,(2:00) D.Kirkland reported in as eligible.  L.Murray left guard ran ob at DEN 24 for 42 yards (T.Ward).
-170,A.Wilson,Albert Wilson,KC,WR,20.62,-5,rush,0,0,2016,REG,9,2016110603,1325,2,12:00,(12:00) A.Wilson left end ran ob at JAX 18 for -5 yards.
-171,V.McDonald,Vance McDonald,SF,TE,20.6,65,reception,1,0,2016,REG,9,2016110608,2261,2,01:16,"(1:16) (Shotgun) C.Kaepernick pass short right to V.McDonald for 65 yards, TOUCHDOWN. Caught at SF 39.   61-yds  YAC"
-172,D.Freeman,Devonta Freeman,ATL,RB,20.45,20,rush,0,0,2016,REG,9,2016110300,1160,2,15:00,(15:00) D.Freeman left end pushed ob at TB 26 for 20 yards (C.Conte).
-173,J.Grant,Jakeem Grant,MIA,WR,20.39,3,punt ret,0,1,2016,REG,9,2016110604,1810,2,01:37,"(1:37) (Punt formation) L.Edwards punts 44 yards to MIA 43, Center-T.Purdum. J.Grant for 57 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on MIA-K.Drake, Illegal Block Above the Waist, 10 yards, enforced at MIA 46."
-174,T.Gabriel,Taylor Gabriel,ATL,WR,20.33,13,reception,0,0,2016,REG,9,2016110300,3013,3,06:29,(6:29) M.Ryan pass short right to T.Gabriel pushed ob at TB 45 for 13 yards (J.Adjei-Barimah).
-175,D.Baldwin,Doug Baldwin,SEA,WR,20.31,50,reception,0,0,2016,REG,9,2016110700,226,1,12:58,(12:58) R.Wilson pass deep middle to D.Baldwin to BUF 3 for 50 yards (R.Darby).
-176,D.Harris,DuJuan Harris,SF,RB,20.29,47,reception,1,0,2016,REG,9,2016110608,1725,2,06:07,"(6:07) (No Huddle, Shotgun) C.Kaepernick pass short right to D.Harris for 47 yards, TOUCHDOWN. Caught at SF 49.   51-yds  YAC"
-177,A.Holmes,Andre Holmes,OAK,WR,20.17,11,reception,0,0,2016,REG,9,2016110600,846,1,03:35,(3:35) D.Kirkland reported in as eligible.  D.Carr pass short left to A.Holmes ran ob at DEN 46 for 11 yards.
-178,T.Gabriel,Taylor Gabriel,ATL,WR,20.07,9,rush,1,0,2016,REG,9,2016110300,1984,2,04:01,"(4:01) T.Gabriel right end for 9 yards, TOUCHDOWN."
-179,D.Sproles,Darren Sproles,PHI,RB,19.96,66,punt ret,0,0,2016,REG,9,2016110606,1670,2,05:42,"(5:42) B.Wing punts 55 yards to PHI 19, Center-Z.DeOssie. D.Sproles pushed ob at NYG 15 for 66 yards (K.Robinson)."
-180,B.Cunningham,Benny Cunningham,LA,RB,21.85,24,rush,0,0,2016,REG,10,2016111304,213,1,11:34,(11:34) B.Cunningham right end pushed ob at NYJ 1 for 24 yards (M.Gilchrist).
-181,D.Murray,DeMarco Murray,TEN,RB,21.44,75,rush,1,0,2016,REG,10,2016111307,177,1,13:28,"(13:28) D.Murray left tackle for 75 yards, TOUCHDOWN."
-182,B.Perriman,Breshad Perriman,BAL,WR,21.25,25,reception,0,0,2016,REG,10,2016111000,2804,3,03:59,"(3:59) (No Huddle, Shotgun) J.Flacco pass short middle to B.Perriman to CLE 14 for 25 yards (E.Reynolds) [J.Meder]."
-183,A.Erickson,Alex Erickson,CIN,WR,21.25,84,kickoff ret,0,0,2016,REG,10,2016111400,2154,3,,R.Gould kicks 62 yards from NYG 35 to CIN 3. A.Erickson to NYG 13 for 84 yards (C.Sensabaugh).
-184,R.Anderson,Robby Anderson,NYJ,WR,21.09,52,reception,0,0,2016,REG,10,2016111304,768,1,01:05,(1:05) (Shotgun) B.Petty pass deep left to R.Anderson pushed ob at LA 46 for 52 yards (E.Gaines).
-185,J.Ajayi,Jay Ajayi,MIA,RB,20.97,40,rush,0,0,2016,REG,10,2016111309,1844,3,14:29,(14:29) J.Ajayi left end pushed ob at SD 30 for 40 yards (A.Phillips).
-186,E.Elliott,Ezekiel Elliott,DAL,RB,20.93,32,rush,1,0,2016,REG,10,2016111311,4243,4,00:15,"(:15) J.Looney reported in as eligible.  E.Elliott up the middle for 32 yards, TOUCHDOWN."
-187,T.Gabriel,Taylor Gabriel,ATL,WR,20.8,76,reception,1,0,2016,REG,10,2016111305,2798,4,13:25,"(13:25) M.Ryan pass deep right to T.Gabriel for 76 yards, TOUCHDOWN."
-188,C.Newton,Cam Newton,CAR,QB,20.6,28,rush,0,0,2016,REG,10,2016111301,102,1,13:32,(13:32) C.Newton left end pushed ob at KC 41 for 28 yards (R.Parker). Chris Scott reported as eligible
-189,Q.Patton,Quinton Patton,SF,WR,20.52,45,reception,0,0,2016,REG,10,2016111310,2808,3,10:56,(10:56) (Shotgun) C.Kaepernick pass deep middle to Q.Patton to ARI 35 for 45 yards (J.Bethel).
-190,M.Wallace,Mike Wallace,BAL,WR,20.48,23,reception,0,0,2016,REG,10,2016111000,2606,3,08:09,"(8:09) (No Huddle, Shotgun) J.Flacco pass short middle to M.Wallace ran ob at CLE 14 for 23 yards (B.Boddy-Calhoun)."
-191,E.Elliott,Ezekiel Elliott,DAL,RB,20.39,83,reception,1,0,2016,REG,10,2016111311,982,1,00:27,"(:27) D.Prescott pass short right to E.Elliott for 83 yards, TOUCHDOWN."
-192,T.Hill,Tyreek Hill,KC,WR,20.09,21,punt ret,0,0,2016,REG,10,2016111301,3508,4,07:49,"(7:49) G.Gano punts 43 yards to KC 30, Center-J.Jansen. T.Hill to CAR 49 for 21 yards (G.Gano)."
-193,M.Floyd,Michael Floyd,ARI,WR,20.03,35,reception,0,0,2016,REG,10,2016111310,425,1,09:16,(9:16) C.Palmer pass deep right to M.Floyd to ARI 44 for 35 yards (E.Reid).
-194,A.Brown,Antonio Brown,PIT,WR,20,22,punt ret,0,0,2016,REG,10,2016111311,3427,4,11:09,"(11:09) (Punt formation) C.Jones punts 48 yards to PIT 32, Center-L.Ladouceur. A.Brown pushed ob at DAL 46 for 22 yards (C.Jones)."
-195,K.Britt,Kenny Britt,LA,WR,19.98,46,reception,0,1,2016,REG,10,2016111304,1025,2,12:31,"(12:31) (Shotgun) C.Keenum pass deep left to K.Britt to NYJ 38 for 46 yards (D.Revis) [S.Richardson]. PENALTY on LA-K.Britt, Delay of Game, 5 yards, enforced at NYJ 38."
-196,L.Miller,Lamar Miller,HOU,RB,19.96,45,rush,0,0,2016,REG,10,2016111302,729,1,01:49,(1:49) L.Miller right guard to JAX 1 for 45 yards (M.Jack).
-197,J.Jones,Julio Jones,ATL,WR,19.86,29,reception,0,0,2016,REG,10,2016111305,904,2,12:00,(12:00) M.Ryan pass deep left to J.Jones ran ob at PHI 26 for 29 yards [M.Kendricks].
-198,M.Lee,Marqise Lee,JAX,WR,19.86,6,rush,0,0,2016,REG,10,2016111302,292,1,10:15,(10:15) M.Lee right end ran ob at JAX 42 for 6 yards (K.Jackson).
-199,C.Meredith,Cameron Meredith,CHI,WR,19.78,50,reception,1,0,2016,REG,10,2016111306,2073,2,00:05,"(:05) (Shotgun) J.Cutler pass deep left to C.Meredith for 50 yards, TOUCHDOWN."
-200,X.Rhodes,Xavier Rhodes,MIN,CB,22.4,100,int,1,0,2016,REG,11,2016112006,1622,2,03:23,"(3:23) (Shotgun) C.Palmer pass short left intended for Jo.Brown INTERCEPTED by X.Rhodes at MIN 0. X.Rhodes for 100 yards, TOUCHDOWN."
-201,C.Patterson,Cordarrelle Patterson,MIN,WR,21.48,104,kickoff ret,1,0,2016,REG,11,2016112006,2021,3,,"C.Catanzaro kicks 69 yards from ARI 35 to MIN -4. C.Patterson for 104 yards, TOUCHDOWN."
-202,T.Ginn,Ted Ginn,CAR,WR,21.31,40,reception,1,0,2016,REG,11,2016111700,2123,2,00:23,"(:23) (Shotgun) C.Newton pass incomplete deep middle to T.Ginn [N.Fairley]. The Replay Official reviewed the incomplete pass ruling, and the play was REVERSED. (Shotgun) C.Newton pass deep middle to T.Ginn for 40 yards, TOUCHDOWN [N.Fairley]."
-203,R.Sherman,Richard Sherman,SEA,CB,21.23,0,int,0,0,2016,REG,11,2016112010,2620,3,09:56,(9:56) I.Seumalo reported in as eligible.  C.Wentz pass deep middle intended for B.Treggs INTERCEPTED by R.Sherman [J.Reed] at SEA 41. R.Sherman to SEA 41 for no gain (B.Treggs).
-204,L.Miller,Lamar Miller,HOU,RB,21.21,33,rush,0,0,2016,REG,11,2016112100,1209,2,09:44,"(9:44) L.Miller right end for 34 yards, TOUCHDOWN. The Replay Official reviewed the runner was in bounds ruling, and the play was REVERSED. L.Miller right end pushed ob at OAK 1 for 33 yards (K.Joseph)."
-205,C.Prosise,C.J. Prosise,SEA,RB,21.19,72,rush,1,0,2016,REG,11,2016112010,402,1,11:14,"(11:14) C.Prosise right guard for 72 yards, TOUCHDOWN."
-206,T.Hill,Tyreek Hill,KC,WR,21.05,42,reception,0,0,2016,REG,11,2016112005,1396,2,04:11,(4:11) (Shotgun) A.Smith pass deep right to T.Hill pushed ob at TB 38 for 42 yards (A.Verner).
-207,T.Gurley,Todd Gurley,LA,RB,20.72,24,rush,1,0,2016,REG,11,2016112008,397,1,09:54,"(9:54) T.Gurley right guard for 24 yards, TOUCHDOWN."
-208,L.Kuechly,Luke Kuechly,CAR,MLB,20.7,58,misc,0,1,2016,REG,11,2016111700,2080,2,00:39,"(:39) W.Lutz 38 yard field goal is BLOCKED (V.Butler), Center-J.Drescher, Holder-T.Morstead, RECOVERED by CAR-L.Kuechly at CAR 12. L.Kuechly for 88 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on CAR-J.Bradberry, Illegal Block Above the Waist, 10 yards, enforced at NO 30."
-209,A.Roberts,Andre Roberts,DET,WR,20.6,55,punt ret,1,0,2016,REG,11,2016112003,1331,2,11:31,"(11:31) B.Nortman punts 47 yards to DET 45, Center-C.Tinker. A.Roberts for 55 yards, TOUCHDOWN."
-210,J.Brown,John Brown,ARI,WR,20.54,32,punt ret,0,0,2016,REG,11,2016112006,3643,4,06:10,"(6:10) (Punt formation) J.Locke punts 50 yards to ARI 21, Center-K.McDermott. Jo.Brown pushed ob at MIN 47 for 32 yards (J.Locke)."
-211,T.Sharpe,Tajae Sharpe,TEN,WR,20.54,34,reception,1,0,2016,REG,11,2016112004,2610,3,06:43,"(6:43) (Run formation) D.Kelly reported in as eligible.  M.Mariota pass deep middle to T.Sharpe for 34 yards, TOUCHDOWN."
-212,M.Wallace,Mike Wallace,BAL,WR,20.45,13,rush,0,0,2016,REG,11,2016112002,162,1,12:34,(12:34) M.Wallace left end pushed ob at BAL 47 for 13 yards (J.Wilcox).
-213,D.Baldwin,Doug Baldwin,SEA,WR,20.43,44,reception,0,0,2016,REG,11,2016112010,1664,2,05:32,(5:32) R.Wilson pass deep right to D.Baldwin to PHI 33 for 44 yards (M.Jenkins).
-214,J.Olawale,Jamize Olawale,OAK,FB,20.39,75,reception,1,0,2016,REG,11,2016112100,3153,4,10:57,"(10:57) D.Carr pass deep right to J.Olawale for 75 yards, TOUCHDOWN."
-215,B.Tate,Brandon Tate,BUF,WR,20.39,34,reception,0,0,2016,REG,11,2016112000,3006,3,01:58,(1:58) (Shotgun) T.Taylor pass short middle to B.Tate ran ob at CIN 29 for 34 yards (V.Burfict).
-216,T.Hilton,T.Y. Hilton,IND,WR,20.37,50,reception,0,0,2016,REG,11,2016112004,3219,4,12:14,"(12:14) (Run formation) A.Luck pass deep right to T.Hilton pushed ob at TEN 25 for 50 yards (D.Stafford). Penalty on TEN-P.Cox, Illegal Use of Hands, declined."
-217,F.Gore,Frank Gore,IND,RB,20.35,49,reception,0,0,2016,REG,11,2016112004,689,1,03:46,(3:46) (Run formation) Direct snap to F.Gore.  A.Luck pass short left to F.Gore pushed ob at TEN 5 for 49 yards (A.Williamson).
-218,C.Patterson,Cordarrelle Patterson,MIN,WR,20.27,30,reception,0,0,2016,REG,11,2016112006,1173,2,08:48,(8:48) (Shotgun) S.Bradford pass short left to C.Patterson pushed ob at ARI 36 for 30 yards (D.Bucannon).
-219,J.Matthews,Jordan Matthews,PHI,WR,20.25,26,reception,0,0,2016,REG,11,2016112010,3763,4,07:15,(7:15) C.Wentz pass deep left to J.Matthews ran ob at SEA 40 for 26 yards (S.Terrell).
-220,T.Hill,Tyreek Hill,KC,WR,22.77,86,kickoff ret,1,0,2016,REG,12,2016112709,1526,2,,"R.Dixon kicks 66 yards from DEN 20 to KC 14. T.Hill for 86 yards, TOUCHDOWN."
-221,L.McCoy,LeSean McCoy,BUF,RB,21.87,75,rush,1,0,2016,REG,12,2016112702,2222,3,15:00,"(15:00) (Shotgun) L.McCoy up the middle for 75 yards, TOUCHDOWN."
-222,T.Ginn,Ted Ginn,CAR,WR,21.83,88,reception,1,0,2016,REG,12,2016112710,2641,3,07:53,"(7:53) (Shotgun) C.Newton pass deep middle to T.Ginn for 88 yards, TOUCHDOWN."
-223,S.Watkins,Sammy Watkins,BUF,WR,21.4,62,reception,0,0,2016,REG,12,2016112702,2888,3,04:34,(4:34) T.Taylor pass deep right to S.Watkins pushed ob at JAX 13 for 62 yards (J.Ramsey). Caught along sideline at JAX 27.
-224,M.Wallace,Mike Wallace,BAL,WR,21.21,31,reception,0,0,2016,REG,12,2016112701,1694,2,03:12,(3:12) J.Flacco pass short middle to M.Wallace pushed ob at CIN 40 for 31 yards (J.Shaw).
-225,E.Sanders,Emmanuel Sanders,DEN,WR,21.07,35,reception,1,0,2016,REG,12,2016112709,3400,4,07:53,"(7:53) T.Siemian pass deep left to E.Sanders for 35 yards, TOUCHDOWN. Penalty on KC-R.Parker, Illegal Contact, declined."
-226,D.Jackson,DeSean Jackson,WAS,WR,21.03,67,reception,1,0,2016,REG,12,2016112401,3144,4,09:32,"(9:32) (Shotgun) K.Cousins pass deep right to D.Jackson for 67 yards, TOUCHDOWN. Pass complete on a ""stop and go"" route."
-227,B.Fowler,Bennie Fowler,DEN,WR,20.99,76,reception,1,0,2016,REG,12,2016112709,3792,4,03:12,"(3:12) T.Siemian pass deep left to B.Fowler for 76 yards, TOUCHDOWN."
-228,D.Thomas,De'Anthony Thomas,KC,WR,20.7,41,kickoff ret,0,0,2016,REG,12,2016112709,4653,5,,B.McManus kicks 71 yards from DEN 35 to KC -6. D.Thomas pushed ob at KC 35 for 41 yards (B.McManus).
-229,W.Fuller,Will Fuller,HOU,WR,20.66,33,reception,0,0,2016,REG,12,2016112705,940,2,13:05,"(13:05) (Shotgun) B.Osweiler pass deep right to W.Fuller pushed ob at SD 6 for 33 yards (C.Mager) [K.Toomer]. Penalty on SD-J.Bosa, Defensive Offside, declined."
-230,K.Drake,Kenyan Drake,MIA,RB,20.56,78,kickoff ret,0,0,2016,REG,12,2016112706,2216,3,,P.Dawson kicks 67 yards from SF 35 to MIA -2. K.Drake pushed ob at SF 24 for 78 yards (J.Tartt).
-231,B.Treggs,Bryce Treggs,PHI,WR,20.56,3,rush,0,0,2016,REG,12,2016112800,429,1,06:59,(6:59) B.Treggs right end pushed ob at GB 43 for 3 yards (M.Burnett).
-232,T.Gabriel,Taylor Gabriel,ATL,WR,20.54,27,rush,0,0,2016,REG,12,2016112700,914,2,12:52,(12:52) T.Gabriel left end pushed ob at ARI 48 for 27 yards (M.Cooper).
-233,M.Ingram,Mark Ingram,NO,RB,20.5,61,rush,0,0,2016,REG,12,2016112707,2405,3,15:00,(15:00) M.Ingram right guard to LA 14 for 61 yards (T.McDonald).
-234,C.Hayward,Casey Hayward,LAC,CB,20.5,1,int,0,0,2016,REG,12,2016112705,1448,2,04:55,(4:55) B.Osweiler pass short right intended for D.Hopkins INTERCEPTED by C.Hayward at SD 36. C.Hayward ran ob at SD 37 for 1 yard.
-235,M.Lee,Marqise Lee,JAX,WR,20.41,36,kickoff ret,0,0,2016,REG,12,2016112702,3013,3,,J.Gay kicks 66 yards from BUF 35 to JAX -1. M.Lee pushed ob at JAX 35 for 36 yards (R.Humber).
-236,M.Wallace,Mike Wallace,BAL,WR,20.37,19,reception,0,0,2016,REG,12,2016112701,2480,3,11:13,(11:13) J.Flacco pass short left to M.Wallace pushed ob at BAL 44 for 19 yards (V.Burfict). CIN-V.Burfict was injured during the play. His return is Probable.
-237,H.Douglas,Harry Douglas,TEN,WR,20.35,35,reception,0,0,2016,REG,12,2016112703,2851,3,00:05,(:05) (Shotgun) M.Mariota pass deep left to H.Douglas to CHI 14 for 35 yards (B.Callahan).
-238,D.Parker,DeVante Parker,MIA,WR,20.29,46,reception,0,0,2016,REG,12,2016112706,832,1,01:23,(1:23) (Shotgun) R.Tannehill pass deep middle to D.Parker to SF 42 for 46 yards (T.Brock).
-239,Q.Enunwa,Quincy Enunwa,NYJ,WR,20.25,40,reception,0,0,2016,REG,12,2016112711,796,1,03:59,(3:59) R.Fitzpatrick pass deep right to Q.Enunwa to NE 30 for 40 yards (M.Butler).
-240,D.Jackson,DeSean Jackson,WAS,WR,22.6,59,reception,0,0,2016,REG,13,2016120409,2340,3,14:15,(14:15) (Shotgun) K.Cousins pass deep middle to D.Jackson to ARI 5 for 59 yards (T.Branch). ARI-C.Campbell was injured during the play.
-241,T.Ginn,Ted Ginn,CAR,WR,21.95,55,reception,1,0,2016,REG,13,2016120412,1255,2,10:40,"(10:40) (Shotgun) C.Newton pass deep middle to T.Ginn for 55 yards, TOUCHDOWN."
-242,J.Nelson,J.J. Nelson,ARI,WR,21.91,42,reception,1,0,2016,REG,13,2016120409,4085,4,02:03,"(2:03) C.Palmer pass deep middle to J.Nelson for 42 yards, TOUCHDOWN. The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands."
-243,T.Hill,Tyreek Hill,KC,WR,21.72,13,rush,0,0,2016,REG,13,2016120400,380,1,09:54,(9:54) (Shotgun) T.Hill right end ran ob at KC 41 for 13 yards (R.Allen).
-244,T.Lockett,Tyler Lockett,SEA,WR,21.21,75,rush,1,0,2016,REG,13,2016120412,2270,3,15:00,"(15:00) T.Lockett right end for 75 yards, TOUCHDOWN."
-245,K.Barner,Kenjon Barner,PHI,RB,21.03,61,kickoff ret,0,0,2016,REG,13,2016120403,2719,3,,M.Nugent kicks 64 yards from CIN 35 to PHI 1. K.Barner pushed ob at CIN 38 for 61 yards (M.Nugent).
-246,B.Perriman,Breshad Perriman,BAL,WR,20.68,53,reception,1,0,2016,REG,13,2016120401,3196,4,12:58,"(12:58) (No Huddle) J.Flacco pass short middle to B.Perriman for 53 yards, TOUCHDOWN."
-247,A.Wilson,Albert Wilson,KC,WR,20.6,55,rush,1,0,2016,REG,13,2016120400,2263,3,13:02,"(13:02) (Punt formation) A.Wilson right guard for 55 yards, TOUCHDOWN."
-248,C.D.Johnson,Charles D. Johnson,MIN,WR,20.37,25,reception,0,0,2016,REG,13,2016120100,1984,3,14:54,"(14:54) (Shotgun) S.Bradford pass deep right to C.Johnson ran ob at MIN 33 for 25 yards (A.Hitchens). Penalty on DAL-A.Hitchens, Defensive Pass Interference, declined."
-249,B.Roby,Bradley Roby,DEN,CB,20.21,51,int,1,0,2016,REG,13,2016120405,2419,3,07:45,"(7:45) (Shotgun) B.Bortles pass short middle intended for A.Robinson INTERCEPTED by B.Roby at DEN 49. B.Roby for 51 yards, TOUCHDOWN."
-250,B.Tate,Brandon Tate,BUF,WR,20.07,26,kickoff ret,0,0,2016,REG,13,2016120408,2007,3,,S.Janikowski kicks 57 yards from OAK 35 to BUF 8. B.Tate pushed ob at BUF 34 for 26 yards (J.Holton).
-251,D.Thomas,De'Anthony Thomas,KC,WR,20.05,23,rush,0,0,2016,REG,13,2016120400,742,1,04:25,(4:25) D.Thomas left end pushed ob at ATL 46 for 23 yards (R.Allen).
-252,T.Williams,Tyrell Williams,LAC,WR,19.98,40,reception,1,0,2016,REG,13,2016120411,2647,3,01:42,"(1:42) P.Rivers pass deep right to Ty.Williams for 40 yards, TOUCHDOWN."
-253,L.McCoy,LeSean McCoy,BUF,RB,19.94,54,rush,0,0,2016,REG,13,2016120408,2029,3,14:53,"(14:53) (Shotgun) L.McCoy left guard to OAK 12 for 54 yards (K.Mack, T.Carrie)."
-254,G.Tate,Golden Tate,DET,WR,19.9,66,reception,1,0,2016,REG,13,2016120407,3241,4,11:50,"(11:50) (Shotgun) M.Stafford pass deep right to G.Tate for 66 yards, TOUCHDOWN [C.Jordan]. Pass 29, YAC 37"
-255,M.Adams,Mike Adams,IND,SS,19.9,56,int,0,0,2016,REG,13,2016120500,2722,3,00:30,(:30) (Shotgun) B.Petty pass deep middle intended for R.Anderson INTERCEPTED by M.Adams at IND 38. M.Adams pushed ob at NYJ 6 for 56 yards (B.Ijalana).
-256,C.Patterson,Cordarrelle Patterson,MIN,WR,19.82,15,kickoff ret,0,1,2016,REG,13,2016120100,3181,4,,"D.Bailey kicks 60 yards from DAL 35 to MIN 5. C.Patterson to MIN 25 for 20 yards (L.McFadden). PENALTY on MIN-A.Harris, Face Mask (15 Yards), 10 yards, enforced at MIN 20."
-257,T.Rawls,Thomas Rawls,SEA,RB,19.64,45,rush,1,0,2016,REG,13,2016120412,1339,2,09:53,"(9:53) T.Rawls right tackle for 45 yards, TOUCHDOWN."
-258,A.Luck,Andrew Luck,IND,QB,19.53,12,rush,0,1,2016,REG,13,2016120500,711,1,04:11,"(4:11) (Shotgun) A.Luck scrambles right end ran ob at IND 36 for 12 yards. PENALTY on NYJ-S.Richardson, Unnecessary Roughness, 15 yards, enforced at IND 36."
-259,L.Timmons,Lawrence Timmons,PIT,ILB,19.53,58,int,0,0,2016,REG,13,2016120410,1312,2,08:33,"(8:33) (No Huddle, Shotgun) E.Manning pass short right intended for L.Donnell INTERCEPTED by L.Timmons at PIT 2. L.Timmons pushed ob at NYG 40 for 58 yards (R.Jennings)."
-260,O.Beckham,Odell Beckham,NYG,WR,21.85,61,reception,1,0,2016,REG,14,2016121113,2917,3,01:18,"(1:18) (No Huddle, Shotgun) E.Manning pass short middle to O.Beckham for 61 yards, TOUCHDOWN."
-261,D.Jackson,DeSean Jackson,WAS,WR,21.48,80,reception,1,0,2016,REG,14,2016121107,2029,3,09:26,"(9:26) (No Huddle, Shotgun) K.Cousins pass deep middle to D.Jackson for 80 yards, TOUCHDOWN."
-262,J.Nelson,J.J. Nelson,ARI,WR,21.23,56,rush,1,0,2016,REG,14,2016121106,392,1,08:12,"(8:12) J.Nelson right end for 56 yards, TOUCHDOWN."
-263,S.Diggs,Stefon Diggs,MIN,WR,21.07,45,reception,0,0,2016,REG,14,2016121105,1429,2,04:49,(4:49) (Shotgun) S.Bradford pass deep middle to S.Diggs to JAX 14 for 45 yards (T.Gipson).
-264,T.Hill,Tyreek Hill,KC,WR,21.05,36,reception,1,0,2016,REG,14,2016120800,1077,2,14:57,"(14:57) (Shotgun) A.Smith pass deep middle to T.Hill for 36 yards, TOUCHDOWN."
-265,C.Hogan,Chris Hogan,NE,WR,20.78,79,reception,1,0,2016,REG,14,2016121200,4019,4,06:28,"(6:28) (Shotgun) T.Brady pass deep middle to C.Hogan for 79 yards, TOUCHDOWN. NE 12-Brady 450th career TD pass, 4th player all-time to achieve that milestone. NE 15-Hogan 2nd career 100-yard game."
-266,T.Ginn,Ted Ginn,CAR,WR,20.62,31,kickoff ret,0,1,2016,REG,14,2016121101,3573,4,,"D.Kaser kicks 60 yards from SD 20 to CAR 20. T.Ginn pushed ob at SD 34 for 46 yards (D.Kaser). PENALTY on CAR-L.Young, Offensive Holding, 10 yards, enforced at SD 49."
-267,T.Hill,Tyreek Hill,KC,WR,20.48,78,punt ret,1,1,2016,REG,14,2016120800,1620,2,06:43,"(6:43) M.King punts 54 yards to KC 22, Center-J.Condo. T.Hill for 78 yards, TOUCHDOWN. PENALTY on OAK-M.King, Unsportsmanlike Conduct, 15 yards, enforced between downs."
-268,C.Patterson,Cordarrelle Patterson,MIN,WR,20.37,53,kickoff ret,0,0,2016,REG,14,2016121105,957,2,,J.Myers kicks 66 yards from JAX 35 to MIN -1. C.Patterson pushed ob at JAX 48 for 53 yards (J.Wilson).
-269,B.Perriman,Breshad Perriman,BAL,WR,20.21,47,reception,0,0,2016,REG,14,2016121200,3820,4,10:38,(10:38) (Shotgun) J.Flacco pass deep left to B.Perriman to NE 29 for 47 yards (P.Chung).
-270,J.Kerley,Jeremy Kerley,SF,WR,20.13,27,reception,0,0,2016,REG,14,2016121110,856,1,00:21,(:21) (Shotgun) C.Kaepernick pass short middle to J.Kerley pushed ob at NYJ 22 for 27 yards (B.Skrine). Caught at NYJ 40  18-yds  YAC
-271,T.Coleman,Tevin Coleman,ATL,RB,20.11,5,rush,0,0,2016,REG,14,2016121112,2755,3,07:59,(7:59) T.Coleman left end pushed ob at LA 39 for 5 yards (M.Barron).
-272,D.Jones,Deion Jones,ATL,MLB,20.11,33,int,1,0,2016,REG,14,2016121112,1368,2,09:04,"(9:04) J.Goff pass short right intended for K.Britt INTERCEPTED by D.Jones at LA 33. D.Jones for 33 yards, TOUCHDOWN."
-273,T.Boyd,Tyler Boyd,CIN,WR,20.05,39,rush,0,0,2016,REG,14,2016121102,125,1,13:33,(13:33) (Shotgun) T.Boyd left end pushed ob at CLE 20 for 39 yards (B.Boddy-Calhoun). Hardoff to 32 J. Hill pitched to 83 T Boyd on reverse
-274,D.Thomas,De'Anthony Thomas,KC,WR,20,25,kickoff ret,0,0,2016,REG,14,2016120800,2379,3,,S.Janikowski kicks 66 yards from OAK 35 to KC -1. D.Thomas ran ob at KC 24 for 25 yards (J.Holton).
-275,T.Williams,Tyrell Williams,LAC,WR,19.96,22,reception,0,0,2016,REG,14,2016121101,3020,3,01:43,(1:43) P.Rivers pass short left to Ty.Williams pushed ob at CAR 22 for 22 yards (L.Johnson).
-276,T.Williams,Terrance Williams,DAL,WR,19.92,31,reception,1,0,2016,REG,14,2016121113,603,1,04:51,"(4:51) (Shotgun) D.Prescott pass deep right to T.Williams for 31 yards, TOUCHDOWN."
-277,A.Roberts,Andre Roberts,DET,WR,19.86,7,punt ret,0,1,2016,REG,14,2016121103,972,2,11:37,"(11:37) P.O'Donnell punts 44 yards to DET 18, Center-P.Scales. A.Roberts to CHI 45 for 37 yards (J.Anderson). PENALTY on DET-J.Bell, Illegal Block Above the Waist, 10 yards, enforced at DET 25."
-278,T.Lockett,Tyler Lockett,SEA,WR,19.66,32,kickoff ret,0,0,2016,REG,14,2016121111,1915,3,,M.Crosby kicks 63 yards from GB 35 to SEA 2. T.Lockett to SEA 34 for 32 yards (M.Burnett).
-279,D.Sproles,Darren Sproles,PHI,RB,19.62,5,punt ret,0,1,2016,REG,14,2016121107,1855,3,13:10,"(13:10) T.Way punts 49 yards to PHI 28, Center-N.Sundberg. D.Sproles for 72 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on PHI-Z.Ertz, Illegal Block Above the Waist, 10 yards, enforced at PHI 33."
-280,B.Cooks,Brandin Cooks,NO,WR,22.4,45,reception,1,0,2016,REG,15,2016121808,1966,2,02:00,"(2:00) (Shotgun) D.Brees pass short right to B.Cooks for 45 yards, TOUCHDOWN."
-281,A.Robinson,Aldrick Robinson,ATL,WR,21.8,59,reception,0,0,2016,REG,15,2016121809,1131,2,12:45,(12:45) (Shotgun) M.Ryan pass short middle to A.Robinson pushed ob at SF 16 for 59 yards (J.Ward). SF-J.Ward was injured during the play. He is Out.
-282,E.Elliott,Ezekiel Elliott,DAL,RB,21.44,42,rush,0,0,2016,REG,15,2016121803,3705,4,05:49,(5:49) E.Elliott right tackle pushed ob at TB 34 for 42 yards (K.Tandy).
-283,A.Erickson,Alex Erickson,CIN,WR,21.03,72,kickoff ret,0,0,2016,REG,15,2016121812,1483,2,,C.Boswell kicks 63 yards from PIT 35 to CIN 2. A.Erickson to PIT 26 for 72 yards (C.Boswell).
-284,J.Landry,Jarvis Landry,MIA,WR,20.99,66,reception,1,0,2016,REG,15,2016121700,2853,3,06:36,"(6:36) M.Moore pass short middle to J.Landry for 66 yards, TOUCHDOWN."
-285,M.Lee,Marqise Lee,JAX,WR,20.88,100,kickoff ret,1,1,2016,REG,15,2016121804,2616,3,,"N.Novak kicks 65 yards from HOU 35 to JAX 0. M.Lee for 100 yards, TOUCHDOWN. PENALTY on JAX-M.Lee, Unsportsmanlike Conduct, 15 yards, enforced between downs."
-286,M.Wallace,Mike Wallace,BAL,WR,20.86,54,reception,0,0,2016,REG,15,2016121800,3396,4,06:59,(6:59) (Shotgun) J.Flacco pass short middle to M.Wallace pushed ob at PHI 11 for 54 yards (R.McLeod).
-287,R.Anderson,Robby Anderson,NYJ,WR,20.78,40,reception,1,0,2016,REG,15,2016121700,226,1,11:39,"(11:39) B.Petty pass deep middle to R.Anderson for 40 yards, TOUCHDOWN."
-288,T.Ward,Terron Ward,ATL,RB,20.74,45,rush,0,0,2016,REG,15,2016121809,3348,4,06:15,(6:15) T.Ward left guard pushed ob at SF 46 for 45 yards (M.Cromartie).
-289,L.Ryan,Logan Ryan,NE,CB,20.64,46,int,0,0,2016,REG,15,2016121810,1079,2,15:00,(15:00) (Shotgun) T.Siemian pass short left intended for E.Sanders INTERCEPTED by L.Ryan at NE 8. L.Ryan to DEN 46 for 46 yards (D.Thomas).
-290,B.Golden,Brittan Golden,ARI,WR,20.58,35,kickoff ret,0,0,2016,REG,15,2016121808,3026,3,,W.Lutz kicks 62 yards from NO 35 to ARI 3. B.Golden pushed ob at ARI 38 for 35 yards (N.Stupar).
-291,B.Cooks,Brandin Cooks,NO,WR,20.5,65,reception,1,0,2016,REG,15,2016121808,1589,2,06:21,"(6:21) D.Brees pass deep middle to B.Cooks for 65 yards, TOUCHDOWN."
-292,O.Beckham,Odell Beckham,NYG,WR,20.43,4,punt ret,0,1,2016,REG,15,2016121807,3234,4,05:20,"(5:20) S.Martin punts 44 yards to NYG 37, Center-D.Muhlbach. O.Beckham for 63 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on NYG-E.Pinkins, Illegal Block Above the Waist, 10 yards, enforced at NYG 41. Officially, a return for 4 yards."
-293,J.Hunter,Justin Hunter,BUF,WR,20.41,16,reception,0,0,2016,REG,15,2016121801,3243,4,13:20,"(13:20) (Shotgun) T.Taylor pass short right to J.Hunter ran ob at CLE 8 for 16 yards. Caught at CLE 10, crossing from middle."
-294,K.Barner,Kenjon Barner,PHI,RB,20.35,15,reception,0,0,2016,REG,15,2016121800,328,1,10:13,(10:13) (Shotgun) C.Wentz pass short left to K.Barner pushed ob at BAL 44 for 15 yards (J.Powers).
-295,T.Lippett,Tony Lippett,MIA,CB,20.35,0,int,0,0,2016,REG,15,2016121700,2575,3,10:23,(10:23) B.Petty pass deep left intended for R.Anderson INTERCEPTED by T.Lippett at MIA 40. T.Lippett to MIA 40 for no gain (R.Anderson).
-296,I.Crowell,Isaiah Crowell,CLE,RB,20.35,25,rush,0,0,2016,REG,15,2016121801,574,1,07:12,(7:12) (Shotgun) I.Crowell right end pushed ob at BUF 17 for 25 yards (P.Brown).
-297,T.Hill,Tyreek Hill,KC,WR,20.29,68,rush,1,0,2016,REG,15,2016121805,229,1,11:55,"(11:55) (Shotgun) T.Hill left guard for 68 yards, TOUCHDOWN."
-298,D.Freeman,Devonta Freeman,ATL,RB,20.21,34,rush,1,0,2016,REG,15,2016121809,2766,3,01:49,"(1:49) D.Freeman left end for 34 yards, TOUCHDOWN."
-299,T.Benjamin,Travis Benjamin,LAC,WR,20.03,9,reception,0,0,2016,REG,15,2016121811,1499,2,01:57,(1:57) (Shotgun) P.Rivers pass short right to T.Benjamin ran ob at OAK 22 for 9 yards (D.Amerson).
-300,E.Elliott,Ezekiel Elliott,DAL,RB,21.8,55,rush,1,0,2016,REG,16,2016122600,762,1,03:00,"(3:00) E.Elliott right guard for 55 yards, TOUCHDOWN."
-301,J.Nelson,J.J. Nelson,ARI,WR,21.74,41,reception,0,0,2016,REG,16,2016122410,3436,4,08:00,(8:00) C.Palmer pass short middle to J.Nelson pushed ob at SEA 1 for 41 yards (R.Sherman).
-302,M.Brown,Mack Brown,WAS,RB,21.6,61,rush,1,0,2016,REG,16,2016122402,4163,4,01:08,"(1:08) M.Brown left tackle for 61 yards, TOUCHDOWN."
-303,K.Drake,Kenyan Drake,MIA,RB,21.56,45,rush,1,0,2016,REG,16,2016122400,1101,2,13:45,"(13:45) (Shotgun) K.Drake left guard for 45 yards, TOUCHDOWN."
-304,B.LaFell,Brandon LaFell,CIN,WR,21.25,86,reception,1,0,2016,REG,16,2016122411,3048,4,10:59,"(10:59) (Shotgun) A.Dalton pass short left to B.LaFell for 86 yards, TOUCHDOWN. Penalty on HOU-E.Pleasant, Defensive Offside, declined."
-305,J.Ajayi,Jay Ajayi,MIA,RB,21.23,57,rush,0,0,2016,REG,16,2016122400,5305,5,04:00,(4:00) (Shotgun) J.Ajayi left tackle to BUF 28 for 57 yards (N.Robey-Coleman).
-306,J.Nelson,J.J. Nelson,ARI,WR,21.23,80,reception,1,0,2016,REG,16,2016122410,1560,2,04:04,"(4:04) (Shotgun) C.Palmer pass deep middle to J.Nelson for 80 yards, TOUCHDOWN."
-307,D.Johnson,David Johnson,ARI,RB,21.09,33,rush,0,0,2016,REG,16,2016122410,3415,4,08:49,(8:49) D.Johnson right tackle to SEA 42 for 33 yards (S.Terrell).
-308,D.Jackson,DeSean Jackson,WAS,WR,21.07,57,reception,0,0,2016,REG,16,2016122402,895,1,02:39,(2:39) K.Cousins pass short middle to D.Jackson pushed ob at CHI 18 for 57 yards (D.Bush).
-309,N.Agholor,Nelson Agholor,PHI,WR,20.95,40,reception,1,0,2016,REG,16,2016122200,1533,2,05:05,"(5:05) C.Wentz pass deep left to N.Agholor for 40 yards, TOUCHDOWN."
-310,T.Brock,Tramaine Brock,SF,CB,20.9,39,int,0,0,2016,REG,16,2016122409,331,1,09:48,(9:48) D.Arkin reported in as eligible.  J.Goff pass short right intended for K.Britt INTERCEPTED by T.Brock at SF 44. T.Brock to LA 17 for 39 yards (J.Goff).
-311,S.Watkins,Sammy Watkins,BUF,WR,20.78,38,reception,1,0,2016,REG,16,2016122400,1685,2,05:14,"(5:14) (Shotgun) T.Taylor pass deep right to S.Watkins for 38 yards, TOUCHDOWN. Caught 9 yds. into end zone."
-312,T.Taylor,Tyrod Taylor,BUF,QB,20.7,23,rush,0,0,2016,REG,16,2016122400,1619,2,06:58,(6:58) (Shotgun) T.Taylor scrambles left end pushed ob at BUF 42 for 23 yards (T.Lippett).
-313,T.Benjamin,Travis Benjamin,LAC,WR,20.62,50,reception,0,0,2016,REG,16,2016122403,51,1,15:00,(15:00) (Shotgun) P.Rivers pass deep middle to T.Benjamin to CLE 25 for 50 yards (J.Haden).
-314,J.Grant,Jakeem Grant,MIA,WR,20.62,41,kickoff ret,0,0,2016,REG,16,2016122400,3840,4,,D.Carpenter kicks 60 yards from BUF 35 to MIA 5. J.Grant pushed ob at MIA 46 for 41 yards (D.Carpenter).
-315,T.Hill,Tyreek Hill,KC,WR,20.41,70,rush,1,0,2016,REG,16,2016122501,598,1,05:31,"(5:31) T.Hill left end for 70 yards, TOUCHDOWN."
-316,C.Newton,Cam Newton,CAR,QB,20.25,8,rush,0,0,2016,REG,16,2016122401,3351,4,12:25,(12:25) (Shotgun) C.Newton scrambles left end pushed ob at ATL 48 for 8 yards (D.Jones).
-317,I.Crowell,Isaiah Crowell,CLE,RB,20.25,10,rush,0,0,2016,REG,16,2016122403,2081,3,14:13,(14:13) (Shotgun) I.Crowell right end ran ob at SD 45 for 10 yards.
-318,M.Gillislee,Mike Gillislee,BUF,RB,20.23,25,rush,0,0,2016,REG,16,2016122400,4017,4,02:55,(2:55) M.Gillislee left end to BUF 45 for 25 yards (M.Thomas).
-319,J.Collins,Jalen Collins,ATL,CB,20.09,37,int,0,0,2016,REG,16,2016122401,1931,2,01:40,(1:40) (Shotgun) C.Newton pass short middle intended for T.Ginn INTERCEPTED by J.Collins at ATL 42. J.Collins ran ob at CAR 21 for 37 yards (C.Newton).
-320,J.Bethel,Justin Bethel,ARI,CB,21.74,66,int,1,0,2016,REG,17,2017010113,3877,4,08:15,"(8:15) (Shotgun) S.Mannion pass short right intended for P.Cooper INTERCEPTED by J.Bethel at ARI 34. J.Bethel for 66 yards, TOUCHDOWN."
-321,C.Grant,Corey Grant,JAX,RB,21.66,57,rush,1,0,2016,REG,17,2017010103,1502,2,05:57,"(5:57) C.Grant up the middle for 57 yards, TOUCHDOWN."
-322,T.Hill,Tyreek Hill,KC,WR,21.44,95,punt ret,1,0,2016,REG,17,2017010114,2710,3,01:20,"(1:20) D.Kaser punts 49 yards to KC 5, Center-M.Windt. T.Hill for 95 yards, TOUCHDOWN."
-323,D.Freeman,Devonta Freeman,ATL,RB,21.31,75,rush,1,0,2016,REG,17,2017010100,699,1,03:53,"(3:53) D.Freeman right tackle for 75 yards, TOUCHDOWN."
-324,T.Ginn,Ted Ginn,CAR,WR,21.17,39,reception,0,0,2016,REG,17,2017010109,2503,3,08:22,(8:22) (Shotgun) C.Newton pass short left to T.Ginn to TB 39 for 39 yards (K.Tandy).
-325,P.Cooper,Pharoh Cooper,LA,WR,20.52,14,kickoff ret,0,0,2016,REG,17,2017010113,1261,2,,C.Catanzaro kicks 70 yards from ARI 35 to LA -5. P.Cooper to LA 9 for 14 yards (J.Bethel).
-326,K.Raymond,Kalif Raymond,DEN,WR,20.5,25,punt ret,0,1,2016,REG,17,2017010112,1432,2,04:19,"(4:19) M.King punts 68 yards to DEN 2, Center-J.Condo. K.Raymond pushed ob at DEN 27 for 25 yards (J.Olawale). PENALTY on OAK-D.Washington, Unnecessary Roughness, 15 yards, enforced at DEN 27."
-327,T.Williams,Tyrell Williams,LAC,WR,20.48,17,reception,0,0,2016,REG,17,2017010114,683,1,03:15,(3:15) (Shotgun) P.Rivers pass short middle to Ty.Williams ran ob at KC 31 for 17 yards (T.Mitchell).
-328,T.Williams,Tyrell Williams,LAC,WR,20.48,17,reception,0,0,2016,REG,17,2017010114,3404,4,04:24,(4:24) (Shotgun) P.Rivers pass short middle to Ty.Williams ran ob at SD 28 for 17 yards (P.Gaines).
-329,T.Coleman,Tevin Coleman,ATL,RB,20.45,25,rush,0,0,2016,REG,17,2017010100,2427,3,08:55,(8:55) T.Coleman right end pushed ob at NO 36 for 25 yards (V.Bell).
-330,T.King,Tavarres King,NYG,WR,20.43,44,reception,0,0,2016,REG,17,2017010111,3494,4,04:02,"(4:02) (No Huddle, Shotgun) E.Manning pass deep left to T.King pushed ob at WAS 25 for 44 yards (W.Blackmon)."
-331,R.Hillman,Ronnie Hillman,LAC,RB,20.37,21,reception,0,0,2016,REG,17,2017010114,58,1,14:54,(14:54) (Shotgun) P.Rivers pass short left to R.Hillman ran ob at SD 49 for 21 yards (T.Smith).
-332,D.Heyward-Bey,Darrius Heyward-Bey,PIT,WR,20.35,46,reception,0,0,2016,REG,17,2017010108,3266,4,06:54,(6:54) (Shotgun) L.Jones pass deep left to D.Heyward-Bey to CLE 11 for 46 yards (B.Boddy-Calhoun).
-333,T.Ginn,Ted Ginn,CAR,WR,20.35,17,rush,0,0,2016,REG,17,2017010109,307,1,10:30,(10:30) T.Ginn left end ran ob at TB 45 for 17 yards (V.Hargreaves).
-334,T.Hill,Tyreek Hill,KC,WR,20.27,20,rush,0,0,2016,REG,17,2017010114,2088,3,12:19,"(12:19) T.Hill right end ran ob at SD 18 for 20 yards (K.Emanuel, D.Lowery)."
-335,I.Crowell,Isaiah Crowell,CLE,RB,20.23,67,rush,0,0,2016,REG,17,2017010108,3415,4,04:26,"(4:26) (Shotgun) I.Crowell up the middle to PIT 5 for 67 yards (S.Davis, A.Burns)."
-336,S.Thompson,Shaq Thompson,CAR,OLB,20.09,21,misc,0,0,2016,REG,17,2017010109,3204,4,12:04,"(12:04) (Field Goal formation) R.Aguayo 48 yard field goal is BLOCKED (K.Short), Center-A.Glanton, Holder-B.Anger, RECOVERED by CAR-S.Thompson at CAR 28. S.Thompson pushed ob at CAR 49 for 21 yards (B.Anger)."
-337,T.Ginn,Ted Ginn,CAR,WR,20.07,7,rush,0,0,2016,REG,17,2017010109,1280,2,10:41,(10:41) T.Ginn right end pushed ob at CAR 25 for 7 yards (B.McDougald).
-338,S.Draughn,Shaun Draughn,SF,RB,19.98,29,reception,0,0,2016,REG,17,2017010115,317,1,10:52,"(10:52) (No Huddle, Shotgun) C.Kaepernick pass short left to S.Draughn pushed ob at SEA 4 for 29 yards (J.Lane). Caught at SEA 29.  25-yds YAC"
-339,J.Hunter,Justin Hunter,BUF,WR,19.84,64,reception,0,0,2016,REG,17,2017010106,3698,4,02:47,(2:47) (Shotgun) C.Jones pass deep right to J.Hunter to NYJ 1 for 64 yards (R.Miles).
+,rank,shortName,playerName,team,position,speedMPH,yards,playType,touchdown,penalty,season,seasonType,week,gameId,playId,quarter,time,desc
+0,1,B.Cooks,Brandin Cooks,NO,WR,22.13,98,reception,1,0,2016,REG,1,2016091105,2762,3,08:03,"(8:03) T.Lelito reported in as eligible.  D.Brees pass deep left to B.Cooks for 98 yards, TOUCHDOWN. Pass 29, YAC 69"
+1,2,T.Williams,Tyrell Williams,LAC,WR,21.91,38,reception,0,0,2016,REG,1,2016091104,2836,3,00:26,(:26) (Shotgun) P.Rivers pass short right to Ty.Williams pushed ob at KC 19 for 38 yards (P.Gaines).
+2,3,C.Patterson,Cordarrelle Patterson,MIN,WR,21.66,61,kickoff ret,0,0,2016,REG,1,2016091108,2022,3,,R.Succop kicks 60 yards from TEN 35 to MIN 5. C.Patterson pushed ob at TEN 34 for 61 yards (B.McCain).
+3,4,P.Dorsett,Phillip Dorsett,IND,WR,21.11,51,reception,0,0,2016,REG,1,2016091111,2298,3,10:33,(10:33) (Shotgun) A.Luck pass deep right to P.Dorsett to DET 31 for 51 yards (D.Slay).
+4,5,T.Coleman,Tevin Coleman,ATL,RB,20.88,47,reception,0,0,2016,REG,1,2016091100,1544,2,04:15,(4:15) (Shotgun) M.Ryan pass short right to T.Coleman to TB 10 for 47 yards (C.Conte).
+5,6,O.Beckham,Odell Beckham,NYG,WR,20.74,45,reception,0,0,2016,REG,1,2016091110,1095,2,10:15,"(10:15) (No Huddle, Shotgun) E.Manning pass deep left to O.Beckham ran ob at DAL 15 for 45 yards. Go route on left sideline."
+6,7,T.Ginn,Ted Ginn,CAR,WR,20.66,20,rush,0,0,2016,REG,1,2016090800,368,1,08:55,(8:55) (Shotgun) T.Ginn left end to DEN 16 for 20 yards (D.Stewart).
+7,8,M.Wallace,Mike Wallace,BAL,WR,20.58,66,reception,1,0,2016,REG,1,2016091101,1153,2,10:22,"(10:22) (No Huddle, Shotgun) J.Flacco pass deep middle to M.Wallace for 66 yards, TOUCHDOWN."
+8,9,A.Cooper,Amari Cooper,OAK,WR,20.41,34,reception,0,0,2016,REG,1,2016091105,813,1,02:35,"(2:35) D.Carr pass deep left to A.Cooper to NO 6 for 34 yards (J.Byrd). Pass 28, YAC 6"
+9,10,J.Richard,Jalen Richard,OAK,RB,20.29,75,rush,1,0,2016,REG,1,2016091105,3869,4,08:38,"(8:38) J.Richard left guard for 75 yards, TOUCHDOWN."
+10,11,C.Grant,Corey Grant,JAX,RB,20.25,32,kickoff ret,0,0,2016,REG,1,2016091103,3273,4,,M.Crosby kicks 66 yards from GB 35 to JAX -1. C.Grant pushed ob at JAX 31 for 32 yards (D.Randall).
+11,12,J.Grant,Jakeem Grant,MIA,WR,20.25,45,kickoff ret,0,0,2016,REG,1,2016091109,2171,3,,S.Hauschka kicks 69 yards from SEA 35 to MIA -4. J.Grant pushed ob at MIA 41 for 45 yards (S.Hauschka).
+12,13,N.Agholor,Nelson Agholor,PHI,WR,20.17,35,reception,1,0,2016,REG,1,2016091107,2562,3,06:23,"(6:23) (Shotgun) C.Wentz pass deep right to N.Agholor for 35 yards, TOUCHDOWN."
+13,14,A.Green,A.J. Green,CIN,WR,20.15,54,reception,1,0,2016,REG,1,2016091106,1241,2,11:31,"(11:31) A.Dalton pass deep middle to A.Green for 54 yards, TOUCHDOWN."
+14,15,J.Jones,Julio Jones,ATL,WR,20.07,25,reception,1,0,2016,REG,1,2016091100,2865,3,01:42,"(1:42) (No Huddle) M.Ryan pass short middle to J.Jones for 25 yards, TOUCHDOWN."
+15,16,E.Royal,Eddie Royal,CHI,WR,20.03,31,punt ret,0,0,2016,REG,1,2016091102,613,1,04:30,"(4:30) S.Lechler punts 49 yards to CHI 29, Center-J.Weeks. E.Royal pushed ob at HOU 40 for 31 yards (S.Lechler)."
+16,17,T.Austin,Tavon Austin,LA,WR,19.9,8,punt ret,0,0,2016,REG,1,2016091201,2267,3,13:16,"(13:16) B.Pinion punts 52 yards to LA 33, Center-K.Nelson. T.Austin to LA 41 for 8 yards (J.Tartt)."
+17,18,A.Hurns,Allen Hurns,JAX,WR,19.88,38,reception,0,0,2016,REG,1,2016091103,2596,3,09:29,(9:29) (Shotgun) B.Bortles pass deep middle to A.Hurns ran ob at GB 34 for 38 yards (H.Clinton-Dix).
+18,19,A.Brown,Antonio Brown,PIT,WR,19.88,26,reception,1,1,2016,REG,1,2016091200,2375,3,07:08,"(7:08) (Shotgun) B.Roethlisberger pass deep left to A.Brown for 26 yards, TOUCHDOWN. PENALTY on PIT-A.Brown, Unsportsmanlike Conduct, 15 yards, enforced between downs."
+19,20,T.Austin,Tavon Austin,LA,WR,19.88,28,punt ret,0,0,2016,REG,1,2016091201,2893,3,04:07,"(4:07) B.Pinion punts 48 yards to LA 34, Center-K.Nelson. T.Austin pushed ob at SF 38 for 28 yards (J.Tartt)."
+20,1,T.Hill,Tyreek Hill,KC,WR,23.24,27,kickoff ret,0,1,2016,REG,2,2016091803,3901,4,,"N.Novak kicks 70 yards from HOU 35 to KC -5. T.Hill for 105 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on KC, Offensive Holding, 10 yards, enforced at KC 22."
+21,2,S.Diggs,Stefon Diggs,MIN,WR,22.5,44,reception,0,0,2016,REG,2,2016091813,1730,2,02:36,(2:36) S.Bradford pass deep right to S.Diggs to GB 32 for 44 yards (D.Randall).
+22,3,M.Goodwin,Marquise Goodwin,BUF,WR,22.25,84,reception,1,1,2016,REG,2,2016091500,656,1,05:26,"(5:26) (Shotgun) T.Taylor pass deep right to M.Goodwin for 84 yards, TOUCHDOWN. Caught near sideline at NYJ 30. PENALTY on NYJ-S.Richardson, Taunting, 15 yards, enforced between downs."
+23,4,T.Benjamin,Travis Benjamin,LAC,WR,22.17,45,reception,1,0,2016,REG,2,2016091812,2783,3,02:57,"(2:57) (Shotgun) P.Rivers pass deep right to T.Benjamin for 45 yards, TOUCHDOWN."
+24,5,T.Ginn,Ted Ginn,CAR,WR,22.11,52,reception,0,0,2016,REG,2,2016091800,2987,3,07:50,"(7:50) C.Newton pass deep right to T.Ginn pushed ob at SF 23 for 52 yards (T.Brock). San Francisco challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+25,6,I.Crowell,Isaiah Crowell,CLE,RB,21.97,85,rush,1,0,2016,REG,2,2016091801,504,1,06:58,"(6:58) I.Crowell left guard for 85 yards, TOUCHDOWN."
+26,7,D.Murray,DeMarco Murray,TEN,RB,21.35,67,rush,0,0,2016,REG,2,2016091802,1506,2,07:27,(7:27) D.Murray up the middle to DET 26 for 67 yards (D.Slay).
+27,8,D.Johnson,David Johnson,ARI,RB,21.31,58,reception,0,0,2016,REG,2,2016091808,2776,3,10:01,(10:01) C.Palmer pass short right to D.Johnson pushed ob at TB 17 for 58 yards (B.Grimes).
+28,9,M.Cooper,Marcus Cooper,ARI,DB,21.07,60,int,1,0,2016,REG,2,2016091808,3060,3,05:15,"(5:15) (Shotgun) J.Winston pass short left intended for C.Sims INTERCEPTED by M.Cooper (J.Mauro) at ARI 40. M.Cooper for 60 yards, TOUCHDOWN."
+29,10,T.Benjamin,Travis Benjamin,LAC,WR,20.84,43,reception,0,0,2016,REG,2,2016091812,942,2,12:05,(12:05) (Shotgun) P.Rivers pass deep right to T.Benjamin pushed ob at JAX 13 for 43 yards (T.Gipson).
+30,11,T.Benjamin,Travis Benjamin,LAC,WR,20.68,12,punt ret,0,0,2016,REG,2,2016091812,2362,3,09:52,"(9:52) B.Nortman punts 56 yards to SD 7, Center-C.Tinker. T.Benjamin ran ob at SD 19 for 12 yards (B.Koyack)."
+31,12,D.Thomas,Demaryius Thomas,DEN,WR,20.64,44,reception,0,0,2016,REG,2,2016091810,447,1,07:00,(7:00) T.Siemian pass short left to D.Thomas to IND 10 for 44 yards (M.Adams).
+32,13,T.Hill,Tyreek Hill,KC,WR,20.54,16,punt ret,0,0,2016,REG,2,2016091803,675,1,04:33,"(4:33) S.Lechler punts 62 yards to KC 20, Center-J.Weeks. T.Hill pushed ob at KC 36 for 16 yards (B.Peters)."
+33,14,V.McDonald,Vance McDonald,SF,TE,20.54,75,reception,1,0,2016,REG,2,2016091800,4045,4,08:03,"(8:03) (No Huddle, Shotgun) B.Gabbert pass short left to V.McDonald for 75 yards, TOUCHDOWN."
+34,15,C.Michael,Christine Michael,SEA,RB,20.33,16,rush,0,0,2016,REG,2,2016091809,2535,3,05:47,(5:47) (Shotgun) C.Michael right end pushed ob at SEA 36 for 16 yards (A.Ogletree).
+35,16,T.Lockett,Tyler Lockett,SEA,WR,20.31,35,reception,0,0,2016,REG,2,2016091809,646,1,04:59,(4:59) (Shotgun) R.Wilson pass deep left to T.Lockett to LA 34 for 35 yards (M.Alexander).
+36,17,A.Humphries,Adam Humphries,TB,WR,20.31,25,punt ret,0,0,2016,REG,2,2016091808,4319,4,01:18,"(1:18) D.Butler punts 44 yards to TB 34, Center-K.Canaday. A.Humphries pushed ob at ARI 41 for 25 yards (J.Bethel)."
+37,18,S.Coates,Sammie Coates,PIT,WR,20.31,53,reception,0,0,2016,REG,2,2016091806,2943,3,07:12,(7:12) (Shotgun) B.Roethlisberger pass deep right to S.Coates to CIN 9 for 53 yards (D.Dennard).
+38,19,T.Williams,Tyrell Williams,LAC,WR,20.23,44,reception,1,0,2016,REG,2,2016091812,2191,3,11:06,"(11:06) (Shotgun) P.Rivers pass short right to Ty.Williams for 44 yards, TOUCHDOWN."
+39,20,F.Whittaker,Fozzy Whittaker,CAR,RB,20.15,24,reception,0,0,2016,REG,2,2016091800,1055,2,14:26,"(14:26) (No Huddle, Shotgun) C.Newton pass short right to F.Whittaker pushed ob at SF 47 for 24 yards (A.Brooks)."
+40,1,D.Jones,Deion Jones,ATL,OLB,21.72,90,int,1,0,2016,REG,3,2016092600,3455,4,13:51,"(13:51) (Shotgun) D.Brees pass short right intended for M.Thomas INTERCEPTED by D.Jones (B.Poole) at ATL 10. D.Jones for 90 yards, TOUCHDOWN."
+41,2,S.Coates,Sammie Coates,PIT,WR,21.27,41,reception,0,0,2016,REG,3,2016092510,1051,2,11:12,"(11:12) (No Huddle, Shotgun) B.Roethlisberger pass deep right to S.Coates to PHI 36 for 41 yards (R.McLeod)."
+42,3,M.Sherels,Marcus Sherels,MIN,CB,21.17,54,punt ret,1,0,2016,REG,3,2016092501,1708,2,03:37,"(3:37) A.Lee punts 48 yards to MIN 46, Center-J.Jansen. M.Sherels for 54 yards, TOUCHDOWN."
+43,4,J.Howard,Jordan Howard,CHI,RB,21.07,36,rush,0,0,2016,REG,3,2016092513,1103,2,11:11,(11:11) J.Howard right end pushed ob at DAL 39 for 36 yards (J.Wilcox).
+44,5,C.Michael,Christine Michael,SEA,RB,21.03,41,rush,1,0,2016,REG,3,2016092508,118,1,14:24,"(14:24) C.Michael left tackle for 41 yards, TOUCHDOWN."
+45,6,D.Sproles,Darren Sproles,PHI,RB,21.03,40,reception,0,0,2016,REG,3,2016092510,344,1,07:31,(7:31) C.Wentz pass short left to D.Sproles pushed ob at PIT 14 for 40 yards (R.Golden).
+46,7,P.Peterson,Patrick Peterson,ARI,CB,20.95,0,int,0,0,2016,REG,3,2016092500,1313,2,14:14,(14:14) (Shotgun) T.Taylor pass deep right intended for M.Goodwin INTERCEPTED by P.Peterson at ARI 10. P.Peterson ran ob at ARI 10 for no gain. Intercepted along sideline.
+47,8,D.Jackson,DeSean Jackson,WAS,WR,20.95,44,reception,1,0,2016,REG,3,2016092506,1726,2,03:49,"(3:49) (Shotgun) K.Cousins pass deep middle to D.Jackson for 44 yards, TOUCHDOWN. The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands."
+48,9,J.Brown,John Brown,ARI,WR,20.93,51,kickoff ret,0,0,2016,REG,3,2016092500,4957,4,,C.Schmidt kicks 45 yards from BUF 20 to ARI 35. Jo.Brown pushed ob at BUF 14 for 51 yards (J.Meeks).
+49,10,D.Baldwin,Doug Baldwin,SEA,WR,20.9,59,reception,0,0,2016,REG,3,2016092508,1360,2,08:48,(8:48) (Shotgun) R.Wilson pass deep middle to D.Baldwin to SF 18 for 59 yards (E.Reid).
+50,11,J.Hill,Jeremy Hill,CIN,RB,20.64,50,rush,0,0,2016,REG,3,2016092502,227,1,12:05,(12:05) J.Hill left tackle to DEN 3 for 50 yards (D.Stewart).
+51,12,L.McCoy,LeSean McCoy,BUF,RB,20.37,6,rush,0,0,2016,REG,3,2016092500,838,1,02:25,(2:25) (Shotgun) L.McCoy left end pushed ob at ARI 47 for 6 yards (K.Minter).
+52,13,L.McCoy,LeSean McCoy,BUF,RB,20.33,24,rush,1,0,2016,REG,3,2016092500,1017,1,00:59,"(:59) (No Huddle, Shotgun) L.McCoy up the middle for 24 yards, TOUCHDOWN."
+53,14,J.Brissett,Jacoby Brissett,NE,QB,20.33,27,rush,1,0,2016,REG,3,2016092200,860,1,02:01,"(2:01) J.Brissett right end for 27 yards, TOUCHDOWN."
+54,15,K.Alexander,Kwon Alexander,TB,MLB,20.23,38,int,1,0,2016,REG,3,2016092509,442,1,08:54,"(8:54) (Shotgun) C.Keenum pass short right intended for T.Austin INTERCEPTED by K.Alexander at LA 38. K.Alexander for 38 yards, TOUCHDOWN."
+55,16,S.Roberts,Seth Roberts,OAK,WR,20.15,19,reception,1,0,2016,REG,3,2016092507,1967,2,00:40,"(:40) (No Huddle, Shotgun) D.Carr pass to S.Roberts for 19 yards, TOUCHDOWN."
+56,17,J.Marshall,Jalin Marshall,NYJ,WR,20.13,34,kickoff ret,0,0,2016,REG,3,2016092512,36,1,,C.Santos kicks 60 yards from KC 35 to NYJ 5. J.Marshall ran ob at NYJ 39 for 34 yards (D.Harris).
+57,18,J.Crowder,Jamison Crowder,WAS,WR,20.07,55,reception,1,0,2016,REG,3,2016092506,2650,3,09:55,"(9:55) (Shotgun) K.Cousins pass short left to J.Crowder for 55 yards, TOUCHDOWN."
+58,19,P.Dorsett,Phillip Dorsett,IND,WR,20.03,18,reception,0,0,2016,REG,3,2016092511,148,1,12:14,(12:14) (Shotgun) A.Luck pass short left to P.Dorsett ran ob at SD 35 for 18 yards (B.Flowers).
+59,20,D.Henry,Derrick Henry,TEN,RB,19.98,13,rush,0,0,2016,REG,3,2016092507,2900,3,01:25,(1:25) D.Henry left end pushed ob at TEN 23 for 13 yards (K.Joseph).
+60,1,W.Fuller,Will Fuller,HOU,WR,21.62,67,punt ret,1,0,2016,REG,4,2016100204,2968,3,01:12,"(1:12) B.Kern punts 45 yards to HOU 33, Center-B.Brinkley. W.Fuller for 67 yards, TOUCHDOWN. (The Punt Hangtime Was 3.65 seconds.)"
+61,2,S.Coates,Sammie Coates,PIT,WR,21.6,47,reception,0,0,2016,REG,4,2016100212,229,1,12:28,(12:28) B.Roethlisberger pass deep right to S.Coates to KC 48 for 47 yards (M.Peters).
+62,3,A.Roberts,Andre Roberts,DET,WR,21.58,85,punt ret,1,0,2016,REG,4,2016100203,4230,4,02:12,"(2:12) (Punt formation) P.O'Donnell punts 48 yards to DET 15, Center-P.Scales. A.Roberts for 85 yards, TOUCHDOWN. Penalty on CHI, Illegal Formation, declined."
+63,4,T.Hill,Tyreek Hill,KC,WR,21.31,6,punt ret,0,1,2016,REG,4,2016100212,1377,2,11:20,"(11:20) (Punt formation) J.Berry punts 52 yards to KC 22, Center-G.Warren. T.Hill for 78 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on KC-D.Harris, Illegal Block Above the Waist, 10 yards, enforced at KC 28."
+64,5,J.Jones,Julio Jones,ATL,WR,21.09,53,reception,0,0,2016,REG,4,2016100201,1236,2,08:46,(8:46) (Shotgun) M.Ryan pass deep right to J.Jones to CAR 15 for 53 yards (K.Coleman).
+65,6,J.Jones,Julio Jones,ATL,WR,21.09,75,reception,1,0,2016,REG,4,2016100201,3569,4,03:58,"(3:58) M.Ryan pass short middle to J.Jones for 75 yards, TOUCHDOWN."
+66,7,B.Quick,Brian Quick,LA,WR,20.76,65,reception,1,0,2016,REG,4,2016100209,696,1,02:11,"(2:11) (Shotgun) C.Keenum pass short right to B.Quick for 65 yards, TOUCHDOWN."
+67,8,M.Wallace,Mike Wallace,BAL,WR,20.74,3,rush,0,0,2016,REG,4,2016100202,935,1,01:16,(1:16) M.Wallace left end pushed ob at OAK 44 for 3 yards (K.Mack). End Around
+68,9,J.Jones,Julio Jones,ATL,WR,20.72,43,reception,0,0,2016,REG,4,2016100201,750,1,01:51,(1:51) M.Ryan pass deep right to J.Jones ran ob at CAR 32 for 43 yards (D.Worley) [C.Johnson].
+69,10,A.Green,A.J. Green,CIN,WR,20.66,43,reception,0,0,2016,REG,4,2016092900,2250,3,09:28,(9:28) A.Dalton pass deep left to A.Green to MIA 16 for 43 yards (T.Lippett; R.Jones).
+70,11,K.Drake,Kenyan Drake,MIA,RB,20.64,17,kickoff ret,0,0,2016,REG,4,2016092900,343,1,,M.Nugent kicks 48 yards from 50 to MIA 2. K.Drake pushed ob at MIA 19 for 17 yards (J.Shaw).
+71,12,E.Royal,Eddie Royal,CHI,WR,20.62,64,reception,0,0,2016,REG,4,2016100203,3009,3,05:42,(5:42) (Shotgun) B.Hoyer pass deep middle to E.Royal pushed ob at DET 12 for 64 yards (G.Quin).
+72,13,T.Benjamin,Travis Benjamin,LAC,WR,20.6,10,punt ret,0,1,2016,REG,4,2016100210,3038,3,03:48,"(3:48) T.Morstead punts 59 yards to SD 11, Center-J.Drescher. T.Benjamin ran ob at SD 21 for 10 yards (N.Stupar). PENALTY on NO-D.Harris, Player Out of Bounds on Punt, 5 yards, enforced at SD 21."
+73,14,T.Benjamin,Travis Benjamin,LAC,WR,20.54,25,reception,0,0,2016,REG,4,2016100210,1351,2,06:55,(6:55) (Shotgun) P.Rivers pass deep right to T.Benjamin ran ob at NO 16 for 25 yards (B.Webb) [D.Tapp].
+74,15,P.Perkins,Paul Perkins,NYG,RB,20.43,67,reception,0,0,2016,REG,4,2016100300,3063,4,15:00,(15:00) (Shotgun) E.Manning pass short right to P.Perkins to MIN 4 for 67 yards (A.Sendejo).
+75,16,D.Heyward-Bey,Darrius Heyward-Bey,PIT,WR,20.33,31,reception,1,0,2016,REG,4,2016100212,544,1,07:34,"(7:34) (Shotgun) B.Roethlisberger pass deep left to D.Heyward-Bey for 31 yards, TOUCHDOWN."
+76,17,B.LaFell,Brandon LaFell,CIN,WR,20.09,23,reception,0,0,2016,REG,4,2016092900,2688,3,00:59,(:59) A.Dalton pass deep right to B.LaFell ran ob at MIA 20 for 23 yards.
+77,18,T.Lewis,Tommylee Lewis,NO,WR,20.05,3,rush,0,0,2016,REG,4,2016100210,2463,3,10:22,(10:22) T.Lewis right end pushed ob at SD 5 for 3 yards (D.McCoil).
+78,19,J.Richard,Jalen Richard,OAK,RB,19.92,47,punt ret,0,0,2016,REG,4,2016100202,852,1,01:49,"(1:49) (Punt formation) S.Koch punts 47 yards to OAK 47, Center-M.Cox. J.Richard pushed ob at BAL 6 for 47 yards (S.Koch)."
+79,20,K.Stills,Kenny Stills,MIA,WR,19.8,74,reception,1,0,2016,REG,4,2016092900,389,1,09:15,"(9:15) (Shotgun) R.Tannehill pass deep left to K.Stills for 74 yards, TOUCHDOWN."
+80,1,T.Coleman,Tevin Coleman,ATL,RB,22.25,49,reception,0,0,2016,REG,5,2016100907,3176,4,11:01,(11:01) (Shotgun) M.Ryan pass deep right to T.Coleman pushed ob at DEN 26 for 49 yards (T.Ward) [S.Williams].
+81,2,J.Howard,Jordan Howard,CHI,RB,22.03,57,rush,0,0,2016,REG,5,2016100903,1540,2,06:08,(6:08) (Shotgun) J.Howard right end to IND 18 for 57 yards (M.Adams). IND-M.Adams was injured during the play.
+82,3,S.Coates,Sammie Coates,PIT,WR,21.78,72,reception,1,0,2016,REG,5,2016100906,323,1,10:25,"(10:25) (Shotgun) B.Roethlisberger pass deep right to S.Coates for 72 yards, TOUCHDOWN."
+83,4,T.Benjamin,Travis Benjamin,LAC,WR,21.54,54,reception,0,0,2016,REG,5,2016100910,1476,2,07:13,(7:13) (Shotgun) P.Rivers pass short right to T.Benjamin pushed ob at OAK 26 for 54 yards (R.Nelson).
+84,5,T.Austin,Tavon Austin,LA,WR,21.5,9,rush,0,0,2016,REG,5,2016100909,3265,4,08:17,(8:17) T.Austin left end ran ob at BUF 10 for 9 yards (C.Graham).
+85,6,E.Elliott,Ezekiel Elliott,DAL,RB,21.5,60,rush,1,0,2016,REG,5,2016100908,2224,3,11:47,"(11:47) E.Elliott right guard for 60 yards, TOUCHDOWN."
+86,7,T.Pryor,Terrelle Pryor,CLE,WR,20.99,2,rush,0,0,2016,REG,5,2016100901,3986,4,03:51,(3:51) (Shotgun) T.Pryor scrambles left end ran ob at NE 48 for 2 yards (P.Chung).
+87,8,M.Mariota,Marcus Mariota,TEN,QB,20.95,21,rush,0,0,2016,REG,5,2016100904,1684,2,01:28,(1:28) (Shotgun) M.Mariota scrambles right end to MIA 27 for 21 yards (I.Abdul-Quddus).
+88,9,T.Coleman,Tevin Coleman,ATL,RB,20.88,16,rush,0,0,2016,REG,5,2016100907,1505,2,08:14,(8:14) T.Coleman right end pushed ob at ATL 27 for 16 yards (D.Stewart).
+89,10,B.Gabbert,Blaine Gabbert,SF,QB,20.76,9,rush,0,0,2016,REG,5,2016100600,1499,2,06:34,"(6:34) (No Huddle, Shotgun) B.Gabbert scrambles left end ran ob at ARI 38 for 9 yards (T.Mathieu)."
+90,11,C.Hogan,Chris Hogan,NE,WR,20.68,43,reception,0,0,2016,REG,5,2016100901,1100,2,14:29,(14:29) T.Brady pass deep left to C.Hogan to CLE 7 for 43 yards (I.Campbell).
+91,12,J.Haden,Joe Haden,CLE,CB,20.5,5,punt ret,0,0,2016,REG,5,2016100901,3077,3,02:36,"(2:36) (Punt formation) R.Allen punts 46 yards to CLE 15, Center-J.Cardona. J.Haden to CLE 20 for 5 yards (N.Ebner)."
+92,13,T.Williams,Tyrell Williams,LAC,WR,20.5,29,reception,1,0,2016,REG,5,2016100910,1089,2,13:13,"(13:13) P.Rivers pass deep middle to Ty.Williams for 29 yards, TOUCHDOWN."
+93,14,M.Sherels,Marcus Sherels,MIN,CB,20.37,79,punt ret,1,0,2016,REG,5,2016100905,1488,2,09:05,"(9:05) (Punt formation) S.Lechler punts 57 yards to MIN 21, Center-J.Weeks. M.Sherels for 79 yards, TOUCHDOWN."
+94,15,T.Hilton,T.Y. Hilton,IND,WR,20.31,35,reception,1,0,2016,REG,5,2016100903,3755,4,03:51,"(3:51) (No Huddle, Shotgun) A.Luck pass deep middle to T.Hilton for 35 yards, TOUCHDOWN [S.Acho]."
+95,16,T.Williams,Tyrell Williams,LAC,WR,20.29,50,reception,0,0,2016,REG,5,2016100910,2245,3,11:19,"(11:19) P.Rivers pass deep middle to Ty.Williams to OAK 25 for 50 yards (D.Amerson). Penalty on OAK-S.Smith, Defensive Holding, declined."
+96,17,N.Robey-Coleman,Nickell Robey-Coleman,BUF,DB,20.13,41,int,1,0,2016,REG,5,2016100909,2682,3,04:05,"(4:05) (Shotgun) C.Keenum pass short right intended for P.Cooper INTERCEPTED by N.Robey-Coleman at LA 41. N.Robey-Coleman for 41 yards, TOUCHDOWN."
+97,18,J.Grant,Jakeem Grant,MIA,WR,20,74,punt ret,1,0,2016,REG,5,2016100904,1033,2,12:44,"(12:44) (Punt formation) B.Kern punts 51 yards to MIA 26, Center-B.Brinkley. J.Grant for 74 yards, TOUCHDOWN."
+98,19,M.Cooper,Marcus Cooper,ARI,CB,19.9,12,int,0,0,2016,REG,5,2016100600,3315,4,15:00,(15:00) (Shotgun) B.Gabbert pass short left intended for J.Kerley INTERCEPTED by M.Cooper at SF 36. M.Cooper pushed ob at SF 24 for 12 yards (G.Celek).
+99,20,M.Gordon,Melvin Gordon,LAC,RB,19.9,24,rush,0,0,2016,REG,5,2016100910,2280,3,10:53,(10:53) M.Gordon right end pushed ob at OAK 1 for 24 yards (S.Smith).
+100,1,M.Wallace,Mike Wallace,BAL,WR,22.34,70,reception,0,1,2016,REG,6,2016101606,3322,3,02:10,"(2:10) (Shotgun) J.Flacco pass deep right to M.Wallace to NYG 5 for 70 yards (J.Jenkins) [J.Pierre-Paul]. PENALTY on NYG-J.Jenkins, Face Mask (15 Yards), 2 yards, enforced at NYG 5."
+101,2,W.Smallwood,Wendell Smallwood,PHI,RB,21.93,86,kickoff ret,1,0,2016,REG,6,2016101608,1344,2,,"D.Hopkins kicks 66 yards from WAS 20 to PHI 14. W.Smallwood for 86 yards, TOUCHDOWN."
+102,3,B.Cooks,Brandin Cooks,NO,WR,21.89,87,reception,1,0,2016,REG,6,2016101605,937,1,02:43,"(2:43) (Shotgun) D.Brees pass deep right to B.Cooks for 87 yards, TOUCHDOWN. Pass 33, YAC 54"
+103,4,M.Mariota,Marcus Mariota,TEN,QB,21.5,41,rush,0,0,2016,REG,6,2016101607,51,1,15:00,(15:00) (Shotgun) M.Mariota left end pushed ob at CLE 34 for 41 yards (J.Poyer).
+104,5,M.Gillislee,Mike Gillislee,BUF,RB,21.46,44,rush,1,0,2016,REG,6,2016101600,4206,4,05:47,"(5:47) (Shotgun) M.Gillislee left guard for 44 yards, TOUCHDOWN."
+105,6,L.Miller,Lamar Miller,HOU,RB,21.29,23,rush,0,0,2016,REG,6,2016101612,2088,3,12:19,(12:19) L.Miller left end pushed ob at HOU 41 for 23 yards (C.Geathers).
+106,7,D.Heyward-Bey,Darrius Heyward-Bey,PIT,WR,21.13,60,rush,1,0,2016,REG,6,2016101603,602,1,05:52,"(5:52) D.Heyward-Bey right end for 60 yards, TOUCHDOWN."
+107,8,O.Beckham,Odell Beckham,NYG,WR,21.03,75,reception,1,0,2016,REG,6,2016101606,3255,3,02:22,"(2:22) (Shotgun) E.Manning pass deep right to O.Beckham for 75 yards, TOUCHDOWN."
+108,9,T.Hill,Tyreek Hill,KC,WR,21.01,50,punt ret,0,1,2016,REG,6,2016101609,2125,3,10:53,"(10:53) M.King punts 58 yards to KC 9, Center-J.Condo. T.Hill to OAK 41 for 50 yards (B.Trawick). PENALTY on OAK, Illegal Formation, 5 yards, enforced at OAK 41."
+109,10,M.Gordon,Melvin Gordon,LAC,RB,20.93,48,rush,0,0,2016,REG,6,2016101300,1921,3,12:51,"(12:51) M.Gordon left tackle to DEN 6 for 48 yards (C.Harris Jr., D.Stewart)."
+110,11,M.Jones,Matt Jones,WAS,RB,20.86,57,rush,0,0,2016,REG,6,2016101608,4006,4,01:27,(1:27) M.Jones left end to PHI 17 for 57 yards (R.McLeod).
+111,12,O.Beckham,Odell Beckham,NYG,WR,20.74,66,reception,1,1,2016,REG,6,2016101606,4379,4,01:36,"(1:36) (No Huddle, Shotgun) E.Manning pass short middle to O.Beckham for 66 yards, TOUCHDOWN. BAL-T.Young was injured during the play.  PENALTY on NYG-O.Beckham, Unsportsmanlike Conduct, 15 yards, enforced between downs."
+112,13,E.Elliott,Ezekiel Elliott,DAL,RB,20.74,25,rush,0,0,2016,REG,6,2016101610,2496,3,10:03,(10:03) E.Elliott right end pushed ob at GB 26 for 25 yards (L.Gunter).
+113,14,R.Woods,Robert Woods,BUF,WR,20.74,6,rush,0,0,2016,REG,6,2016101600,1956,2,01:22,(1:22) R.Woods left tackle to SF 24 for 6 yards (E.Reid). End-around.
+114,15,J.Nelson,J.J. Nelson,ARI,WR,20.72,14,rush,0,0,2016,REG,6,2016101700,1377,2,10:46,(10:46) J.Nelson left end pushed ob at NYJ 49 for 14 yards (S.Richardson).
+115,16,D.Johnson,David Johnson,ARI,RB,20.62,58,rush,1,0,2016,REG,6,2016101700,326,1,10:03,"(10:03) (Shotgun) D.Johnson left end for 58 yards, TOUCHDOWN."
+116,17,L.Whitehead,Lucky Whitehead,DAL,WR,20.6,26,rush,0,0,2016,REG,6,2016101610,2034,2,00:45,(:45) L.Whitehead left end pushed ob at DAL 38 for 26 yards (H.Clinton-Dix).
+117,18,J.Matthews,Jordan Matthews,PHI,WR,20.58,54,reception,0,0,2016,REG,6,2016101608,2966,4,14:55,(14:55) (Shotgun) C.Wentz pass deep right to J.Matthews to WAS 26 for 54 yards (W.Blackmon).
+118,19,T.Ginn,Ted Ginn,CAR,WR,20.52,35,kickoff ret,0,0,2016,REG,6,2016101605,974,1,,W.Lutz kicks 64 yards from NO 35 to CAR 1. T.Ginn pushed ob at CAR 36 for 35 yards (M.Mauti).
+119,20,T.Smith,Torrey Smith,SF,WR,20.41,53,reception,1,0,2016,REG,6,2016101600,1138,2,14:07,"(14:07) (No Huddle, Shotgun) C.Kaepernick pass deep right to T.Smith for 53 yards, TOUCHDOWN. Caught near sideline at BUF 25, crossed to middle after catch."
+120,1,J.Holton,Johnny Holton,OAK,WR,22.23,29,rush,0,0,2016,REG,7,2016102303,1353,2,12:38,(12:38) J.Holton left end pushed ob at JAX 46 for 29 yards (J.Cyprien).
+121,2,A.Green,A.J. Green,CIN,WR,21.4,48,reception,0,0,2016,REG,7,2016102301,2556,3,07:35,(7:35) (Shotgun) A.Dalton pass deep right to A.Green to CLE 36 for 48 yards (B.Boddy-Calhoun).
+122,3,Q.Enunwa,Quincy Enunwa,NYJ,WR,21.33,69,reception,1,0,2016,REG,7,2016102306,873,1,01:24,"(1:24) (Shotgun) G.Smith pass short middle to Q.Enunwa for 69 yards, TOUCHDOWN."
+123,4,J.Huff,Josh Huff,PHI,WR,21.21,98,kickoff ret,1,0,2016,REG,7,2016102307,1514,2,,"B.Walsh kicks 63 yards from MIN 35 to PHI 2. J.Huff for 98 yards, TOUCHDOWN."
+124,5,M.Jones,Marvin Jones,DET,WR,21.17,52,reception,0,0,2016,REG,7,2016102302,2044,3,08:49,"(8:49) C.Lucas reported in as eligible.  M.Stafford pass deep middle to M.Jones to WAS 14 for 52 yards (J.Norman). WAS-J.Norman was injured during the play. He is Out.  Penalty on WAS-J.Norman, Defensive Pass Interference, declined."
+125,6,M.Wallace,Mike Wallace,BAL,WR,21.03,53,reception,0,0,2016,REG,7,2016102306,585,1,06:30,(6:30) J.Flacco pass deep middle to M.Wallace to NYJ 37 for 53 yards (B.Skrine).
+126,7,M.Goodwin,Marquise Goodwin,BUF,WR,20.99,67,reception,1,0,2016,REG,7,2016102305,2446,3,06:00,"(6:00) (Shotgun) T.Taylor pass deep right to M.Goodwin for 67 yards, TOUCHDOWN [N.Suh]."
+127,8,C.Ivory,Chris Ivory,JAX,RB,20.99,42,rush,0,0,2016,REG,7,2016102303,1214,2,14:41,(14:41) C.Ivory up the middle pushed ob at OAK 8 for 42 yards (R.Nelson).
+128,9,T.Hill,Tyreek Hill,KC,WR,20.95,38,reception,1,0,2016,REG,7,2016102304,1348,2,07:09,"(7:09) (Shotgun) A.Smith pass deep left to T.Hill for 38 yards, TOUCHDOWN."
+129,10,T.Williams,Tyrell Williams,LAC,WR,20.84,49,reception,0,0,2016,REG,7,2016102309,145,1,12:17,(12:17) P.Rivers pass deep right to Ty.Williams pushed ob at ATL 10 for 49 yards (R.Allen).
+130,11,T.Hill,Tyreek Hill,KC,WR,20.76,18,rush,0,0,2016,REG,7,2016102304,594,1,05:01,(5:01) T.Hill left end to NO 46 for 18 yards (N.Stupar).
+131,12,P.Barber,Peyton Barber,TB,RB,20.76,44,rush,1,0,2016,REG,7,2016102310,4028,4,04:51,"(4:51) G.Cherilus reported in as eligible.  P.Barber left guard for 44 yards, TOUCHDOWN."
+132,13,J.Jones,Julio Jones,ATL,WR,20.68,50,reception,0,0,2016,REG,7,2016102309,1099,2,11:41,(11:41) M.Ryan pass deep right to J.Jones to SD 14 for 50 yards (D.Lowery).
+133,14,C.Kaepernick,Colin Kaepernick,SF,QB,20.66,8,rush,0,0,2016,REG,7,2016102310,3701,4,11:04,(11:04) (Shotgun) C.Kaepernick scrambles right end pushed ob at TB 34 for 8 yards (J.Adjei-Barimah).
+134,15,M.Gilchrist,Marcus Gilchrist,NYJ,FS,20.52,25,int,0,0,2016,REG,7,2016102306,2647,3,04:11,(4:11) (Shotgun) J.Flacco pass deep middle intended for B.Perriman INTERCEPTED by M.Gilchrist at BAL 49. M.Gilchrist ran ob at BAL 24 for 25 yards.
+135,16,T.Hill,Tyreek Hill,KC,WR,20.48,5,rush,0,1,2016,REG,7,2016102304,3771,4,02:26,"(2:26) T.Hill right end pushed ob at NO 44 for 5 yards (V.Bell; N.Stupar). PENALTY on NO-N.Fairley, Unnecessary Roughness, 15 yards, enforced at NO 44."
+136,17,A.Brown,Antonio Brown,PIT,WR,20.43,13,rush,0,0,2016,REG,7,2016102311,2357,3,12:54,(12:54) (Shotgun) A.Brown left end ran ob at PIT 44 for 13 yards.
+137,18,T.Coleman,Tevin Coleman,ATL,RB,20.35,30,rush,1,0,2016,REG,7,2016102309,1452,2,06:15,"(6:15) T.Coleman right tackle for 30 yards, TOUCHDOWN."
+138,19,B.Skrine,Buster Skrine,NYJ,CB,20.25,51,int,0,0,2016,REG,7,2016102306,2453,3,07:16,(7:16) J.Flacco pass short left intended for B.Perriman INTERCEPTED by B.Skrine at NYJ 46. B.Skrine pushed ob at BAL 3 for 51 yards (R.Jensen).
+139,20,J.Hill,Jeremy Hill,CIN,RB,20.17,74,rush,1,0,2016,REG,7,2016102301,2359,3,09:59,"(9:59) J.Hill right tackle for 74 yards, TOUCHDOWN."
+140,1,T.Hill,Tyreek Hill,KC,WR,21.91,49,reception,0,0,2016,REG,8,2016103005,932,1,01:26,(1:26) (Run formation) N.Foles pass deep middle to T.Hill to IND 31 for 49 yards (T.Green).
+141,2,T.Gabriel,Taylor Gabriel,ATL,WR,21.5,47,reception,1,0,2016,REG,8,2016103001,591,1,04:36,"(4:36) M.Ryan pass deep middle to T.Gabriel for 47 yards, TOUCHDOWN."
+142,3,B.Roby,Bradley Roby,DEN,FS,21.44,51,int,1,0,2016,REG,8,2016103008,,2,09:22,"(9:22) (Shotgun) P.Rivers pass short middle intended for Ty.Williams INTERCEPTED by B.Roby at DEN 49. B.Roby for 51 yards, TOUCHDOWN. Coach Wade Phillips hurt on the play.  Game was delayed."
+143,4,J.Taylor,Jordan Taylor,DEN,WR,21.17,35,reception,0,0,2016,REG,8,2016103008,101,1,14:09,(14:09) (Shotgun) T.Siemian pass short middle to J.Taylor pushed ob at SD 37 for 35 yards (A.Phillips) [J.Bosa].
+144,5,J.Howard,Jordan Howard,CHI,RB,20.76,69,rush,0,0,2016,REG,8,2016103100,302,1,10:55,(10:55) (Shotgun) J.Howard left tackle pushed ob at MIN 13 for 69 yards (X.Rhodes).
+145,6,J.Nelson,Jordy Nelson,GB,WR,20.7,58,reception,0,0,2016,REG,8,2016103001,435,1,07:37,(7:37) (Shotgun) A.Rodgers pass deep right to J.Nelson pushed ob at ATL 7 for 58 yards (R.Allen) [G.Jarrett].
+146,7,C.Jones,Chris Jones,DAL,P,20.68,30,rush,0,0,2016,REG,8,2016103010,2828,3,04:55,(4:55) (Punt formation) C.Jones left end to PHI 43 for 30 yards (D.Sproles). Fake punt run around left end.
+147,8,D.Freeman,Devonta Freeman,ATL,RB,20.62,17,rush,0,0,2016,REG,8,2016103001,237,1,11:47,(11:47) D.Freeman left end pushed ob at GB 25 for 17 yards (B.Martinez).
+148,9,J.Marshall,Jalin Marshall,NYJ,WR,20.56,15,punt ret,0,0,2016,REG,8,2016103003,1282,2,11:53,"(11:53) (Punt formation) B.Colquitt punts 52 yards to NYJ 19, Center-C.Hughlett. J.Marshall pushed ob at NYJ 34 for 15 yards (G.Atkinson III)."
+149,10,R.Bush,Reggie Bush,BUF,RB,20.56,35,kickoff ret,0,0,2016,REG,8,2016103002,3692,3,,S.Gostkowski kicks 60 yards from NE 35 to BUF 5. R.Bush pushed ob at BUF 40 for 35 yards (D.McCourty).
+150,11,K.Wright,Kendall Wright,TEN,WR,20.39,36,reception,1,0,2016,REG,8,2016102700,875,2,15:00,"(15:00) M.Mariota pass deep right to K.Wright for 36 yards, TOUCHDOWN."
+151,12,D.Walker,Delanie Walker,TEN,TE,20.37,3,rush,0,0,2016,REG,8,2016102700,1392,2,08:52,(8:52) (Shotgun) D.Walker right end pushed ob at TEN 41 for 3 yards (T.Smith).
+152,13,T.Pryor,Terrelle Pryor,CLE,WR,20.25,35,reception,0,0,2016,REG,8,2016103003,573,1,06:53,(6:53) J.McCown pass deep middle to T.Pryor Sr. to NYJ 47 for 35 yards (D.Revis).
+153,14,A.Green,A.J. Green,CIN,WR,20.19,40,reception,0,0,2016,REG,8,2016103000,3567,4,08:04,"(8:04) (No Huddle) A.Dalton pass deep left to A.Green to WAS 7 for 40 yards (J.Norman). Penalty on WAS-J.Norman, Defensive Pass Interference, declined."
+154,15,Q.Enunwa,Quincy Enunwa,NYJ,WR,20.11,57,reception,0,0,2016,REG,8,2016103003,2871,3,03:49,(3:49) R.Fitzpatrick pass deep middle to Q.Enunwa to CLE 13 for 57 yards (J.Taylor).
+155,16,T.Hill,Tyreek Hill,KC,WR,20.09,28,punt ret,0,0,2016,REG,8,2016103005,3282,4,13:22,"(13:22) P.McAfee punts 58 yards to KC 22, Center-M.Overton. T.Hill pushed ob at 50 for 28 yards (J.Doyle)."
+156,17,A.Roberts,Andre Roberts,DET,WR,20.09,20,kickoff ret,0,1,2016,REG,8,2016103004,908,2,,"N.Novak kicks 61 yards from HOU 35 to DET 4. A.Roberts pushed ob at HOU 40 for 56 yards (A.Hal). PENALTY on DET-A.Williams, Offensive Holding, 10 yards, enforced at DET 24."
+157,18,D.Murray,DeMarco Murray,TEN,RB,19.72,19,rush,0,0,2016,REG,8,2016102700,1879,2,01:59,(1:59) D.Murray left end ran ob at TEN 22 for 19 yards (P.Amukamara).
+158,19,A.Rodgers,Aaron Rodgers,GB,QB,19.72,23,rush,0,0,2016,REG,8,2016103001,1906,2,00:27,(:27) (Shotgun) A.Rodgers scrambles right end ran ob at GB 48 for 23 yards (R.Allen).
+159,20,C.Newton,Cam Newton,CAR,QB,19.7,19,rush,0,0,2016,REG,8,2016103009,748,1,04:08,(4:08) (Shotgun) C.Newton up the middle pushed ob at ARI 11 for 19 yards (P.Peterson).
+160,1,M.Gordon,Melvin Gordon,LAC,RB,21.95,43,rush,0,0,2016,REG,9,2016110610,932,2,15:00,(15:00) M.Gordon up the middle pushed ob at TEN 6 for 43 yards (K.Byard).
+161,2,J.Todman,Jordan Todman,IND,RB,21.4,99,kickoff ret,1,0,2016,REG,9,2016110609,36,1,,"M.Crosby kicks 64 yards from GB 35 to IND 1. J.Todman for 99 yards, TOUCHDOWN."
+162,3,M.Ingram,Mark Ingram,NO,RB,21.31,75,rush,1,0,2016,REG,9,2016110608,1784,2,05:56,"(5:56) M.Ingram right tackle for 75 yards, TOUCHDOWN."
+163,4,R.Hillman,Ronnie Hillman,MIN,RB,21.27,32,reception,0,0,2016,REG,9,2016110605,3014,4,10:30,(10:30) S.Bradford pass short right to R.Hillman pushed ob at DET 14 for 32 yards (J.Bademosi).
+164,5,B.Treggs,Bryce Treggs,PHI,WR,21.25,58,reception,0,0,2016,REG,9,2016110606,1055,2,13:44,(13:44) C.Wentz pass deep middle to B.Treggs to NYG 12 for 58 yards (N.Berhe).
+165,6,T.Hill,Tyreek Hill,KC,WR,21.19,16,rush,0,0,2016,REG,9,2016110603,658,1,04:35,(4:35) T.Hill left end pushed ob at KC 27 for 16 yards (T.Smith).
+166,7,M.Gordon,Melvin Gordon,LAC,RB,20.97,35,reception,0,0,2016,REG,9,2016110610,3715,4,08:20,(8:20) (Shotgun) P.Rivers pass short left to M.Gordon pushed ob at TEN 27 for 35 yards (D.Stafford).
+167,8,M.Forte,Matt Forte,NYJ,RB,20.95,31,rush,1,0,2016,REG,9,2016110604,860,1,00:42,"(:42) D.Dozier reported in as eligible.  M.Forte left tackle for 31 yards, TOUCHDOWN."
+168,9,M.Wallace,Mike Wallace,BAL,WR,20.9,95,reception,1,0,2016,REG,9,2016110601,812,1,01:21,"(1:21) (No Huddle, Shotgun) J.Flacco pass short middle to M.Wallace for 95 yards, TOUCHDOWN. Flacco's 95-yard TD pass to Wallace is the longest pass play in Ravens history."
+169,10,L.Murray,Latavius Murray,OAK,RB,20.9,42,rush,0,0,2016,REG,9,2016110600,1892,2,02:00,(2:00) D.Kirkland reported in as eligible.  L.Murray left guard ran ob at DEN 24 for 42 yards (T.Ward).
+170,11,A.Wilson,Albert Wilson,KC,WR,20.62,-5,rush,0,0,2016,REG,9,2016110603,1325,2,12:00,(12:00) A.Wilson left end ran ob at JAX 18 for -5 yards.
+171,12,V.McDonald,Vance McDonald,SF,TE,20.6,65,reception,1,0,2016,REG,9,2016110608,2261,2,01:16,"(1:16) (Shotgun) C.Kaepernick pass short right to V.McDonald for 65 yards, TOUCHDOWN. Caught at SF 39.   61-yds  YAC"
+172,13,D.Freeman,Devonta Freeman,ATL,RB,20.45,20,rush,0,0,2016,REG,9,2016110300,1160,2,15:00,(15:00) D.Freeman left end pushed ob at TB 26 for 20 yards (C.Conte).
+173,14,J.Grant,Jakeem Grant,MIA,WR,20.39,3,punt ret,0,1,2016,REG,9,2016110604,1810,2,01:37,"(1:37) (Punt formation) L.Edwards punts 44 yards to MIA 43, Center-T.Purdum. J.Grant for 57 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on MIA-K.Drake, Illegal Block Above the Waist, 10 yards, enforced at MIA 46."
+174,15,T.Gabriel,Taylor Gabriel,ATL,WR,20.33,13,reception,0,0,2016,REG,9,2016110300,3013,3,06:29,(6:29) M.Ryan pass short right to T.Gabriel pushed ob at TB 45 for 13 yards (J.Adjei-Barimah).
+175,16,D.Baldwin,Doug Baldwin,SEA,WR,20.31,50,reception,0,0,2016,REG,9,2016110700,226,1,12:58,(12:58) R.Wilson pass deep middle to D.Baldwin to BUF 3 for 50 yards (R.Darby).
+176,17,D.Harris,DuJuan Harris,SF,RB,20.29,47,reception,1,0,2016,REG,9,2016110608,1725,2,06:07,"(6:07) (No Huddle, Shotgun) C.Kaepernick pass short right to D.Harris for 47 yards, TOUCHDOWN. Caught at SF 49.   51-yds  YAC"
+177,18,A.Holmes,Andre Holmes,OAK,WR,20.17,11,reception,0,0,2016,REG,9,2016110600,846,1,03:35,(3:35) D.Kirkland reported in as eligible.  D.Carr pass short left to A.Holmes ran ob at DEN 46 for 11 yards.
+178,19,T.Gabriel,Taylor Gabriel,ATL,WR,20.07,9,rush,1,0,2016,REG,9,2016110300,1984,2,04:01,"(4:01) T.Gabriel right end for 9 yards, TOUCHDOWN."
+179,20,D.Sproles,Darren Sproles,PHI,RB,19.96,66,punt ret,0,0,2016,REG,9,2016110606,1670,2,05:42,"(5:42) B.Wing punts 55 yards to PHI 19, Center-Z.DeOssie. D.Sproles pushed ob at NYG 15 for 66 yards (K.Robinson)."
+180,1,B.Cunningham,Benny Cunningham,LA,RB,21.85,24,rush,0,0,2016,REG,10,2016111304,213,1,11:34,(11:34) B.Cunningham right end pushed ob at NYJ 1 for 24 yards (M.Gilchrist).
+181,2,D.Murray,DeMarco Murray,TEN,RB,21.44,75,rush,1,0,2016,REG,10,2016111307,177,1,13:28,"(13:28) D.Murray left tackle for 75 yards, TOUCHDOWN."
+182,3,B.Perriman,Breshad Perriman,BAL,WR,21.25,25,reception,0,0,2016,REG,10,2016111000,2804,3,03:59,"(3:59) (No Huddle, Shotgun) J.Flacco pass short middle to B.Perriman to CLE 14 for 25 yards (E.Reynolds) [J.Meder]."
+183,4,A.Erickson,Alex Erickson,CIN,WR,21.25,84,kickoff ret,0,0,2016,REG,10,2016111400,2154,3,,R.Gould kicks 62 yards from NYG 35 to CIN 3. A.Erickson to NYG 13 for 84 yards (C.Sensabaugh).
+184,5,R.Anderson,Robby Anderson,NYJ,WR,21.09,52,reception,0,0,2016,REG,10,2016111304,768,1,01:05,(1:05) (Shotgun) B.Petty pass deep left to R.Anderson pushed ob at LA 46 for 52 yards (E.Gaines).
+185,6,J.Ajayi,Jay Ajayi,MIA,RB,20.97,40,rush,0,0,2016,REG,10,2016111309,1844,3,14:29,(14:29) J.Ajayi left end pushed ob at SD 30 for 40 yards (A.Phillips).
+186,7,E.Elliott,Ezekiel Elliott,DAL,RB,20.93,32,rush,1,0,2016,REG,10,2016111311,4243,4,00:15,"(:15) J.Looney reported in as eligible.  E.Elliott up the middle for 32 yards, TOUCHDOWN."
+187,8,T.Gabriel,Taylor Gabriel,ATL,WR,20.8,76,reception,1,0,2016,REG,10,2016111305,2798,4,13:25,"(13:25) M.Ryan pass deep right to T.Gabriel for 76 yards, TOUCHDOWN."
+188,9,C.Newton,Cam Newton,CAR,QB,20.6,28,rush,0,0,2016,REG,10,2016111301,102,1,13:32,(13:32) C.Newton left end pushed ob at KC 41 for 28 yards (R.Parker). Chris Scott reported as eligible
+189,10,Q.Patton,Quinton Patton,SF,WR,20.52,45,reception,0,0,2016,REG,10,2016111310,2808,3,10:56,(10:56) (Shotgun) C.Kaepernick pass deep middle to Q.Patton to ARI 35 for 45 yards (J.Bethel).
+190,11,M.Wallace,Mike Wallace,BAL,WR,20.48,23,reception,0,0,2016,REG,10,2016111000,2606,3,08:09,"(8:09) (No Huddle, Shotgun) J.Flacco pass short middle to M.Wallace ran ob at CLE 14 for 23 yards (B.Boddy-Calhoun)."
+191,12,E.Elliott,Ezekiel Elliott,DAL,RB,20.39,83,reception,1,0,2016,REG,10,2016111311,982,1,00:27,"(:27) D.Prescott pass short right to E.Elliott for 83 yards, TOUCHDOWN."
+192,13,T.Hill,Tyreek Hill,KC,WR,20.09,21,punt ret,0,0,2016,REG,10,2016111301,3508,4,07:49,"(7:49) G.Gano punts 43 yards to KC 30, Center-J.Jansen. T.Hill to CAR 49 for 21 yards (G.Gano)."
+193,14,M.Floyd,Michael Floyd,ARI,WR,20.03,35,reception,0,0,2016,REG,10,2016111310,425,1,09:16,(9:16) C.Palmer pass deep right to M.Floyd to ARI 44 for 35 yards (E.Reid).
+194,15,A.Brown,Antonio Brown,PIT,WR,20,22,punt ret,0,0,2016,REG,10,2016111311,3427,4,11:09,"(11:09) (Punt formation) C.Jones punts 48 yards to PIT 32, Center-L.Ladouceur. A.Brown pushed ob at DAL 46 for 22 yards (C.Jones)."
+195,16,K.Britt,Kenny Britt,LA,WR,19.98,46,reception,0,1,2016,REG,10,2016111304,1025,2,12:31,"(12:31) (Shotgun) C.Keenum pass deep left to K.Britt to NYJ 38 for 46 yards (D.Revis) [S.Richardson]. PENALTY on LA-K.Britt, Delay of Game, 5 yards, enforced at NYJ 38."
+196,17,L.Miller,Lamar Miller,HOU,RB,19.96,45,rush,0,0,2016,REG,10,2016111302,729,1,01:49,(1:49) L.Miller right guard to JAX 1 for 45 yards (M.Jack).
+197,18,J.Jones,Julio Jones,ATL,WR,19.86,29,reception,0,0,2016,REG,10,2016111305,904,2,12:00,(12:00) M.Ryan pass deep left to J.Jones ran ob at PHI 26 for 29 yards [M.Kendricks].
+198,19,M.Lee,Marqise Lee,JAX,WR,19.86,6,rush,0,0,2016,REG,10,2016111302,292,1,10:15,(10:15) M.Lee right end ran ob at JAX 42 for 6 yards (K.Jackson).
+199,20,C.Meredith,Cameron Meredith,CHI,WR,19.78,50,reception,1,0,2016,REG,10,2016111306,2073,2,00:05,"(:05) (Shotgun) J.Cutler pass deep left to C.Meredith for 50 yards, TOUCHDOWN."
+200,1,X.Rhodes,Xavier Rhodes,MIN,CB,22.4,100,int,1,0,2016,REG,11,2016112006,1622,2,03:23,"(3:23) (Shotgun) C.Palmer pass short left intended for Jo.Brown INTERCEPTED by X.Rhodes at MIN 0. X.Rhodes for 100 yards, TOUCHDOWN."
+201,2,C.Patterson,Cordarrelle Patterson,MIN,WR,21.48,104,kickoff ret,1,0,2016,REG,11,2016112006,2021,3,,"C.Catanzaro kicks 69 yards from ARI 35 to MIN -4. C.Patterson for 104 yards, TOUCHDOWN."
+202,3,T.Ginn,Ted Ginn,CAR,WR,21.31,40,reception,1,0,2016,REG,11,2016111700,2123,2,00:23,"(:23) (Shotgun) C.Newton pass incomplete deep middle to T.Ginn [N.Fairley]. The Replay Official reviewed the incomplete pass ruling, and the play was REVERSED. (Shotgun) C.Newton pass deep middle to T.Ginn for 40 yards, TOUCHDOWN [N.Fairley]."
+203,4,R.Sherman,Richard Sherman,SEA,CB,21.23,0,int,0,0,2016,REG,11,2016112010,2620,3,09:56,(9:56) I.Seumalo reported in as eligible.  C.Wentz pass deep middle intended for B.Treggs INTERCEPTED by R.Sherman [J.Reed] at SEA 41. R.Sherman to SEA 41 for no gain (B.Treggs).
+204,5,L.Miller,Lamar Miller,HOU,RB,21.21,33,rush,0,0,2016,REG,11,2016112100,1209,2,09:44,"(9:44) L.Miller right end for 34 yards, TOUCHDOWN. The Replay Official reviewed the runner was in bounds ruling, and the play was REVERSED. L.Miller right end pushed ob at OAK 1 for 33 yards (K.Joseph)."
+205,6,C.Prosise,C.J. Prosise,SEA,RB,21.19,72,rush,1,0,2016,REG,11,2016112010,402,1,11:14,"(11:14) C.Prosise right guard for 72 yards, TOUCHDOWN."
+206,7,T.Hill,Tyreek Hill,KC,WR,21.05,42,reception,0,0,2016,REG,11,2016112005,1396,2,04:11,(4:11) (Shotgun) A.Smith pass deep right to T.Hill pushed ob at TB 38 for 42 yards (A.Verner).
+207,8,T.Gurley,Todd Gurley,LA,RB,20.72,24,rush,1,0,2016,REG,11,2016112008,397,1,09:54,"(9:54) T.Gurley right guard for 24 yards, TOUCHDOWN."
+208,9,L.Kuechly,Luke Kuechly,CAR,MLB,20.7,58,misc,0,1,2016,REG,11,2016111700,2080,2,00:39,"(:39) W.Lutz 38 yard field goal is BLOCKED (V.Butler), Center-J.Drescher, Holder-T.Morstead, RECOVERED by CAR-L.Kuechly at CAR 12. L.Kuechly for 88 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on CAR-J.Bradberry, Illegal Block Above the Waist, 10 yards, enforced at NO 30."
+209,10,A.Roberts,Andre Roberts,DET,WR,20.6,55,punt ret,1,0,2016,REG,11,2016112003,1331,2,11:31,"(11:31) B.Nortman punts 47 yards to DET 45, Center-C.Tinker. A.Roberts for 55 yards, TOUCHDOWN."
+210,11,J.Brown,John Brown,ARI,WR,20.54,32,punt ret,0,0,2016,REG,11,2016112006,3643,4,06:10,"(6:10) (Punt formation) J.Locke punts 50 yards to ARI 21, Center-K.McDermott. Jo.Brown pushed ob at MIN 47 for 32 yards (J.Locke)."
+211,12,T.Sharpe,Tajae Sharpe,TEN,WR,20.54,34,reception,1,0,2016,REG,11,2016112004,2610,3,06:43,"(6:43) (Run formation) D.Kelly reported in as eligible.  M.Mariota pass deep middle to T.Sharpe for 34 yards, TOUCHDOWN."
+212,13,M.Wallace,Mike Wallace,BAL,WR,20.45,13,rush,0,0,2016,REG,11,2016112002,162,1,12:34,(12:34) M.Wallace left end pushed ob at BAL 47 for 13 yards (J.Wilcox).
+213,14,D.Baldwin,Doug Baldwin,SEA,WR,20.43,44,reception,0,0,2016,REG,11,2016112010,1664,2,05:32,(5:32) R.Wilson pass deep right to D.Baldwin to PHI 33 for 44 yards (M.Jenkins).
+214,15,J.Olawale,Jamize Olawale,OAK,FB,20.39,75,reception,1,0,2016,REG,11,2016112100,3153,4,10:57,"(10:57) D.Carr pass deep right to J.Olawale for 75 yards, TOUCHDOWN."
+215,16,B.Tate,Brandon Tate,BUF,WR,20.39,34,reception,0,0,2016,REG,11,2016112000,3006,3,01:58,(1:58) (Shotgun) T.Taylor pass short middle to B.Tate ran ob at CIN 29 for 34 yards (V.Burfict).
+216,17,T.Hilton,T.Y. Hilton,IND,WR,20.37,50,reception,0,0,2016,REG,11,2016112004,3219,4,12:14,"(12:14) (Run formation) A.Luck pass deep right to T.Hilton pushed ob at TEN 25 for 50 yards (D.Stafford). Penalty on TEN-P.Cox, Illegal Use of Hands, declined."
+217,18,F.Gore,Frank Gore,IND,RB,20.35,49,reception,0,0,2016,REG,11,2016112004,689,1,03:46,(3:46) (Run formation) Direct snap to F.Gore.  A.Luck pass short left to F.Gore pushed ob at TEN 5 for 49 yards (A.Williamson).
+218,19,C.Patterson,Cordarrelle Patterson,MIN,WR,20.27,30,reception,0,0,2016,REG,11,2016112006,1173,2,08:48,(8:48) (Shotgun) S.Bradford pass short left to C.Patterson pushed ob at ARI 36 for 30 yards (D.Bucannon).
+219,20,J.Matthews,Jordan Matthews,PHI,WR,20.25,26,reception,0,0,2016,REG,11,2016112010,3763,4,07:15,(7:15) C.Wentz pass deep left to J.Matthews ran ob at SEA 40 for 26 yards (S.Terrell).
+220,1,T.Hill,Tyreek Hill,KC,WR,22.77,86,kickoff ret,1,0,2016,REG,12,2016112709,1526,2,,"R.Dixon kicks 66 yards from DEN 20 to KC 14. T.Hill for 86 yards, TOUCHDOWN."
+221,2,L.McCoy,LeSean McCoy,BUF,RB,21.87,75,rush,1,0,2016,REG,12,2016112702,2222,3,15:00,"(15:00) (Shotgun) L.McCoy up the middle for 75 yards, TOUCHDOWN."
+222,3,T.Ginn,Ted Ginn,CAR,WR,21.83,88,reception,1,0,2016,REG,12,2016112710,2641,3,07:53,"(7:53) (Shotgun) C.Newton pass deep middle to T.Ginn for 88 yards, TOUCHDOWN."
+223,4,S.Watkins,Sammy Watkins,BUF,WR,21.4,62,reception,0,0,2016,REG,12,2016112702,2888,3,04:34,(4:34) T.Taylor pass deep right to S.Watkins pushed ob at JAX 13 for 62 yards (J.Ramsey). Caught along sideline at JAX 27.
+224,5,M.Wallace,Mike Wallace,BAL,WR,21.21,31,reception,0,0,2016,REG,12,2016112701,1694,2,03:12,(3:12) J.Flacco pass short middle to M.Wallace pushed ob at CIN 40 for 31 yards (J.Shaw).
+225,6,E.Sanders,Emmanuel Sanders,DEN,WR,21.07,35,reception,1,0,2016,REG,12,2016112709,3400,4,07:53,"(7:53) T.Siemian pass deep left to E.Sanders for 35 yards, TOUCHDOWN. Penalty on KC-R.Parker, Illegal Contact, declined."
+226,7,D.Jackson,DeSean Jackson,WAS,WR,21.03,67,reception,1,0,2016,REG,12,2016112401,3144,4,09:32,"(9:32) (Shotgun) K.Cousins pass deep right to D.Jackson for 67 yards, TOUCHDOWN. Pass complete on a ""stop and go"" route."
+227,8,B.Fowler,Bennie Fowler,DEN,WR,20.99,76,reception,1,0,2016,REG,12,2016112709,3792,4,03:12,"(3:12) T.Siemian pass deep left to B.Fowler for 76 yards, TOUCHDOWN."
+228,9,D.Thomas,De'Anthony Thomas,KC,WR,20.7,41,kickoff ret,0,0,2016,REG,12,2016112709,4653,5,,B.McManus kicks 71 yards from DEN 35 to KC -6. D.Thomas pushed ob at KC 35 for 41 yards (B.McManus).
+229,10,W.Fuller,Will Fuller,HOU,WR,20.66,33,reception,0,0,2016,REG,12,2016112705,940,2,13:05,"(13:05) (Shotgun) B.Osweiler pass deep right to W.Fuller pushed ob at SD 6 for 33 yards (C.Mager) [K.Toomer]. Penalty on SD-J.Bosa, Defensive Offside, declined."
+230,11,K.Drake,Kenyan Drake,MIA,RB,20.56,78,kickoff ret,0,0,2016,REG,12,2016112706,2216,3,,P.Dawson kicks 67 yards from SF 35 to MIA -2. K.Drake pushed ob at SF 24 for 78 yards (J.Tartt).
+231,12,B.Treggs,Bryce Treggs,PHI,WR,20.56,3,rush,0,0,2016,REG,12,2016112800,429,1,06:59,(6:59) B.Treggs right end pushed ob at GB 43 for 3 yards (M.Burnett).
+232,13,T.Gabriel,Taylor Gabriel,ATL,WR,20.54,27,rush,0,0,2016,REG,12,2016112700,914,2,12:52,(12:52) T.Gabriel left end pushed ob at ARI 48 for 27 yards (M.Cooper).
+233,14,M.Ingram,Mark Ingram,NO,RB,20.5,61,rush,0,0,2016,REG,12,2016112707,2405,3,15:00,(15:00) M.Ingram right guard to LA 14 for 61 yards (T.McDonald).
+234,15,C.Hayward,Casey Hayward,LAC,CB,20.5,1,int,0,0,2016,REG,12,2016112705,1448,2,04:55,(4:55) B.Osweiler pass short right intended for D.Hopkins INTERCEPTED by C.Hayward at SD 36. C.Hayward ran ob at SD 37 for 1 yard.
+235,16,M.Lee,Marqise Lee,JAX,WR,20.41,36,kickoff ret,0,0,2016,REG,12,2016112702,3013,3,,J.Gay kicks 66 yards from BUF 35 to JAX -1. M.Lee pushed ob at JAX 35 for 36 yards (R.Humber).
+236,17,M.Wallace,Mike Wallace,BAL,WR,20.37,19,reception,0,0,2016,REG,12,2016112701,2480,3,11:13,(11:13) J.Flacco pass short left to M.Wallace pushed ob at BAL 44 for 19 yards (V.Burfict). CIN-V.Burfict was injured during the play. His return is Probable.
+237,18,H.Douglas,Harry Douglas,TEN,WR,20.35,35,reception,0,0,2016,REG,12,2016112703,2851,3,00:05,(:05) (Shotgun) M.Mariota pass deep left to H.Douglas to CHI 14 for 35 yards (B.Callahan).
+238,19,D.Parker,DeVante Parker,MIA,WR,20.29,46,reception,0,0,2016,REG,12,2016112706,832,1,01:23,(1:23) (Shotgun) R.Tannehill pass deep middle to D.Parker to SF 42 for 46 yards (T.Brock).
+239,20,Q.Enunwa,Quincy Enunwa,NYJ,WR,20.25,40,reception,0,0,2016,REG,12,2016112711,796,1,03:59,(3:59) R.Fitzpatrick pass deep right to Q.Enunwa to NE 30 for 40 yards (M.Butler).
+240,1,D.Jackson,DeSean Jackson,WAS,WR,22.6,59,reception,0,0,2016,REG,13,2016120409,2340,3,14:15,(14:15) (Shotgun) K.Cousins pass deep middle to D.Jackson to ARI 5 for 59 yards (T.Branch). ARI-C.Campbell was injured during the play.
+241,2,T.Ginn,Ted Ginn,CAR,WR,21.95,55,reception,1,0,2016,REG,13,2016120412,1255,2,10:40,"(10:40) (Shotgun) C.Newton pass deep middle to T.Ginn for 55 yards, TOUCHDOWN."
+242,3,J.Nelson,J.J. Nelson,ARI,WR,21.91,42,reception,1,0,2016,REG,13,2016120409,4085,4,02:03,"(2:03) C.Palmer pass deep middle to J.Nelson for 42 yards, TOUCHDOWN. The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands."
+243,4,T.Hill,Tyreek Hill,KC,WR,21.72,13,rush,0,0,2016,REG,13,2016120400,380,1,09:54,(9:54) (Shotgun) T.Hill right end ran ob at KC 41 for 13 yards (R.Allen).
+244,5,T.Lockett,Tyler Lockett,SEA,WR,21.21,75,rush,1,0,2016,REG,13,2016120412,2270,3,15:00,"(15:00) T.Lockett right end for 75 yards, TOUCHDOWN."
+245,6,K.Barner,Kenjon Barner,PHI,RB,21.03,61,kickoff ret,0,0,2016,REG,13,2016120403,2719,3,,M.Nugent kicks 64 yards from CIN 35 to PHI 1. K.Barner pushed ob at CIN 38 for 61 yards (M.Nugent).
+246,7,B.Perriman,Breshad Perriman,BAL,WR,20.68,53,reception,1,0,2016,REG,13,2016120401,3196,4,12:58,"(12:58) (No Huddle) J.Flacco pass short middle to B.Perriman for 53 yards, TOUCHDOWN."
+247,8,A.Wilson,Albert Wilson,KC,WR,20.6,55,rush,1,0,2016,REG,13,2016120400,2263,3,13:02,"(13:02) (Punt formation) A.Wilson right guard for 55 yards, TOUCHDOWN."
+248,9,C.D.Johnson,Charles D. Johnson,MIN,WR,20.37,25,reception,0,0,2016,REG,13,2016120100,1984,3,14:54,"(14:54) (Shotgun) S.Bradford pass deep right to C.Johnson ran ob at MIN 33 for 25 yards (A.Hitchens). Penalty on DAL-A.Hitchens, Defensive Pass Interference, declined."
+249,10,B.Roby,Bradley Roby,DEN,CB,20.21,51,int,1,0,2016,REG,13,2016120405,2419,3,07:45,"(7:45) (Shotgun) B.Bortles pass short middle intended for A.Robinson INTERCEPTED by B.Roby at DEN 49. B.Roby for 51 yards, TOUCHDOWN."
+250,11,B.Tate,Brandon Tate,BUF,WR,20.07,26,kickoff ret,0,0,2016,REG,13,2016120408,2007,3,,S.Janikowski kicks 57 yards from OAK 35 to BUF 8. B.Tate pushed ob at BUF 34 for 26 yards (J.Holton).
+251,12,D.Thomas,De'Anthony Thomas,KC,WR,20.05,23,rush,0,0,2016,REG,13,2016120400,742,1,04:25,(4:25) D.Thomas left end pushed ob at ATL 46 for 23 yards (R.Allen).
+252,13,T.Williams,Tyrell Williams,LAC,WR,19.98,40,reception,1,0,2016,REG,13,2016120411,2647,3,01:42,"(1:42) P.Rivers pass deep right to Ty.Williams for 40 yards, TOUCHDOWN."
+253,14,L.McCoy,LeSean McCoy,BUF,RB,19.94,54,rush,0,0,2016,REG,13,2016120408,2029,3,14:53,"(14:53) (Shotgun) L.McCoy left guard to OAK 12 for 54 yards (K.Mack, T.Carrie)."
+254,15,G.Tate,Golden Tate,DET,WR,19.9,66,reception,1,0,2016,REG,13,2016120407,3241,4,11:50,"(11:50) (Shotgun) M.Stafford pass deep right to G.Tate for 66 yards, TOUCHDOWN [C.Jordan]. Pass 29, YAC 37"
+255,16,M.Adams,Mike Adams,IND,SS,19.9,56,int,0,0,2016,REG,13,2016120500,2722,3,00:30,(:30) (Shotgun) B.Petty pass deep middle intended for R.Anderson INTERCEPTED by M.Adams at IND 38. M.Adams pushed ob at NYJ 6 for 56 yards (B.Ijalana).
+256,17,C.Patterson,Cordarrelle Patterson,MIN,WR,19.82,15,kickoff ret,0,1,2016,REG,13,2016120100,3181,4,,"D.Bailey kicks 60 yards from DAL 35 to MIN 5. C.Patterson to MIN 25 for 20 yards (L.McFadden). PENALTY on MIN-A.Harris, Face Mask (15 Yards), 10 yards, enforced at MIN 20."
+257,18,T.Rawls,Thomas Rawls,SEA,RB,19.64,45,rush,1,0,2016,REG,13,2016120412,1339,2,09:53,"(9:53) T.Rawls right tackle for 45 yards, TOUCHDOWN."
+258,19,A.Luck,Andrew Luck,IND,QB,19.53,12,rush,0,1,2016,REG,13,2016120500,711,1,04:11,"(4:11) (Shotgun) A.Luck scrambles right end ran ob at IND 36 for 12 yards. PENALTY on NYJ-S.Richardson, Unnecessary Roughness, 15 yards, enforced at IND 36."
+259,20,L.Timmons,Lawrence Timmons,PIT,ILB,19.53,58,int,0,0,2016,REG,13,2016120410,1312,2,08:33,"(8:33) (No Huddle, Shotgun) E.Manning pass short right intended for L.Donnell INTERCEPTED by L.Timmons at PIT 2. L.Timmons pushed ob at NYG 40 for 58 yards (R.Jennings)."
+260,1,O.Beckham,Odell Beckham,NYG,WR,21.85,61,reception,1,0,2016,REG,14,2016121113,2917,3,01:18,"(1:18) (No Huddle, Shotgun) E.Manning pass short middle to O.Beckham for 61 yards, TOUCHDOWN."
+261,2,D.Jackson,DeSean Jackson,WAS,WR,21.48,80,reception,1,0,2016,REG,14,2016121107,2029,3,09:26,"(9:26) (No Huddle, Shotgun) K.Cousins pass deep middle to D.Jackson for 80 yards, TOUCHDOWN."
+262,3,J.Nelson,J.J. Nelson,ARI,WR,21.23,56,rush,1,0,2016,REG,14,2016121106,392,1,08:12,"(8:12) J.Nelson right end for 56 yards, TOUCHDOWN."
+263,4,S.Diggs,Stefon Diggs,MIN,WR,21.07,45,reception,0,0,2016,REG,14,2016121105,1429,2,04:49,(4:49) (Shotgun) S.Bradford pass deep middle to S.Diggs to JAX 14 for 45 yards (T.Gipson).
+264,5,T.Hill,Tyreek Hill,KC,WR,21.05,36,reception,1,0,2016,REG,14,2016120800,1077,2,14:57,"(14:57) (Shotgun) A.Smith pass deep middle to T.Hill for 36 yards, TOUCHDOWN."
+265,6,C.Hogan,Chris Hogan,NE,WR,20.78,79,reception,1,0,2016,REG,14,2016121200,4019,4,06:28,"(6:28) (Shotgun) T.Brady pass deep middle to C.Hogan for 79 yards, TOUCHDOWN. NE 12-Brady 450th career TD pass, 4th player all-time to achieve that milestone. NE 15-Hogan 2nd career 100-yard game."
+266,7,T.Ginn,Ted Ginn,CAR,WR,20.62,31,kickoff ret,0,1,2016,REG,14,2016121101,3573,4,,"D.Kaser kicks 60 yards from SD 20 to CAR 20. T.Ginn pushed ob at SD 34 for 46 yards (D.Kaser). PENALTY on CAR-L.Young, Offensive Holding, 10 yards, enforced at SD 49."
+267,8,T.Hill,Tyreek Hill,KC,WR,20.48,78,punt ret,1,1,2016,REG,14,2016120800,1620,2,06:43,"(6:43) M.King punts 54 yards to KC 22, Center-J.Condo. T.Hill for 78 yards, TOUCHDOWN. PENALTY on OAK-M.King, Unsportsmanlike Conduct, 15 yards, enforced between downs."
+268,9,C.Patterson,Cordarrelle Patterson,MIN,WR,20.37,53,kickoff ret,0,0,2016,REG,14,2016121105,957,2,,J.Myers kicks 66 yards from JAX 35 to MIN -1. C.Patterson pushed ob at JAX 48 for 53 yards (J.Wilson).
+269,10,B.Perriman,Breshad Perriman,BAL,WR,20.21,47,reception,0,0,2016,REG,14,2016121200,3820,4,10:38,(10:38) (Shotgun) J.Flacco pass deep left to B.Perriman to NE 29 for 47 yards (P.Chung).
+270,11,J.Kerley,Jeremy Kerley,SF,WR,20.13,27,reception,0,0,2016,REG,14,2016121110,856,1,00:21,(:21) (Shotgun) C.Kaepernick pass short middle to J.Kerley pushed ob at NYJ 22 for 27 yards (B.Skrine). Caught at NYJ 40  18-yds  YAC
+271,12,T.Coleman,Tevin Coleman,ATL,RB,20.11,5,rush,0,0,2016,REG,14,2016121112,2755,3,07:59,(7:59) T.Coleman left end pushed ob at LA 39 for 5 yards (M.Barron).
+272,13,D.Jones,Deion Jones,ATL,MLB,20.11,33,int,1,0,2016,REG,14,2016121112,1368,2,09:04,"(9:04) J.Goff pass short right intended for K.Britt INTERCEPTED by D.Jones at LA 33. D.Jones for 33 yards, TOUCHDOWN."
+273,14,T.Boyd,Tyler Boyd,CIN,WR,20.05,39,rush,0,0,2016,REG,14,2016121102,125,1,13:33,(13:33) (Shotgun) T.Boyd left end pushed ob at CLE 20 for 39 yards (B.Boddy-Calhoun). Hardoff to 32 J. Hill pitched to 83 T Boyd on reverse
+274,15,D.Thomas,De'Anthony Thomas,KC,WR,20,25,kickoff ret,0,0,2016,REG,14,2016120800,2379,3,,S.Janikowski kicks 66 yards from OAK 35 to KC -1. D.Thomas ran ob at KC 24 for 25 yards (J.Holton).
+275,16,T.Williams,Tyrell Williams,LAC,WR,19.96,22,reception,0,0,2016,REG,14,2016121101,3020,3,01:43,(1:43) P.Rivers pass short left to Ty.Williams pushed ob at CAR 22 for 22 yards (L.Johnson).
+276,17,T.Williams,Terrance Williams,DAL,WR,19.92,31,reception,1,0,2016,REG,14,2016121113,603,1,04:51,"(4:51) (Shotgun) D.Prescott pass deep right to T.Williams for 31 yards, TOUCHDOWN."
+277,18,A.Roberts,Andre Roberts,DET,WR,19.86,7,punt ret,0,1,2016,REG,14,2016121103,972,2,11:37,"(11:37) P.O'Donnell punts 44 yards to DET 18, Center-P.Scales. A.Roberts to CHI 45 for 37 yards (J.Anderson). PENALTY on DET-J.Bell, Illegal Block Above the Waist, 10 yards, enforced at DET 25."
+278,19,T.Lockett,Tyler Lockett,SEA,WR,19.66,32,kickoff ret,0,0,2016,REG,14,2016121111,1915,3,,M.Crosby kicks 63 yards from GB 35 to SEA 2. T.Lockett to SEA 34 for 32 yards (M.Burnett).
+279,20,D.Sproles,Darren Sproles,PHI,RB,19.62,5,punt ret,0,1,2016,REG,14,2016121107,1855,3,13:10,"(13:10) T.Way punts 49 yards to PHI 28, Center-N.Sundberg. D.Sproles for 72 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on PHI-Z.Ertz, Illegal Block Above the Waist, 10 yards, enforced at PHI 33."
+280,1,B.Cooks,Brandin Cooks,NO,WR,22.4,45,reception,1,0,2016,REG,15,2016121808,1966,2,02:00,"(2:00) (Shotgun) D.Brees pass short right to B.Cooks for 45 yards, TOUCHDOWN."
+281,2,A.Robinson,Aldrick Robinson,ATL,WR,21.8,59,reception,0,0,2016,REG,15,2016121809,1131,2,12:45,(12:45) (Shotgun) M.Ryan pass short middle to A.Robinson pushed ob at SF 16 for 59 yards (J.Ward). SF-J.Ward was injured during the play. He is Out.
+282,3,E.Elliott,Ezekiel Elliott,DAL,RB,21.44,42,rush,0,0,2016,REG,15,2016121803,3705,4,05:49,(5:49) E.Elliott right tackle pushed ob at TB 34 for 42 yards (K.Tandy).
+283,4,A.Erickson,Alex Erickson,CIN,WR,21.03,72,kickoff ret,0,0,2016,REG,15,2016121812,1483,2,,C.Boswell kicks 63 yards from PIT 35 to CIN 2. A.Erickson to PIT 26 for 72 yards (C.Boswell).
+284,5,J.Landry,Jarvis Landry,MIA,WR,20.99,66,reception,1,0,2016,REG,15,2016121700,2853,3,06:36,"(6:36) M.Moore pass short middle to J.Landry for 66 yards, TOUCHDOWN."
+285,6,M.Lee,Marqise Lee,JAX,WR,20.88,100,kickoff ret,1,1,2016,REG,15,2016121804,2616,3,,"N.Novak kicks 65 yards from HOU 35 to JAX 0. M.Lee for 100 yards, TOUCHDOWN. PENALTY on JAX-M.Lee, Unsportsmanlike Conduct, 15 yards, enforced between downs."
+286,7,M.Wallace,Mike Wallace,BAL,WR,20.86,54,reception,0,0,2016,REG,15,2016121800,3396,4,06:59,(6:59) (Shotgun) J.Flacco pass short middle to M.Wallace pushed ob at PHI 11 for 54 yards (R.McLeod).
+287,8,R.Anderson,Robby Anderson,NYJ,WR,20.78,40,reception,1,0,2016,REG,15,2016121700,226,1,11:39,"(11:39) B.Petty pass deep middle to R.Anderson for 40 yards, TOUCHDOWN."
+288,9,T.Ward,Terron Ward,ATL,RB,20.74,45,rush,0,0,2016,REG,15,2016121809,3348,4,06:15,(6:15) T.Ward left guard pushed ob at SF 46 for 45 yards (M.Cromartie).
+289,10,L.Ryan,Logan Ryan,NE,CB,20.64,46,int,0,0,2016,REG,15,2016121810,1079,2,15:00,(15:00) (Shotgun) T.Siemian pass short left intended for E.Sanders INTERCEPTED by L.Ryan at NE 8. L.Ryan to DEN 46 for 46 yards (D.Thomas).
+290,11,B.Golden,Brittan Golden,ARI,WR,20.58,35,kickoff ret,0,0,2016,REG,15,2016121808,3026,3,,W.Lutz kicks 62 yards from NO 35 to ARI 3. B.Golden pushed ob at ARI 38 for 35 yards (N.Stupar).
+291,12,B.Cooks,Brandin Cooks,NO,WR,20.5,65,reception,1,0,2016,REG,15,2016121808,1589,2,06:21,"(6:21) D.Brees pass deep middle to B.Cooks for 65 yards, TOUCHDOWN."
+292,13,O.Beckham,Odell Beckham,NYG,WR,20.43,4,punt ret,0,1,2016,REG,15,2016121807,3234,4,05:20,"(5:20) S.Martin punts 44 yards to NYG 37, Center-D.Muhlbach. O.Beckham for 63 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on NYG-E.Pinkins, Illegal Block Above the Waist, 10 yards, enforced at NYG 41. Officially, a return for 4 yards."
+293,14,J.Hunter,Justin Hunter,BUF,WR,20.41,16,reception,0,0,2016,REG,15,2016121801,3243,4,13:20,"(13:20) (Shotgun) T.Taylor pass short right to J.Hunter ran ob at CLE 8 for 16 yards. Caught at CLE 10, crossing from middle."
+294,15,K.Barner,Kenjon Barner,PHI,RB,20.35,15,reception,0,0,2016,REG,15,2016121800,328,1,10:13,(10:13) (Shotgun) C.Wentz pass short left to K.Barner pushed ob at BAL 44 for 15 yards (J.Powers).
+295,16,T.Lippett,Tony Lippett,MIA,CB,20.35,0,int,0,0,2016,REG,15,2016121700,2575,3,10:23,(10:23) B.Petty pass deep left intended for R.Anderson INTERCEPTED by T.Lippett at MIA 40. T.Lippett to MIA 40 for no gain (R.Anderson).
+296,17,I.Crowell,Isaiah Crowell,CLE,RB,20.35,25,rush,0,0,2016,REG,15,2016121801,574,1,07:12,(7:12) (Shotgun) I.Crowell right end pushed ob at BUF 17 for 25 yards (P.Brown).
+297,18,T.Hill,Tyreek Hill,KC,WR,20.29,68,rush,1,0,2016,REG,15,2016121805,229,1,11:55,"(11:55) (Shotgun) T.Hill left guard for 68 yards, TOUCHDOWN."
+298,19,D.Freeman,Devonta Freeman,ATL,RB,20.21,34,rush,1,0,2016,REG,15,2016121809,2766,3,01:49,"(1:49) D.Freeman left end for 34 yards, TOUCHDOWN."
+299,20,T.Benjamin,Travis Benjamin,LAC,WR,20.03,9,reception,0,0,2016,REG,15,2016121811,1499,2,01:57,(1:57) (Shotgun) P.Rivers pass short right to T.Benjamin ran ob at OAK 22 for 9 yards (D.Amerson).
+300,1,E.Elliott,Ezekiel Elliott,DAL,RB,21.8,55,rush,1,0,2016,REG,16,2016122600,762,1,03:00,"(3:00) E.Elliott right guard for 55 yards, TOUCHDOWN."
+301,2,J.Nelson,J.J. Nelson,ARI,WR,21.74,41,reception,0,0,2016,REG,16,2016122410,3436,4,08:00,(8:00) C.Palmer pass short middle to J.Nelson pushed ob at SEA 1 for 41 yards (R.Sherman).
+302,3,M.Brown,Mack Brown,WAS,RB,21.6,61,rush,1,0,2016,REG,16,2016122402,4163,4,01:08,"(1:08) M.Brown left tackle for 61 yards, TOUCHDOWN."
+303,4,K.Drake,Kenyan Drake,MIA,RB,21.56,45,rush,1,0,2016,REG,16,2016122400,1101,2,13:45,"(13:45) (Shotgun) K.Drake left guard for 45 yards, TOUCHDOWN."
+304,5,B.LaFell,Brandon LaFell,CIN,WR,21.25,86,reception,1,0,2016,REG,16,2016122411,3048,4,10:59,"(10:59) (Shotgun) A.Dalton pass short left to B.LaFell for 86 yards, TOUCHDOWN. Penalty on HOU-E.Pleasant, Defensive Offside, declined."
+305,6,J.Ajayi,Jay Ajayi,MIA,RB,21.23,57,rush,0,0,2016,REG,16,2016122400,5305,5,04:00,(4:00) (Shotgun) J.Ajayi left tackle to BUF 28 for 57 yards (N.Robey-Coleman).
+306,7,J.Nelson,J.J. Nelson,ARI,WR,21.23,80,reception,1,0,2016,REG,16,2016122410,1560,2,04:04,"(4:04) (Shotgun) C.Palmer pass deep middle to J.Nelson for 80 yards, TOUCHDOWN."
+307,8,D.Johnson,David Johnson,ARI,RB,21.09,33,rush,0,0,2016,REG,16,2016122410,3415,4,08:49,(8:49) D.Johnson right tackle to SEA 42 for 33 yards (S.Terrell).
+308,9,D.Jackson,DeSean Jackson,WAS,WR,21.07,57,reception,0,0,2016,REG,16,2016122402,895,1,02:39,(2:39) K.Cousins pass short middle to D.Jackson pushed ob at CHI 18 for 57 yards (D.Bush).
+309,10,N.Agholor,Nelson Agholor,PHI,WR,20.95,40,reception,1,0,2016,REG,16,2016122200,1533,2,05:05,"(5:05) C.Wentz pass deep left to N.Agholor for 40 yards, TOUCHDOWN."
+310,11,T.Brock,Tramaine Brock,SF,CB,20.9,39,int,0,0,2016,REG,16,2016122409,331,1,09:48,(9:48) D.Arkin reported in as eligible.  J.Goff pass short right intended for K.Britt INTERCEPTED by T.Brock at SF 44. T.Brock to LA 17 for 39 yards (J.Goff).
+311,12,S.Watkins,Sammy Watkins,BUF,WR,20.78,38,reception,1,0,2016,REG,16,2016122400,1685,2,05:14,"(5:14) (Shotgun) T.Taylor pass deep right to S.Watkins for 38 yards, TOUCHDOWN. Caught 9 yds. into end zone."
+312,13,T.Taylor,Tyrod Taylor,BUF,QB,20.7,23,rush,0,0,2016,REG,16,2016122400,1619,2,06:58,(6:58) (Shotgun) T.Taylor scrambles left end pushed ob at BUF 42 for 23 yards (T.Lippett).
+313,14,T.Benjamin,Travis Benjamin,LAC,WR,20.62,50,reception,0,0,2016,REG,16,2016122403,51,1,15:00,(15:00) (Shotgun) P.Rivers pass deep middle to T.Benjamin to CLE 25 for 50 yards (J.Haden).
+314,15,J.Grant,Jakeem Grant,MIA,WR,20.62,41,kickoff ret,0,0,2016,REG,16,2016122400,3840,4,,D.Carpenter kicks 60 yards from BUF 35 to MIA 5. J.Grant pushed ob at MIA 46 for 41 yards (D.Carpenter).
+315,16,T.Hill,Tyreek Hill,KC,WR,20.41,70,rush,1,0,2016,REG,16,2016122501,598,1,05:31,"(5:31) T.Hill left end for 70 yards, TOUCHDOWN."
+316,17,C.Newton,Cam Newton,CAR,QB,20.25,8,rush,0,0,2016,REG,16,2016122401,3351,4,12:25,(12:25) (Shotgun) C.Newton scrambles left end pushed ob at ATL 48 for 8 yards (D.Jones).
+317,18,I.Crowell,Isaiah Crowell,CLE,RB,20.25,10,rush,0,0,2016,REG,16,2016122403,2081,3,14:13,(14:13) (Shotgun) I.Crowell right end ran ob at SD 45 for 10 yards.
+318,19,M.Gillislee,Mike Gillislee,BUF,RB,20.23,25,rush,0,0,2016,REG,16,2016122400,4017,4,02:55,(2:55) M.Gillislee left end to BUF 45 for 25 yards (M.Thomas).
+319,20,J.Collins,Jalen Collins,ATL,CB,20.09,37,int,0,0,2016,REG,16,2016122401,1931,2,01:40,(1:40) (Shotgun) C.Newton pass short middle intended for T.Ginn INTERCEPTED by J.Collins at ATL 42. J.Collins ran ob at CAR 21 for 37 yards (C.Newton).
+320,1,J.Bethel,Justin Bethel,ARI,CB,21.74,66,int,1,0,2016,REG,17,2017010113,3877,4,08:15,"(8:15) (Shotgun) S.Mannion pass short right intended for P.Cooper INTERCEPTED by J.Bethel at ARI 34. J.Bethel for 66 yards, TOUCHDOWN."
+321,2,C.Grant,Corey Grant,JAX,RB,21.66,57,rush,1,0,2016,REG,17,2017010103,1502,2,05:57,"(5:57) C.Grant up the middle for 57 yards, TOUCHDOWN."
+322,3,T.Hill,Tyreek Hill,KC,WR,21.44,95,punt ret,1,0,2016,REG,17,2017010114,2710,3,01:20,"(1:20) D.Kaser punts 49 yards to KC 5, Center-M.Windt. T.Hill for 95 yards, TOUCHDOWN."
+323,4,D.Freeman,Devonta Freeman,ATL,RB,21.31,75,rush,1,0,2016,REG,17,2017010100,699,1,03:53,"(3:53) D.Freeman right tackle for 75 yards, TOUCHDOWN."
+324,5,T.Ginn,Ted Ginn,CAR,WR,21.17,39,reception,0,0,2016,REG,17,2017010109,2503,3,08:22,(8:22) (Shotgun) C.Newton pass short left to T.Ginn to TB 39 for 39 yards (K.Tandy).
+325,6,P.Cooper,Pharoh Cooper,LA,WR,20.52,14,kickoff ret,0,0,2016,REG,17,2017010113,1261,2,,C.Catanzaro kicks 70 yards from ARI 35 to LA -5. P.Cooper to LA 9 for 14 yards (J.Bethel).
+326,7,K.Raymond,Kalif Raymond,DEN,WR,20.5,25,punt ret,0,1,2016,REG,17,2017010112,1432,2,04:19,"(4:19) M.King punts 68 yards to DEN 2, Center-J.Condo. K.Raymond pushed ob at DEN 27 for 25 yards (J.Olawale). PENALTY on OAK-D.Washington, Unnecessary Roughness, 15 yards, enforced at DEN 27."
+327,8,T.Williams,Tyrell Williams,LAC,WR,20.48,17,reception,0,0,2016,REG,17,2017010114,683,1,03:15,(3:15) (Shotgun) P.Rivers pass short middle to Ty.Williams ran ob at KC 31 for 17 yards (T.Mitchell).
+328,9,T.Williams,Tyrell Williams,LAC,WR,20.48,17,reception,0,0,2016,REG,17,2017010114,3404,4,04:24,(4:24) (Shotgun) P.Rivers pass short middle to Ty.Williams ran ob at SD 28 for 17 yards (P.Gaines).
+329,10,T.Coleman,Tevin Coleman,ATL,RB,20.45,25,rush,0,0,2016,REG,17,2017010100,2427,3,08:55,(8:55) T.Coleman right end pushed ob at NO 36 for 25 yards (V.Bell).
+330,11,T.King,Tavarres King,NYG,WR,20.43,44,reception,0,0,2016,REG,17,2017010111,3494,4,04:02,"(4:02) (No Huddle, Shotgun) E.Manning pass deep left to T.King pushed ob at WAS 25 for 44 yards (W.Blackmon)."
+331,12,R.Hillman,Ronnie Hillman,LAC,RB,20.37,21,reception,0,0,2016,REG,17,2017010114,58,1,14:54,(14:54) (Shotgun) P.Rivers pass short left to R.Hillman ran ob at SD 49 for 21 yards (T.Smith).
+332,13,D.Heyward-Bey,Darrius Heyward-Bey,PIT,WR,20.35,46,reception,0,0,2016,REG,17,2017010108,3266,4,06:54,(6:54) (Shotgun) L.Jones pass deep left to D.Heyward-Bey to CLE 11 for 46 yards (B.Boddy-Calhoun).
+333,14,T.Ginn,Ted Ginn,CAR,WR,20.35,17,rush,0,0,2016,REG,17,2017010109,307,1,10:30,(10:30) T.Ginn left end ran ob at TB 45 for 17 yards (V.Hargreaves).
+334,15,T.Hill,Tyreek Hill,KC,WR,20.27,20,rush,0,0,2016,REG,17,2017010114,2088,3,12:19,"(12:19) T.Hill right end ran ob at SD 18 for 20 yards (K.Emanuel, D.Lowery)."
+335,16,I.Crowell,Isaiah Crowell,CLE,RB,20.23,67,rush,0,0,2016,REG,17,2017010108,3415,4,04:26,"(4:26) (Shotgun) I.Crowell up the middle to PIT 5 for 67 yards (S.Davis, A.Burns)."
+336,17,S.Thompson,Shaq Thompson,CAR,OLB,20.09,21,misc,0,0,2016,REG,17,2017010109,3204,4,12:04,"(12:04) (Field Goal formation) R.Aguayo 48 yard field goal is BLOCKED (K.Short), Center-A.Glanton, Holder-B.Anger, RECOVERED by CAR-S.Thompson at CAR 28. S.Thompson pushed ob at CAR 49 for 21 yards (B.Anger)."
+337,18,T.Ginn,Ted Ginn,CAR,WR,20.07,7,rush,0,0,2016,REG,17,2017010109,1280,2,10:41,(10:41) T.Ginn right end pushed ob at CAR 25 for 7 yards (B.McDougald).
+338,19,S.Draughn,Shaun Draughn,SF,RB,19.98,29,reception,0,0,2016,REG,17,2017010115,317,1,10:52,"(10:52) (No Huddle, Shotgun) C.Kaepernick pass short left to S.Draughn pushed ob at SEA 4 for 29 yards (J.Lane). Caught at SEA 29.  25-yds YAC"
+339,20,J.Hunter,Justin Hunter,BUF,WR,19.84,64,reception,0,0,2016,REG,17,2017010106,3698,4,02:47,(2:47) (Shotgun) C.Jones pass deep right to J.Hunter to NYJ 1 for 64 yards (R.Miles).
