@@ -122,7 +122,7 @@
 120,20,C.Samuel,Curtis Samuel,CAR,WR,20.05,8,rush,1,0,2019,REG,6,2019101300,2524,3,08:10,"(8:10) C.Samuel right end for 8 yards, TOUCHDOWN."
 121,1,L.Fournette,Leonard Fournette,JAX,RB,21.38,20,rush,0,0,2019,REG,7,2019102002,914,2,15:00,(15:00) L.Fournette left end pushed ob at CIN 43 for 20 yards (J.Bates III).
 122,2,S.Diggs,Stefon Diggs,MIN,WR,21.19,66,reception,0,0,2019,REG,7,2019102003,4349,4,03:00,(3:00) K.Cousins pass deep right to S.Diggs to DET 4 for 66 yards (T.Wilson).
-123,3,M.Valdes-Scantling,Marquez Valdes-Scantling,GB,WR,20.99,74,reception,1,0,2019,REG,7,2019102004,3525,4,06:28,"(6:28) (Shotgun) A.Rodgers pass short left to M.Valdes-Scantling for 74 yards, TOUCHDOWN."
+123,3,M.Valdes-Scantling,Marquez Valdes-Scantling,GB,WR,20.99,74,reception,1,0,2019,REG,7,2019102004,3525,4,06:39,"(6:39) (Shotgun) A.Rodgers pass short left to M.Valdes-Scantling for 74 yards, TOUCHDOWN."
 124,4,T.Hill,Tyreek Hill,KC,WR,20.93,57,reception,1,0,2019,REG,7,2019101700,2794,3,04:30,"(4:30) M.Moore pass deep right to T.Hill for 57 yards, TOUCHDOWN."
 125,5,M.Peters,Marcus Peters,BAL,CB,20.93,67,int,1,0,2019,REG,7,2019102010,1654,2,05:12,"(5:12) (Shotgun) R.Wilson pass short right intended for J.Brown INTERCEPTED by M.Peters at BAL 33. M.Peters for 67 yards, TOUCHDOWN."
 126,6,A.Erickson,Alex Erickson,CIN,WR,20.68,48,reception,0,0,2019,REG,7,2019102002,1820,2,02:00,(2:00) (Shotgun) A.Dalton pass deep middle to A.Erickson pushed ob at JAX 20 for 48 yards (J.Wilson).
@@ -140,3 +140,23 @@
 138,18,T.Ginn,Ted Ginn,NO,WR,19.92,45,reception,0,0,2019,REG,7,2019102009,2703,3,12:50,(12:50) W.Clapp reported in as eligible.  T.Bridgewater pass deep middle to T.Ginn to CHI 3 for 45 yards (P.Amukamara).
 139,19,D.Vitale,Danny Vitale,GB,FB,19.88,21,reception,0,0,2019,REG,7,2019102004,1308,2,10:42,(10:42) (Shotgun) A.Rodgers pass short right to D.Vitale pushed ob at GB 43 for 21 yards (K.Joseph).
 140,20,D.Harris,Deonte Harris,NO,WR,19.88,0,punt ret,0,1,2019,REG,7,2019102009,2510,2,00:32,"(:32) P.O'Donnell punts 45 yards to NO 33, Center-P.Scales. D.Harris for 67 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on NO-Z.Line, Offensive Holding, 10 yards, enforced at NO 33."
+141,1,C.McCaffrey,Christian McCaffrey,CAR,RB,21.11,37,rush,0,0,2019,REG,8,2019102709,3301,3,00:29,(:29) C.McCaffrey right end pushed ob at SF 38 for 37 yards (J.Ward).
+142,2,C.Conley,Chris Conley,JAX,WR,21.09,70,reception,1,0,2019,REG,8,2019102705,825,1,01:24,"(1:24) (Shotgun) G.Minshew II pass deep middle to C.Conley for 70 yards, TOUCHDOWN."
+143,3,T.Coleman,Tevin Coleman,SF,RB,21.09,48,rush,1,0,2019,REG,8,2019102709,1842,2,02:00,"(2:00) (Shotgun) T.Coleman right tackle for 48 yards, TOUCHDOWN."
+144,4,M.Sanders,Miles Sanders,PHI,RB,20.9,65,rush,1,0,2019,REG,8,2019102701,2281,3,14:14,"(14:14) (Shotgun) M.Sanders up the middle for 65 yards, TOUCHDOWN."
+145,5,A.Jones,Aaron Jones,GB,RB,20.78,67,reception,1,0,2019,REG,8,2019102712,3459,4,08:14,"(8:14) (Shotgun) A.Rodgers pass short left to A.Jones for 67 yards, TOUCHDOWN."
+146,6,J.Kumerow,Jake Kumerow,GB,WR,20.5,34,reception,0,0,2019,REG,8,2019102712,282,1,10:24,"(10:24) (Shotgun) A.Rodgers pass deep right to J.Kumerow to KC 11 for 34 yards (D.Sorensen) [E.Ogbah]. Kansas City challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)"
+147,7,T.Cohen,Tarik Cohen,CHI,RB,20.29,2,rush,0,0,2019,REG,8,2019102702,1643,2,04:48,(4:48) (Shotgun) T.Cohen left end pushed ob at LAC 7 for 2 yards (M.Davis).
+148,8,D.Montgomery,David Montgomery,CHI,RB,20.29,55,rush,0,0,2019,REG,8,2019102702,1890,2,01:59,(1:59) (Shotgun) D.Montgomery right guard to LAC 15 for 55 yards (R.Jenkins). LAC-R.Jenkins was injured during the play. His return is Questionable.
+149,9,H.Renfrow,Hunter Renfrow,OAK,WR,20.15,65,reception,1,0,2019,REG,8,2019102704,790,1,03:51,"(3:51) (Shotgun) D.Carr pass short middle to H.Renfrow for 65 yards, TOUCHDOWN."
+150,10,M.Hardman,Mecole Hardman,KC,WR,20.13,30,reception,1,0,2019,REG,8,2019102712,1556,2,06:21,"(6:21) (Shotgun) M.Moore pass short middle to M.Hardman for 30 yards, TOUCHDOWN."
+151,11,D.Johnson,Diontae Johnson,PIT,WR,20.11,45,reception,1,0,2019,REG,8,2019102800,2115,2,00:26,"(:26) (Shotgun) M.Rudolph pass short middle to D.Johnson for 45 yards, TOUCHDOWN."
+152,12,T.Hilton,T.Y. Hilton,IND,WR,20.09,35,reception,0,0,2019,REG,8,2019102710,4148,4,01:48,"(1:48) (Shotgun) J.Brissett pass deep right to T.Hilton ran ob at IND 46 for 35 yards (C.Harris). The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands."
+153,13,T.Williams,Tyrell Williams,OAK,WR,20.03,23,reception,0,0,2019,REG,8,2019102704,2758,3,09:18,(9:18) (Shotgun) D.Carr pass deep right to T.Williams pushed ob at HOU 49 for 23 yards (C.Armstrong).
+154,14,T.Logan,T.J. Logan,TB,RB,19.98,40,punt ret,0,0,2019,REG,8,2019102708,1717,2,06:19,"(6:19) (Punt formation) B.Kern punts 53 yards to TB 26, Center-B.Brinkley. T.Logan pushed ob at TEN 34 for 40 yards (K.Correa)."
+155,15,L.Murray,Latavius Murray,NO,RB,19.94,28,rush,0,0,2019,REG,8,2019102707,3712,4,06:43,(6:43) L.Murray left end to ARI 45 for 28 yards (J.Thompson).
+156,16,D.Spencer,Diontae Spencer,DEN,WR,19.94,14,punt ret,0,0,2019,REG,8,2019102710,3923,4,03:51,"(3:51) (Punt formation) R.Sanchez punts 58 yards to DEN 24, Center-L.Rhodes. D.Spencer ran ob at DEN 38 for 14 yards (A.Dulin)."
+157,17,P.Williams,Preston Williams,MIA,WR,19.94,14,punt ret,0,0,2019,REG,8,2019102800,1227,2,12:27,"(12:27) (Punt formation) J.Berry punts 45 yards to MIA 16, Center-K.Canaday. P.Williams pushed ob at MIA 30 for 14 yards (B.Snell)."
+158,18,Z.Pascal,Zach Pascal,IND,WR,19.92,47,kickoff ret,0,0,2019,REG,8,2019102710,36,1,,B.McManus kicks 63 yards from DEN 35 to IND 2. Z.Pascal pushed ob at IND 49 for 47 yards (B.McManus).
+159,19,M.Hall,Marvin Hall,DET,WR,19.82,49,reception,1,0,2019,REG,8,2019102703,746,1,02:39,"(2:39) (Shotgun) M.Stafford pass deep left to M.Hall for 49 yards, TOUCHDOWN."
+160,20,M.Breida,Matt Breida,SF,RB,19.8,17,rush,0,0,2019,REG,8,2019102709,1033,2,13:46,(13:46) M.Breida left end pushed ob at CAR 10 for 17 yards (T.Boston).
