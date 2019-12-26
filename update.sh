@@ -1,7 +1,8 @@
 #!/bin/bash
 
 years='2019'
-types='passing rushing receiving fastest'
+#types='passing rushing receiving fastest'
+types='passing'
 weeks='all reg'
 
 for year in $years

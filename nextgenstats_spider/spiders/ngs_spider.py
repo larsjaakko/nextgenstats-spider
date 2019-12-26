@@ -119,7 +119,7 @@ class NGSSpider(scrapy.Spider):
             CELL_SELECTOR = './/div[@class="cell"]//text()[not(ancestor::i)]'
             cells = row.xpath(CELL_SELECTOR).getall()
 
-            if cells[0] == 'No Results':
+            if cells[0] == 'No Results' or cells[0] == '--':
                 self.logger.info('URL {} had no results. On to the next one!'.format(response.meta['page']))
                 return
 

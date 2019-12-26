@@ -334,7 +334,11 @@ class NextgenstatsSpiderPipeline(object):
 
     def name_shortener(self, name):
         # split the string into a list
-        names = name.split()
+        try:
+            names = name.split()
+        except:
+            return ''
+            
         short = ''
 
         # traverse in the list

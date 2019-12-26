@@ -63,6 +63,7 @@ Most of the available data is already stored in this repository as .csv files, a
 ## TODO
 * Simplifying code to use pandas built-in html table parsing (how did I not know about this??)
 * Fetching NFL's official short name data — currently names are shortened by a local function which can miss in cases where NFL adds prefixes to separate between identical names, for instance
+* Adding support for the new types of "Top Plays" stats beyond fastest ball carriers.
 
 ## Known issues
 * Fetching the play descriptions for the fastest ball carriers will fail at times, seemingly because the page doesn't load correctly. I've added up to 5 retries per page to combat this, but with poor luck you might still get an error.

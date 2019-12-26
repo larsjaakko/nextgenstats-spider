@@ -4,18 +4,18 @@
 2,3,B.Wilson,Brandon Wilson,CIN,S,22.03,92,kickoff ret,1,0,2019,REG,6,2019101301,36,1,,"J.Tucker kicks 57 yards from BAL 35 to CIN 8. B.Wilson for 92 yards, TOUCHDOWN."
 3,4,N.Chubb,Nick Chubb,CLE,RB,21.95,88,rush,1,0,2019,REG,4,2019092901,3210,4,09:47,"(9:47) N.Chubb right tackle for 88 yards, TOUCHDOWN."
 4,5,C.McCaffrey,Christian McCaffrey,CAR,RB,21.95,84,rush,1,0,2019,REG,5,2019100600,2504,3,14:01,"(14:01) C.McCaffrey left guard for 84 yards, TOUCHDOWN."
-5,6,S.Barkley,Saquon Barkley,NYG,RB,21.76,59,rush,0,0,2019,REG,1,2019090810,249,1,11:25,(11:25) S.Barkley up the middle pushed ob at DAL 23 for 59 yards (C.Awuzie).
-6,7,M.Hardman,Mecole Hardman,KC,WR,21.74,83,reception,1,0,2019,REG,3,2019092204,1643,2,03:12,"(3:12) (Shotgun) P.Mahomes pass deep left to M.Hardman for 83 yards, TOUCHDOWN."
-7,8,O.Beckham,Odell Beckham,CLE,WR,21.7,89,reception,1,0,2019,REG,2,2019091600,2893,3,03:43,"(3:43) (Shotgun) B.Mayfield pass short middle to O.Beckham for 89 yards, TOUCHDOWN."
-8,9,M.Butler,Malcolm Butler,TEN,CB,21.5,38,int,1,0,2019,REG,1,2019090801,4040,4,03:11,"(3:11) (Shotgun) B.Mayfield pass short left intended for J.Landry INTERCEPTED by M.Butler at CLE 38. M.Butler for 38 yards, TOUCHDOWN."
-9,10,C.Samuel,Curtis Samuel,CAR,WR,21.48,16,rush,0,0,2019,REG,5,2019100600,58,1,14:54,(14:54) C.Samuel left end pushed ob at CAR 38 for 16 yards (M.Jack).
-10,11,T.Cohen,Tarik Cohen,CHI,RB,21.42,71,punt ret,0,0,2019,REG,5,2019100605,2704,3,01:58,"(1:58) (Punt formation) A.Cole punts 43 yards to CHI 13, Center-T.Sieg. T.Cohen to OAK 16 for 71 yards (K.Nixon)."
-11,12,D.Jackson,DeSean Jackson,PHI,WR,21.4,51,reception,1,0,2019,REG,1,2019090806,1496,2,04:27,"(4:27) (Shotgun) C.Wentz pass deep middle to D.Jackson for 51 yards, TOUCHDOWN."
-12,13,L.Fournette,Leonard Fournette,JAX,RB,21.38,20,rush,0,0,2019,REG,7,2019102002,914,2,15:00,(15:00) L.Fournette left end pushed ob at CIN 43 for 20 yards (J.Bates III).
-13,14,S.Watkins,Sammy Watkins,KC,WR,21.33,68,reception,1,0,2019,REG,1,2019090802,103,1,13:36,"(13:36) (Shotgun) P.Mahomes pass short middle to S.Watkins for 68 yards, TOUCHDOWN."
-14,15,W.Jackson,William Jackson,CIN,CB,21.33,19,int,0,0,2019,REG,2,2019091501,1098,2,14:15,(14:15) J.Garoppolo pass deep left intended for R.James Jr. INTERCEPTED by W.Jackson III at SF 45. W.Jackson III pushed ob at SF 26 for 19 yards (G.Kittle).
-15,16,T.Davis,Trevor Davis,OAK,WR,21.31,60,rush,1,0,2019,REG,4,2019092905,429,1,08:13,"(8:13) T.Davis left end for 60 yards, TOUCHDOWN."
-16,17,N.Chubb,Nick Chubb,CLE,RB,21.31,52,rush,0,0,2019,REG,6,2019101302,912,1,00:35,(:35) (Shotgun) N.Chubb left guard to SEA 31 for 52 yards (T.Flowers).
-17,18,T.McLaurin,Terry McLaurin,WAS,WR,21.23,69,reception,1,0,2019,REG,1,2019090806,1117,2,10:07,"(10:07) C.Keenum pass deep middle to T.McLaurin for 69 yards, TOUCHDOWN."
-18,19,S.Diggs,Stefon Diggs,MIN,WR,21.19,66,reception,0,0,2019,REG,7,2019102003,4349,4,03:00,(3:00) K.Cousins pass deep right to S.Diggs to DET 4 for 66 yards (T.Wilson).
-19,20,L.Fournette,Leonard Fournette,JAX,RB,21.13,69,rush,0,0,2019,REG,3,2019091900,3693,4,04:38,(4:38) L.Fournette up the middle to TEN 9 for 69 yards (K.Byard).
+5,6,M.Hardman,Mecole Hardman,KC,WR,21.87,63,reception,1,0,2019,REG,10,2019111007,3195,4,12:05,"(12:05) (Shotgun) P.Mahomes pass short middle to M.Hardman for 63 yards, TOUCHDOWN [C.Wake]."
+6,7,S.Barkley,Saquon Barkley,NYG,RB,21.76,59,rush,0,0,2019,REG,1,2019090810,249,1,11:25,(11:25) S.Barkley up the middle pushed ob at DAL 23 for 59 yards (C.Awuzie).
+7,8,M.Hardman,Mecole Hardman,KC,WR,21.74,83,reception,1,0,2019,REG,3,2019092204,1643,2,03:12,"(3:12) (Shotgun) P.Mahomes pass deep left to M.Hardman for 83 yards, TOUCHDOWN."
+8,9,O.Beckham,Odell Beckham,CLE,WR,21.7,89,reception,1,0,2019,REG,2,2019091600,2893,3,03:43,"(3:43) (Shotgun) B.Mayfield pass short middle to O.Beckham for 89 yards, TOUCHDOWN."
+9,10,M.Butler,Malcolm Butler,TEN,CB,21.5,38,int,1,0,2019,REG,1,2019090801,4040,4,03:11,"(3:11) (Shotgun) B.Mayfield pass short left intended for J.Landry INTERCEPTED by M.Butler at CLE 38. M.Butler for 38 yards, TOUCHDOWN."
+10,11,C.Samuel,Curtis Samuel,CAR,WR,21.48,16,rush,0,0,2019,REG,5,2019100600,58,1,14:54,(14:54) C.Samuel left end pushed ob at CAR 38 for 16 yards (M.Jack).
+11,12,M.Fitzpatrick,Minkah Fitzpatrick,PIT,S,21.48,96,int,1,0,2019,REG,9,2019110306,1401,2,02:36,"(2:36) (Shotgun) B.Hoyer pass deep middle intended for J.Doyle INTERCEPTED by M.Fitzpatrick [C.Heyward] at PIT 4. M.Fitzpatrick for 96 yards, TOUCHDOWN."
+12,13,T.Cohen,Tarik Cohen,CHI,RB,21.42,71,punt ret,0,0,2019,REG,5,2019100605,2704,3,01:58,"(1:58) (Punt formation) A.Cole punts 43 yards to CHI 13, Center-T.Sieg. T.Cohen to OAK 16 for 71 yards (K.Nixon)."
+13,14,D.Jackson,DeSean Jackson,PHI,WR,21.4,51,reception,1,0,2019,REG,1,2019090806,1496,2,04:27,"(4:27) (Shotgun) C.Wentz pass deep middle to D.Jackson for 51 yards, TOUCHDOWN."
+14,15,R.Foster,Robert Foster,BUF,WR,21.4,24,reception,0,0,2019,REG,12,2019112401,2106,3,14:17,"(14:17) (Shotgun) J.Allen pass short right to R.Foster pushed ob at DEN 36 for 24 yards (J.Simmons). BUF-R.Foster was injured during the play. His return is Questionable.  Caught at BUF 41, crossing from middle. R.Foster assisted off."
+15,16,L.Fournette,Leonard Fournette,JAX,RB,21.38,20,rush,0,0,2019,REG,7,2019102002,914,2,15:00,(15:00) L.Fournette left end pushed ob at CIN 43 for 20 yards (J.Bates III).
+16,17,S.Watkins,Sammy Watkins,KC,WR,21.33,68,reception,1,0,2019,REG,1,2019090802,103,1,13:36,"(13:36) (Shotgun) P.Mahomes pass short middle to S.Watkins for 68 yards, TOUCHDOWN."
+17,18,W.Jackson,William Jackson,CIN,CB,21.33,19,int,0,0,2019,REG,2,2019091501,1098,2,14:15,(14:15) J.Garoppolo pass deep left intended for R.James Jr. INTERCEPTED by W.Jackson III at SF 45. W.Jackson III pushed ob at SF 26 for 19 yards (G.Kittle).
+18,19,T.Hill,Tyreek Hill,KC,WR,21.33,11,reception,1,0,2019,REG,10,2019111007,2491,3,06:59,"(6:59) (Shotgun) P.Mahomes pass short left to T.Hill for 11 yards, TOUCHDOWN."
+19,20,T.Davis,Trevor Davis,OAK,WR,21.31,60,rush,1,0,2019,REG,4,2019092905,429,1,08:13,"(8:13) T.Davis left end for 60 yards, TOUCHDOWN."
